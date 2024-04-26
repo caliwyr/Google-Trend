@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-04-2024 , 22:40:25",
+  "lastUpdate": "26-04-2024 , 22:49:56",
   "data": [
+    [
+      {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#LaLiga",
+        "pubdate": "Sat, 27 Apr 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sundowns",
@@ -17,6 +24,20 @@
     ],
     [
       {
+        "title": "CAF Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CAF%20Champions%20League",
+        "pubdate": "Fri, 26 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid",
+        "pubdate": "Fri, 26 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Feyenoord",
         "pubdate": "Fri, 26 Apr 2024 15:00:00 +0200"
@@ -24,16 +45,9 @@
     ],
     [
       {
-        "title": "Manchester City fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20City%20fc",
+        "title": "Manchester City FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20City%20FC",
         "pubdate": "Fri, 26 Apr 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
-        "pubdate": "Fri, 26 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Al Ahly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Ahly",
-        "pubdate": "Fri, 26 Apr 2024 20:00:00 +0200"
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lakers",
+        "pubdate": "Fri, 26 Apr 2024 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Lakers",
-        "pubdate": "Fri, 26 Apr 2024 08:00:00 +0200"
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
+        "pubdate": "Fri, 26 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -83,6 +97,13 @@
         "title": "Al Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Hilal",
         "pubdate": "Fri, 26 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "QPR vs Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#QPR%20vs%20Leeds%20United",
+        "pubdate": "Fri, 26 Apr 2024 22:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Brighton vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20vs%20Man%20City",
         "pubdate": "Thu, 25 Apr 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RCB vs SRH",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#RCB%20vs%20SRH",
-        "pubdate": "Thu, 25 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSV",
-        "pubdate": "Thu, 25 Apr 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Harvey Weinstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Harvey%20Weinstein",
-        "pubdate": "Thu, 25 Apr 2024 20:00:00 +0200"
       }
     ]
   ]
