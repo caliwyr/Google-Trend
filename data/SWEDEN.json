@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-04-2024 , 09:47:33",
+  "lastUpdate": "26-04-2024 , 09:56:47",
   "data": [
+    [
+      {
+        "title": "Gärahovs Bygg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#G%C3%A4rahovs%20Bygg",
+        "pubdate": "Fri, 26 Apr 2024 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Man City",
@@ -59,9 +66,16 @@
     ],
     [
       {
-        "title": "Gais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
+        "title": "GAIS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GAIS",
         "pubdate": "Thu, 25 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Norrköping mot elfsborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Norrk%C3%B6ping%20mot%20elfsborg",
+        "pubdate": "Thu, 25 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Harvey Weinstein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harvey%20Weinstein",
         "pubdate": "Thu, 25 Apr 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Norrköping mot elfsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Norrk%C3%B6ping%20mot%20elfsborg",
-        "pubdate": "Thu, 25 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Fallout 4 next-gen update",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fallout%204%20next-gen%20update",
-        "pubdate": "Thu, 25 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Adrian Newey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Adrian%20Newey",
         "pubdate": "Thu, 25 Apr 2024 23:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Elfsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
-        "pubdate": "Thu, 25 Apr 2024 21:00:00 +0200"
+        "title": "Fallout 4 next-gen update",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fallout%204%20next-gen%20update",
+        "pubdate": "Thu, 25 Apr 2024 16:00:00 +0200"
       }
     ]
   ]
