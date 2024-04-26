@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-04-2024 , 10:41:46",
+  "lastUpdate": "26-04-2024 , 10:51:14",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Sophia Bush",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sophia%20Bush",
         "pubdate": "Fri, 26 Apr 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gisele Bündchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gisele%20B%C3%BCndchen",
+        "pubdate": "Fri, 26 Apr 2024 12:00:00 +0200"
       }
     ],
     [
@@ -87,16 +94,23 @@
     ],
     [
       {
-        "title": "NFL Draft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NFL%20Draft",
+        "title": "Pedro Sanchez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pedro%20Sanchez",
+        "pubdate": "Thu, 25 Apr 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NFL-Draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NFL-Draft",
         "pubdate": "Thu, 25 Apr 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Pedro Sanchez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pedro%20Sanchez",
-        "pubdate": "Thu, 25 Apr 2024 08:00:00 +0200"
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nadal",
+        "pubdate": "Thu, 25 Apr 2024 19:00:00 +0200"
       }
     ],
     [
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "ZSC Lausanne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZSC%20Lausanne",
-        "pubdate": "Thu, 25 Apr 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Adrian Newey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Adrian%20Newey",
-        "pubdate": "Thu, 25 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rafael%20Nadal",
         "pubdate": "Thu, 25 Apr 2024 20:00:00 +0200"
       }
     ]
