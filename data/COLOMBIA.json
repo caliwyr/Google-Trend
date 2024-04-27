@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2024 , 02:44:13",
+  "lastUpdate": "27-04-2024 , 02:53:32",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#La%20Liga",
+        "pubdate": "Fri, 26 Apr 2024 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "General Motors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#General%20Motors",
         "pubdate": "Fri, 26 Apr 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Medellin vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Medellin%20vs",
+        "pubdate": "Fri, 26 Apr 2024 21:00:00 -0500"
       }
     ],
     [
@@ -59,9 +73,16 @@
     ],
     [
       {
-        "title": "Al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Al%20Hilal",
-        "pubdate": "Fri, 26 Apr 2024 12:00:00 -0500"
+        "title": "Circuncisión",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Circuncisi%C3%B3n",
+        "pubdate": "Fri, 26 Apr 2024 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Puebla  América",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Puebla%20%20Am%C3%A9rica",
+        "pubdate": "Fri, 26 Apr 2024 21:00:00 -0500"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Copa Sudamericana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20Sudamericana",
-        "pubdate": "Thu, 25 Apr 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Medellín  Defensa y Justicia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Medell%C3%ADn%20%20Defensa%20y%20Justicia",
         "pubdate": "Thu, 25 Apr 2024 21:00:00 -0500"
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Copa Sudamericana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20Sudamericana",
+        "pubdate": "Thu, 25 Apr 2024 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Once Caldas  Fortaleza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Once%20Caldas%20%20Fortaleza",
         "pubdate": "Thu, 25 Apr 2024 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Santa Fe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Santa%20Fe",
-        "pubdate": "Thu, 25 Apr 2024 05:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Millonarios FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Millonarios%20FC",
-        "pubdate": "Thu, 25 Apr 2024 21:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Fluminense",
-        "pubdate": "Thu, 25 Apr 2024 14:00:00 -0500"
       }
     ]
   ]
