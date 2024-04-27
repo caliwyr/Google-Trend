@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2024 , 20:41:53",
+  "lastUpdate": "27-04-2024 , 20:51:27",
   "data": [
     [
       {
@@ -31,9 +31,30 @@
     ],
     [
       {
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nadal",
+        "pubdate": "Sat, 27 Apr 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Championship",
         "pubdate": "Sat, 27 Apr 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bayer%20Leverkusen",
+        "pubdate": "Sat, 27 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leverkusen",
+        "pubdate": "Sat, 27 Apr 2024 21:00:00 +0200"
       }
     ],
     [
@@ -66,16 +87,16 @@
     ],
     [
       {
-        "title": "Bayern  Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bayern%20%20Eintracht%20Frankfurt",
-        "pubdate": "Sat, 27 Apr 2024 17:00:00 +0200"
+        "title": "Aston Villa  Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aston%20Villa%20%20Chelsea",
+        "pubdate": "Sat, 27 Apr 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leverkusen",
-        "pubdate": "Sat, 27 Apr 2024 21:00:00 +0200"
+        "title": "Bayern  Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bayern%20%20Eintracht%20Frankfurt",
+        "pubdate": "Sat, 27 Apr 2024 17:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Alphabet stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alphabet%20stock",
         "pubdate": "Fri, 26 Apr 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BAE Systems",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BAE%20Systems",
-        "pubdate": "Fri, 26 Apr 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Emma Stone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Emma%20Stone",
-        "pubdate": "Fri, 26 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Caleb Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Caleb%20Williams",
-        "pubdate": "Fri, 26 Apr 2024 12:00:00 +0200"
       }
     ]
   ]
