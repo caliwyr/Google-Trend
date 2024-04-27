@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2024 , 04:46:08",
+  "lastUpdate": "27-04-2024 , 04:55:20",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Koningsdag Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koningsdag%20Utrecht",
-        "pubdate": "Fri, 26 Apr 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jong Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Ajax",
         "pubdate": "Fri, 26 Apr 2024 23:00:00 +0200"
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Lilian Marijnissen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lilian%20Marijnissen",
-        "pubdate": "Thu, 25 Apr 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gymshark",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gymshark",
         "pubdate": "Thu, 25 Apr 2024 11:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Heerenveen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
         "pubdate": "Thu, 25 Apr 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Wed, 24 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
+        "pubdate": "Wed, 24 Apr 2024 10:00:00 +0200"
       }
     ]
   ]
