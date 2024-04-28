@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-04-2024 , 23:50:37",
+  "lastUpdate": "27-04-2024 , 23:59:59",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Arne Slot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arne%20Slot",
-        "pubdate": "Fri, 26 Apr 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
         "pubdate": "Fri, 26 Apr 2024 23:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Jihostroj",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jihostroj",
         "pubdate": "Fri, 26 Apr 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arne Slot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arne%20Slot",
+        "pubdate": "Fri, 26 Apr 2024 18:00:00 +0200"
       }
     ]
   ]
