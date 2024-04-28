@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "28-04-2024 , 03:43:46",
+  "lastUpdate": "28-04-2024 , 03:53:15",
   "data": [
-    [
-      {
-        "title": "Al Khaleej vs al-nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Al%20Khaleej%20vs%20al-nassr",
-        "pubdate": "Sun, 28 Apr 2024 01:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Aston Villa vs Chelsea",
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Al Khaleej vs al-nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Al%20Khaleej%20vs%20al-nassr",
+        "pubdate": "Sat, 27 Apr 2024 02:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Juventus vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Juventus%20vs%20Milan",
         "pubdate": "Sat, 27 Apr 2024 23:00:00 +0700"
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Serie B",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Serie%20B",
+        "pubdate": "Sat, 27 Apr 2024 01:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Thomas Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Thomas%20Cup",
         "pubdate": "Sat, 27 Apr 2024 11:00:00 +0700"
@@ -115,9 +122,16 @@
     ],
     [
       {
-        "title": "Serie B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Serie%20B",
-        "pubdate": "Sat, 27 Apr 2024 10:00:00 +0700"
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Championship",
+        "pubdate": "Sat, 27 Apr 2024 09:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Newcastle",
+        "pubdate": "Sat, 27 Apr 2024 20:00:00 +0700"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Leicester",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Leicester",
         "pubdate": "Sat, 27 Apr 2024 12:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Venezia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Venezia",
-        "pubdate": "Sat, 27 Apr 2024 01:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Everton",
-        "pubdate": "Sat, 27 Apr 2024 21:00:00 +0700"
       }
     ]
   ]
