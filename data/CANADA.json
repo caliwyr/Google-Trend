@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2024 , 11:41:33",
+  "lastUpdate": "28-04-2024 , 11:51:11",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Winnipeg Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
+        "pubdate": "Sat, 27 Apr 2024 01:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Leafs Game",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs%20Game",
         "pubdate": "Sat, 27 Apr 2024 17:00:00 -0400"
@@ -66,20 +73,6 @@
     ],
     [
       {
-        "title": "Anyone but You",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anyone%20but%20You",
-        "pubdate": "Sat, 27 Apr 2024 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Man United vs Burnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20United%20vs%20Burnley",
-        "pubdate": "Sat, 27 Apr 2024 11:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Aston Villa vs Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aston%20Villa%20vs%20Chelsea",
         "pubdate": "Sat, 27 Apr 2024 16:00:00 -0400"
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "DC vs MI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#DC%20vs%20MI",
-        "pubdate": "Sat, 27 Apr 2024 08:00:00 -0400"
+        "title": "Man United vs Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20United%20vs%20Burnley",
+        "pubdate": "Sat, 27 Apr 2024 11:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PSG",
         "pubdate": "Sat, 27 Apr 2024 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Celtics",
+        "pubdate": "Sat, 27 Apr 2024 20:00:00 -0400"
       }
     ]
   ]
