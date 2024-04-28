@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "28-04-2024 , 18:41:32",
+  "lastUpdate": "28-04-2024 , 18:50:47",
   "data": [
-    [
-      {
-        "title": "Tottenham  Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tottenham%20%20Arsenal",
-        "pubdate": "Sun, 28 Apr 2024 07:00:00 -0600"
-      }
-    ],
     [
       {
         "title": "Nottingham Forest - Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nottingham%20Forest%20-%20Manchester%20City",
         "pubdate": "Sun, 28 Apr 2024 09:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham  Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tottenham%20%20Arsenal",
+        "pubdate": "Sun, 28 Apr 2024 07:00:00 -0600"
       }
     ],
     [
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Napoli  Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli%20%20Roma",
+        "pubdate": "Sun, 28 Apr 2024 11:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Cádiz  RCD Mallorca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#C%C3%A1diz%20%20RCD%20Mallorca",
         "pubdate": "Sun, 28 Apr 2024 08:00:00 -0600"
@@ -41,13 +48,6 @@
         "title": "PISA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PISA",
         "pubdate": "Sun, 28 Apr 2024 04:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Napoli  Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli%20%20Roma",
-        "pubdate": "Sun, 28 Apr 2024 11:00:00 -0600"
       }
     ],
     [
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "Champions Femenina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Champions%20Femenina",
+        "title": "Champions femenina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Champions%20femenina",
         "pubdate": "Sun, 28 Apr 2024 08:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Justin Bieber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Justin%20Bieber",
+        "pubdate": "Sun, 28 Apr 2024 12:00:00 -0600"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "PSG  Le Havre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PSG%20%20Le%20Havre",
         "pubdate": "Sat, 27 Apr 2024 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "New England  Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#New%20England%20%20Inter%20Miami",
-        "pubdate": "Sat, 27 Apr 2024 18:00:00 -0600"
       }
     ]
   ]
