@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-04-2024 , 19:42:32",
+  "lastUpdate": "28-04-2024 , 19:51:49",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Tottenham  Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tottenham%20%20Arsenal",
         "pubdate": "Sun, 28 Apr 2024 07:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Napoli  Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli%20%20Roma",
+        "pubdate": "Sun, 28 Apr 2024 11:00:00 -0600"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Napoli  Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Napoli%20%20Roma",
-        "pubdate": "Sun, 28 Apr 2024 11:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Cádiz  RCD Mallorca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#C%C3%A1diz%20%20RCD%20Mallorca",
         "pubdate": "Sun, 28 Apr 2024 08:00:00 -0600"
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Bournemouth - Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bournemouth%20-%20Brighton",
+        "title": "Bournemouth  Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Bournemouth%20%20Brighton",
         "pubdate": "Sun, 28 Apr 2024 10:00:00 -0600"
       }
     ],
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "Champions femenina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Champions%20femenina",
-        "pubdate": "Sun, 28 Apr 2024 08:00:00 -0600"
+        "title": "PAOK  AEK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PAOK%20%20AEK",
+        "pubdate": "Sun, 28 Apr 2024 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Mazatlan FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mazatlan%20FC",
+        "pubdate": "Sun, 28 Apr 2024 02:00:00 -0600"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Justin Bieber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Justin%20Bieber",
         "pubdate": "Sun, 28 Apr 2024 12:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Champions femenina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Champions%20femenina",
+        "pubdate": "Sun, 28 Apr 2024 08:00:00 -0600"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Duván Zapata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Duv%C3%A1n%20Zapata",
+        "pubdate": "Sun, 28 Apr 2024 13:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Intocable",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Intocable",
         "pubdate": "Sun, 28 Apr 2024 10:00:00 -0600"
@@ -118,27 +139,6 @@
         "title": "Tigres vs Tijuana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20vs%20Tijuana",
         "pubdate": "Sat, 27 Apr 2024 12:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Pachuca  Mazatlán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pachuca%20%20Mazatl%C3%A1n",
-        "pubdate": "Sat, 27 Apr 2024 16:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Leon FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leon%20FC",
-        "pubdate": "Sat, 27 Apr 2024 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "PSG  Le Havre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PSG%20%20Le%20Havre",
-        "pubdate": "Sat, 27 Apr 2024 13:00:00 -0600"
       }
     ]
   ]
