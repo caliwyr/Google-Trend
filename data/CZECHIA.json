@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-04-2024 , 05:42:38",
+  "lastUpdate": "29-04-2024 , 05:52:07",
   "data": [
+    [
+      {
+        "title": "Sport.cz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sport.cz",
+        "pubdate": "Mon, 29 Apr 2024 07:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Fiorentina – Sassuolo",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Bartošová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barto%C5%A1ov%C3%A1",
-        "pubdate": "Sun, 28 Apr 2024 10:00:00 +0200"
+        "title": "Iveta Bartošová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Iveta%20Barto%C5%A1ov%C3%A1",
+        "pubdate": "Sun, 28 Apr 2024 11:00:00 +0200"
       }
     ],
     [
@@ -59,9 +66,23 @@
     ],
     [
       {
+        "title": "Vedlejší produkt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vedlej%C5%A1%C3%AD%20produkt",
+        "pubdate": "Sun, 28 Apr 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bejlek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bejlek",
         "pubdate": "Sun, 28 Apr 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bartošová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barto%C5%A1ov%C3%A1",
+        "pubdate": "Sun, 28 Apr 2024 10:00:00 +0200"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Boston Bruins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boston%20Bruins",
-        "pubdate": "Sun, 28 Apr 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pražský Majáles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pra%C5%BEsk%C3%BD%20Maj%C3%A1les",
         "pubdate": "Sun, 28 Apr 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Atlético Madrid – Bilbao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Bilbao",
-        "pubdate": "Sun, 28 Apr 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "This War of Mine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#This%20War%20of%20Mine",
-        "pubdate": "Sun, 28 Apr 2024 09:00:00 +0200"
       }
     ]
   ]
