@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "29-04-2024 , 06:40:03",
+  "lastUpdate": "29-04-2024 , 06:49:17",
   "data": [
     [
       {
         "title": "Knicks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
         "pubdate": "Sun, 28 Apr 2024 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Timberwolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Timberwolves",
+        "pubdate": "Sun, 28 Apr 2024 22:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Suns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
+        "pubdate": "Sun, 28 Apr 2024 22:00:00 -0700"
       }
     ],
     [
@@ -20,20 +34,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
         "pubdate": "Sun, 28 Apr 2024 07:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
-        "pubdate": "Sun, 28 Apr 2024 22:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Tank Dell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tank%20Dell",
-        "pubdate": "Sun, 28 Apr 2024 14:00:00 -0700"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Bucks vs Pacers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks%20vs%20Pacers",
         "pubdate": "Sun, 28 Apr 2024 19:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Suns vs Timberwolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns%20vs%20Timberwolves",
-        "pubdate": "Sun, 28 Apr 2024 22:00:00 -0700"
       }
     ],
     [
@@ -115,6 +108,20 @@
     ],
     [
       {
+        "title": "Draft grades 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Draft%20grades%202024",
+        "pubdate": "Sun, 28 Apr 2024 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Chris Finch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chris%20Finch",
+        "pubdate": "Sun, 28 Apr 2024 23:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
         "pubdate": "Sat, 27 Apr 2024 18:00:00 -0700"
@@ -132,13 +139,6 @@
         "title": "Brenden Rice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Brenden%20Rice",
         "pubdate": "Sat, 27 Apr 2024 09:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Colin Jost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colin%20Jost",
-        "pubdate": "Sat, 27 Apr 2024 20:00:00 -0700"
       }
     ]
   ]
