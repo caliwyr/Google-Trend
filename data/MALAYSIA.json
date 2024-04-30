@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-04-2024 , 09:44:36",
+  "lastUpdate": "30-04-2024 , 09:53:47",
   "data": [
     [
       {
         "title": "UCL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UCL",
         "pubdate": "Tue, 30 Apr 2024 06:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Asian Cup U23",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Asian%20Cup%20U23",
+        "pubdate": "Tue, 30 Apr 2024 00:00:00 +0800"
       }
     ],
     [
@@ -17,23 +24,9 @@
     ],
     [
       {
-        "title": "Asian Cup U23",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Asian%20Cup%20U23",
-        "pubdate": "Tue, 30 Apr 2024 03:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Barcelona",
         "pubdate": "Tue, 30 Apr 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Peugeot 408",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Peugeot%20408",
-        "pubdate": "Tue, 30 Apr 2024 01:00:00 +0800"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Peugeot 408",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Peugeot%20408",
+        "pubdate": "Tue, 30 Apr 2024 01:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Indonesia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Indonesia",
         "pubdate": "Tue, 30 Apr 2024 02:00:00 +0800"
@@ -59,23 +59,9 @@
     ],
     [
       {
-        "title": "Uzbekistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Uzbekistan",
-        "pubdate": "Tue, 30 Apr 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UEFA",
         "pubdate": "Tue, 30 Apr 2024 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "U23",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#U23",
-        "pubdate": "Tue, 30 Apr 2024 00:00:00 +0800"
       }
     ],
     [
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Infinix GT 20 Pro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Infinix%20GT%2020%20Pro",
+        "pubdate": "Mon, 29 Apr 2024 21:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "AstraZeneca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#AstraZeneca",
         "pubdate": "Mon, 29 Apr 2024 21:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Thiago Silva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Thiago%20Silva",
         "pubdate": "Mon, 29 Apr 2024 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Kapar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Kapar",
+        "pubdate": "Mon, 29 Apr 2024 13:00:00 +0800"
       }
     ]
   ]
