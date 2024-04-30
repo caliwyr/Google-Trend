@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-04-2024 , 23:44:02",
+  "lastUpdate": "30-04-2024 , 23:53:34",
   "data": [
+    [
+      {
+        "title": "Final da Taça de Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Final%20da%20Ta%C3%A7a%20de%20Portugal",
+        "pubdate": "Wed, 01 May 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nadal",
-        "pubdate": "Tue, 30 Apr 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Al-Ittihad  Al-Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Ittihad%20%20Al-Hilal",
         "pubdate": "Tue, 30 Apr 2024 19:00:00 +0100"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Sandra Felgueiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sandra%20Felgueiras",
-        "pubdate": "Tue, 30 Apr 2024 11:00:00 +0100"
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nadal",
+        "pubdate": "Tue, 30 Apr 2024 00:00:00 +0100"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Paços de Ferreira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pa%C3%A7os%20de%20Ferreira",
         "pubdate": "Tue, 30 Apr 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rafael%20Nadal",
+        "pubdate": "Tue, 30 Apr 2024 01:00:00 +0100"
       }
     ],
     [
@@ -108,22 +115,8 @@
     ],
     [
       {
-        "title": "Toni Kroos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Toni%20Kroos",
-        "pubdate": "Tue, 30 Apr 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cupra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cupra",
-        "pubdate": "Tue, 30 Apr 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Madonna",
+        "title": "Fernando Daniel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Daniel",
         "pubdate": "Tue, 30 Apr 2024 22:00:00 +0100"
       }
     ],
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Fernando Daniel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Daniel",
+        "title": "Toni Kroos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Toni%20Kroos",
+        "pubdate": "Tue, 30 Apr 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Madonna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Madonna",
         "pubdate": "Tue, 30 Apr 2024 22:00:00 +0100"
       }
     ]
