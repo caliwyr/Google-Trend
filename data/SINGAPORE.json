@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-04-2024 , 18:42:18",
+  "lastUpdate": "30-04-2024 , 18:51:08",
   "data": [
     [
       {
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "T20 World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#T20%20World%20Cup",
-        "pubdate": "Tue, 30 Apr 2024 08:00:00 +0800"
+        "title": "AstraZeneca Covid vaccine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AstraZeneca%20Covid%20vaccine",
+        "pubdate": "Tue, 30 Apr 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UEFA%20Champions%20League",
+        "pubdate": "Tue, 30 Apr 2024 07:00:00 +0800"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "AstraZeneca Covid vaccine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AstraZeneca%20Covid%20vaccine",
-        "pubdate": "Tue, 30 Apr 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Gong Cha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gong%20Cha",
         "pubdate": "Tue, 30 Apr 2024 15:00:00 +0800"
@@ -97,6 +97,13 @@
         "title": "Mufasa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mufasa",
         "pubdate": "Tue, 30 Apr 2024 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "T20 World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#T20%20World%20Cup",
+        "pubdate": "Tue, 30 Apr 2024 23:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Labour Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Labour%20Day",
         "pubdate": "Mon, 29 Apr 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Prajwal Revanna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Prajwal%20Revanna",
-        "pubdate": "Mon, 29 Apr 2024 20:00:00 +0800"
       }
     ]
   ]
