@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-04-2024 , 00:00:03",
+  "lastUpdate": "30-04-2024 , 01:20:20",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UCL",
+        "pubdate": "Tue, 30 Apr 2024 10:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Francis Ngannou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Francis%20Ngannou",
         "pubdate": "Tue, 30 Apr 2024 08:00:00 +1000"
@@ -27,6 +34,20 @@
         "title": "Classroom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Classroom",
         "pubdate": "Tue, 30 Apr 2024 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Boolaroo stabbing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boolaroo%20stabbing",
+        "pubdate": "Tue, 30 Apr 2024 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Darren Cheeseman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Darren%20Cheeseman",
+        "pubdate": "Tue, 30 Apr 2024 10:00:00 +1000"
       }
     ],
     [
@@ -80,13 +101,6 @@
     ],
     [
       {
-        "title": "Boolaroo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boolaroo",
-        "pubdate": "Mon, 29 Apr 2024 21:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Anthony Albanese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anthony%20Albanese",
         "pubdate": "Mon, 29 Apr 2024 13:00:00 +1000"
@@ -125,20 +139,6 @@
         "title": "Interest rates Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Interest%20rates%20Australia",
         "pubdate": "Mon, 29 Apr 2024 15:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Bradley Beal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bradley%20Beal",
-        "pubdate": "Mon, 29 Apr 2024 15:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Vietnam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Vietnam",
-        "pubdate": "Mon, 29 Apr 2024 18:00:00 +1000"
       }
     ]
   ]
