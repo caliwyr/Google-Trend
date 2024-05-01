@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2024 , 23:50:23",
+  "lastUpdate": "01-05-2024 , 23:59:35",
   "data": [
     [
       {
@@ -31,8 +31,36 @@
     ],
     [
       {
+        "title": "5/1勞動節",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#5/1%E5%8B%9E%E5%8B%95%E7%AF%80",
+        "pubdate": "Wed, 01 May 2024 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "51勞動節",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#51%E5%8B%9E%E5%8B%95%E7%AF%80",
+        "pubdate": "Wed, 01 May 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "陳耀祥",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E8%80%80%E7%A5%A5",
+        "pubdate": "Wed, 01 May 2024 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Fed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Fed",
+        "pubdate": "Wed, 01 May 2024 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "窄基指數",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%AA%84%E5%9F%BA%E6%8C%87%E6%95%B8",
         "pubdate": "Wed, 01 May 2024 14:00:00 +0800"
       }
     ],
@@ -45,37 +73,9 @@
     ],
     [
       {
-        "title": "窄基指數",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%AA%84%E5%9F%BA%E6%8C%87%E6%95%B8",
-        "pubdate": "Wed, 01 May 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "PLG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#PLG",
         "pubdate": "Wed, 01 May 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Fed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Fed",
-        "pubdate": "Wed, 01 May 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "媽祖",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AA%BD%E7%A5%96",
-        "pubdate": "Wed, 01 May 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "美超微",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%BE%8E%E8%B6%85%E5%BE%AE",
-        "pubdate": "Wed, 01 May 2024 10:00:00 +0800"
       }
     ],
     [
@@ -87,8 +87,8 @@
     ],
     [
       {
-        "title": "張書偉",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BC%B5%E6%9B%B8%E5%81%89",
+        "title": "媽祖",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AA%BD%E7%A5%96",
         "pubdate": "Wed, 01 May 2024 09:00:00 +0800"
       }
     ],
@@ -101,23 +101,9 @@
     ],
     [
       {
-        "title": "FRIDAYS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#FRIDAYS",
-        "pubdate": "Wed, 01 May 2024 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "NCC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#NCC",
         "pubdate": "Wed, 01 May 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "勞工節",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8B%9E%E5%B7%A5%E7%AF%80",
-        "pubdate": "Wed, 01 May 2024 00:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "雷達",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9B%B7%E9%81%94",
         "pubdate": "Wed, 01 May 2024 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "公鹿",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%85%AC%E9%B9%BF",
+        "pubdate": "Wed, 01 May 2024 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "BTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#BTC",
+        "pubdate": "Wed, 01 May 2024 18:00:00 +0800"
       }
     ]
   ]
