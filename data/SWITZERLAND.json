@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2024 , 20:46:28",
+  "lastUpdate": "01-05-2024 , 20:55:42",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Fed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fed",
+        "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Marc Crawford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marc%20Crawford",
         "pubdate": "Wed, 01 May 2024 00:00:00 +0200"
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Paul Auster gestorben",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paul%20Auster%20gestorben",
-        "pubdate": "Wed, 01 May 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kandern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kandern",
         "pubdate": "Wed, 01 May 2024 18:00:00 +0200"
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "McDonald's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#McDonald's",
-        "pubdate": "Wed, 01 May 2024 20:00:00 +0200"
+        "title": "Paul Auster gestorben",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paul%20Auster%20gestorben",
+        "pubdate": "Wed, 01 May 2024 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "1. Mai Basel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#1.%20Mai%20Basel",
-        "pubdate": "Wed, 01 May 2024 10:00:00 +0200"
+        "title": "Adriana Karembeu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Adriana%20Karembeu",
+        "pubdate": "Wed, 01 May 2024 22:00:00 +0200"
       }
     ],
     [
@@ -94,9 +94,16 @@
     ],
     [
       {
-        "title": "Fed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fed",
-        "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
+        "title": "1. Mai Basel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#1.%20Mai%20Basel",
+        "pubdate": "Wed, 01 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gagnant EuroMillions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gagnant%20EuroMillions",
+        "pubdate": "Wed, 01 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Gagnant EuroMillions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gagnant%20EuroMillions",
-        "pubdate": "Wed, 01 May 2024 20:00:00 +0200"
+        "title": "Anna Netrebko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anna%20Netrebko",
+        "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Amazon-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Amazon-Aktie",
         "pubdate": "Wed, 01 May 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anna Netrebko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anna%20Netrebko",
-        "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
       }
     ]
   ]
