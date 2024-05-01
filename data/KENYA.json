@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2024 , 00:45:42",
+  "lastUpdate": "01-05-2024 , 01:45:52",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Ngara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ngara",
+        "pubdate": "Tue, 30 Apr 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Labour Day 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Labour%20Day%202024",
         "pubdate": "Tue, 30 Apr 2024 20:00:00 +0300"
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Japanese yen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Japanese%20yen",
+        "pubdate": "Mon, 29 Apr 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Thiago Silva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Thiago%20Silva",
         "pubdate": "Mon, 29 Apr 2024 18:00:00 +0300"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Citizen news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Citizen%20news",
-        "pubdate": "Mon, 29 Apr 2024 14:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Justin Bieber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Justin%20Bieber",
         "pubdate": "Mon, 29 Apr 2024 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Japanese yen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Japanese%20yen",
-        "pubdate": "Mon, 29 Apr 2024 22:00:00 +0300"
       }
     ]
   ]
