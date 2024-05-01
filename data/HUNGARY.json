@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2024 , 05:49:47",
+  "lastUpdate": "01-05-2024 , 05:59:04",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dortmund",
         "pubdate": "Wed, 01 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eurowag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eurowag",
+        "pubdate": "Wed, 01 May 2024 07:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Gy. Németh Erzsébet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gy.%20N%C3%A9meth%20Erzs%C3%A9bet",
+        "pubdate": "Tue, 30 Apr 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Manuel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manuel",
         "pubdate": "Tue, 30 Apr 2024 21:00:00 +0200"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Gy. Németh Erzsébet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gy.%20N%C3%A9meth%20Erzs%C3%A9bet",
-        "pubdate": "Tue, 30 Apr 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Milli Vanilli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Milli%20Vanilli",
         "pubdate": "Tue, 30 Apr 2024 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barca",
         "pubdate": "Tue, 30 Apr 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adrian Newey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Adrian%20Newey",
-        "pubdate": "Tue, 30 Apr 2024 19:00:00 +0200"
       }
     ]
   ]
