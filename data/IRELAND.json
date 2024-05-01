@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2024 , 07:45:50",
+  "lastUpdate": "01-05-2024 , 07:55:00",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Kieran McKenna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kieran%20McKenna",
         "pubdate": "Wed, 01 May 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kendrick Lamar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kendrick%20Lamar",
+        "pubdate": "Wed, 01 May 2024 08:00:00 +0100"
       }
     ],
     [
@@ -87,15 +94,8 @@
     ],
     [
       {
-        "title": "Punchestown Festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Punchestown%20Festival",
-        "pubdate": "Tue, 30 Apr 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AstraZeneca COVID vaccine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#AstraZeneca%20COVID%20vaccine",
+        "title": "AstraZeneca Covid vaccine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#AstraZeneca%20Covid%20vaccine",
         "pubdate": "Tue, 30 Apr 2024 01:00:00 +0100"
       }
     ],
