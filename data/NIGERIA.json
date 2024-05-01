@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-05-2024 , 21:49:54",
+  "lastUpdate": "01-05-2024 , 21:59:18",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Liverpool vs Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Chelsea",
         "pubdate": "Wed, 01 May 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ucl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ucl",
+        "pubdate": "Wed, 01 May 2024 18:00:00 +0100"
       }
     ],
     [
@@ -80,9 +87,16 @@
     ],
     [
       {
-        "title": "New minimum wage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#New%20minimum%20wage",
-        "pubdate": "Wed, 01 May 2024 21:00:00 +0100"
+        "title": "Fuel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fuel",
+        "pubdate": "Wed, 01 May 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund%20vs%20PSG",
+        "pubdate": "Tue, 30 Apr 2024 21:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Ipswich Town",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Ipswich%20Town",
         "pubdate": "Tue, 30 Apr 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Musiala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Musiala",
-        "pubdate": "Tue, 30 Apr 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#UEFA",
-        "pubdate": "Tue, 30 Apr 2024 20:00:00 +0100"
       }
     ]
   ]
