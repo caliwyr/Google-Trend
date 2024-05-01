@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "01-05-2024 , 16:50:32",
+  "lastUpdate": "01-05-2024 , 16:59:42",
   "data": [
-    [
-      {
-        "title": "AMD stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AMD%20stock",
-        "pubdate": "Wed, 01 May 2024 05:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "UCLA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UCLA",
         "pubdate": "Wed, 01 May 2024 04:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "AMD stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AMD%20stock",
+        "pubdate": "Wed, 01 May 2024 05:00:00 -0700"
       }
     ],
     [
@@ -31,16 +31,9 @@
     ],
     [
       {
-        "title": "Paul Auster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Paul%20Auster",
-        "pubdate": "Wed, 01 May 2024 07:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Kendrick Lamar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kendrick%20Lamar",
-        "pubdate": "Tue, 30 Apr 2024 11:00:00 -0700"
+        "title": "Marijuana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marijuana",
+        "pubdate": "Wed, 01 May 2024 09:00:00 -0700"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Knicks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
         "pubdate": "Tue, 30 Apr 2024 20:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Kendrick Lamar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kendrick%20Lamar",
+        "pubdate": "Tue, 30 Apr 2024 11:00:00 -0700"
       }
     ],
     [
@@ -66,16 +66,9 @@
     ],
     [
       {
-        "title": "76ers vs Knicks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#76ers%20vs%20Knicks",
-        "pubdate": "Tue, 30 Apr 2024 20:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Cavs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cavs",
-        "pubdate": "Tue, 30 Apr 2024 19:00:00 -0700"
+        "title": "Barbra Streisand Melissa McCarthy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barbra%20Streisand%20Melissa%20McCarthy",
+        "pubdate": "Tue, 30 Apr 2024 14:00:00 -0700"
       }
     ],
     [
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Barbra Streisand Melissa McCarthy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barbra%20Streisand%20Melissa%20McCarthy",
-        "pubdate": "Tue, 30 Apr 2024 14:00:00 -0700"
+        "title": "Orlando Magic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Orlando%20Magic",
+        "pubdate": "Tue, 30 Apr 2024 19:00:00 -0700"
       }
     ],
     [
@@ -108,6 +101,13 @@
     ],
     [
       {
+        "title": "Knicks vs 76ers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks%20vs%2076ers",
+        "pubdate": "Tue, 30 Apr 2024 20:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Boston Bruins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Boston%20Bruins",
         "pubdate": "Tue, 30 Apr 2024 20:00:00 -0700"
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Rob Marciano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rob%20Marciano",
-        "pubdate": "Tue, 30 Apr 2024 18:00:00 -0700"
+        "title": "May Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#May%20Day",
+        "pubdate": "Tue, 30 Apr 2024 22:00:00 -0700"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "May Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#May%20Day",
-        "pubdate": "Tue, 30 Apr 2024 22:00:00 -0700"
+        "title": "Joel Embiid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joel%20Embiid",
+        "pubdate": "Tue, 30 Apr 2024 20:00:00 -0700"
       }
     ]
   ]
