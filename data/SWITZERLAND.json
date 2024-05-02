@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-05-2024 , 23:47:40",
+  "lastUpdate": "02-05-2024 , 23:57:05",
   "data": [
+    [
+      {
+        "title": "Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marseille",
+        "pubdate": "Fri, 03 May 2024 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Nicholas Galitzine",
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aston%20Villa",
+        "pubdate": "Thu, 02 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Flawil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Flawil",
         "pubdate": "Thu, 02 May 2024 19:00:00 +0200"
@@ -90,13 +104,6 @@
         "title": "Couple belge disparu a Tenerife",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Couple%20belge%20disparu%20a%20Tenerife",
         "pubdate": "Thu, 02 May 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aston%20Villa",
-        "pubdate": "Thu, 02 May 2024 22:00:00 +0200"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Jan Delay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jan%20Delay",
-        "pubdate": "Thu, 02 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gianna Nannini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gianna%20Nannini",
         "pubdate": "Thu, 02 May 2024 20:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Spital Wetzikon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Spital%20Wetzikon",
-        "pubdate": "Thu, 02 May 2024 17:00:00 +0200"
+        "title": "Jan Delay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jan%20Delay",
+        "pubdate": "Thu, 02 May 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Isild Le Besco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Isild%20Le%20Besco",
-        "pubdate": "Thu, 02 May 2024 21:00:00 +0200"
+        "title": "Spital Wetzikon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Spital%20Wetzikon",
+        "pubdate": "Thu, 02 May 2024 17:00:00 +0200"
       }
     ]
   ]
