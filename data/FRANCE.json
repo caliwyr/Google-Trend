@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-05-2024 , 01:20:21",
+  "lastUpdate": "02-05-2024 , 02:02:13",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Glucksmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Glucksmann",
         "pubdate": "Wed, 01 May 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Burger King",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Burger%20King",
+        "pubdate": "Wed, 01 May 2024 16:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Viggo Mortensen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Viggo%20Mortensen",
+        "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bellingham",
         "pubdate": "Wed, 01 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dembele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dembele",
-        "pubdate": "Wed, 01 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lucas Hernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lucas%20Hernandez",
-        "pubdate": "Wed, 01 May 2024 22:00:00 +0200"
       }
     ]
   ]
