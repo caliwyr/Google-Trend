@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-05-2024 , 07:41:17",
+  "lastUpdate": "02-05-2024 , 07:50:35",
   "data": [
     [
       {
@@ -38,20 +38,6 @@
     ],
     [
       {
-        "title": "Columbia University",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Columbia%20University",
-        "pubdate": "Wed, 01 May 2024 05:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Meena Alexander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Meena%20Alexander",
-        "pubdate": "Wed, 01 May 2024 06:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Dallas Stars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Stars",
         "pubdate": "Wed, 01 May 2024 22:00:00 -0400"
@@ -69,6 +55,13 @@
         "title": "Carolina Hurricanes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carolina%20Hurricanes",
         "pubdate": "Wed, 01 May 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Columbia University",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Columbia%20University",
+        "pubdate": "Wed, 01 May 2024 05:00:00 -0400"
       }
     ],
     [
@@ -108,6 +101,13 @@
     ],
     [
       {
+        "title": "UCLA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UCLA",
+        "pubdate": "Wed, 01 May 2024 11:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "PWHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#PWHL",
         "pubdate": "Wed, 01 May 2024 10:00:00 -0400"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Tyler Black",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tyler%20Black",
-        "pubdate": "Wed, 01 May 2024 09:00:00 -0400"
+        "title": "Harvey Weinstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Harvey%20Weinstein",
+        "pubdate": "Wed, 01 May 2024 18:00:00 -0400"
       }
     ]
   ]
