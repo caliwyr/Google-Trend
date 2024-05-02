@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-05-2024 , 06:45:15",
+  "lastUpdate": "02-05-2024 , 06:54:39",
   "data": [
     [
       {
         "title": "Arvid Mæland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arvid%20M%C3%A6land",
         "pubdate": "Thu, 02 May 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kompani Lauritzen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kompani%20Lauritzen",
+        "pubdate": "Thu, 02 May 2024 08:00:00 +0200"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dortmund",
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
         "pubdate": "Wed, 01 May 2024 11:00:00 +0200"
       }
     ],
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Mount Everest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mount%20Everest",
+        "pubdate": "Wed, 01 May 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tenacious D",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tenacious%20D",
         "pubdate": "Wed, 01 May 2024 16:00:00 +0200"
@@ -73,8 +87,8 @@
     ],
     [
       {
-        "title": "Mount Everest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mount%20Everest",
+        "title": "Rosenborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
         "pubdate": "Wed, 01 May 2024 18:00:00 +0200"
       }
     ],
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Vålerenga fotball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga%20fotball",
-        "pubdate": "Wed, 01 May 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lysekloster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lysekloster",
         "pubdate": "Wed, 01 May 2024 17:00:00 +0200"
@@ -115,16 +122,9 @@
     ],
     [
       {
-        "title": "Rosenborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
-        "pubdate": "Wed, 01 May 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Grue Halvmaraton 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grue%20Halvmaraton%202024",
-        "pubdate": "Wed, 01 May 2024 10:00:00 +0200"
+        "title": "Vålerenga fotball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga%20fotball",
+        "pubdate": "Wed, 01 May 2024 17:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Extra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Extra",
-        "pubdate": "Wed, 01 May 2024 13:00:00 +0200"
+        "title": "Grue Halvmaraton 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grue%20Halvmaraton%202024",
+        "pubdate": "Wed, 01 May 2024 10:00:00 +0200"
       }
     ]
   ]
