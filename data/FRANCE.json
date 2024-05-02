@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-05-2024 , 11:48:18",
+  "lastUpdate": "02-05-2024 , 11:57:28",
   "data": [
     [
       {
         "title": "Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris",
         "pubdate": "Thu, 02 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kolo Muani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kolo%20Muani",
+        "pubdate": "Thu, 02 May 2024 00:00:00 +0200"
       }
     ],
     [
@@ -47,7 +54,7 @@
       {
         "title": "Lidl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lidl",
-        "pubdate": "Wed, 01 May 2024 13:00:00 +0200"
+        "pubdate": "Wed, 01 May 2024 12:00:00 +0200"
       }
     ],
     [
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Aldi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aldi",
-        "pubdate": "Wed, 01 May 2024 13:00:00 +0200"
+        "title": "Orage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Orage",
+        "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Orage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Orage",
-        "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
+        "title": "Aldi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aldi",
+        "pubdate": "Wed, 01 May 2024 13:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Georgie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Georgie",
         "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Autoire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Autoire",
-        "pubdate": "Wed, 01 May 2024 14:00:00 +0200"
       }
     ]
   ]
