@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-05-2024 , 05:50:01",
+  "lastUpdate": "02-05-2024 , 05:59:33",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Rosenborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
-        "pubdate": "Wed, 01 May 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Astrid Uhrenholdt Jacobsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Astrid%20Uhrenholdt%20Jacobsen",
         "pubdate": "Wed, 01 May 2024 13:00:00 +0200"
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Rosenborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
+        "pubdate": "Wed, 01 May 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Grue Halvmaraton 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grue%20Halvmaraton%202024",
         "pubdate": "Wed, 01 May 2024 10:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Extra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Extra",
-        "pubdate": "Wed, 01 May 2024 13:00:00 +0200"
+        "title": "Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Georgia",
+        "pubdate": "Wed, 01 May 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Georgia",
-        "pubdate": "Wed, 01 May 2024 22:00:00 +0200"
+        "title": "Extra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Extra",
+        "pubdate": "Wed, 01 May 2024 13:00:00 +0200"
       }
     ]
   ]
