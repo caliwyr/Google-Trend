@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-05-2024 , 09:42:51",
+  "lastUpdate": "02-05-2024 , 09:52:05",
   "data": [
+    [
+      {
+        "title": "Mikey Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mikey%20Day",
+        "pubdate": "Thu, 02 May 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Paul Auster",
@@ -132,13 +139,6 @@
         "title": "Eli Lilly stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eli%20Lilly%20stock",
         "pubdate": "Tue, 30 Apr 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jennifer Aniston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jennifer%20Aniston",
-        "pubdate": "Tue, 30 Apr 2024 21:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-05-2024 , 09:42:58",
+  "lastUpdate": "02-05-2024 , 09:52:11",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Cimoszewicz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cimoszewicz",
+        "pubdate": "Thu, 02 May 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cezary Pazura",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cezary%20Pazura",
         "pubdate": "Thu, 02 May 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund vs psg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dortmund%20vs%20psg",
+        "pubdate": "Thu, 02 May 2024 07:00:00 +0200"
       }
     ],
     [
@@ -73,8 +87,8 @@
     ],
     [
       {
-        "title": "Dzien Flagi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzien%20Flagi",
+        "title": "Dzień Flagi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Flagi",
         "pubdate": "Wed, 01 May 2024 12:00:00 +0200"
       }
     ],
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Leszek Miller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Leszek%20Miller",
-        "pubdate": "Wed, 01 May 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jolanta Fraszyńska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jolanta%20Fraszy%C5%84ska",
         "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Ogniem i mieczem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ogniem%20i%20mieczem",
-        "pubdate": "Wed, 01 May 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oda do radości",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Oda%20do%20rado%C5%9Bci",
-        "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
+        "title": "Leszek Miller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Leszek%20Miller",
+        "pubdate": "Wed, 01 May 2024 01:00:00 +0200"
       }
     ]
   ]
