@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-05-2024 , 23:57:04",
+  "lastUpdate": "03-05-2024 , 01:07:33",
   "data": [
     [
       {
         "title": "Chelsea vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea%20vs%20Tottenham",
         "pubdate": "Fri, 03 May 2024 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Europa Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20Conference%20League",
+        "pubdate": "Fri, 03 May 2024 07:00:00 +0800"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Aston%20Villa",
-        "pubdate": "Fri, 03 May 2024 07:00:00 +0800"
+        "title": "AAPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AAPL",
+        "pubdate": "Fri, 03 May 2024 08:00:00 +0800"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "FOMC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FOMC",
+        "pubdate": "Thu, 02 May 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "The Idea of You",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Idea%20of%20You",
         "pubdate": "Thu, 02 May 2024 21:00:00 +0800"
@@ -55,13 +69,6 @@
         "title": "Uma Ramanan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Uma%20Ramanan",
         "pubdate": "Thu, 02 May 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "FOMC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FOMC",
-        "pubdate": "Thu, 02 May 2024 00:00:00 +0800"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Columbia University",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Columbia%20University",
-        "pubdate": "Wed, 01 May 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Kink",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kink",
         "pubdate": "Wed, 01 May 2024 17:00:00 +0800"
       }
     ]
