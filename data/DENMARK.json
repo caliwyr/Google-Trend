@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-05-2024 , 16:49:54",
+  "lastUpdate": "03-05-2024 , 16:59:06",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Britney Spears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Britney%20Spears",
         "pubdate": "Fri, 03 May 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joseph Goebbels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joseph%20Goebbels",
+        "pubdate": "Fri, 03 May 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Shattered Glass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Shattered%20Glass",
+        "pubdate": "Fri, 03 May 2024 17:00:00 +0200"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Chock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chock",
+        "pubdate": "Thu, 02 May 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rocketry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rocketry",
         "pubdate": "Thu, 02 May 2024 12:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "UEFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UEFA",
         "pubdate": "Thu, 02 May 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mikey Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mikey%20Day",
-        "pubdate": "Thu, 02 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paul Auster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Paul%20Auster",
-        "pubdate": "Wed, 01 May 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Novo Nordisk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20Nordisk",
-        "pubdate": "Wed, 01 May 2024 11:00:00 +0200"
       }
     ]
   ]

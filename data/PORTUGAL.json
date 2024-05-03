@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-05-2024 , 16:50:01",
+  "lastUpdate": "03-05-2024 , 16:59:12",
   "data": [
-    [
-      {
-        "title": "Noticias ao Minuto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Noticias%20ao%20Minuto",
-        "pubdate": "Fri, 03 May 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "LinkedIn",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Palmeiras  Botafogo-SP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras%20%20Botafogo-SP",
+        "title": "Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Palmeiras",
         "pubdate": "Fri, 03 May 2024 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Futsal Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futsal%20Champions",
+        "pubdate": "Fri, 03 May 2024 16:00:00 +0100"
       }
     ],
     [
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Orangotango",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Orangotango",
-        "pubdate": "Fri, 03 May 2024 14:00:00 +0100"
+        "title": "Gmail.com",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gmail.com",
+        "pubdate": "Fri, 03 May 2024 01:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Gmail.com",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gmail.com",
-        "pubdate": "Fri, 03 May 2024 01:00:00 +0100"
+        "title": "Dua Lipa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dua%20Lipa",
+        "pubdate": "Fri, 03 May 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Preços combustíveis próxima semana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7os%20combust%C3%ADveis%20pr%C3%B3xima%20semana",
+        "pubdate": "Fri, 03 May 2024 17:00:00 +0100"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "ERA UMA VEZ NA QUINTA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#ERA%20UMA%20VEZ%20NA%20QUINTA",
+        "pubdate": "Thu, 02 May 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Montepio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Montepio",
         "pubdate": "Thu, 02 May 2024 19:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "CTT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CTT",
         "pubdate": "Thu, 02 May 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Santander Totta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santander%20Totta",
-        "pubdate": "Thu, 02 May 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ERA UMA VEZ NA QUINTA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#ERA%20UMA%20VEZ%20NA%20QUINTA",
-        "pubdate": "Thu, 02 May 2024 01:00:00 +0100"
       }
     ]
   ]
