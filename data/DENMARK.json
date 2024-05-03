@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "03-05-2024 , 09:46:09",
+  "lastUpdate": "03-05-2024 , 09:55:22",
   "data": [
     [
       {
         "title": "Apple stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Apple%20stock",
+        "pubdate": "Fri, 03 May 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Britney Spears",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Britney%20Spears",
         "pubdate": "Fri, 03 May 2024 08:00:00 +0200"
       }
     ],
@@ -94,9 +101,23 @@
     ],
     [
       {
+        "title": "ABBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ABBA",
+        "pubdate": "Thu, 02 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Spot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Spot",
         "pubdate": "Thu, 02 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UEFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UEFA",
+        "pubdate": "Thu, 02 May 2024 18:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Novo Nordisk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20Nordisk",
         "pubdate": "Wed, 01 May 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nadal",
-        "pubdate": "Wed, 01 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Parasol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Parasol",
-        "pubdate": "Wed, 01 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ozempic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ozempic",
-        "pubdate": "Wed, 01 May 2024 14:00:00 +0200"
       }
     ]
   ]
