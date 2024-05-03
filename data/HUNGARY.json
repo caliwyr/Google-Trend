@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-05-2024 , 01:07:28",
+  "lastUpdate": "03-05-2024 , 02:02:45",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Roma–leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Roma%E2%80%93leverkusen",
         "pubdate": "Thu, 02 May 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea–tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea%E2%80%93tottenham",
+        "pubdate": "Thu, 02 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Koltai Róbert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Koltai%20R%C3%B3bert",
         "pubdate": "Thu, 02 May 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea",
-        "pubdate": "Thu, 02 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Orosz-ukrán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orosz-ukr%C3%A1n",
+        "title": "Orosz ukrán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orosz%20ukr%C3%A1n",
         "pubdate": "Thu, 02 May 2024 12:00:00 +0200"
       }
     ],
