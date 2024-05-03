@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-05-2024 , 18:39:50",
+  "lastUpdate": "03-05-2024 , 18:49:55",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Dua Lipa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dua%20Lipa",
         "pubdate": "Fri, 03 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Triangle of Sadness",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Triangle%20of%20Sadness",
+        "pubdate": "Fri, 03 May 2024 14:00:00 +0200"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Naxhelet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Naxhelet",
-        "pubdate": "Fri, 03 May 2024 17:00:00 +0200"
+        "title": "F1 Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F1%20Miami",
+        "pubdate": "Fri, 03 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bruges Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bruges%20Fiorentina",
         "pubdate": "Thu, 02 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Umicore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Umicore",
-        "pubdate": "Thu, 02 May 2024 00:00:00 +0200"
       }
     ]
   ]

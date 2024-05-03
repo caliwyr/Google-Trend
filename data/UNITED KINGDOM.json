@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "03-05-2024 , 18:40:01",
+  "lastUpdate": "03-05-2024 , 18:50:04",
   "data": [
-    [
-      {
-        "title": "Election results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Election%20results",
-        "pubdate": "Fri, 03 May 2024 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Gavin and Stacey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Gavin%20and%20Stacey",
         "pubdate": "Fri, 03 May 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ben Houchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ben%20Houchen",
+        "pubdate": "Fri, 03 May 2024 13:00:00 +0100"
       }
     ],
     [
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Ben Houchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ben%20Houchen",
-        "pubdate": "Fri, 03 May 2024 13:00:00 +0100"
+        "title": "London elections 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#London%20elections%202024",
+        "pubdate": "Fri, 03 May 2024 06:00:00 +0100"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Mayoral election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mayoral%20election",
+        "pubdate": "Fri, 03 May 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Marco Reus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Marco%20Reus",
         "pubdate": "Fri, 03 May 2024 16:00:00 +0100"
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "East Midlands Mayor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#East%20Midlands%20Mayor",
+        "title": "East Midlands mayor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#East%20Midlands%20mayor",
         "pubdate": "Fri, 03 May 2024 17:00:00 +0100"
       }
     ],
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "London elections",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#London%20elections",
-        "pubdate": "Fri, 03 May 2024 13:00:00 +0100"
+        "title": "West Midlands mayoral election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#West%20Midlands%20mayoral%20election",
+        "pubdate": "Fri, 03 May 2024 19:00:00 +0100"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Europa%20League",
-        "pubdate": "Thu, 02 May 2024 18:00:00 +0100"
+        "title": "Election results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Election%20results",
+        "pubdate": "Thu, 02 May 2024 17:00:00 +0100"
       }
     ],
     [
@@ -111,6 +118,13 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chelsea",
         "pubdate": "Thu, 02 May 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Europa%20League",
+        "pubdate": "Thu, 02 May 2024 18:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Don Gilet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Don%20Gilet",
         "pubdate": "Thu, 02 May 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The Idea of You",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20Idea%20of%20You",
-        "pubdate": "Thu, 02 May 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Narinder Kaur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Narinder%20Kaur",
-        "pubdate": "Thu, 02 May 2024 15:00:00 +0100"
       }
     ]
   ]
