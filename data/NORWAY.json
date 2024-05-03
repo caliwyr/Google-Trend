@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-05-2024 , 03:45:40",
+  "lastUpdate": "03-05-2024 , 03:54:58",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Kompani Lauritzen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kompani%20Lauritzen",
-        "pubdate": "Thu, 02 May 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Xpeng G6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Xpeng%20G6",
         "pubdate": "Thu, 02 May 2024 12:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Tom Waits-løpet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tom%20Waits-l%C3%B8pet",
         "pubdate": "Thu, 02 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dortmund",
+        "pubdate": "Wed, 01 May 2024 20:00:00 +0200"
       }
     ]
   ]
