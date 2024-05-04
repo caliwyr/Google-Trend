@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-05-2024 , 17:49:06",
+  "lastUpdate": "04-05-2024 , 17:58:24",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Kendrick Lamar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Kendrick%20Lamar",
-        "pubdate": "Sat, 04 May 2024 07:00:00 +0100"
+        "title": "Man City vs Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20City%20vs%20Wolves",
+        "pubdate": "Sat, 04 May 2024 17:00:00 +0100"
       }
     ],
     [
@@ -45,8 +45,22 @@
     ],
     [
       {
+        "title": "Kendrick Lamar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Kendrick%20Lamar",
+        "pubdate": "Sat, 04 May 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Leeds United vs Southampton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds%20United%20vs%20Southampton",
+        "pubdate": "Sat, 04 May 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Birmingham City fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Birmingham%20City%20fc",
         "pubdate": "Sat, 04 May 2024 13:00:00 +0100"
       }
     ],
@@ -62,13 +76,6 @@
         "title": "May the 4th be with you!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#May%20the%204th%20be%20with%20you!",
         "pubdate": "Sat, 04 May 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man City vs Wolves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Man%20City%20vs%20Wolves",
-        "pubdate": "Sat, 04 May 2024 17:00:00 +0100"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "West Brom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#West%20Brom",
-        "pubdate": "Sat, 04 May 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Unfrosted",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Unfrosted",
         "pubdate": "Sat, 04 May 2024 00:00:00 +0100"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Formula%201",
-        "pubdate": "Sat, 04 May 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Brentford vs Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Brentford%20vs%20Fulham",
         "pubdate": "Sat, 04 May 2024 17:00:00 +0100"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Sunderland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sunderland",
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Formula%201",
+        "pubdate": "Sat, 04 May 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Giro d'Italia 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Giro%20d'Italia%202024",
         "pubdate": "Sat, 04 May 2024 15:00:00 +0100"
       }
     ]
