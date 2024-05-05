@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-05-2024 , 08:47:59",
+  "lastUpdate": "05-05-2024 , 08:57:09",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#LaLiga",
+        "pubdate": "Sat, 04 May 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Pereira FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pereira%20FC",
         "pubdate": "Sat, 04 May 2024 17:00:00 -0500"
@@ -132,13 +139,6 @@
         "title": "Real Sociedad  UD Las Palmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Real%20Sociedad%20%20UD%20Las%20Palmas",
         "pubdate": "Sat, 04 May 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Burnley  Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Burnley%20%20Newcastle",
-        "pubdate": "Sat, 04 May 2024 10:00:00 -0500"
       }
     ]
   ]
