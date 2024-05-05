@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-05-2024 , 12:48:28",
+  "lastUpdate": "05-05-2024 , 12:58:50",
   "data": [
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UFC",
+        "pubdate": "Sun, 05 May 2024 08:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Jose Aldo",
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Anthony Edwards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anthony%20Edwards",
-        "pubdate": "Sat, 04 May 2024 20:00:00 -0400"
+        "title": "UFC 301",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UFC%20301",
+        "pubdate": "Sat, 04 May 2024 19:00:00 -0400"
       }
     ],
     [
       {
-        "title": "UFC 301",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UFC%20301",
-        "pubdate": "Sat, 04 May 2024 19:00:00 -0400"
+        "title": "Anthony Edwards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anthony%20Edwards",
+        "pubdate": "Sat, 04 May 2024 20:00:00 -0400"
       }
     ],
     [
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "May the Fourth Be With You",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#May%20the%20Fourth%20Be%20With%20You",
+        "title": "May the fourth be with you",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#May%20the%20fourth%20be%20with%20you",
         "pubdate": "Sat, 04 May 2024 05:00:00 -0400"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arsenal",
         "pubdate": "Sat, 04 May 2024 09:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Money laundering TD Bank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Money%20laundering%20TD%20Bank",
-        "pubdate": "Sat, 04 May 2024 00:00:00 -0400"
       }
     ]
   ]
