@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 16:45:53",
+  "lastUpdate": "06-05-2024 , 16:55:17",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Madonna",
         "pubdate": "Mon, 06 May 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Skrapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Skrapid",
+        "pubdate": "Mon, 06 May 2024 17:00:00 +0200"
       }
     ],
     [
@@ -73,15 +80,15 @@
     ],
     [
       {
-        "title": "SK Rapid Wien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Rapid%20Wien",
-        "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
+        "title": "Europawahl 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Europawahl%202024",
+        "pubdate": "Mon, 06 May 2024 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UFC",
+        "title": "SK Rapid Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Rapid%20Wien",
         "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
       }
     ],
@@ -94,9 +101,23 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UFC",
+        "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rafah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rafah",
         "pubdate": "Mon, 06 May 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "McLaren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#McLaren",
+        "pubdate": "Mon, 06 May 2024 14:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Met Gala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Met%20Gala",
         "pubdate": "Mon, 06 May 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Toto Wolff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Toto%20Wolff",
-        "pubdate": "Mon, 06 May 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EU wahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EU%20wahl",
-        "pubdate": "Mon, 06 May 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sturm Graz gegen Hartberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Graz%20gegen%20Hartberg",
-        "pubdate": "Sun, 05 May 2024 14:00:00 +0200"
       }
     ]
   ]

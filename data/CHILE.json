@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 16:45:55",
+  "lastUpdate": "06-05-2024 , 16:55:18",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Temblor hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
-        "pubdate": "Sun, 05 May 2024 02:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Leverkusen",
         "pubdate": "Sun, 05 May 2024 12:00:00 -0400"
@@ -76,6 +69,13 @@
         "title": "Menotti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Menotti",
         "pubdate": "Sun, 05 May 2024 06:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Temblor hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
+        "pubdate": "Sun, 05 May 2024 02:00:00 -0400"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Met Gala 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Met%20Gala%202024",
-        "pubdate": "Sun, 05 May 2024 18:00:00 -0400"
+        "title": "Temblor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor",
+        "pubdate": "Sun, 05 May 2024 02:00:00 -0400"
       }
     ]
   ]
