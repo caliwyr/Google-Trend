@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-05-2024 , 15:19:25",
+  "lastUpdate": "06-05-2024 , 15:28:45",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Eindhoven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eindhoven",
+        "pubdate": "Mon, 06 May 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Noodweer curacao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noodweer%20curacao",
         "pubdate": "Mon, 06 May 2024 09:00:00 +0200"
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Sun, 05 May 2024 09:00:00 +0200"
+        "title": "Nduja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nduja",
+        "pubdate": "Mon, 06 May 2024 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Sun, 05 May 2024 21:00:00 +0200"
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+        "pubdate": "Sun, 05 May 2024 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Excelsior",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
         "pubdate": "Sun, 05 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Giro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Giro%202024",
-        "pubdate": "Sat, 04 May 2024 16:00:00 +0200"
       }
     ]
   ]
