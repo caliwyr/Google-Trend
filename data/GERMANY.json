@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-05-2024 , 10:51:20",
+  "lastUpdate": "06-05-2024 , 11:00:41",
   "data": [
     [
       {
         "title": "Lando Norris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lando%20Norris",
         "pubdate": "Mon, 06 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Friedrich Merz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Friedrich%20Merz",
+        "pubdate": "Mon, 06 May 2024 10:00:00 +0200"
       }
     ],
     [
@@ -24,15 +31,8 @@
     ],
     [
       {
-        "title": "Holstein Kiel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20Kiel",
-        "pubdate": "Sun, 05 May 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leverkusen Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen%20Frankfurt",
+        "title": "Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
         "pubdate": "Sun, 05 May 2024 19:00:00 +0200"
       }
     ],
@@ -45,23 +45,9 @@
     ],
     [
       {
-        "title": "Preußen Münster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Preu%C3%9Fen%20M%C3%BCnster",
-        "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elversberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elversberg",
-        "pubdate": "Sun, 05 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -73,9 +59,9 @@
     ],
     [
       {
-        "title": "Heidenheim Mainz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidenheim%20Mainz",
-        "pubdate": "Sun, 05 May 2024 21:00:00 +0200"
+        "title": "Elversberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elversberg",
+        "pubdate": "Sun, 05 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -83,6 +69,13 @@
         "title": "Warnung vor starkem Gewitter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Warnung%20vor%20starkem%20Gewitter",
         "pubdate": "Sun, 05 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aorta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aorta",
+        "pubdate": "Sun, 05 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "KSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KSC",
-        "pubdate": "Sat, 04 May 2024 16:00:00 +0200"
+        "title": "Heinz hönig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heinz%20h%C3%B6nig",
+        "pubdate": "Fri, 03 May 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brand Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brand%20Berlin",
+        "pubdate": "Fri, 03 May 2024 14:00:00 +0200"
       }
     ]
   ]
