@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-05-2024 , 02:48:28",
+  "lastUpdate": "06-05-2024 , 02:57:57",
   "data": [
+    [
+      {
+        "title": "Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors",
+        "pubdate": "Mon, 06 May 2024 11:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Bernard Hill",
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Warriors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors",
+        "title": "Knights vs Warriors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Knights%20vs%20Warriors",
         "pubdate": "Sun, 05 May 2024 17:00:00 +1200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City",
         "pubdate": "Sun, 05 May 2024 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "GT vs RCB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GT%20vs%20RCB",
-        "pubdate": "Sun, 05 May 2024 09:00:00 +1200"
       }
     ]
   ]
