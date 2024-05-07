@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "07-05-2024 , 20:47:23",
+  "lastUpdate": "07-05-2024 , 20:58:39",
   "data": [
     [
       {
         "title": "Toti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Toti",
         "pubdate": "Tue, 07 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eurovision 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eurovision%202024",
+        "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#PSG",
+        "pubdate": "Tue, 07 May 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mentana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mentana",
+        "pubdate": "Tue, 07 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -17,23 +38,9 @@
     ],
     [
       {
-        "title": "Psg Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Psg%20Dortmund",
-        "pubdate": "Tue, 07 May 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Napoli",
         "pubdate": "Tue, 07 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jonathan Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jonathan%20Milan",
-        "pubdate": "Tue, 07 May 2024 13:00:00 +0200"
       }
     ],
     [
@@ -45,51 +52,16 @@
     ],
     [
       {
-        "title": "Ventotene",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ventotene",
-        "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Antonello Venditti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Antonello%20Venditti",
-        "pubdate": "Tue, 07 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sesko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sesko",
-        "pubdate": "Tue, 07 May 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fabio Gallia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fabio%20Gallia",
-        "pubdate": "Tue, 07 May 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Daniele Scardina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniele%20Scardina",
-        "pubdate": "Tue, 07 May 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Giuseppe Valditara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giuseppe%20Valditara",
+        "title": "Jonathan Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jonathan%20Milan",
         "pubdate": "Tue, 07 May 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Il SecoloXIX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20SecoloXIX",
-        "pubdate": "Tue, 07 May 2024 12:00:00 +0200"
+        "title": "Ventotene",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ventotene",
+        "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
       }
     ],
     [
@@ -101,34 +73,6 @@
     ],
     [
       {
-        "title": "Agnese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Agnese",
-        "pubdate": "Tue, 07 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Varese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Varese",
-        "pubdate": "Tue, 07 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Denise Pipitone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Denise%20Pipitone",
-        "pubdate": "Tue, 07 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eurovision 2024 dove vederlo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eurovision%202024%20dove%20vederlo",
-        "pubdate": "Tue, 07 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Il truffacuori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20truffacuori",
         "pubdate": "Tue, 07 May 2024 18:00:00 +0200"
@@ -136,9 +80,65 @@
     ],
     [
       {
-        "title": "Eurovision Song Contest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Eurovision%20Song%20Contest",
-        "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
+        "title": "Il SecoloXIX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20SecoloXIX",
+        "pubdate": "Tue, 07 May 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Antonello Venditti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Antonello%20Venditti",
+        "pubdate": "Tue, 07 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paola Ferrari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paola%20Ferrari",
+        "pubdate": "Tue, 07 May 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Roberto Vannacci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roberto%20Vannacci",
+        "pubdate": "Tue, 07 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Daniele Scardina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniele%20Scardina",
+        "pubdate": "Tue, 07 May 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sesko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sesko",
+        "pubdate": "Tue, 07 May 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Giuseppe Valditara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giuseppe%20Valditara",
+        "pubdate": "Tue, 07 May 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Travis Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Travis%20Scott",
+        "pubdate": "Tue, 07 May 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Agnese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Agnese",
+        "pubdate": "Tue, 07 May 2024 20:00:00 +0200"
       }
     ]
   ]
