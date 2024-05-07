@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-05-2024 , 05:41:21",
+  "lastUpdate": "07-05-2024 , 05:50:37",
   "data": [
-    [
-      {
-        "title": "MU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MU",
-        "pubdate": "Tue, 07 May 2024 08:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Bayer Leverkusen",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Rafah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Rafah",
+        "pubdate": "Tue, 07 May 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Crystal Palace vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Crystal%20Palace%20vs%20Man%20United",
         "pubdate": "Mon, 06 May 2024 21:00:00 +0800"
@@ -48,6 +48,13 @@
         "title": "Hail Amir",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Hail%20Amir",
         "pubdate": "Mon, 06 May 2024 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Darsa Fried Chicken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Darsa%20Fried%20Chicken",
+        "pubdate": "Mon, 06 May 2024 02:00:00 +0800"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "DFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#DFC",
-        "pubdate": "Mon, 06 May 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Lando Norris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lando%20Norris",
         "pubdate": "Mon, 06 May 2024 10:00:00 +0800"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Bangladesh vs Zimbabwe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bangladesh%20vs%20Zimbabwe",
-        "pubdate": "Mon, 06 May 2024 01:00:00 +0800"
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Leverkusen",
+        "pubdate": "Mon, 06 May 2024 22:00:00 +0800"
       }
     ]
   ]
