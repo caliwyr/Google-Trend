@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-05-2024 , 11:44:34",
+  "lastUpdate": "07-05-2024 , 11:53:46",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Eindhoven",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eindhoven",
-        "pubdate": "Mon, 06 May 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Sun, 05 May 2024 11:00:00 +0200"
@@ -87,8 +80,8 @@
     ],
     [
       {
-        "title": "FC Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "title": "AZ.  Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ.%20%20Twente",
         "pubdate": "Sun, 05 May 2024 17:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Michael de Leeuw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Michael%20de%20Leeuw",
         "pubdate": "Sat, 04 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dodenherdenking",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dodenherdenking",
+        "pubdate": "Fri, 03 May 2024 12:00:00 +0200"
       }
     ]
   ]
