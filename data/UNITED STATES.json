@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-05-2024 , 08:45:13",
+  "lastUpdate": "08-05-2024 , 08:54:23",
   "data": [
-    [
-      {
-        "title": "Dallas Mavericks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Mavericks",
-        "pubdate": "Tue, 07 May 2024 20:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "Celtics",
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Dallas Mavericks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Mavericks",
+        "pubdate": "Tue, 07 May 2024 20:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Anthony Edwards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anthony%20Edwards",
         "pubdate": "Tue, 07 May 2024 12:00:00 -0700"
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "NHL Draft Lottery 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NHL%20Draft%20Lottery%202024",
-        "pubdate": "Tue, 07 May 2024 16:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Jamal Murray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jamal%20Murray",
         "pubdate": "Tue, 07 May 2024 22:00:00 -0700"
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Drake shooting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Drake%20shooting",
-        "pubdate": "Tue, 07 May 2024 10:00:00 -0700"
+        "title": "NHL Draft Lottery 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NHL%20Draft%20Lottery%202024",
+        "pubdate": "Tue, 07 May 2024 16:00:00 -0700"
       }
     ],
     [
@@ -124,6 +117,13 @@
       {
         "title": "Social Security benefits",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Social%20Security%20benefits",
+        "pubdate": "Tue, 07 May 2024 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Drake shooting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Drake%20shooting",
         "pubdate": "Tue, 07 May 2024 10:00:00 -0700"
       }
     ],
