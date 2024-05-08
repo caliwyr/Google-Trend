@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2024 , 14:47:38",
+  "lastUpdate": "08-05-2024 , 14:57:04",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "OMR Hamburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#OMR%20Hamburg",
+        "pubdate": "Wed, 08 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "OMR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#OMR",
         "pubdate": "Wed, 08 May 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAZN",
+        "pubdate": "Wed, 08 May 2024 16:00:00 +0200"
       }
     ],
     [
@@ -80,16 +94,16 @@
     ],
     [
       {
-        "title": "Kim Kardashian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kim%20Kardashian",
-        "pubdate": "Tue, 07 May 2024 11:00:00 +0200"
+        "title": "Simone Kowalski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Simone%20Kowalski",
+        "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "ESC Halbfinale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ESC%20Halbfinale",
-        "pubdate": "Tue, 07 May 2024 21:00:00 +0200"
+        "title": "Kim Kardashian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kim%20Kardashian",
+        "pubdate": "Tue, 07 May 2024 11:00:00 +0200"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "VfL Osnabrück",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Osnabr%C3%BCck",
+        "pubdate": "Tue, 07 May 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wehrpflicht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wehrpflicht",
         "pubdate": "Tue, 07 May 2024 20:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
         "pubdate": "Mon, 06 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "OMR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#OMR",
-        "pubdate": "Mon, 06 May 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Friedrich Merz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Friedrich%20Merz",
-        "pubdate": "Mon, 06 May 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Christi Himmelfahrt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Christi%20Himmelfahrt",
-        "pubdate": "Mon, 06 May 2024 11:00:00 +0200"
       }
     ]
   ]

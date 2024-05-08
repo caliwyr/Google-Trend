@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2024 , 14:47:43",
+  "lastUpdate": "08-05-2024 , 14:57:10",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Nani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nani",
         "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kto wygrał eurowizję 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kto%20wygra%C5%82%20eurowizj%C4%99%202024",
+        "pubdate": "Wed, 08 May 2024 08:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Jerry Heil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jerry%20Heil",
-        "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Huawei Watch Fit 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Huawei%20Watch%20Fit%203",
         "pubdate": "Wed, 08 May 2024 08:00:00 +0200"
@@ -52,23 +52,9 @@
     ],
     [
       {
-        "title": "Raków Częstochowa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rak%C3%B3w%20Cz%C4%99stochowa",
-        "pubdate": "Wed, 08 May 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trans",
-        "pubdate": "Wed, 08 May 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Blanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Blanka",
-        "pubdate": "Wed, 08 May 2024 09:00:00 +0200"
+        "title": "Jerry Heil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jerry%20Heil",
+        "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
       }
     ],
     [
@@ -80,6 +66,20 @@
     ],
     [
       {
+        "title": "Raków Częstochowa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rak%C3%B3w%20Cz%C4%99stochowa",
+        "pubdate": "Wed, 08 May 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Blanka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Blanka",
+        "pubdate": "Wed, 08 May 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Final Ligi mistrzow 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Final%20Ligi%20mistrzow%202024",
         "pubdate": "Wed, 08 May 2024 09:00:00 +0200"
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Ukraina eurowizja 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ukraina%20eurowizja%202024",
-        "pubdate": "Wed, 08 May 2024 10:00:00 +0200"
+        "title": "Trans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trans",
+        "pubdate": "Wed, 08 May 2024 14:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Artur Orzech",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Artur%20Orzech",
-        "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dzień Bibliotekarza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Bibliotekarza",
         "pubdate": "Wed, 08 May 2024 14:00:00 +0200"
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "ABBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ABBA",
+        "title": "Artur Orzech",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Artur%20Orzech",
         "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
       }
     ],
@@ -138,6 +131,13 @@
       {
         "title": "Eurowizja 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Eurowizja%202024",
+        "pubdate": "Tue, 07 May 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PSG – Borussia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PSG%20%E2%80%93%20Borussia",
         "pubdate": "Tue, 07 May 2024 14:00:00 +0200"
       }
     ]
