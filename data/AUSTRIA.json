@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2024 , 05:43:59",
+  "lastUpdate": "08-05-2024 , 05:53:20",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Matura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Matura",
+        "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Corona impfung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Corona%20impfung",
         "pubdate": "Wed, 08 May 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ian Gelder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ian%20Gelder",
+        "pubdate": "Wed, 08 May 2024 07:00:00 +0200"
       }
     ],
     [
@@ -54,13 +68,6 @@
       {
         "title": "ESC 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ESC%202024",
-        "pubdate": "Tue, 07 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eurovision Song Contest 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eurovision%20Song%20Contest%202024",
         "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
       }
     ],
@@ -69,6 +76,13 @@
         "title": "Beethoven",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Beethoven",
         "pubdate": "Tue, 07 May 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ESC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ESC",
+        "pubdate": "Tue, 07 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "ESC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ESC",
-        "pubdate": "Tue, 07 May 2024 21:00:00 +0200"
+        "title": "Stormy Daniels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stormy%20Daniels",
+        "pubdate": "Tue, 07 May 2024 22:00:00 +0200"
       }
     ],
     [
@@ -108,23 +122,9 @@
     ],
     [
       {
-        "title": "Stormy Daniels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stormy%20Daniels",
-        "pubdate": "Tue, 07 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Baby Lasagna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Baby%20Lasagna",
         "pubdate": "Tue, 07 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Infineon-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Infineon-Aktie",
-        "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Eurovision",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eurovision",
-        "pubdate": "Tue, 07 May 2024 21:00:00 +0200"
+        "title": "Infineon-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Infineon-Aktie",
+        "pubdate": "Tue, 07 May 2024 19:00:00 +0200"
       }
     ]
   ]
