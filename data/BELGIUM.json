@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-05-2024 , 20:40:37",
+  "lastUpdate": "08-05-2024 , 20:49:49",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "AstraZeneca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AstraZeneca",
-        "pubdate": "Wed, 08 May 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bruges",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bruges",
         "pubdate": "Wed, 08 May 2024 20:00:00 +0200"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20League",
-        "pubdate": "Wed, 08 May 2024 20:00:00 +0200"
+        "title": "AstraZeneca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AstraZeneca",
+        "pubdate": "Wed, 08 May 2024 13:00:00 +0200"
       }
     ],
     [
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Baby Lasagna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Baby%20Lasagna",
-        "pubdate": "Wed, 08 May 2024 02:00:00 +0200"
+        "title": "Kortrijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kortrijk",
+        "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kortrijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kortrijk",
-        "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
+        "title": "Baby Lasagna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Baby%20Lasagna",
+        "pubdate": "Wed, 08 May 2024 02:00:00 +0200"
       }
     ],
     [
@@ -108,6 +101,13 @@
     ],
     [
       {
+        "title": "Accident Walibi enfant",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Accident%20Walibi%20enfant",
+        "pubdate": "Wed, 08 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nicole en Hugo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicole%20en%20Hugo",
         "pubdate": "Wed, 08 May 2024 11:00:00 +0200"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Accident Walibi enfant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Accident%20Walibi%20enfant",
-        "pubdate": "Wed, 08 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paris",
         "pubdate": "Wed, 08 May 2024 01:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "8 mai 1945",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#8%20mai%201945",
         "pubdate": "Wed, 08 May 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Schalke 04",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Schalke%2004",
+        "pubdate": "Wed, 08 May 2024 08:00:00 +0200"
       }
     ]
   ]
