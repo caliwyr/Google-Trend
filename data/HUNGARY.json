@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2024 , 04:41:31",
+  "lastUpdate": "09-05-2024 , 04:50:48",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Wednesday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wednesday",
         "pubdate": "Wed, 08 May 2024 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Forbes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forbes",
+        "pubdate": "Wed, 08 May 2024 12:00:00 +0200"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "TheVR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#TheVR",
+        "title": "Bajnai Gordon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bajnai%20Gordon",
         "pubdate": "Wed, 08 May 2024 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bajnai Gordon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bajnai%20Gordon",
-        "pubdate": "Wed, 08 May 2024 12:00:00 +0200"
+        "title": "Horváth Lajos Ottó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Horv%C3%A1th%20Lajos%20Ott%C3%B3",
+        "pubdate": "Wed, 08 May 2024 22:00:00 +0200"
       }
     ],
     [
@@ -90,13 +97,6 @@
         "title": "Steve Albini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Steve%20Albini",
         "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Horváth Lajos Ottó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Horv%C3%A1th%20Lajos%20Ott%C3%B3",
-        "pubdate": "Wed, 08 May 2024 22:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Harry Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harry%20Kane",
-        "pubdate": "Wed, 08 May 2024 23:00:00 +0200"
+        "title": "Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fiorentina",
+        "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fiorentina",
-        "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
+        "title": "Harry Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harry%20Kane",
+        "pubdate": "Wed, 08 May 2024 23:00:00 +0200"
       }
     ]
   ]
