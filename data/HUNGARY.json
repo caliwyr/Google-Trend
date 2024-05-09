@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-05-2024 , 03:44:33",
+  "lastUpdate": "09-05-2024 , 03:53:53",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Wednesday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wednesday",
         "pubdate": "Wed, 08 May 2024 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "TheVR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#TheVR",
-        "pubdate": "Wed, 08 May 2024 12:00:00 +0200"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "TheVR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#TheVR",
+        "pubdate": "Wed, 08 May 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bajnai Gordon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bajnai%20Gordon",
         "pubdate": "Wed, 08 May 2024 12:00:00 +0200"
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "Kiss Gergely",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kiss%20Gergely",
+        "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Steve Albini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Steve%20Albini",
         "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Horváth Lajos Ottó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Horv%C3%A1th%20Lajos%20Ott%C3%B3",
+        "pubdate": "Wed, 08 May 2024 22:00:00 +0200"
       }
     ],
     [
@@ -97,20 +111,6 @@
         "title": "Nemzeti Közszolgálati Egyetem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nemzeti%20K%C3%B6zszolg%C3%A1lati%20Egyetem",
         "pubdate": "Wed, 08 May 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Horváth Lajos Ottó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Horv%C3%A1th%20Lajos%20Ott%C3%B3",
-        "pubdate": "Wed, 08 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Első világháború",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Els%C5%91%20vil%C3%A1gh%C3%A1bor%C3%BA",
-        "pubdate": "Wed, 08 May 2024 07:00:00 +0200"
       }
     ],
     [
