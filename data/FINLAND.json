@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2024 , 11:45:02",
+  "lastUpdate": "10-05-2024 , 11:54:32",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Wrc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wrc",
+        "pubdate": "Fri, 10 May 2024 11:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Andy Serkis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Andy%20Serkis",
         "pubdate": "Fri, 10 May 2024 07:00:00 +0300"
@@ -48,13 +55,6 @@
         "title": "Loreen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Loreen",
         "pubdate": "Fri, 10 May 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Wrc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wrc",
-        "pubdate": "Fri, 10 May 2024 11:00:00 +0300"
       }
     ],
     [
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "Eurovision 2024: Semi-Final 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eurovision%202024:%20Semi-Final%202",
+        "title": "Eurovision 2024 Semi-Final 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eurovision%202024%20Semi-Final%202",
         "pubdate": "Thu, 09 May 2024 23:00:00 +0300"
       }
     ],
@@ -90,13 +90,6 @@
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leverkusen",
         "pubdate": "Thu, 09 May 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Wonder Woman 1984",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wonder%20Woman%201984",
-        "pubdate": "Thu, 09 May 2024 22:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Albania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Albania",
         "pubdate": "Thu, 09 May 2024 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Take that",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Take%20that",
+        "pubdate": "Thu, 09 May 2024 16:00:00 +0300"
       }
     ]
   ]
