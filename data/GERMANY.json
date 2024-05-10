@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "10-05-2024 , 16:50:43",
+  "lastUpdate": "10-05-2024 , 17:00:00",
   "data": [
-    [
-      {
-        "title": "ESC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ESC",
-        "pubdate": "Fri, 10 May 2024 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Eishockey-WM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eishockey-WM",
         "pubdate": "Fri, 10 May 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ESC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ESC",
+        "pubdate": "Fri, 10 May 2024 07:00:00 +0200"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Joost Klein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joost%20Klein",
+        "pubdate": "Fri, 10 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vatertag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vatertag",
         "pubdate": "Thu, 09 May 2024 01:00:00 +0200"
@@ -59,15 +66,15 @@
     ],
     [
       {
-        "title": "Wann ist Vatertag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wann%20ist%20Vatertag",
-        "pubdate": "Thu, 09 May 2024 12:00:00 +0200"
+        "title": "Andre Rieu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andre%20Rieu",
+        "pubdate": "Thu, 09 May 2024 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Andre Rieu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Andre%20Rieu",
+        "title": "Eden Golan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eden%20Golan",
         "pubdate": "Thu, 09 May 2024 23:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Himmelfahrt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Himmelfahrt",
         "pubdate": "Wed, 08 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Beethoven",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Beethoven",
-        "pubdate": "Wed, 08 May 2024 00:00:00 +0200"
       }
     ]
   ]
