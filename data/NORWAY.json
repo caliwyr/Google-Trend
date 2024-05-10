@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-05-2024 , 23:46:39",
+  "lastUpdate": "10-05-2024 , 23:55:55",
   "data": [
     [
       {
         "title": "Nordlys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordlys",
         "pubdate": "Sat, 11 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Casper Ruud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
+        "pubdate": "Sat, 11 May 2024 01:00:00 +0200"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Frøya Dorsin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fr%C3%B8ya%20Dorsin",
-        "pubdate": "Fri, 10 May 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pernilla Wahlgren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pernilla%20Wahlgren",
         "pubdate": "Fri, 10 May 2024 17:00:00 +0200"
@@ -90,6 +90,13 @@
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Atalanta",
         "pubdate": "Fri, 10 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Toppserien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Toppserien",
+        "pubdate": "Fri, 10 May 2024 22:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Strømsgodset mot Lillestrøm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8msgodset%20mot%20Lillestr%C3%B8m",
-        "pubdate": "Thu, 09 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Burger King",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Burger%20King",
-        "pubdate": "Thu, 09 May 2024 19:00:00 +0200"
+        "title": "Grand Prix 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Grand%20Prix%202024",
+        "pubdate": "Thu, 09 May 2024 22:00:00 +0200"
       }
     ]
   ]
