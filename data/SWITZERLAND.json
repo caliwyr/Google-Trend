@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-05-2024 , 19:46:13",
+  "lastUpdate": "10-05-2024 , 19:55:35",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Bergamo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bergamo",
-        "pubdate": "Fri, 10 May 2024 00:00:00 +0200"
+        "title": "Eurovision Song Contest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eurovision%20Song%20Contest",
+        "pubdate": "Fri, 10 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
+        "pubdate": "Fri, 10 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
-        "pubdate": "Fri, 10 May 2024 20:00:00 +0200"
+        "title": "Augsburg gegen VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Augsburg%20gegen%20VfB%20Stuttgart",
+        "pubdate": "Fri, 10 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DFB-Pokal",
-        "pubdate": "Fri, 10 May 2024 08:00:00 +0200"
+        "title": "Hockey WM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hockey%20WM",
+        "pubdate": "Fri, 10 May 2024 19:00:00 +0200"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Hockey WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hockey%20WM",
-        "pubdate": "Fri, 10 May 2024 19:00:00 +0200"
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DFB-Pokal",
+        "pubdate": "Fri, 10 May 2024 08:00:00 +0200"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Atalanta gegen Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Atalanta%20gegen%20Marseille",
+        "pubdate": "Fri, 10 May 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Generation Z",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Generation%20Z",
         "pubdate": "Fri, 10 May 2024 18:00:00 +0200"
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "Eurovision Song Contest 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eurovision%20Song%20Contest%202024",
-        "pubdate": "Thu, 09 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nemo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nemo",
-        "pubdate": "Thu, 09 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eurovision 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eurovision%202024",
         "pubdate": "Thu, 09 May 2024 19:00:00 +0200"
       }
     ]
