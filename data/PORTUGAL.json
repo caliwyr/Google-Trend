@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-05-2024 , 09:44:55",
+  "lastUpdate": "11-05-2024 , 09:54:22",
   "data": [
+    [
+      {
+        "title": "WRC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#WRC",
+        "pubdate": "Sat, 11 May 2024 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Governo Habitação",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Joost Klein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joost%20Klein",
-        "pubdate": "Fri, 10 May 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MotoGP",
         "pubdate": "Fri, 10 May 2024 10:00:00 +0100"
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Eurovision",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eurovision",
+        "pubdate": "Fri, 10 May 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Preços dos combustíveis próxima semana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7os%20dos%20combust%C3%ADveis%20pr%C3%B3xima%20semana",
         "pubdate": "Fri, 10 May 2024 14:00:00 +0100"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Eurovision",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eurovision",
-        "pubdate": "Fri, 10 May 2024 14:00:00 +0100"
+        "title": "Joost Klein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Joost%20Klein",
+        "pubdate": "Fri, 10 May 2024 13:00:00 +0100"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Girona",
-        "pubdate": "Fri, 10 May 2024 22:00:00 +0100"
+        "title": "Espaço Schengen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Espa%C3%A7o%20Schengen",
+        "pubdate": "Fri, 10 May 2024 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Espaço Schengen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Espa%C3%A7o%20Schengen",
-        "pubdate": "Fri, 10 May 2024 19:00:00 +0100"
+        "title": "Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Girona",
+        "pubdate": "Fri, 10 May 2024 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
         "pubdate": "Fri, 10 May 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lupus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lupus",
-        "pubdate": "Fri, 10 May 2024 16:00:00 +0100"
       }
     ]
   ]
