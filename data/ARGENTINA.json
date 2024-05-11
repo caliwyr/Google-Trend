@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-05-2024 , 14:44:47",
+  "lastUpdate": "11-05-2024 , 14:54:16",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tottenham",
+        "pubdate": "Sat, 11 May 2024 11:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle - Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newcastle%20-%20Brighton",
+        "pubdate": "Sat, 11 May 2024 11:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Argentinos jrs.  Rosario Central",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentinos%20jrs.%20%20Rosario%20Central",
         "pubdate": "Fri, 10 May 2024 18:00:00 -0300"
@@ -34,13 +48,6 @@
         "title": "Choque de trenes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Choque%20de%20trenes",
         "pubdate": "Fri, 10 May 2024 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Newell's",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newell's",
-        "pubdate": "Fri, 10 May 2024 15:00:00 -0300"
       }
     ],
     [
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Liga Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liga%20Argentina",
-        "pubdate": "Fri, 10 May 2024 16:00:00 -0300"
+        "title": "Newell's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newell's",
+        "pubdate": "Fri, 10 May 2024 15:00:00 -0300"
       }
     ],
     [
@@ -80,9 +87,16 @@
     ],
     [
       {
-        "title": "Antonella Menem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Antonella%20Menem",
-        "pubdate": "Fri, 10 May 2024 11:00:00 -0300"
+        "title": "Liga Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liga%20Argentina",
+        "pubdate": "Fri, 10 May 2024 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Roma",
+        "pubdate": "Fri, 10 May 2024 16:00:00 -0300"
       }
     ],
     [
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Dia del Himno Nacional Argentino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Himno%20Nacional%20Argentino",
+        "pubdate": "Fri, 10 May 2024 09:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Futbol argentino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol%20argentino",
         "pubdate": "Fri, 10 May 2024 19:00:00 -0300"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Himno Nacional Argentino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Himno%20Nacional%20Argentino",
-        "pubdate": "Fri, 10 May 2024 09:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Primera División",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera%20Divisi%C3%B3n",
         "pubdate": "Fri, 10 May 2024 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mbappe",
-        "pubdate": "Fri, 10 May 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Girona",
-        "pubdate": "Fri, 10 May 2024 16:00:00 -0300"
       }
     ]
   ]
