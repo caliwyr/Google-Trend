@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-05-2024 , 17:53:57",
+  "lastUpdate": "12-05-2024 , 18:13:55",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
+        "pubdate": "Sun, 12 May 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "KBK mot Bodø/Glimt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KBK%20mot%20Bod%C3%B8/Glimt",
         "pubdate": "Sun, 12 May 2024 15:00:00 +0200"
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Nemo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nemo",
-        "pubdate": "Sun, 12 May 2024 01:00:00 +0200"
+        "title": "Alexander Rybak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexander%20Rybak",
+        "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Alexander Rybak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexander%20Rybak",
-        "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
+        "title": "Kroatia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kroatia",
+        "pubdate": "Sun, 12 May 2024 09:00:00 +0200"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
-        "pubdate": "Sun, 12 May 2024 18:00:00 +0200"
+        "title": "Nick Drake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nick%20Drake",
+        "pubdate": "Sun, 12 May 2024 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nordlys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordlys",
         "pubdate": "Sat, 11 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Molde - Rosenborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde%20-%20Rosenborg",
-        "pubdate": "Sat, 11 May 2024 15:00:00 +0200"
       }
     ]
   ]
