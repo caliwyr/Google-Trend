@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-05-2024 , 12:47:15",
+  "lastUpdate": "12-05-2024 , 12:58:54",
   "data": [
     [
       {
@@ -31,23 +31,16 @@
     ],
     [
       {
-        "title": "RTL Nieuws",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RTL%20Nieuws",
-        "pubdate": "Sat, 11 May 2024 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marathon Leiden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marathon%20Leiden",
-        "pubdate": "Sat, 11 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FC Twente Vrouwen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente%20Vrouwen",
         "pubdate": "Sat, 11 May 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leiden Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leiden%20Marathon",
+        "pubdate": "Sat, 11 May 2024 22:00:00 +0200"
       }
     ],
     [
@@ -69,13 +62,6 @@
         "title": "Noorderlicht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noorderlicht",
         "pubdate": "Fri, 10 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Optreden Joost Klein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Optreden%20Joost%20Klein",
-        "pubdate": "Fri, 10 May 2024 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "HBO Max",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#HBO%20Max",
         "pubdate": "Tue, 07 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lando Norris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lando%20Norris",
+        "pubdate": "Mon, 06 May 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Met Gala 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Met%20Gala%202024",
+        "pubdate": "Mon, 06 May 2024 01:00:00 +0200"
       }
     ]
   ]
