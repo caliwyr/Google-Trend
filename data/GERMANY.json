@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-05-2024 , 23:51:27",
+  "lastUpdate": "13-05-2024 , 00:29:57",
   "data": [
-    [
-      {
-        "title": "Bayern gegen Wolfsburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20gegen%20Wolfsburg",
-        "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "St. Pauli",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Bayern München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20M%C3%BCnchen",
-        "pubdate": "Sun, 12 May 2024 22:00:00 +0200"
+        "title": "BVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
+        "pubdate": "Sun, 12 May 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Bayern München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern%20M%C3%BCnchen",
+        "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Darmstadt 98",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darmstadt%2098",
-        "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zum Muttertag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zum%20Muttertag",
         "pubdate": "Sun, 12 May 2024 10:00:00 +0200"
@@ -87,9 +80,16 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Novak%20Djokovic",
-        "pubdate": "Sun, 12 May 2024 23:00:00 +0200"
+        "title": "Darmstadt 98",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darmstadt%2098",
+        "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hoffenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hoffenheim",
+        "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Holstein Kiel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20Kiel",
         "pubdate": "Sat, 11 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Sat, 11 May 2024 18:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union%20Berlin",
-        "pubdate": "Sat, 11 May 2024 17:00:00 +0200"
+        "title": "RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
+        "pubdate": "Sat, 11 May 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polarlichter Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polarlichter%20Berlin",
+        "pubdate": "Sat, 11 May 2024 08:00:00 +0200"
       }
     ]
   ]
