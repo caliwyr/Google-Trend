@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "13-05-2024 , 12:45:35",
+  "lastUpdate": "13-05-2024 , 12:59:50",
   "data": [
-    [
-      {
-        "title": "Bayern München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20M%C3%BCnchen",
-        "pubdate": "Mon, 13 May 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Szergej Sojgu",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Tóth Gabi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Gabi",
-        "pubdate": "Mon, 13 May 2024 06:00:00 +0200"
+        "title": "Bombariadó Szombathely",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bombariad%C3%B3%20Szombathely",
+        "pubdate": "Mon, 13 May 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern",
+        "pubdate": "Mon, 13 May 2024 12:00:00 +0200"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Molnár Áron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moln%C3%A1r%20%C3%81ron",
         "pubdate": "Mon, 13 May 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tóth Gabi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%B3th%20Gabi",
+        "pubdate": "Mon, 13 May 2024 06:00:00 +0200"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Juhász Jácint",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juh%C3%A1sz%20J%C3%A1cint",
-        "pubdate": "Sun, 12 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gulyás márton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Guly%C3%A1s%20m%C3%A1rton",
         "pubdate": "Sun, 12 May 2024 18:00:00 +0200"
@@ -83,13 +83,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
         "pubdate": "Sun, 12 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ferencváros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
-        "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lola",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lola",
         "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Választási vita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A1laszt%C3%A1si%20vita",
+        "pubdate": "Sun, 12 May 2024 21:00:00 +0200"
       }
     ]
   ]
