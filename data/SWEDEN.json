@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-05-2024 , 04:50:55",
+  "lastUpdate": "13-05-2024 , 05:00:19",
   "data": [
     [
       {
         "title": "Adrian Kempe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Adrian%20Kempe",
         "pubdate": "Mon, 13 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SVT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT",
+        "pubdate": "Sun, 12 May 2024 01:00:00 +0200"
       }
     ],
     [
@@ -17,16 +24,9 @@
     ],
     [
       {
-        "title": "Israel Eurovision",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Israel%20Eurovision",
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Israel",
         "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
-        "pubdate": "Sun, 12 May 2024 19:00:00 +0200"
       }
     ],
     [
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Israel",
-        "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "pubdate": "Sun, 12 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hamas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hamas",
+        "pubdate": "Sun, 12 May 2024 02:00:00 +0200"
       }
     ],
     [
@@ -48,13 +55,6 @@
         "title": "Häcken mot Kalmar FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20mot%20Kalmar%20FF",
         "pubdate": "Sun, 12 May 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hamas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hamas",
-        "pubdate": "Sun, 12 May 2024 08:00:00 +0200"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Kaleen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kaleen",
-        "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Europa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europa",
         "pubdate": "Sun, 12 May 2024 11:00:00 +0200"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Gaza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gaza",
-        "pubdate": "Sun, 12 May 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "HIF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HIF",
         "pubdate": "Sun, 12 May 2024 16:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Roger Corman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Roger%20Corman",
         "pubdate": "Sun, 12 May 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Will Ferrell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Will%20Ferrell",
+        "pubdate": "Sun, 12 May 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bochum mot Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bochum%20mot%20Leverkusen",
+        "pubdate": "Sun, 12 May 2024 22:00:00 +0200"
       }
     ]
   ]
