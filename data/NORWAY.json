@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-05-2024 , 02:49:13",
+  "lastUpdate": "13-05-2024 , 02:58:24",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "KBK mot Bodø/Glimt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KBK%20mot%20Bod%C3%B8/Glimt",
-        "pubdate": "Sun, 12 May 2024 15:00:00 +0200"
+        "title": "Gåte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#G%C3%A5te",
+        "pubdate": "Sun, 12 May 2024 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Martha Leivestad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martha%20Leivestad",
-        "pubdate": "Sun, 12 May 2024 21:00:00 +0200"
+        "title": "KBK mot Bodø/Glimt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KBK%20mot%20Bod%C3%B8/Glimt",
+        "pubdate": "Sun, 12 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -45,16 +45,23 @@
     ],
     [
       {
-        "title": "Alexander Rybak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexander%20Rybak",
-        "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
+        "title": "Martha Leivestad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martha%20Leivestad",
+        "pubdate": "Sun, 12 May 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Lillestrøm-Brann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lillestr%C3%B8m-Brann",
+        "title": "Brann Lillestrøm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann%20Lillestr%C3%B8m",
         "pubdate": "Sun, 12 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alexander Rybak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexander%20Rybak",
+        "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
       }
     ],
     [
@@ -82,13 +89,6 @@
       {
         "title": "Jens Stoltenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jens%20Stoltenberg",
-        "pubdate": "Sun, 12 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Morten Bjørlo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Morten%20Bj%C3%B8rlo",
         "pubdate": "Sun, 12 May 2024 20:00:00 +0200"
       }
     ],
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Litauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Litauen",
+        "title": "MFK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#MFK",
         "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
       }
     ]
