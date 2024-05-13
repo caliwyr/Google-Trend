@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "13-05-2024 , 07:55:31",
+  "lastUpdate": "13-05-2024 , 08:17:36",
   "data": [
-    [
-      {
-        "title": "Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro",
-        "pubdate": "Sun, 12 May 2024 14:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenal",
         "pubdate": "Sun, 12 May 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro",
+        "pubdate": "Sun, 12 May 2024 14:00:00 -0500"
       }
     ],
     [
@@ -27,13 +27,6 @@
         "title": "Fortaleza x Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Botafogo",
         "pubdate": "Sun, 12 May 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Feliz Dia das maes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Feliz%20Dia%20das%20maes",
-        "pubdate": "Sun, 12 May 2024 05:00:00 -0500"
       }
     ],
     [
@@ -59,30 +52,16 @@
     ],
     [
       {
+        "title": "Frase Dia das Mães",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Frase%20Dia%20das%20M%C3%A3es",
+        "pubdate": "Sun, 12 May 2024 05:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Paulo cesar Pereio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paulo%20cesar%20Pereio",
         "pubdate": "Sun, 12 May 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
-        "pubdate": "Sun, 12 May 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
-        "pubdate": "Sun, 12 May 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Mae",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mae",
-        "pubdate": "Sun, 12 May 2024 06:00:00 -0500"
       }
     ],
     [
@@ -94,9 +73,23 @@
     ],
     [
       {
-        "title": "CSA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CSA",
-        "pubdate": "Sun, 12 May 2024 14:00:00 -0500"
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
+        "pubdate": "Sun, 12 May 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Mae",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mae",
+        "pubdate": "Sun, 12 May 2024 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
+        "pubdate": "Sun, 12 May 2024 12:00:00 -0500"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Ser mae é",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ser%20mae%20%C3%A9",
+        "pubdate": "Sun, 12 May 2024 06:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Nautico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
         "pubdate": "Sun, 12 May 2024 16:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Musica Dia das maes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Musica%20Dia%20das%20maes",
-        "pubdate": "Sun, 12 May 2024 09:00:00 -0500"
+        "title": "CSA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CSA",
+        "pubdate": "Sun, 12 May 2024 14:00:00 -0500"
       }
     ]
   ]

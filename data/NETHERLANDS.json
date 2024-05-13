@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-05-2024 , 07:55:36",
+  "lastUpdate": "13-05-2024 , 08:17:42",
   "data": [
+    [
+      {
+        "title": "Fortuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna",
+        "pubdate": "Mon, 13 May 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Moederdag",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Fortuna  PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20%20PSV",
-        "pubdate": "Sun, 12 May 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Sun, 12 May 2024 16:00:00 +0200"
@@ -48,13 +48,6 @@
         "title": "Sc Heerenveen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sc%20Heerenveen",
         "pubdate": "Sun, 12 May 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cameravrouw Joost Klein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cameravrouw%20Joost%20Klein",
-        "pubdate": "Sun, 12 May 2024 02:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Joost Klein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joost%20Klein",
         "pubdate": "Thu, 09 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hemelvaartsdag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hemelvaartsdag",
+        "pubdate": "Wed, 08 May 2024 20:00:00 +0200"
       }
     ]
   ]
