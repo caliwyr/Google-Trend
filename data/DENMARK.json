@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "13-05-2024 , 16:36:41",
+  "lastUpdate": "13-05-2024 , 16:45:59",
   "data": [
-    [
-      {
-        "title": "GME stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#GME%20stock",
-        "pubdate": "Mon, 13 May 2024 16:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "BRANCO",
@@ -20,6 +13,13 @@
         "title": "Katz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Katz",
         "pubdate": "Mon, 13 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "GME stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#GME%20stock",
+        "pubdate": "Mon, 13 May 2024 16:00:00 +0200"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "AGF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AGF",
-        "pubdate": "Sun, 12 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sydney Sweeney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sydney%20Sweeney",
         "pubdate": "Sun, 12 May 2024 01:00:00 +0200"
@@ -69,6 +62,13 @@
         "title": "Happy Mother's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Happy%20Mother's%20Day",
         "pubdate": "Sun, 12 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AGF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AGF",
+        "pubdate": "Sun, 12 May 2024 21:00:00 +0200"
       }
     ],
     [
