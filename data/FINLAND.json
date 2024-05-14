@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-05-2024 , 16:47:40",
+  "lastUpdate": "14-05-2024 , 16:56:55",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Asos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Asos",
         "pubdate": "Tue, 14 May 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mallorca",
+        "pubdate": "Tue, 14 May 2024 19:00:00 +0300"
       }
     ],
     [
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG",
+        "title": "Psg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Psg",
         "pubdate": "Mon, 13 May 2024 16:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Loreen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Loreen",
         "pubdate": "Sun, 12 May 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Georgia",
-        "pubdate": "Sun, 12 May 2024 22:00:00 +0300"
       }
     ]
   ]
