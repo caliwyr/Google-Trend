@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-05-2024 , 02:46:12",
+  "lastUpdate": "14-05-2024 , 02:55:22",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Click",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Click",
-        "pubdate": "Mon, 13 May 2024 18:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Curs valutar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Curs%20valutar",
         "pubdate": "Mon, 13 May 2024 19:00:00 +0300"
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "PPC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PPC",
-        "pubdate": "Mon, 13 May 2024 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Europa FM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Europa%20FM",
         "pubdate": "Mon, 13 May 2024 09:00:00 +0300"
@@ -87,9 +73,16 @@
     ],
     [
       {
-        "title": "BZI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BZI",
+        "title": "PPC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PPC",
         "pubdate": "Mon, 13 May 2024 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Electrica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Electrica",
+        "pubdate": "Mon, 13 May 2024 14:00:00 +0300"
       }
     ],
     [
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "U Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj",
-        "pubdate": "Mon, 13 May 2024 05:00:00 +0300"
+        "title": "Ziua Dorului",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ziua%20Dorului",
+        "pubdate": "Mon, 13 May 2024 11:00:00 +0300"
       }
     ],
     [
@@ -132,6 +125,13 @@
         "title": "Bivolaru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bivolaru",
         "pubdate": "Mon, 13 May 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "U Cluj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj",
+        "pubdate": "Mon, 13 May 2024 05:00:00 +0300"
       }
     ],
     [
