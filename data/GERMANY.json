@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-05-2024 , 10:52:23",
+  "lastUpdate": "14-05-2024 , 11:06:18",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "GameStop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GameStop",
-        "pubdate": "Mon, 13 May 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "OpenAI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#OpenAI",
         "pubdate": "Mon, 13 May 2024 21:00:00 +0200"
@@ -34,13 +27,6 @@
         "title": "Dune 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dune%202",
         "pubdate": "Mon, 13 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tuchel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuchel",
-        "pubdate": "Mon, 13 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -66,16 +52,16 @@
     ],
     [
       {
-        "title": "Slimane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Slimane",
-        "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
+        "title": "Schlotterbeck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schlotterbeck",
+        "pubdate": "Sun, 12 May 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Schlotterbeck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schlotterbeck",
-        "pubdate": "Sun, 12 May 2024 22:00:00 +0200"
+        "title": "Slimane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Slimane",
+        "pubdate": "Sun, 12 May 2024 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Polarlichter wann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polarlichter%20wann",
         "pubdate": "Sat, 11 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polarlichter heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polarlichter%20heute",
+        "pubdate": "Fri, 10 May 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polarlichter Deutschland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polarlichter%20Deutschland",
+        "pubdate": "Fri, 10 May 2024 09:00:00 +0200"
       }
     ]
   ]
