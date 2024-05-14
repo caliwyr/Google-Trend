@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-05-2024 , 09:48:51",
+  "lastUpdate": "14-05-2024 , 09:58:16",
   "data": [
     [
       {
@@ -26,6 +26,13 @@
       {
         "title": "NATO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#NATO",
+        "pubdate": "Tue, 14 May 2024 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Mircea rosca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20rosca",
         "pubdate": "Tue, 14 May 2024 09:00:00 +0300"
       }
     ],
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Radio ZU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Radio%20ZU",
+        "pubdate": "Mon, 13 May 2024 09:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Curs valutar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Curs%20valutar",
         "pubdate": "Mon, 13 May 2024 19:00:00 +0300"
@@ -66,16 +80,16 @@
     ],
     [
       {
-        "title": "BCR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BCR",
+        "title": "Raiffeisen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Raiffeisen",
         "pubdate": "Mon, 13 May 2024 12:00:00 +0300"
       }
     ],
     [
       {
-        "title": "PPC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PPC",
-        "pubdate": "Mon, 13 May 2024 15:00:00 +0300"
+        "title": "BCR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BCR",
+        "pubdate": "Mon, 13 May 2024 12:00:00 +0300"
       }
     ],
     [
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "Bivolaru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bivolaru",
-        "pubdate": "Mon, 13 May 2024 18:00:00 +0300"
+        "title": "PPC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PPC",
+        "pubdate": "Mon, 13 May 2024 15:00:00 +0300"
       }
     ],
     [
       {
-        "title": "U Cluj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#U%20Cluj",
-        "pubdate": "Mon, 13 May 2024 05:00:00 +0300"
+        "title": "Bivolaru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bivolaru",
+        "pubdate": "Mon, 13 May 2024 18:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Ani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ani",
         "pubdate": "Mon, 13 May 2024 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Radio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Radio",
-        "pubdate": "Mon, 13 May 2024 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "OpenAI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#OpenAI",
-        "pubdate": "Mon, 13 May 2024 15:00:00 +0300"
       }
     ]
   ]
