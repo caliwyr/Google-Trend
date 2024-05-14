@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-05-2024 , 15:48:43",
+  "lastUpdate": "14-05-2024 , 15:57:59",
   "data": [
     [
       {
@@ -59,6 +59,20 @@
     ],
     [
       {
+        "title": "GME",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#GME",
+        "pubdate": "Tue, 14 May 2024 07:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Tyson Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tyson%20Fury",
+        "pubdate": "Tue, 14 May 2024 17:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Donovan Mitchell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Donovan%20Mitchell",
         "pubdate": "Tue, 14 May 2024 11:00:00 +1000"
@@ -101,16 +115,9 @@
     ],
     [
       {
-        "title": "Tyson Fury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tyson%20Fury",
-        "pubdate": "Tue, 14 May 2024 18:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Emma Lovell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Emma%20Lovell",
-        "pubdate": "Tue, 14 May 2024 07:00:00 +1000"
+        "title": "Megalopolis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Megalopolis",
+        "pubdate": "Tue, 14 May 2024 21:00:00 +1000"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Stormy Daniels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stormy%20Daniels",
-        "pubdate": "Tue, 14 May 2024 17:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Tottenham vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Man%20City",
         "pubdate": "Tue, 14 May 2024 23:00:00 +1000"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Kalyn Ponga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kalyn%20Ponga",
-        "pubdate": "Tue, 14 May 2024 18:00:00 +1000"
+        "title": "Stormy Daniels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stormy%20Daniels",
+        "pubdate": "Tue, 14 May 2024 17:00:00 +1000"
       }
     ]
   ]
