@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-05-2024 , 05:44:23",
+  "lastUpdate": "15-05-2024 , 05:53:48",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "DOGE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#DOGE",
         "pubdate": "Wed, 15 May 2024 05:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Olivia Rodrigo Melbourne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Olivia%20Rodrigo%20Melbourne",
-        "pubdate": "Wed, 15 May 2024 14:00:00 +1000"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Stage 3 tax cuts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stage%203%20tax%20cuts",
+        "pubdate": "Wed, 15 May 2024 09:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Knicks vs Pacers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Knicks%20vs%20Pacers",
         "pubdate": "Wed, 15 May 2024 13:00:00 +1000"
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manchester%20City",
-        "pubdate": "Wed, 15 May 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Wayne Bennett",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wayne%20Bennett",
         "pubdate": "Wed, 15 May 2024 14:00:00 +1000"
@@ -80,22 +73,8 @@
     ],
     [
       {
-        "title": "Stage 3 tax cuts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stage%203%20tax%20cuts",
-        "pubdate": "Wed, 15 May 2024 09:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "King Charles portrait",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#King%20Charles%20portrait",
-        "pubdate": "Wed, 15 May 2024 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Jacob Weitering",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacob%20Weitering",
         "pubdate": "Wed, 15 May 2024 13:00:00 +1000"
       }
     ],
@@ -108,16 +87,30 @@
     ],
     [
       {
-        "title": "Tottenham vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Man%20City",
-        "pubdate": "Tue, 14 May 2024 23:00:00 +1000"
+        "title": "Jacob Weitering",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacob%20Weitering",
+        "pubdate": "Wed, 15 May 2024 13:00:00 +1000"
       }
     ],
     [
       {
-        "title": "OpenAI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#OpenAI",
-        "pubdate": "Tue, 14 May 2024 10:00:00 +1000"
+        "title": "Alice Munro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alice%20Munro",
+        "pubdate": "Wed, 15 May 2024 15:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Olivia Rodrigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Olivia%20Rodrigo",
+        "pubdate": "Tue, 14 May 2024 02:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham%20vs%20Man%20City",
+        "pubdate": "Tue, 14 May 2024 23:00:00 +1000"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "GameStop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#GameStop",
-        "pubdate": "Tue, 14 May 2024 10:00:00 +1000"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
+        "pubdate": "Tue, 14 May 2024 08:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
-        "pubdate": "Tue, 14 May 2024 08:00:00 +1000"
+        "title": "Ella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ella",
+        "pubdate": "Tue, 14 May 2024 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Tetsuya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tetsuya",
+        "pubdate": "Tue, 14 May 2024 09:00:00 +1000"
       }
     ]
   ]
