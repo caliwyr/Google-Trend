@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-05-2024 , 11:47:10",
+  "lastUpdate": "15-05-2024 , 11:56:35",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "BFMTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BFMTV",
-        "pubdate": "Wed, 15 May 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Furiosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Furiosa",
         "pubdate": "Wed, 15 May 2024 10:00:00 +0200"
@@ -87,8 +80,8 @@
     ],
     [
       {
-        "title": "FC Basel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
+        "title": "FCB gegen Stade-Lausanne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCB%20gegen%20Stade-Lausanne",
         "pubdate": "Tue, 14 May 2024 20:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Jane Fonda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jane%20Fonda",
         "pubdate": "Tue, 14 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nouvelle-Calédonie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nouvelle-Cal%C3%A9donie",
+        "pubdate": "Tue, 14 May 2024 12:00:00 +0200"
       }
     ]
   ]
