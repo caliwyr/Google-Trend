@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-05-2024 , 04:42:24",
+  "lastUpdate": "15-05-2024 , 04:51:41",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Markus Söder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Markus%20S%C3%B6der",
-        "pubdate": "Tue, 14 May 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Robin Koch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Robin%20Koch",
         "pubdate": "Tue, 14 May 2024 12:00:00 +0200"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20City",
-        "pubdate": "Tue, 14 May 2024 22:00:00 +0200"
+        "title": "Markus Söder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Markus%20S%C3%B6der",
+        "pubdate": "Tue, 14 May 2024 19:00:00 +0200"
       }
     ],
     [
@@ -52,13 +45,6 @@
     ],
     [
       {
-        "title": "GameStop-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GameStop-Aktie",
-        "pubdate": "Mon, 13 May 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hummels",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hummels",
         "pubdate": "Mon, 13 May 2024 11:00:00 +0200"
@@ -69,6 +55,13 @@
         "title": "AfD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
         "pubdate": "Mon, 13 May 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gamestop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gamestop",
+        "pubdate": "Mon, 13 May 2024 17:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "ESC 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ESC%202024",
+        "pubdate": "Sat, 11 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Holstein Kiel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20Kiel",
         "pubdate": "Sat, 11 May 2024 21:00:00 +0200"
       }
     ]
