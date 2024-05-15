@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "15-05-2024 , 08:41:23",
+  "lastUpdate": "15-05-2024 , 08:50:37",
   "data": [
     [
       {
         "title": "Canucks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
         "pubdate": "Wed, 15 May 2024 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Bruins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bruins",
+        "pubdate": "Wed, 15 May 2024 02:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rangers",
         "pubdate": "Tue, 14 May 2024 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Harrison Butker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Harrison%20Butker",
-        "pubdate": "Tue, 14 May 2024 19:00:00 -0400"
       }
     ]
   ]
