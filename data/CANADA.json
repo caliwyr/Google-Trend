@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-05-2024 , 09:41:25",
+  "lastUpdate": "15-05-2024 , 09:50:44",
   "data": [
-    [
-      {
-        "title": "Canucks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
-        "pubdate": "Wed, 15 May 2024 01:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Bruins",
@@ -59,8 +52,8 @@
     ],
     [
       {
-        "title": "Alice Munro books",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alice%20Munro%20books",
+        "title": "Alice Munro Books",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alice%20Munro%20Books",
         "pubdate": "Tue, 14 May 2024 13:00:00 -0400"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rangers",
         "pubdate": "Tue, 14 May 2024 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Harrison Butker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Harrison%20Butker",
+        "pubdate": "Tue, 14 May 2024 19:00:00 -0400"
       }
     ]
   ]
