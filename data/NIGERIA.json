@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2024 , 09:43:29",
+  "lastUpdate": "16-05-2024 , 09:52:46",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Bridgerton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bridgerton",
         "pubdate": "Thu, 16 May 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#MLS",
+        "pubdate": "Thu, 16 May 2024 03:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Emefiele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Emefiele",
         "pubdate": "Wed, 15 May 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ASUU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#ASUU",
-        "pubdate": "Wed, 15 May 2024 09:00:00 +0100"
       }
     ]
   ]
