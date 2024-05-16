@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2024 , 02:43:37",
+  "lastUpdate": "16-05-2024 , 02:52:55",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Staatsblad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Staatsblad",
-        "pubdate": "Wed, 15 May 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Coppa Italia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coppa%20Italia",
         "pubdate": "Wed, 15 May 2024 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Ronald Plasterk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronald%20Plasterk",
         "pubdate": "Wed, 15 May 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Geert Wilders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Geert%20Wilders",
+        "pubdate": "Wed, 15 May 2024 20:00:00 +0200"
       }
     ]
   ]
