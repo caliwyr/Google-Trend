@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2024 , 05:44:15",
+  "lastUpdate": "16-05-2024 , 05:53:30",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
         "pubdate": "Thu, 16 May 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Juventus",
+        "pubdate": "Thu, 16 May 2024 07:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Mjällby mot Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby%20mot%20Hammarby",
-        "pubdate": "Wed, 15 May 2024 19:00:00 +0200"
+        "title": "Hammarby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "pubdate": "Wed, 15 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Georgien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Georgien",
-        "pubdate": "Wed, 15 May 2024 06:00:00 +0200"
+        "title": "Anders Thornberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anders%20Thornberg",
+        "pubdate": "Wed, 15 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Rory McIlroy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rory%20McIlroy",
         "pubdate": "Wed, 15 May 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anders Thornberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anders%20Thornberg",
-        "pubdate": "Wed, 15 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "SBB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SBB",
+        "pubdate": "Wed, 15 May 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
         "pubdate": "Tue, 14 May 2024 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Alice Munro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alice%20Munro",
         "pubdate": "Tue, 14 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Polestar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Polestar",
-        "pubdate": "Tue, 14 May 2024 00:00:00 +0200"
       }
     ]
   ]
