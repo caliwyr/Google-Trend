@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-05-2024 , 03:37:35",
+  "lastUpdate": "16-05-2024 , 03:46:46",
   "data": [
     [
       {
         "title": "Névnap",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%A9vnap",
         "pubdate": "Thu, 16 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meghalt Barok István",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Meghalt%20Barok%20Istv%C3%A1n",
+        "pubdate": "Thu, 16 May 2024 05:00:00 +0200"
       }
     ],
     [
@@ -38,16 +45,9 @@
     ],
     [
       {
-        "title": "Ferencváros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
-        "pubdate": "Wed, 15 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Szupernagyi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szupernagyi",
-        "pubdate": "Wed, 15 May 2024 18:00:00 +0200"
+        "title": "Rákay Philip Maybach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1kay%20Philip%20Maybach",
+        "pubdate": "Wed, 15 May 2024 09:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Új-Kaledónia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Aj-Kaled%C3%B3nia",
+        "pubdate": "Wed, 15 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tisza Párt közvélemény-kutatás",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tisza%20P%C3%A1rt%20k%C3%B6zv%C3%A9lem%C3%A9ny-kutat%C3%A1s",
         "pubdate": "Wed, 15 May 2024 07:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Hosszú Katinka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hossz%C3%BA%20Katinka",
         "pubdate": "Wed, 15 May 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Demjén Ferenc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Demj%C3%A9n%20Ferenc",
-        "pubdate": "Wed, 15 May 2024 10:00:00 +0200"
       }
     ]
   ]
