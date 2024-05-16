@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "16-05-2024 , 14:38:00",
+  "lastUpdate": "16-05-2024 , 14:47:09",
   "data": [
-    [
-      {
-        "title": "Spreidingswet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Spreidingswet",
-        "pubdate": "Thu, 16 May 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Juventus",
@@ -24,8 +17,8 @@
     ],
     [
       {
-        "title": "Coalitieakkoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Coalitieakkoord",
+        "title": "Geert Wilders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Geert%20Wilders",
         "pubdate": "Wed, 15 May 2024 19:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Israel",
         "pubdate": "Fri, 10 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa",
+        "pubdate": "Fri, 10 May 2024 12:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-05-2024 , 14:38:03",
+  "lastUpdate": "16-05-2024 , 14:47:11",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Adam Sandler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Adam%20Sandler",
+        "pubdate": "Thu, 16 May 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Geert Wilders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Geert%20Wilders",
         "pubdate": "Thu, 16 May 2024 12:00:00 +0200"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Adam Sandler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Adam%20Sandler",
-        "pubdate": "Thu, 16 May 2024 15:00:00 +0200"
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
+        "pubdate": "Thu, 16 May 2024 12:00:00 +0200"
       }
     ],
     [
@@ -87,30 +94,9 @@
     ],
     [
       {
-        "title": "Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sevilla",
-        "pubdate": "Wed, 15 May 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chelsea FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
         "pubdate": "Wed, 15 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atletico%20Madrid",
-        "pubdate": "Wed, 15 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pep Guardiola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pep%20Guardiola",
-        "pubdate": "Wed, 15 May 2024 07:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus",
+        "pubdate": "Wed, 15 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Letby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Letby",
         "pubdate": "Wed, 15 May 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mike Tyson vs Jake Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mike%20Tyson%20vs%20Jake%20Paul",
+        "pubdate": "Wed, 15 May 2024 00:00:00 +0200"
       }
     ]
   ]
