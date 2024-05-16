@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "16-05-2024 , 10:47:06",
+  "lastUpdate": "16-05-2024 , 10:56:36",
   "data": [
     [
       {
-        "title": "Van Zwol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Zwol",
-        "pubdate": "Thu, 16 May 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Atalanta",
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Juventus",
         "pubdate": "Thu, 16 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jordi Paulina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jordi%20Paulina",
-        "pubdate": "Thu, 16 May 2024 08:00:00 +0200"
       }
     ],
     [
@@ -31,9 +17,16 @@
     ],
     [
       {
-        "title": "Geert Wilders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Geert%20Wilders",
+        "title": "Coalitieakkoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Coalitieakkoord",
         "pubdate": "Wed, 15 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vattenfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vattenfall",
+        "pubdate": "Wed, 15 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Joost Klein Nieuws",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joost%20Klein%20Nieuws",
         "pubdate": "Fri, 10 May 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joost",
+        "pubdate": "Fri, 10 May 2024 01:00:00 +0200"
       }
     ]
   ]
