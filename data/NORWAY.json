@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2024 , 05:43:14",
+  "lastUpdate": "17-05-2024 , 05:52:37",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "VIF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#VIF",
         "pubdate": "Fri, 17 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Herrebunad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Herrebunad",
+        "pubdate": "Fri, 17 May 2024 01:00:00 +0200"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Eliteserien 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eliteserien%202024",
-        "pubdate": "Thu, 16 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bodø/Glimt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
         "pubdate": "Thu, 16 May 2024 17:00:00 +0200"
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Viking",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
-        "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
+        "title": "Bridgerton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bridgerton",
+        "pubdate": "Thu, 16 May 2024 16:00:00 +0200"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Viking",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
+        "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sarpsborg 08",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarpsborg%2008",
         "pubdate": "Thu, 16 May 2024 19:00:00 +0200"
@@ -115,30 +122,23 @@
     ],
     [
       {
-        "title": "J2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#J2",
-        "pubdate": "Thu, 16 May 2024 00:00:00 +0200"
+        "title": "Barnetoget Oslo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barnetoget%20Oslo",
+        "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "17.mai tog",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#17.mai%20tog",
-        "pubdate": "Thu, 16 May 2024 14:00:00 +0200"
+        "title": "Marit Arnstad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Marit%20Arnstad",
+        "pubdate": "Thu, 16 May 2024 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "17.mai Program",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#17.mai%20Program",
+        "title": "17.mai program",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#17.mai%20program",
         "pubdate": "Thu, 16 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Streik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Streik",
-        "pubdate": "Thu, 16 May 2024 07:00:00 +0200"
       }
     ]
   ]
