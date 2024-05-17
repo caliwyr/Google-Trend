@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2024 , 04:48:48",
+  "lastUpdate": "17-05-2024 , 04:58:18",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Furiosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Furiosa",
         "pubdate": "Thu, 16 May 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Digi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Digi",
-        "pubdate": "Thu, 16 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Umicore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Umicore",
+        "pubdate": "Thu, 16 May 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Judith Godrèche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Judith%20Godr%C3%A8che",
         "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
@@ -111,13 +111,6 @@
         "title": "Interpol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Interpol",
         "pubdate": "Thu, 16 May 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Koning Albert 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Koning%20Albert%202",
-        "pubdate": "Thu, 16 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Coely",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coely",
         "pubdate": "Thu, 16 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pays-Bas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pays-Bas",
+        "pubdate": "Thu, 16 May 2024 18:00:00 +0200"
       }
     ]
   ]
