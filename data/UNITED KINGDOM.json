@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2024 , 10:40:39",
+  "lastUpdate": "17-05-2024 , 10:50:00",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Billie%20Eilish",
         "pubdate": "Fri, 17 May 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "David Wagner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#David%20Wagner",
+        "pubdate": "Fri, 17 May 2024 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Furiosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Furiosa",
         "pubdate": "Thu, 16 May 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chris Hemsworth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chris%20Hemsworth",
-        "pubdate": "Thu, 16 May 2024 20:00:00 +0100"
       }
     ]
   ]

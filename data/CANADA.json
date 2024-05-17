@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "17-05-2024 , 10:40:30",
+  "lastUpdate": "17-05-2024 , 10:49:49",
   "data": [
+    [
+      {
+        "title": "Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nuggets",
+        "pubdate": "Fri, 17 May 2024 06:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "BC Hydro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BC%20Hydro",
         "pubdate": "Fri, 17 May 2024 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Megalopolis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Megalopolis",
-        "pubdate": "Fri, 17 May 2024 00:00:00 -0400"
       }
     ],
     [
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "Loblaws Grocery Code of Conduct",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Loblaws%20Grocery%20Code%20of%20Conduct",
+        "title": "Megalopolis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Megalopolis",
+        "pubdate": "Fri, 17 May 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Loblaws grocery code of conduct",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Loblaws%20grocery%20code%20of%20conduct",
         "pubdate": "Fri, 17 May 2024 00:00:00 -0400"
       }
     ],
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Rangers vs Hurricanes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rangers%20vs%20Hurricanes",
-        "pubdate": "Thu, 16 May 2024 22:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Vladimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vladimir%20Putin",
         "pubdate": "Thu, 16 May 2024 11:00:00 -0400"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Francesca Bridgerton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Francesca%20Bridgerton",
-        "pubdate": "Thu, 16 May 2024 15:00:00 -0400"
+        "title": "Rangers vs Hurricanes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rangers%20vs%20Hurricanes",
+        "pubdate": "Thu, 16 May 2024 22:00:00 -0400"
       }
     ]
   ]
