@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2024 , 09:38:56",
+  "lastUpdate": "17-05-2024 , 09:48:28",
   "data": [
     [
       {
@@ -19,7 +19,14 @@
       {
         "title": "It Ends With Us",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#It%20Ends%20With%20Us",
-        "pubdate": "Thu, 16 May 2024 09:00:00 -0700"
+        "pubdate": "Thu, 16 May 2024 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Houston Weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Houston%20Weather",
+        "pubdate": "Thu, 16 May 2024 17:00:00 -0700"
       }
     ],
     [
@@ -38,23 +45,9 @@
     ],
     [
       {
-        "title": "Houston tornado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Houston%20tornado",
-        "pubdate": "Thu, 16 May 2024 20:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "ACM Awards 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#ACM%20Awards%202024",
         "pubdate": "Thu, 16 May 2024 15:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Dallas Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Stars",
-        "pubdate": "Thu, 16 May 2024 04:00:00 -0700"
       }
     ],
     [
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Xander Schauffele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Xander%20Schauffele",
-        "pubdate": "Thu, 16 May 2024 14:00:00 -0700"
+        "title": "Liberty vs Fever",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liberty%20vs%20Fever",
+        "pubdate": "Thu, 16 May 2024 18:00:00 -0700"
       }
     ],
     [
@@ -83,13 +76,6 @@
         "title": "Scottie Scheffler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Scottie%20Scheffler",
         "pubdate": "Thu, 16 May 2024 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Nicola Coughlan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nicola%20Coughlan",
-        "pubdate": "Thu, 16 May 2024 15:00:00 -0700"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Monterrey Cruz Azul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Monterrey%20Cruz%20Azul",
+        "pubdate": "Thu, 16 May 2024 21:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Mike Johnson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mike%20Johnson",
         "pubdate": "Thu, 16 May 2024 08:00:00 -0700"
@@ -139,6 +132,13 @@
         "title": "Cleveland cavaliers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cleveland%20cavaliers",
         "pubdate": "Thu, 16 May 2024 04:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Daniel Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniel%20Perry",
+        "pubdate": "Thu, 16 May 2024 16:00:00 -0700"
       }
     ]
   ]
