@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2024 , 18:40:25",
+  "lastUpdate": "17-05-2024 , 18:49:50",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "NAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
         "pubdate": "Fri, 17 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kafka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kafka",
+        "pubdate": "Fri, 17 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Gijs Staverman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gijs%20Staverman",
+        "pubdate": "Thu, 16 May 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "VVD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VVD",
         "pubdate": "Thu, 16 May 2024 02:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "UvA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#UvA",
         "pubdate": "Mon, 13 May 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Moederdag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Moederdag",
-        "pubdate": "Sun, 12 May 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
-        "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
       }
     ]
   ]
