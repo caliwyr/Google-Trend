@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "17-05-2024 , 11:45:23",
+  "lastUpdate": "17-05-2024 , 11:55:01",
   "data": [
     [
       {
         "title": "René Froger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ren%C3%A9%20Froger",
         "pubdate": "Fri, 17 May 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "GTA 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GTA%206",
-        "pubdate": "Fri, 17 May 2024 12:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Coalitieakkoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Coalitieakkoord",
         "pubdate": "Thu, 16 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rode diesel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rode%20diesel",
+        "pubdate": "Thu, 16 May 2024 11:00:00 +0200"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Timmermans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Timmermans",
-        "pubdate": "Thu, 16 May 2024 18:00:00 +0200"
+        "title": "VVD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#VVD",
+        "pubdate": "Thu, 16 May 2024 02:00:00 +0200"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Hoofdlijnenakkoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hoofdlijnenakkoord",
         "pubdate": "Wed, 15 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kabinet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kabinet",
-        "pubdate": "Wed, 15 May 2024 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Excelsior",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
         "pubdate": "Sun, 12 May 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sc Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sc%20Heerenveen",
+        "pubdate": "Sun, 12 May 2024 14:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2024 , 11:45:20",
+  "lastUpdate": "17-05-2024 , 11:54:58",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#GTA%206",
         "pubdate": "Fri, 17 May 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Billie Eilish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Billie%20Eilish",
+        "pubdate": "Fri, 17 May 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Magnus Carlsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Magnus%20Carlsen",
+        "pubdate": "Fri, 17 May 2024 00:00:00 +0200"
       }
     ],
     [
@@ -48,13 +62,6 @@
         "title": "Singen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Singen",
         "pubdate": "Thu, 16 May 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pellworm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pellworm",
-        "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tuchel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuchel",
         "pubdate": "Mon, 13 May 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
-        "pubdate": "Mon, 13 May 2024 11:00:00 +0200"
       }
     ]
   ]
