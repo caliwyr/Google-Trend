@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-05-2024 , 06:40:24",
+  "lastUpdate": "17-05-2024 , 06:49:36",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Unwetterwarnung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Unwetterwarnung",
+        "pubdate": "Thu, 16 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Joan Collins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joan%20Collins",
         "pubdate": "Thu, 16 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Regenradar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Regenradar",
+        "pubdate": "Thu, 16 May 2024 12:00:00 +0200"
       }
     ],
     [
@@ -80,16 +94,16 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
-        "pubdate": "Thu, 16 May 2024 23:00:00 +0200"
+        "title": "Vanessa Herzog",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vanessa%20Herzog",
+        "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Vanessa Herzog",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vanessa%20Herzog",
-        "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
+        "pubdate": "Thu, 16 May 2024 23:00:00 +0200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Rebecca Mir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rebecca%20Mir",
-        "pubdate": "Thu, 16 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hitler-Käfer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hitler-K%C3%A4fer",
-        "pubdate": "Thu, 16 May 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ghost of Tsushima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ghost%20of%20Tsushima",
-        "pubdate": "Thu, 16 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Victoria Silvstedt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Victoria%20Silvstedt",
         "pubdate": "Thu, 16 May 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rebecca Mir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rebecca%20Mir",
+        "pubdate": "Thu, 16 May 2024 22:00:00 +0200"
       }
     ]
   ]
