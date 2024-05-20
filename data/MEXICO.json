@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-05-2024 , 01:09:38",
+  "lastUpdate": "20-05-2024 , 02:05:53",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#La%20Liga",
+        "pubdate": "Sun, 19 May 2024 16:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "LaLiga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#LaLiga",
         "pubdate": "Sun, 19 May 2024 12:00:00 -0600"
@@ -34,6 +41,20 @@
         "title": "Arsenal - Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arsenal%20-%20Everton",
         "pubdate": "Sun, 19 May 2024 09:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Luton  Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Luton%20%20Fulham",
+        "pubdate": "Sun, 19 May 2024 10:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea - Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chelsea%20-%20Bournemouth",
+        "pubdate": "Sun, 19 May 2024 10:00:00 -0600"
       }
     ],
     [
@@ -55,6 +76,13 @@
         "title": "Valencia CF  Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Valencia%20CF%20%20Girona",
         "pubdate": "Sun, 19 May 2024 13:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Timberwolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Timberwolves",
+        "pubdate": "Sun, 19 May 2024 19:00:00 -0600"
       }
     ],
     [
@@ -101,16 +129,9 @@
     ],
     [
       {
-        "title": "Roma  Genoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Roma%20%20Genoa",
+        "title": "Roma - Genoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Roma%20-%20Genoa",
         "pubdate": "Sun, 19 May 2024 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea - Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chelsea%20-%20Bournemouth",
-        "pubdate": "Sun, 19 May 2024 10:00:00 -0600"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Betis - Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Betis%20-%20Real%20Sociedad",
         "pubdate": "Sun, 19 May 2024 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chelsea",
-        "pubdate": "Sun, 19 May 2024 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "King Kong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#King%20Kong",
-        "pubdate": "Sun, 19 May 2024 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Crystal Palace  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Crystal%20Palace%20%20Aston%20Villa",
-        "pubdate": "Sun, 19 May 2024 11:00:00 -0600"
       }
     ]
   ]
