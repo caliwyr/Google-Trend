@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "20-05-2024 , 13:48:51",
+  "lastUpdate": "20-05-2024 , 13:58:05",
   "data": [
     [
       {
         "title": "金塊 對 灰狼",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%87%91%E5%A1%8A%20%E5%B0%8D%20%E7%81%B0%E7%8B%BC",
         "pubdate": "Mon, 20 May 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "鳴潮",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%B3%B4%E6%BD%AE",
-        "pubdate": "Mon, 20 May 2024 02:00:00 +0800"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "台股",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E8%82%A1",
+        "pubdate": "Mon, 20 May 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "國宴",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%8B%E5%AE%B4",
         "pubdate": "Mon, 20 May 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "卓榮泰",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8D%93%E6%A6%AE%E6%B3%B0",
+        "pubdate": "Mon, 20 May 2024 11:00:00 +0800"
       }
     ],
     [
@@ -52,16 +59,9 @@
     ],
     [
       {
-        "title": "溜馬",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%BA%9C%E9%A6%AC",
-        "pubdate": "Mon, 20 May 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "所羅門",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%89%80%E7%BE%85%E9%96%80",
-        "pubdate": "Mon, 20 May 2024 11:00:00 +0800"
+        "title": "警政署長",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%AD%A6%E6%94%BF%E7%BD%B2%E9%95%B7",
+        "pubdate": "Mon, 20 May 2024 21:00:00 +0800"
       }
     ],
     [
@@ -80,23 +80,30 @@
     ],
     [
       {
-        "title": "基隆",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9F%BA%E9%9A%86",
-        "pubdate": "Mon, 20 May 2024 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "行政院",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%A1%8C%E6%94%BF%E9%99%A2",
-        "pubdate": "Mon, 20 May 2024 16:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "馬英九",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%A6%AC%E8%8B%B1%E4%B9%9D",
         "pubdate": "Mon, 20 May 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "林佳龍",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E4%BD%B3%E9%BE%8D",
+        "pubdate": "Mon, 20 May 2024 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "溜馬",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%BA%9C%E9%A6%AC",
+        "pubdate": "Mon, 20 May 2024 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "華新",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8F%AF%E6%96%B0",
+        "pubdate": "Mon, 20 May 2024 17:00:00 +0800"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "華新",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8F%AF%E6%96%B0",
-        "pubdate": "Mon, 20 May 2024 17:00:00 +0800"
+        "title": "大盤",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A4%A7%E7%9B%A4",
+        "pubdate": "Mon, 20 May 2024 15:00:00 +0800"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "法網",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B3%95%E7%B6%B2",
-        "pubdate": "Mon, 20 May 2024 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "ASML",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#ASML",
         "pubdate": "Mon, 20 May 2024 20:00:00 +0800"
       }
     ]
