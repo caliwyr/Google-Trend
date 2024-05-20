@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-05-2024 , 05:46:30",
+  "lastUpdate": "20-05-2024 , 05:55:57",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Whitsun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Whitsun",
-        "pubdate": "Sun, 19 May 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Tyson Fury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tyson%20Fury",
         "pubdate": "Sat, 18 May 2024 12:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Kwan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kwan",
         "pubdate": "Sat, 18 May 2024 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Shani Louk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shani%20Louk",
+        "pubdate": "Sat, 18 May 2024 00:00:00 +0300"
       }
     ]
   ]
