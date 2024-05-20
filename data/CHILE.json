@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "20-05-2024 , 16:46:45",
+  "lastUpdate": "20-05-2024 , 16:56:09",
   "data": [
     [
       {
-        "title": "Tiempo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tiempo",
-        "pubdate": "Mon, 20 May 2024 06:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Tiempo en Santiago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tiempo%20en%20Santiago",
+        "title": "El tiempo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20tiempo",
         "pubdate": "Mon, 20 May 2024 06:00:00 -0400"
       }
     ],
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Roland Garros 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roland%20Garros%202024",
-        "pubdate": "Mon, 20 May 2024 09:00:00 -0400"
+        "title": "Sopaipillas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sopaipillas",
+        "pubdate": "Mon, 20 May 2024 11:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Sopaipillas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sopaipillas",
-        "pubdate": "Mon, 20 May 2024 11:00:00 -0400"
+        "title": "Roland Garros 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roland%20Garros%202024",
+        "pubdate": "Mon, 20 May 2024 09:00:00 -0400"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Tiempo en Santiago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tiempo%20en%20Santiago",
+        "pubdate": "Sun, 19 May 2024 22:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Iran",
         "pubdate": "Sun, 19 May 2024 13:00:00 -0400"
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "Barcelona - Rayo Vallecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20-%20Rayo%20Vallecano",
+        "title": "Barcelona  Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20%20Rayo%20Vallecano",
         "pubdate": "Sun, 19 May 2024 13:00:00 -0400"
       }
     ],
@@ -90,6 +90,13 @@
         "title": "Inter  Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20%20Lazio",
         "pubdate": "Sun, 19 May 2024 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Ñublense  O'Higgins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#%C3%91ublense%20%20O'Higgins",
+        "pubdate": "Sun, 19 May 2024 13:00:00 -0400"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#LaLiga",
-        "pubdate": "Sun, 19 May 2024 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Roland Garros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roland%20Garros",
         "pubdate": "Sun, 19 May 2024 18:00:00 -0400"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
-        "pubdate": "Sun, 19 May 2024 13:00:00 -0400"
+        "title": "Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rangers",
+        "pubdate": "Sun, 19 May 2024 21:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Wanderers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wanderers",
-        "pubdate": "Sun, 19 May 2024 21:00:00 -0400"
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#LaLiga",
+        "pubdate": "Sun, 19 May 2024 16:00:00 -0400"
       }
     ]
   ]
