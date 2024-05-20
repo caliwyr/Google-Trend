@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-05-2024 , 07:51:29",
+  "lastUpdate": "20-05-2024 , 08:09:11",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Barcelona - Rayo Vallecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Barcelona%20-%20Rayo%20Vallecano",
+        "title": "Barcelona  Rayo Vallecano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Barcelona%20%20Rayo%20Vallecano",
         "pubdate": "Sun, 19 May 2024 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#LaLiga",
+        "pubdate": "Sun, 19 May 2024 12:00:00 -0600"
       }
     ],
     [
@@ -40,13 +47,6 @@
       {
         "title": "America vs Cruz Azul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#America%20vs%20Cruz%20Azul",
-        "pubdate": "Sun, 19 May 2024 14:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#LaLiga",
         "pubdate": "Sun, 19 May 2024 14:00:00 -0600"
       }
     ],
@@ -101,23 +101,9 @@
     ],
     [
       {
-        "title": "RCD Mallorca  Almería",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#RCD%20Mallorca%20%20Almer%C3%ADa",
-        "pubdate": "Sun, 19 May 2024 12:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Valencia CF  Girona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Valencia%20CF%20%20Girona",
         "pubdate": "Sun, 19 May 2024 13:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Mario Delgado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Mario%20Delgado",
-        "pubdate": "Sun, 19 May 2024 21:00:00 -0600"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Isabel Lascurain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Isabel%20Lascurain",
         "pubdate": "Sun, 19 May 2024 19:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Berterame",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Berterame",
+        "pubdate": "Sun, 19 May 2024 20:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Brighton  Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brighton%20%20Manchester%20United",
+        "pubdate": "Sun, 19 May 2024 10:00:00 -0600"
       }
     ]
   ]
