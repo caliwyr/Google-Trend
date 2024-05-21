@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-05-2024 , 01:10:58",
+  "lastUpdate": "21-05-2024 , 02:03:33",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "YB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
         "pubdate": "Mon, 20 May 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Lugano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
-        "pubdate": "Mon, 20 May 2024 19:00:00 +0200"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "FC Lugano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
+        "pubdate": "Mon, 20 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Goldpreis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Goldpreis",
         "pubdate": "Mon, 20 May 2024 16:00:00 +0200"
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Disparition Ravoire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Disparition%20Ravoire",
+        "pubdate": "Mon, 20 May 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bologna gegen Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bologna%20gegen%20Juventus",
         "pubdate": "Mon, 20 May 2024 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "FC Baden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Baden",
         "pubdate": "Mon, 20 May 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Andy Murray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Andy%20Murray",
-        "pubdate": "Mon, 20 May 2024 19:00:00 +0200"
       }
     ]
   ]
