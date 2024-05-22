@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-05-2024 , 18:41:22",
+  "lastUpdate": "22-05-2024 , 18:50:39",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Giro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Giro",
+        "pubdate": "Wed, 22 May 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Costa Rica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Costa%20Rica",
         "pubdate": "Wed, 22 May 2024 10:00:00 +0200"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Pogacar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pogacar",
-        "pubdate": "Wed, 22 May 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Claudio Ranieri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Claudio%20Ranieri",
         "pubdate": "Wed, 22 May 2024 10:00:00 +0200"
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Charles Aznavour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charles%20Aznavour",
-        "pubdate": "Wed, 22 May 2024 16:00:00 +0200"
+        "title": "Pogacar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pogacar",
+        "pubdate": "Wed, 22 May 2024 01:00:00 +0200"
       }
     ],
     [
@@ -108,23 +108,23 @@
     ],
     [
       {
+        "title": "Charles Aznavour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Charles%20Aznavour",
+        "pubdate": "Wed, 22 May 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mad Max",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mad%20Max",
+        "pubdate": "Wed, 22 May 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vincent Cassel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vincent%20Cassel",
         "pubdate": "Wed, 22 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SBB-Fahrplan 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SBB-Fahrplan%202025",
-        "pubdate": "Wed, 22 May 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nico Hischier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nico%20Hischier",
-        "pubdate": "Wed, 22 May 2024 10:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Nino Niederreiter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nino%20Niederreiter",
-        "pubdate": "Wed, 22 May 2024 00:00:00 +0200"
+        "title": "SBB-Fahrplan 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SBB-Fahrplan%202025",
+        "pubdate": "Wed, 22 May 2024 09:00:00 +0200"
       }
     ]
   ]
