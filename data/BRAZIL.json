@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-05-2024 , 08:40:39",
+  "lastUpdate": "22-05-2024 , 08:50:10",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Bragantino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino",
+        "title": "Bragantino x Sousa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino%20x%20Sousa",
         "pubdate": "Tue, 21 May 2024 06:00:00 -0500"
       }
     ],
@@ -48,6 +48,13 @@
         "title": "Bruno Mars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bruno%20Mars",
         "pubdate": "Tue, 21 May 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Velez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Velez",
+        "pubdate": "Tue, 21 May 2024 18:00:00 -0500"
       }
     ],
     [
@@ -115,30 +122,23 @@
     ],
     [
       {
-        "title": "Carla Salle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carla%20Salle",
-        "pubdate": "Tue, 21 May 2024 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "STF jose Dirceu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#STF%20jose%20Dirceu",
-        "pubdate": "Tue, 21 May 2024 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Leptospirose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leptospirose",
-        "pubdate": "Tue, 21 May 2024 05:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Temu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Temu",
+        "title": "Brasileiro Feminino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileiro%20Feminino",
         "pubdate": "Tue, 21 May 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Eliseu Neto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eliseu%20Neto",
+        "pubdate": "Tue, 21 May 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Temperley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Temperley",
+        "pubdate": "Tue, 21 May 2024 20:00:00 -0500"
       }
     ]
   ]
