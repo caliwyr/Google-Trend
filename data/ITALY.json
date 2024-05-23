@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-05-2024 , 08:39:53",
+  "lastUpdate": "23-05-2024 , 08:49:24",
   "data": [
-    [
-      {
-        "title": "Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorentina",
-        "pubdate": "Thu, 23 May 2024 06:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Obama. Michelle",
@@ -17,15 +10,22 @@
     ],
     [
       {
-        "title": "Roma in Champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roma%20in%20Champions",
+        "title": "Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorentina",
+        "pubdate": "Thu, 23 May 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bundesliga",
         "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Adani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Adani",
+        "title": "Roma in Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roma%20in%20Champions",
         "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
       }
     ],
@@ -38,8 +38,15 @@
     ],
     [
       {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#UEFA",
+        "title": "Adani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Adani",
+        "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Uefa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Uefa",
         "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
       }
     ],
@@ -52,15 +59,15 @@
     ],
     [
       {
-        "title": "Rishi Sunak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rishi%20Sunak",
+        "title": "Giro d'Italia Padova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giro%20d'Italia%20Padova",
         "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Giro d'Italia Padova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giro%20d'Italia%20Padova",
+        "title": "Rishi Sunak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rishi%20Sunak",
         "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
       }
     ],
@@ -76,6 +83,13 @@
         "title": "Rai1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Rai1",
         "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Greta Isola dei Famosi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Greta%20Isola%20dei%20Famosi",
+        "pubdate": "Thu, 23 May 2024 08:00:00 +0200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Santa Rita da Cascia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Santa%20Rita%20da%20Cascia",
+        "pubdate": "Wed, 22 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chiara Mastroianni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chiara%20Mastroianni",
         "pubdate": "Wed, 22 May 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fabrizio Corona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fabrizio%20Corona",
-        "pubdate": "Wed, 22 May 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Falcone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Falcone",
-        "pubdate": "Wed, 22 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Il principe cerca figlio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20principe%20cerca%20figlio",
-        "pubdate": "Wed, 22 May 2024 21:00:00 +0200"
       }
     ]
   ]
