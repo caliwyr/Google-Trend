@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-05-2024 , 03:44:25",
+  "lastUpdate": "23-05-2024 , 03:53:41",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Serie%20a",
+        "pubdate": "Wed, 22 May 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Santa Rita",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santa%20Rita",
         "pubdate": "Wed, 22 May 2024 12:00:00 +0100"
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Serie%20a",
-        "pubdate": "Wed, 22 May 2024 22:00:00 +0100"
+        "title": "Lapo Elkann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lapo%20Elkann",
+        "pubdate": "Wed, 22 May 2024 18:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Luan Farias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luan%20Farias",
         "pubdate": "Wed, 22 May 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sangue contaminado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sangue%20contaminado",
-        "pubdate": "Wed, 22 May 2024 01:00:00 +0100"
       }
     ]
   ]
