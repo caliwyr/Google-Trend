@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "23-05-2024 , 11:49:12",
+  "lastUpdate": "23-05-2024 , 11:58:45",
   "data": [
     [
       {
         "title": "Kormányinfó",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyinf%C3%B3",
         "pubdate": "Thu, 23 May 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bochkor Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bochkor%20G%C3%A1bor",
-        "pubdate": "Thu, 23 May 2024 09:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Truman show",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Truman%20show",
-        "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
+        "title": "Bochkor Gábor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bochkor%20G%C3%A1bor",
+        "pubdate": "Thu, 23 May 2024 09:00:00 +0200"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Sinkovits-Vitay András",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sinkovits-Vitay%20Andr%C3%A1s",
+        "pubdate": "Thu, 23 May 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sulyok Tamás Karsai Dániel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sulyok%20Tam%C3%A1s%20Karsai%20D%C3%A1niel",
         "pubdate": "Thu, 23 May 2024 08:00:00 +0200"
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Sinkovits-Vitay András",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sinkovits-Vitay%20Andr%C3%A1s",
-        "pubdate": "Thu, 23 May 2024 12:00:00 +0200"
+        "title": "Truman show",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Truman%20show",
+        "pubdate": "Thu, 23 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gulyás Gergely",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Guly%C3%A1s%20Gergely",
+        "pubdate": "Thu, 23 May 2024 13:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Giro d'Italia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Giro%20d'Italia",
         "pubdate": "Wed, 22 May 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tapolca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tapolca",
-        "pubdate": "Wed, 22 May 2024 18:00:00 +0200"
       }
     ]
   ]
