@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-05-2024 , 07:45:36",
+  "lastUpdate": "23-05-2024 , 07:54:53",
   "data": [
+    [
+      {
+        "title": "Nuevo leon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nuevo%20leon",
+        "pubdate": "Wed, 22 May 2024 09:00:00 -0600"
+      }
+    ],
     [
       {
         "title": "Cruz Azul vs america",
@@ -20,20 +27,6 @@
         "title": "Nelly Furtado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nelly%20Furtado",
         "pubdate": "Wed, 22 May 2024 11:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Nuevo leon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Nuevo%20leon",
-        "pubdate": "Wed, 22 May 2024 09:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Samuel García",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Samuel%20Garc%C3%ADa",
-        "pubdate": "Wed, 22 May 2024 00:00:00 -0600"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Piratas del Caribe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Piratas%20del%20Caribe",
-        "pubdate": "Wed, 22 May 2024 14:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Reik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Reik",
         "pubdate": "Wed, 22 May 2024 18:00:00 -0600"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Piratas del Caribe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Piratas%20del%20Caribe",
+        "pubdate": "Wed, 22 May 2024 14:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Oasis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Oasis",
         "pubdate": "Wed, 22 May 2024 08:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Hansi Flick",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hansi%20Flick",
+        "pubdate": "Wed, 22 May 2024 20:00:00 -0600"
       }
     ]
   ]
