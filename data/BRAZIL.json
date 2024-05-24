@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-05-2024 , 01:44:14",
+  "lastUpdate": "24-05-2024 , 02:20:18",
   "data": [
     [
       {
         "title": "Consulta restituição",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Consulta%20restitui%C3%A7%C3%A3o",
         "pubdate": "Thu, 23 May 2024 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "São Paulo x Águia de Marabá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20x%20%C3%81guia%20de%20Marab%C3%A1",
+        "pubdate": "Thu, 23 May 2024 16:00:00 -0500"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Carlo Acutis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carlo%20Acutis",
-        "pubdate": "Thu, 23 May 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Rock in Rio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rock%20in%20Rio",
         "pubdate": "Thu, 23 May 2024 16:00:00 -0500"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "São Paulo x Águia de Marabá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20x%20%C3%81guia%20de%20Marab%C3%A1",
-        "pubdate": "Thu, 23 May 2024 16:00:00 -0500"
+        "title": "Carlo Acutis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carlo%20Acutis",
+        "pubdate": "Thu, 23 May 2024 08:00:00 -0500"
       }
     ],
     [
@@ -54,7 +54,7 @@
       {
         "title": "Paqueta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paqueta",
-        "pubdate": "Thu, 23 May 2024 08:00:00 -0500"
+        "pubdate": "Thu, 23 May 2024 11:00:00 -0500"
       }
     ],
     [
@@ -66,20 +66,6 @@
     ],
     [
       {
-        "title": "Besiktas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Besiktas",
-        "pubdate": "Thu, 23 May 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "CNU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CNU",
-        "pubdate": "Thu, 23 May 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "CRB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
         "pubdate": "Thu, 23 May 2024 12:00:00 -0500"
@@ -87,15 +73,29 @@
     ],
     [
       {
-        "title": "Campeonato Italiano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Italiano",
-        "pubdate": "Thu, 23 May 2024 15:00:00 -0500"
+        "title": "Enem dos Concursos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enem%20dos%20Concursos",
+        "pubdate": "Thu, 23 May 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Besiktas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Besiktas",
+        "pubdate": "Thu, 23 May 2024 09:00:00 -0500"
       }
     ],
     [
       {
         "title": "POCO F6 Pro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#POCO%20F6%20Pro",
+        "pubdate": "Thu, 23 May 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Campeonato Italiano",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Italiano",
         "pubdate": "Thu, 23 May 2024 15:00:00 -0500"
       }
     ],
@@ -122,16 +122,9 @@
     ],
     [
       {
-        "title": "Gabriel Magalhães",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gabriel%20Magalh%C3%A3es",
-        "pubdate": "Thu, 23 May 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Santa Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
-        "pubdate": "Thu, 23 May 2024 19:00:00 -0500"
+        "title": "Esporte Clube Bahia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Esporte%20Clube%20Bahia",
+        "pubdate": "Thu, 23 May 2024 18:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Taiwan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Taiwan",
         "pubdate": "Thu, 23 May 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Gabriel Magalhães",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gabriel%20Magalh%C3%A3es",
+        "pubdate": "Thu, 23 May 2024 09:00:00 -0500"
       }
     ]
   ]
