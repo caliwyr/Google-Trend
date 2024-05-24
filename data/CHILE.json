@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2024 , 09:39:29",
+  "lastUpdate": "24-05-2024 , 09:48:55",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Domino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Domino",
-        "pubdate": "Thu, 23 May 2024 17:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Patricia Benavides",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Patricia%20Benavides",
         "pubdate": "Thu, 23 May 2024 20:00:00 -0400"
@@ -139,6 +132,13 @@
         "title": "Cazzu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cazzu",
         "pubdate": "Thu, 23 May 2024 22:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Noticias de hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20de%20hoy",
+        "pubdate": "Thu, 23 May 2024 12:00:00 -0400"
       }
     ]
   ]
