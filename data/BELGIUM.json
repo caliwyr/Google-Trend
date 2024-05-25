@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2024 , 23:59:44",
+  "lastUpdate": "25-05-2024 , 01:22:21",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Zellik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zellik",
+        "pubdate": "Sat, 25 May 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "EuroLeague",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#EuroLeague",
         "pubdate": "Sat, 25 May 2024 01:00:00 +0200"
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "The Bay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Bay",
-        "pubdate": "Fri, 24 May 2024 21:00:00 +0200"
+        "title": "Morgan Spurlock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Morgan%20Spurlock",
+        "pubdate": "Fri, 24 May 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Morgan Spurlock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Morgan%20Spurlock",
-        "pubdate": "Fri, 24 May 2024 20:00:00 +0200"
+        "title": "The Bay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Bay",
+        "pubdate": "Fri, 24 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Goedele Liekens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Goedele%20Liekens",
         "pubdate": "Fri, 24 May 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#MotoGP",
-        "pubdate": "Fri, 24 May 2024 17:00:00 +0200"
       }
     ]
   ]

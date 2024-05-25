@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-05-2024 , 23:59:45",
+  "lastUpdate": "25-05-2024 , 01:22:22",
   "data": [
     [
       {
@@ -62,6 +62,13 @@
         "title": "Doge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Doge",
         "pubdate": "Fri, 24 May 2024 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "LALIGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#LALIGA",
+        "pubdate": "Fri, 24 May 2024 20:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lluvia en Santiago",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lluvia%20en%20Santiago",
         "pubdate": "Thu, 23 May 2024 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nadal",
-        "pubdate": "Thu, 23 May 2024 14:00:00 -0400"
       }
     ]
   ]
