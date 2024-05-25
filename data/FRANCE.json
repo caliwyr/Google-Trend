@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-05-2024 , 05:48:07",
+  "lastUpdate": "25-05-2024 , 05:57:19",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Fortnite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fortnite",
-        "pubdate": "Fri, 24 May 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "État palestinien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#%C3%89tat%20palestinien",
         "pubdate": "Fri, 24 May 2024 18:00:00 +0200"
@@ -110,6 +103,13 @@
       {
         "title": "Emmanuelle Béart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Emmanuelle%20B%C3%A9art",
+        "pubdate": "Fri, 24 May 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "LOU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOU",
         "pubdate": "Fri, 24 May 2024 23:00:00 +0200"
       }
     ],
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "PSG Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG%20Lyon",
+        "title": "Euro U17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Euro%20U17",
         "pubdate": "Fri, 24 May 2024 22:00:00 +0200"
       }
     ]

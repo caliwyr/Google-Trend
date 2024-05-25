@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-05-2024 , 05:48:05",
+  "lastUpdate": "25-05-2024 , 05:57:17",
   "data": [
+    [
+      {
+        "title": "Michael",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Michael",
+        "pubdate": "Sat, 25 May 2024 00:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Santos",
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Estudiantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Estudiantes",
-        "pubdate": "Fri, 24 May 2024 17:00:00 -0500"
+        "title": "Dia do cafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20cafe",
+        "pubdate": "Fri, 24 May 2024 09:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Dia do cafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20cafe",
-        "pubdate": "Fri, 24 May 2024 09:00:00 -0500"
+        "title": "Estudiantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Estudiantes",
+        "pubdate": "Fri, 24 May 2024 17:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bruna Marquezine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bruna%20Marquezine",
         "pubdate": "Fri, 24 May 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bruno Rodrigues",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bruno%20Rodrigues",
-        "pubdate": "Fri, 24 May 2024 14:00:00 -0500"
       }
     ]
   ]

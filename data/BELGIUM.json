@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-05-2024 , 05:48:04",
+  "lastUpdate": "25-05-2024 , 05:57:17",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "The Bay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Bay",
-        "pubdate": "Fri, 24 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Effondrement restaurant Majorque",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Effondrement%20restaurant%20Majorque",
         "pubdate": "Fri, 24 May 2024 17:00:00 +0200"
@@ -97,13 +90,6 @@
         "title": "Alexander De Croo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alexander%20De%20Croo",
         "pubdate": "Fri, 24 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sammy Mahdi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sammy%20Mahdi",
-        "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#MotoGP",
+        "pubdate": "Fri, 24 May 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pierre de Maere",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pierre%20de%20Maere",
         "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Goedele Liekens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Goedele%20Liekens",
+        "pubdate": "Fri, 24 May 2024 14:00:00 +0200"
       }
     ]
   ]
