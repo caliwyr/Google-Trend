@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-05-2024 , 20:41:41",
+  "lastUpdate": "25-05-2024 , 20:51:11",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Let’s Dance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Let%E2%80%99s%20Dance",
         "pubdate": "Sat, 25 May 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Peter Maffay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Peter%20Maffay",
+        "pubdate": "Sat, 25 May 2024 22:00:00 +0200"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Formel 1 Monaco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201%20Monaco",
+        "title": "Formel-1 Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel-1%20Monaco",
         "pubdate": "Sat, 25 May 2024 10:00:00 +0200"
       }
     ],
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Medusa Beach Club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Medusa%20Beach%20Club",
-        "pubdate": "Fri, 24 May 2024 00:00:00 +0200"
+        "title": "Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mallorca",
+        "pubdate": "Fri, 24 May 2024 02:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
         "pubdate": "Tue, 21 May 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Europa-League-Finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa-League-Finale",
-        "pubdate": "Tue, 21 May 2024 20:00:00 +0200"
       }
     ]
   ]
