@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-05-2024 , 05:47:52",
+  "lastUpdate": "26-05-2024 , 05:57:12",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "FA-cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FA-cup",
-        "pubdate": "Sat, 25 May 2024 03:00:00 +0200"
+        "title": "Allsvenskan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskan",
+        "pubdate": "Sat, 25 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+        "pubdate": "Sat, 25 May 2024 13:00:00 +0200"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Kanada Schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kanada%20Schweiz",
+        "pubdate": "Sat, 25 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Systembolaget problem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Systembolaget%20problem",
         "pubdate": "Sat, 25 May 2024 18:00:00 +0200"
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Kanada Schweiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kanada%20Schweiz",
-        "pubdate": "Sat, 25 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sven-Erik Hotell Romantik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sven-Erik%20Hotell%20Romantik",
         "pubdate": "Sat, 25 May 2024 09:00:00 +0200"
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "IFK Norrköping",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
-        "pubdate": "Sat, 25 May 2024 17:00:00 +0200"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
+        "pubdate": "Sat, 25 May 2024 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PSG",
-        "pubdate": "Sat, 25 May 2024 23:00:00 +0200"
+        "title": "IFK Norrköping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
+        "pubdate": "Sat, 25 May 2024 17:00:00 +0200"
       }
     ],
     [
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Sverige Tjeckien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Tjeckien",
+        "title": "hockey-VM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#hockey-VM",
         "pubdate": "Fri, 24 May 2024 19:00:00 +0200"
       }
     ],
@@ -131,13 +138,6 @@
       {
         "title": "Mff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mff",
-        "pubdate": "Fri, 24 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cornelis Vreeswijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cornelis%20Vreeswijk",
         "pubdate": "Fri, 24 May 2024 21:00:00 +0200"
       }
     ]
