@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-05-2024 , 03:43:32",
+  "lastUpdate": "26-05-2024 , 03:52:49",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "George Lucas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#George%20Lucas",
-        "pubdate": "Sat, 25 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Millie Bobby Brown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Millie%20Bobby%20Brown",
         "pubdate": "Sat, 25 May 2024 08:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#DFB-Pokal",
         "pubdate": "Sat, 25 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "OHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OHL",
+        "pubdate": "Sat, 25 May 2024 22:00:00 +0200"
       }
     ]
   ]
