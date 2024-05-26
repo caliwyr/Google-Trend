@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "26-05-2024 , 19:49:58",
+  "lastUpdate": "26-05-2024 , 19:59:18",
   "data": [
-    [
-      {
-        "title": "French Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#French%20Open",
-        "pubdate": "Sun, 26 May 2024 07:00:00 -0700"
-      }
-    ],
     [
       {
         "title": "Dallas Stars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Stars",
         "pubdate": "Sun, 26 May 2024 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "French Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#French%20Open",
+        "pubdate": "Sun, 26 May 2024 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Roland Garros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Roland%20Garros",
+        "pubdate": "Sun, 26 May 2024 07:00:00 -0700"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Roland Garros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Roland%20Garros",
-        "pubdate": "Sun, 26 May 2024 09:00:00 -0700"
+        "title": "LSU Baseball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#LSU%20Baseball",
+        "pubdate": "Sun, 26 May 2024 11:00:00 -0700"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Oilers vs Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oilers%20vs%20Stars",
-        "pubdate": "Sun, 26 May 2024 00:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Kyle Larson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kyle%20Larson",
         "pubdate": "Sun, 26 May 2024 11:00:00 -0700"
@@ -52,9 +52,23 @@
     ],
     [
       {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nadal",
-        "pubdate": "Sun, 26 May 2024 11:00:00 -0700"
+        "title": "Coca-Cola 600",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Coca-Cola%20600",
+        "pubdate": "Sun, 26 May 2024 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Oilers vs Stars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oilers%20vs%20Stars",
+        "pubdate": "Sun, 26 May 2024 00:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leeds%20United",
+        "pubdate": "Sun, 26 May 2024 12:00:00 -0700"
       }
     ],
     [
@@ -73,15 +87,15 @@
     ],
     [
       {
-        "title": "Monaco Grand Prix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Monaco%20Grand%20Prix",
+        "title": "Nicki Minaj arrested",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nicki%20Minaj%20arrested",
         "pubdate": "Sat, 25 May 2024 10:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Nicki Minaj arrested",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nicki%20Minaj%20arrested",
+        "title": "Monaco Grand Prix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Monaco%20Grand%20Prix",
         "pubdate": "Sat, 25 May 2024 10:00:00 -0700"
       }
     ],
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Ross Ulbricht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ross%20Ulbricht",
-        "pubdate": "Sat, 25 May 2024 20:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Richard Sherman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Richard%20Sherman",
         "pubdate": "Sat, 25 May 2024 22:00:00 -0700"
@@ -132,13 +139,6 @@
         "title": "Maiden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Maiden",
         "pubdate": "Sat, 25 May 2024 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#PSG",
-        "pubdate": "Sat, 25 May 2024 16:00:00 -0700"
       }
     ]
   ]
