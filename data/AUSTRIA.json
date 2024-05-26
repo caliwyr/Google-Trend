@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-05-2024 , 02:42:13",
+  "lastUpdate": "26-05-2024 , 02:51:31",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "GAK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK",
+        "pubdate": "Sat, 25 May 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Taiwan China",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Taiwan%20China",
         "pubdate": "Sat, 25 May 2024 07:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Papua-Neuguinea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Papua-Neuguinea",
         "pubdate": "Sat, 25 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Friedhelm Funkel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Friedhelm%20Funkel",
-        "pubdate": "Sat, 25 May 2024 22:00:00 +0200"
       }
     ]
   ]
