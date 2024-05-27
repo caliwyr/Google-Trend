@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-05-2024 , 17:53:35",
+  "lastUpdate": "27-05-2024 , 18:12:33",
   "data": [
     [
       {
@@ -12,7 +12,7 @@
       {
         "title": "OTP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OTP",
-        "pubdate": "Mon, 27 May 2024 14:00:00 +0200"
+        "pubdate": "Mon, 27 May 2024 13:00:00 +0200"
       }
     ],
     [
@@ -20,6 +20,13 @@
         "title": "Raiffeisen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Raiffeisen",
         "pubdate": "Mon, 27 May 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Online rádió",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Online%20r%C3%A1di%C3%B3",
+        "pubdate": "Mon, 27 May 2024 14:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Erste",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Erste",
         "pubdate": "Mon, 27 May 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Éder Krisztián",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89der%20Kriszti%C3%A1n",
-        "pubdate": "Mon, 27 May 2024 10:00:00 +0200"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "ATV Magyar Péter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#ATV%20Magyar%20P%C3%A9ter",
-        "pubdate": "Mon, 27 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Online számla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Online%20sz%C3%A1mla",
         "pubdate": "Mon, 27 May 2024 15:00:00 +0200"
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "SP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#SP",
+        "pubdate": "Mon, 27 May 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "KSH",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#KSH",
         "pubdate": "Mon, 27 May 2024 11:00:00 +0200"
@@ -108,23 +108,23 @@
     ],
     [
       {
+        "title": "Heti Napló Magyar Péter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Heti%20Napl%C3%B3%20Magyar%20P%C3%A9ter",
+        "pubdate": "Mon, 27 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Baon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Baon",
+        "pubdate": "Mon, 27 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Suhajda Szilárd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Suhajda%20Szil%C3%A1rd",
         "pubdate": "Mon, 27 May 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Portfolio.hu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Portfolio.hu",
-        "pubdate": "Mon, 27 May 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Springsteen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bruce%20Springsteen",
-        "pubdate": "Mon, 27 May 2024 17:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Magyar-német",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar-n%C3%A9met",
-        "pubdate": "Mon, 27 May 2024 16:00:00 +0200"
+        "title": "Portfolio.hu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Portfolio.hu",
+        "pubdate": "Mon, 27 May 2024 17:00:00 +0200"
       }
     ]
   ]
