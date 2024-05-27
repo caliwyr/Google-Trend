@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-05-2024 , 08:32:58",
+  "lastUpdate": "27-05-2024 , 08:42:08",
   "data": [
     [
       {
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "title": "DFB-Pokal finale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal%20finale",
         "pubdate": "Sat, 25 May 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Let’s Dance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Let%E2%80%99s%20Dance",
+        "pubdate": "Sat, 25 May 2024 03:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Relegation Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Relegation%20Bundesliga",
         "pubdate": "Tue, 21 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kompany",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kompany",
-        "pubdate": "Tue, 21 May 2024 10:00:00 +0200"
       }
     ]
   ]
