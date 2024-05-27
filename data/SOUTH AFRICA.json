@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-05-2024 , 08:51:45",
+  "lastUpdate": "27-05-2024 , 09:07:07",
   "data": [
     [
       {
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
-        "pubdate": "Sun, 26 May 2024 08:00:00 +0200"
+        "title": "Elections 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Elections%202024",
+        "pubdate": "Mon, 27 May 2024 09:00:00 +0200"
       }
     ],
     [
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leeds%20United",
+        "pubdate": "Sun, 26 May 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vancouver vs Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Vancouver%20vs%20Inter%20Miami",
         "pubdate": "Sun, 26 May 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Roland-Garros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roland-Garros",
+        "pubdate": "Sun, 26 May 2024 12:00:00 +0200"
       }
     ],
     [
@@ -66,23 +80,9 @@
     ],
     [
       {
-        "title": "Roland-Garros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roland-Garros",
-        "pubdate": "Sun, 26 May 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "French Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#French%20Open",
         "pubdate": "Sun, 26 May 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Proteas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Proteas",
-        "pubdate": "Sun, 26 May 2024 10:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Roland Garros 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roland%20Garros%202024",
-        "pubdate": "Sun, 26 May 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Stellenbosch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Stellenbosch",
         "pubdate": "Sun, 26 May 2024 14:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid",
         "pubdate": "Sat, 25 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Al Ahly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Ahly",
+        "pubdate": "Sat, 25 May 2024 20:00:00 +0200"
       }
     ]
   ]
