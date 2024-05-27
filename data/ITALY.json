@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "27-05-2024 , 01:45:45",
+  "lastUpdate": "27-05-2024 , 02:21:47",
   "data": [
     [
       {
         "title": "Felipe Anderson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Felipe%20Anderson",
         "pubdate": "Mon, 27 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Charlotte Casiraghi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Charlotte%20Casiraghi",
-        "pubdate": "Mon, 27 May 2024 01:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Charlotte Casiraghi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Charlotte%20Casiraghi",
+        "pubdate": "Mon, 27 May 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Empoli-Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Empoli-Roma",
         "pubdate": "Sun, 26 May 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Verona-Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Verona-Inter",
+        "pubdate": "Sun, 26 May 2024 09:00:00 +0200"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Fedez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fedez",
-        "pubdate": "Sun, 26 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vincenzo Mollica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vincenzo%20Mollica",
         "pubdate": "Sun, 26 May 2024 01:00:00 +0200"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Verona-Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Verona-Inter",
-        "pubdate": "Sun, 26 May 2024 09:00:00 +0200"
+        "title": "Fedez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fedez",
+        "pubdate": "Sun, 26 May 2024 19:00:00 +0200"
       }
     ],
     [
@@ -83,13 +83,6 @@
         "title": "Sonego",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sonego",
         "pubdate": "Sun, 26 May 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lazio-Sassuolo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lazio-Sassuolo",
-        "pubdate": "Sun, 26 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bruce Springsteen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bruce%20Springsteen",
         "pubdate": "Sun, 26 May 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nadal",
+        "pubdate": "Sun, 26 May 2024 23:00:00 +0200"
       }
     ]
   ]
