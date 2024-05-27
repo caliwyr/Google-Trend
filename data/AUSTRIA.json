@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-05-2024 , 20:52:14",
+  "lastUpdate": "27-05-2024 , 21:07:59",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "AMS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AMS",
+        "pubdate": "Mon, 27 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Outlook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Outlook",
         "pubdate": "Mon, 27 May 2024 12:00:00 +0200"
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Rafah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rafah",
+        "pubdate": "Mon, 27 May 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Papua-Neuguinea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Papua-Neuguinea",
         "pubdate": "Mon, 27 May 2024 20:00:00 +0200"
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Rafah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rafah",
-        "pubdate": "Mon, 27 May 2024 11:00:00 +0200"
+        "title": "Düsseldorf gegen Bochum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#D%C3%BCsseldorf%20gegen%20Bochum",
+        "pubdate": "Mon, 27 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Georgie Campbell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Georgie%20Campbell",
+        "pubdate": "Mon, 27 May 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Putin",
         "pubdate": "Mon, 27 May 2024 12:00:00 +0200"
@@ -94,15 +115,8 @@
     ],
     [
       {
-        "title": "Georgie Campbell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Georgie%20Campbell",
-        "pubdate": "Mon, 27 May 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Düsseldorf gegen Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#D%C3%BCsseldorf%20gegen%20Bochum",
+        "title": "Frunk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frunk",
         "pubdate": "Mon, 27 May 2024 21:00:00 +0200"
       }
     ],
@@ -111,13 +125,6 @@
         "title": "DHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DHL",
         "pubdate": "Mon, 27 May 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Frunk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frunk",
-        "pubdate": "Mon, 27 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Penny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Penny",
         "pubdate": "Mon, 27 May 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eu wahl Österreich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eu%20wahl%20%C3%96sterreich",
-        "pubdate": "Mon, 27 May 2024 07:00:00 +0200"
       }
     ]
   ]
