@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-05-2024 , 16:51:16",
+  "lastUpdate": "28-05-2024 , 17:00:46",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Bochum Düsseldorf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bochum%20D%C3%BCsseldorf",
-        "pubdate": "Mon, 27 May 2024 19:00:00 +0200"
+        "title": "Macron Münster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron%20M%C3%BCnster",
+        "pubdate": "Tue, 28 May 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fortuna Düsseldorf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fortuna%20D%C3%BCsseldorf",
+        "pubdate": "Mon, 27 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "DAX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAX",
+        "title": "Dax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
         "pubdate": "Mon, 27 May 2024 12:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "MDR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
         "pubdate": "Sat, 25 May 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sylt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sylt",
-        "pubdate": "Fri, 24 May 2024 09:00:00 +0200"
       }
     ]
   ]
