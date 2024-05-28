@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "28-05-2024 , 12:50:16",
+  "lastUpdate": "28-05-2024 , 13:07:09",
   "data": [
     [
       {
         "title": "Rafah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rafah",
         "pubdate": "Tue, 28 May 2024 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "George Lucas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#George%20Lucas",
+        "pubdate": "Tue, 28 May 2024 01:00:00 +0300"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "James Bond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#James%20Bond",
         "pubdate": "Mon, 27 May 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "39",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#39",
+        "pubdate": "Mon, 27 May 2024 18:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Mauritius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mauritius",
         "pubdate": "Sun, 26 May 2024 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Dallas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dallas",
-        "pubdate": "Sun, 26 May 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Erik Karlsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Erik%20Karlsson",
-        "pubdate": "Sun, 26 May 2024 13:00:00 +0300"
       }
     ]
   ]
