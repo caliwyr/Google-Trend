@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-05-2024 , 14:47:42",
+  "lastUpdate": "29-05-2024 , 14:57:01",
   "data": [
     [
       {
@@ -24,9 +24,30 @@
     ],
     [
       {
+        "title": "Nando's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nando's",
+        "pubdate": "Wed, 29 May 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mk",
         "pubdate": "Wed, 29 May 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "John Steenhuisen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#John%20Steenhuisen",
+        "pubdate": "Wed, 29 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Sociedad",
+        "pubdate": "Wed, 29 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -87,6 +108,13 @@
     ],
     [
       {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Novak%20Djokovic",
+        "pubdate": "Tue, 28 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Malmo FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Malmo%20FF",
         "pubdate": "Tue, 28 May 2024 20:00:00 +0200"
@@ -94,8 +122,8 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Novak%20Djokovic",
+        "title": "Political parties",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Political%20parties",
         "pubdate": "Tue, 28 May 2024 22:00:00 +0200"
       }
     ],
@@ -111,34 +139,6 @@
         "title": "Richard Dreyfuss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Richard%20Dreyfuss",
         "pubdate": "Tue, 28 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Voting times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Voting%20times",
-        "pubdate": "Mon, 27 May 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Saudi Pro League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Saudi%20Pro%20League",
-        "pubdate": "Mon, 27 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Johnny Wactor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Johnny%20Wactor",
-        "pubdate": "Mon, 27 May 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Register to vote",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Register%20to%20vote",
-        "pubdate": "Mon, 27 May 2024 07:00:00 +0200"
       }
     ]
   ]
