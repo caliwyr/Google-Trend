@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-05-2024 , 07:41:29",
+  "lastUpdate": "29-05-2024 , 07:50:50",
   "data": [
+    [
+      {
+        "title": "Rafah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rafah",
+        "pubdate": "Wed, 29 May 2024 05:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Jahn Regensburg",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Rheinmetall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rheinmetall",
-        "pubdate": "Tue, 28 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Macron Münster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron%20M%C3%BCnster",
         "pubdate": "Tue, 28 May 2024 12:00:00 +0200"
@@ -55,13 +55,6 @@
         "title": "Kerber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kerber",
         "pubdate": "Tue, 28 May 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rafah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rafah",
-        "pubdate": "Mon, 27 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -87,8 +80,8 @@
     ],
     [
       {
-        "title": "DAX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAX",
+        "title": "Dax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
         "pubdate": "Mon, 27 May 2024 12:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
         "pubdate": "Sun, 26 May 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "French Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#French%20Open",
+        "pubdate": "Sun, 26 May 2024 12:00:00 +0200"
       }
     ]
   ]
