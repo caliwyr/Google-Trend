@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-05-2024 , 18:41:40",
+  "lastUpdate": "29-05-2024 , 18:50:56",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Mapei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mapei",
-        "pubdate": "Wed, 29 May 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brand Rohrbach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brand%20Rohrbach",
         "pubdate": "Wed, 29 May 2024 08:00:00 +0200"
@@ -45,23 +38,9 @@
     ],
     [
       {
-        "title": "Louis Schaub",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Louis%20Schaub",
-        "pubdate": "Wed, 29 May 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nikki Haley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nikki%20Haley",
         "pubdate": "Wed, 29 May 2024 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stefanos Tsitsipas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stefanos%20Tsitsipas",
-        "pubdate": "Wed, 29 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -73,9 +52,23 @@
     ],
     [
       {
+        "title": "Stefanos Tsitsipas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stefanos%20Tsitsipas",
+        "pubdate": "Wed, 29 May 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rheinmetall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rheinmetall",
         "pubdate": "Wed, 29 May 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dominik Frieser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dominik%20Frieser",
+        "pubdate": "Wed, 29 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Kongo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kongo",
-        "pubdate": "Wed, 29 May 2024 16:00:00 +0200"
+        "title": "Rotwandhaus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rotwandhaus",
+        "pubdate": "Wed, 29 May 2024 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Rotwandhaus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rotwandhaus",
-        "pubdate": "Wed, 29 May 2024 17:00:00 +0200"
+        "title": "Kongo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kongo",
+        "pubdate": "Wed, 29 May 2024 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novak%20Djokovic",
         "pubdate": "Tue, 28 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "EZB Zinssenkung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB%20Zinssenkung",
+        "pubdate": "Tue, 28 May 2024 15:00:00 +0200"
       }
     ]
   ]
