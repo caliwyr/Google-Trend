@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "29-05-2024 , 10:44:06",
+  "lastUpdate": "29-05-2024 , 10:53:37",
   "data": [
     [
       {
-        "title": "Jahn Regensburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jahn%20Regensburg",
-        "pubdate": "Tue, 28 May 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trade Republic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trade%20Republic",
+        "title": "Wehen Wiesbaden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wehen%20Wiesbaden",
         "pubdate": "Tue, 28 May 2024 14:00:00 +0200"
       }
     ],
@@ -20,6 +13,13 @@
         "title": "Rheinmetall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rheinmetall",
         "pubdate": "Tue, 28 May 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Trade Republic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trade%20Republic",
+        "pubdate": "Tue, 28 May 2024 14:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Düsseldorf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#D%C3%BCsseldorf",
-        "pubdate": "Mon, 27 May 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Apotheke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apotheke",
         "pubdate": "Mon, 27 May 2024 19:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Kommunalwahl Thüringen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kommunalwahl%20Th%C3%BCringen",
         "pubdate": "Sun, 26 May 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron",
+        "pubdate": "Sun, 26 May 2024 18:00:00 +0200"
       }
     ]
   ]
