@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "30-05-2024 , 18:41:58",
+  "lastUpdate": "30-05-2024 , 18:51:10",
   "data": [
-    [
-      {
-        "title": "News24",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#News24",
-        "pubdate": "Thu, 30 May 2024 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Weather Cape Town",
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Pa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pa",
+        "pubdate": "Thu, 30 May 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "UEFA Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Conference%20League",
         "pubdate": "Thu, 30 May 2024 00:00:00 +0200"
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "North Korea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#North%20Korea",
-        "pubdate": "Thu, 30 May 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Eastern Cape",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Eastern%20Cape",
         "pubdate": "Thu, 30 May 2024 17:00:00 +0200"
@@ -83,6 +76,20 @@
         "title": "Bafana Bafana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bafana%20Bafana",
         "pubdate": "Thu, 30 May 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "North Korea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#North%20Korea",
+        "pubdate": "Thu, 30 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pakistan vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pakistan%20vs%20England",
+        "pubdate": "Thu, 30 May 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Olympiacos vs Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Olympiacos%20vs%20Fiorentina",
         "pubdate": "Wed, 29 May 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Patriotic Alliance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Patriotic%20Alliance",
-        "pubdate": "Wed, 29 May 2024 09:00:00 +0200"
       }
     ]
   ]
