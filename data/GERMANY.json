@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-05-2024 , 10:43:06",
+  "lastUpdate": "30-05-2024 , 10:52:18",
   "data": [
+    [
+      {
+        "title": "Fronleichnam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fronleichnam",
+        "pubdate": "Wed, 29 May 2024 17:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Conference League",
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Swiatek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Swiatek",
-        "pubdate": "Wed, 29 May 2024 21:00:00 +0200"
+        "title": "Hagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hagen",
+        "pubdate": "Wed, 29 May 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hagen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hagen",
-        "pubdate": "Wed, 29 May 2024 20:00:00 +0200"
+        "title": "Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Swiatek",
+        "pubdate": "Wed, 29 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "French Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#French%20Open",
         "pubdate": "Sun, 26 May 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
-        "pubdate": "Sun, 26 May 2024 20:00:00 +0200"
       }
     ]
   ]
