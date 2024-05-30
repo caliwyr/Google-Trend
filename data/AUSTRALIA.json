@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-05-2024 , 16:43:00",
+  "lastUpdate": "30-05-2024 , 16:52:12",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MLS",
+        "pubdate": "Thu, 30 May 2024 12:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Archibald Prize 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Archibald%20Prize%202024",
         "pubdate": "Thu, 30 May 2024 16:00:00 +1000"
@@ -132,13 +139,6 @@
         "title": "Cooper Lord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cooper%20Lord",
         "pubdate": "Thu, 30 May 2024 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Dancing for the Devil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dancing%20for%20the%20Devil",
-        "pubdate": "Thu, 30 May 2024 17:00:00 +1000"
       }
     ]
   ]
