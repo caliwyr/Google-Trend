@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "30-05-2024 , 02:36:43",
+  "lastUpdate": "30-05-2024 , 02:48:14",
   "data": [
     [
       {
         "title": "Conference League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Conference%20League",
         "pubdate": "Wed, 29 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fronleichnam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fronleichnam",
-        "pubdate": "Wed, 29 May 2024 17:00:00 +0200"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Europa conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20conference%20League",
+        "pubdate": "Wed, 29 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Geraldine Rauch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Geraldine%20Rauch",
         "pubdate": "Wed, 29 May 2024 15:00:00 +0200"
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Europa conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20conference%20League",
-        "pubdate": "Wed, 29 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Swiatek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Swiatek",
         "pubdate": "Wed, 29 May 2024 21:00:00 +0200"
@@ -90,13 +83,6 @@
         "title": "Porsche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Porsche",
         "pubdate": "Tue, 28 May 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Strack-Zimmermann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Strack-Zimmermann",
-        "pubdate": "Tue, 28 May 2024 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "L'amour toujours",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#L'amour%20toujours",
         "pubdate": "Mon, 27 May 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dax",
+        "pubdate": "Mon, 27 May 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Apotheke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apotheke",
+        "pubdate": "Mon, 27 May 2024 19:00:00 +0200"
       }
     ]
   ]
