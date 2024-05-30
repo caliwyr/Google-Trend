@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-05-2024 , 22:46:38",
+  "lastUpdate": "30-05-2024 , 22:56:01",
   "data": [
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Donald%20Trump",
+        "pubdate": "Fri, 31 May 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "News24",
@@ -24,15 +31,8 @@
     ],
     [
       {
-        "title": "Election update",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Election%20update",
-        "pubdate": "Thu, 30 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Iec live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Iec%20live",
+        "title": "News 24",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#News%2024",
         "pubdate": "Thu, 30 May 2024 08:00:00 +0200"
       }
     ],
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "UEFA Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Conference%20League",
-        "pubdate": "Thu, 30 May 2024 00:00:00 +0200"
+        "title": "Western Cape",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Western%20Cape",
+        "pubdate": "Thu, 30 May 2024 19:00:00 +0200"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Gauteng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Gauteng",
         "pubdate": "Thu, 30 May 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Conference%20League",
+        "pubdate": "Thu, 30 May 2024 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "NPE 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NPE%202024",
         "pubdate": "Thu, 30 May 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Election results 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Election%20results%202024",
-        "pubdate": "Wed, 29 May 2024 09:00:00 +0200"
       }
     ]
   ]

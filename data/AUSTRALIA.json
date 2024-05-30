@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-05-2024 , 22:46:29",
+  "lastUpdate": "30-05-2024 , 22:55:51",
   "data": [
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trump",
+        "pubdate": "Thu, 30 May 2024 14:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Olympiacos",
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inter%20Miami",
+        "pubdate": "Thu, 30 May 2024 12:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Colin from Accounts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Colin%20from%20Accounts",
         "pubdate": "Thu, 30 May 2024 09:00:00 +1000"
@@ -52,22 +66,8 @@
     ],
     [
       {
-        "title": "Trump trial",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trump%20trial",
-        "pubdate": "Thu, 30 May 2024 14:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Radar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Radar",
-        "pubdate": "Thu, 30 May 2024 12:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inter%20Miami",
         "pubdate": "Thu, 30 May 2024 12:00:00 +1000"
       }
     ],
@@ -83,13 +83,6 @@
         "title": "Archibald Prize 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Archibald%20Prize%202024",
         "pubdate": "Thu, 30 May 2024 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MLS",
-        "pubdate": "Thu, 30 May 2024 12:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Jannik Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jannik%20Sinner",
         "pubdate": "Thu, 30 May 2024 16:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ticketmaster",
+        "pubdate": "Wed, 29 May 2024 18:00:00 +1000"
       }
     ]
   ]
