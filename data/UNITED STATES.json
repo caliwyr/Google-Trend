@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-05-2024 , 03:47:08",
+  "lastUpdate": "31-05-2024 , 03:56:25",
   "data": [
+    [
+      {
+        "title": "Fox news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fox%20news",
+        "pubdate": "Thu, 30 May 2024 20:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Nick Pasqual",
@@ -17,20 +24,6 @@
     ],
     [
       {
-        "title": "Fani Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fani%20Willis",
-        "pubdate": "Thu, 30 May 2024 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Nelly Korda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nelly%20Korda",
-        "pubdate": "Thu, 30 May 2024 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Chad Daybell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chad%20Daybell",
         "pubdate": "Thu, 30 May 2024 14:00:00 -0700"
@@ -38,16 +31,16 @@
     ],
     [
       {
-        "title": "Breaking news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Breaking%20news",
-        "pubdate": "Thu, 30 May 2024 17:00:00 -0700"
+        "title": "Storm vs Fever",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Storm%20vs%20Fever",
+        "pubdate": "Thu, 30 May 2024 18:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Storm vs Fever",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Storm%20vs%20Fever",
-        "pubdate": "Thu, 30 May 2024 18:00:00 -0700"
+        "title": "Breaking news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Breaking%20news",
+        "pubdate": "Thu, 30 May 2024 17:00:00 -0700"
       }
     ],
     [
@@ -66,6 +59,27 @@
     ],
     [
       {
+        "title": "State of Play",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#State%20of%20Play",
+        "pubdate": "Thu, 30 May 2024 17:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Matt Rife",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Matt%20Rife",
+        "pubdate": "Thu, 30 May 2024 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Darren Waller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Darren%20Waller",
+        "pubdate": "Thu, 30 May 2024 20:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump",
         "pubdate": "Wed, 29 May 2024 08:00:00 -0700"
@@ -80,15 +94,15 @@
     ],
     [
       {
-        "title": "Stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stock",
-        "pubdate": "Wed, 29 May 2024 09:00:00 -0700"
+        "title": "Willie Nelson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Willie%20Nelson",
+        "pubdate": "Wed, 29 May 2024 19:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Willie Nelson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Willie%20Nelson",
+        "title": "Jorge Lopez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jorge%20Lopez",
         "pubdate": "Wed, 29 May 2024 19:00:00 -0700"
       }
     ],
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Oilers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Oilers",
-        "pubdate": "Wed, 29 May 2024 22:00:00 -0700"
+        "title": "Stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stock",
+        "pubdate": "Wed, 29 May 2024 09:00:00 -0700"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Ryan Bingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ryan%20Bingham",
-        "pubdate": "Wed, 29 May 2024 19:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Atlanta United  Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Atlanta%20United%20%20Inter%20Miami",
-        "pubdate": "Wed, 29 May 2024 18:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Stop and Shop closing stores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stop%20and%20Shop%20closing%20stores",
-        "pubdate": "Wed, 29 May 2024 17:00:00 -0700"
+        "title": "Edmonton Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Edmonton%20Oilers",
+        "pubdate": "Wed, 29 May 2024 22:00:00 -0700"
       }
     ]
   ]
