@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2024 , 14:44:57",
+  "lastUpdate": "31-05-2024 , 14:54:26",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Leo Borg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leo%20Borg",
-        "pubdate": "Fri, 31 May 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joe%20Biden",
         "pubdate": "Fri, 31 May 2024 14:00:00 +0200"
@@ -38,16 +31,16 @@
     ],
     [
       {
-        "title": "Edvin Ryding",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Edvin%20Ryding",
-        "pubdate": "Thu, 30 May 2024 15:00:00 +0200"
+        "title": "Leo Borg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leo%20Borg",
+        "pubdate": "Fri, 31 May 2024 07:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Diamond League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Diamond%20League",
-        "pubdate": "Thu, 30 May 2024 20:00:00 +0200"
+        "title": "Edvin Ryding",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Edvin%20Ryding",
+        "pubdate": "Thu, 30 May 2024 15:00:00 +0200"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Andreas Almgren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Andreas%20Almgren",
         "pubdate": "Thu, 30 May 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Diamond League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Diamond%20League",
+        "pubdate": "Thu, 30 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -108,9 +108,23 @@
     ],
     [
       {
+        "title": "Mjällby mot Häcken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby%20mot%20H%C3%A4cken",
+        "pubdate": "Wed, 29 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ebba Busch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20Busch",
         "pubdate": "Wed, 29 May 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Astrid Morberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Astrid%20Morberg",
+        "pubdate": "Wed, 29 May 2024 19:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Järvaveckan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#J%C3%A4rvaveckan",
         "pubdate": "Wed, 29 May 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ola solbakken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ola%20solbakken",
-        "pubdate": "Wed, 29 May 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mjällby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
-        "pubdate": "Wed, 29 May 2024 22:00:00 +0200"
       }
     ]
   ]
