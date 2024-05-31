@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "31-05-2024 , 22:43:12",
+  "lastUpdate": "31-05-2024 , 22:52:44",
   "data": [
     [
       {
         "title": "Lieke Martens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lieke%20Martens",
         "pubdate": "Fri, 31 May 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Donald%20Trump",
+        "pubdate": "Fri, 31 May 2024 00:00:00 +0200"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "PFAS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PFAS",
-        "pubdate": "Fri, 31 May 2024 07:00:00 +0200"
+        "title": "Laurentien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Laurentien",
+        "pubdate": "Fri, 31 May 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Laurentien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Laurentien",
-        "pubdate": "Fri, 31 May 2024 22:00:00 +0200"
+        "title": "PFAS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PFAS",
+        "pubdate": "Fri, 31 May 2024 07:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Olcay Gulsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Olcay%20Gulsen",
-        "pubdate": "Thu, 30 May 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gwen van Poorten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gwen%20van%20Poorten",
         "pubdate": "Wed, 29 May 2024 23:00:00 +0200"
@@ -115,15 +115,8 @@
     ],
     [
       {
-        "title": "Premier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Premier",
-        "pubdate": "Tue, 28 May 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "All eyes on Rafah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#All%20eyes%20on%20Rafah",
+        "title": "Rafah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rafah",
         "pubdate": "Tue, 28 May 2024 09:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Avondvierdaagse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Avondvierdaagse",
         "pubdate": "Mon, 27 May 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Sun, 26 May 2024 17:00:00 +0200"
       }
     ]
   ]
