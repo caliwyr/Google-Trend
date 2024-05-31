@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "31-05-2024 , 10:51:35",
+  "lastUpdate": "31-05-2024 , 11:05:58",
   "data": [
     [
       {
         "title": "CNN news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CNN%20news",
+        "pubdate": "Fri, 31 May 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rangers",
         "pubdate": "Fri, 31 May 2024 03:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Eminem Houdini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eminem%20Houdini",
+        "pubdate": "Fri, 31 May 2024 02:00:00 -0400"
       }
     ],
     [
@@ -17,22 +31,8 @@
     ],
     [
       {
-        "title": "Melania Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Melania%20Trump",
-        "pubdate": "Fri, 31 May 2024 00:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Drew Gordon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drew%20Gordon",
-        "pubdate": "Fri, 31 May 2024 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Eminem Houdini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Eminem%20Houdini",
         "pubdate": "Fri, 31 May 2024 02:00:00 -0400"
       }
     ],
@@ -52,16 +52,23 @@
     ],
     [
       {
-        "title": "RBC Canadian Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#RBC%20Canadian%20Open",
-        "pubdate": "Thu, 30 May 2024 11:00:00 -0400"
+        "title": "Michael Cohen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michael%20Cohen",
+        "pubdate": "Fri, 31 May 2024 00:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Pierre Poilievre Nicaragua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pierre%20Poilievre%20Nicaragua",
-        "pubdate": "Thu, 30 May 2024 12:00:00 -0400"
+        "title": "Edmonton Oilers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Edmonton%20Oilers",
+        "pubdate": "Thu, 30 May 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "RBC Canadian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#RBC%20Canadian%20Open",
+        "pubdate": "Thu, 30 May 2024 11:00:00 -0400"
       }
     ],
     [
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "Oilers score",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers%20score",
-        "pubdate": "Thu, 30 May 2024 00:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Nelly Korda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nelly%20Korda",
         "pubdate": "Thu, 30 May 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Doug Ford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Doug%20Ford",
-        "pubdate": "Thu, 30 May 2024 19:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Amsterdam Schiphol Airport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Amsterdam%20Schiphol%20Airport",
         "pubdate": "Thu, 30 May 2024 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dell stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dell%20stock",
+        "pubdate": "Thu, 30 May 2024 17:00:00 -0400"
       }
     ]
   ]
