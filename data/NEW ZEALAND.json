@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2024 , 07:44:23",
+  "lastUpdate": "31-05-2024 , 07:53:39",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Timberwolves vs Mavericks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Timberwolves%20vs%20Mavericks",
-        "pubdate": "Fri, 31 May 2024 15:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Christchurch Airport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Christchurch%20Airport",
         "pubdate": "Fri, 31 May 2024 09:00:00 +1200"
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "Timberwolves vs Mavericks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Timberwolves%20vs%20Mavericks",
+        "pubdate": "Fri, 31 May 2024 15:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Lydia Ko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lydia%20Ko",
         "pubdate": "Fri, 31 May 2024 07:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Crusaders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Crusaders",
+        "pubdate": "Fri, 31 May 2024 19:00:00 +1200"
       }
     ],
     [
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Melinda Gates",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Melinda%20Gates",
-        "pubdate": "Fri, 31 May 2024 09:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Eric Netflix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Eric%20Netflix",
         "pubdate": "Fri, 31 May 2024 16:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Garfield Movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Garfield%20Movie",
-        "pubdate": "Fri, 31 May 2024 14:00:00 +1200"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Shania Twain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shania%20Twain",
-        "pubdate": "Fri, 31 May 2024 16:00:00 +1200"
+        "title": "Melinda Gates",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Melinda%20Gates",
+        "pubdate": "Fri, 31 May 2024 09:00:00 +1200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nelly Korda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nelly%20Korda",
         "pubdate": "Fri, 31 May 2024 16:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Garfield Movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Garfield%20Movie",
+        "pubdate": "Fri, 31 May 2024 14:00:00 +1200"
       }
     ]
   ]
