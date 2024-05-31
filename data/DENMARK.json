@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-05-2024 , 06:36:45",
+  "lastUpdate": "31-05-2024 , 06:45:59",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "Fox news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fox%20news",
-        "pubdate": "Fri, 31 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "New York Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20Times",
         "pubdate": "Fri, 31 May 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Holger Rune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
-        "pubdate": "Thu, 30 May 2024 21:00:00 +0200"
       }
     ],
     [
@@ -115,6 +101,13 @@
     ],
     [
       {
+        "title": "Tauson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tauson",
+        "pubdate": "Wed, 29 May 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Naomi Osaka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Naomi%20Osaka",
         "pubdate": "Wed, 29 May 2024 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "PCB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PCB",
         "pubdate": "Wed, 29 May 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vincent Kompany",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vincent%20Kompany",
+        "pubdate": "Wed, 29 May 2024 20:00:00 +0200"
       }
     ]
   ]
