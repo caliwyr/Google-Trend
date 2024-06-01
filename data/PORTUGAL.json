@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-06-2024 , 00:34:42",
+  "lastUpdate": "01-06-2024 , 01:46:37",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Santos Populares",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santos%20Populares",
         "pubdate": "Sat, 01 Jun 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pelé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pel%C3%A9",
+        "pubdate": "Sat, 01 Jun 2024 02:00:00 +0100"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Portugal feminino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20feminino",
-        "pubdate": "Fri, 31 May 2024 21:00:00 +0100"
+        "title": "Dia da Criança 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20da%20Crian%C3%A7a%202024",
+        "pubdate": "Fri, 31 May 2024 15:00:00 +0100"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alcaraz",
+        "pubdate": "Fri, 31 May 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Paula Rego",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paula%20Rego",
         "pubdate": "Fri, 31 May 2024 01:00:00 +0100"
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Dia da Criança 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dia%20da%20Crian%C3%A7a%202024",
-        "pubdate": "Fri, 31 May 2024 15:00:00 +0100"
+        "title": "Acidente A1 Pombal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Acidente%20A1%20Pombal",
+        "pubdate": "Fri, 31 May 2024 19:00:00 +0100"
       }
     ],
     [
@@ -94,16 +108,9 @@
     ],
     [
       {
-        "title": "Vítor Bruno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#V%C3%ADtor%20Bruno",
-        "pubdate": "Fri, 31 May 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Acidente A1 Pombal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Acidente%20A1%20Pombal",
-        "pubdate": "Fri, 31 May 2024 19:00:00 +0100"
+        "title": "Futebol feminino Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futebol%20feminino%20Portugal",
+        "pubdate": "Fri, 31 May 2024 22:00:00 +0100"
       }
     ],
     [
@@ -115,9 +122,16 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alcaraz",
-        "pubdate": "Fri, 31 May 2024 22:00:00 +0100"
+        "title": "Vítor Bruno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#V%C3%ADtor%20Bruno",
+        "pubdate": "Fri, 31 May 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mannheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mannheim",
+        "pubdate": "Fri, 31 May 2024 18:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Rui Fonseca e Castro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rui%20Fonseca%20e%20Castro",
         "pubdate": "Fri, 31 May 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cruzeiro",
-        "pubdate": "Fri, 31 May 2024 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fernando Rosas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Rosas",
-        "pubdate": "Fri, 31 May 2024 01:00:00 +0100"
       }
     ]
   ]
