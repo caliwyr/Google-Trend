@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-06-2024 , 14:45:06",
+  "lastUpdate": "01-06-2024 , 14:54:18",
   "data": [
     [
       {
         "title": "Dallas Stars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Stars",
         "pubdate": "Sat, 01 Jun 2024 05:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Real%20Madrid",
+        "pubdate": "Sat, 01 Jun 2024 09:00:00 -0400"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "BC Lions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BC%20Lions",
         "pubdate": "Sat, 01 Jun 2024 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Minimum wage B.C",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Minimum%20wage%20B.C",
-        "pubdate": "Sat, 01 Jun 2024 02:00:00 -0400"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Oeuvre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oeuvre",
-        "pubdate": "Fri, 31 May 2024 03:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Florida Panthers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Florida%20Panthers",
         "pubdate": "Fri, 31 May 2024 01:00:00 -0400"
@@ -104,6 +97,13 @@
         "title": "Dallas Mavericks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dallas%20Mavericks",
         "pubdate": "Fri, 31 May 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Aurore boreale 31 mai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aurore%20boreale%2031%20mai",
+        "pubdate": "Fri, 31 May 2024 18:00:00 -0400"
       }
     ],
     [
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Aurore boreale 31 mai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aurore%20boreale%2031%20mai",
-        "pubdate": "Fri, 31 May 2024 20:00:00 -0400"
+        "title": "Senator Joe Manchin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Senator%20Joe%20Manchin",
+        "pubdate": "Fri, 31 May 2024 18:00:00 -0400"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Senator Joe Manchin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Senator%20Joe%20Manchin",
-        "pubdate": "Fri, 31 May 2024 18:00:00 -0400"
+        "title": "CNN News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CNN%20News",
+        "pubdate": "Fri, 31 May 2024 03:00:00 -0400"
       }
     ]
   ]
