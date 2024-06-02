@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-06-2024 , 10:42:53",
+  "lastUpdate": "02-06-2024 , 10:52:03",
   "data": [
     [
       {
         "title": "ABBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ABBA",
         "pubdate": "Sun, 02 Jun 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Donau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Donau",
+        "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Kafka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kafka",
-        "pubdate": "Sun, 02 Jun 2024 08:00:00 +0200"
+        "title": "Kubitschek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kubitschek",
+        "pubdate": "Sun, 02 Jun 2024 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Donau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Donau",
-        "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
+        "title": "Kafka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kafka",
+        "pubdate": "Sun, 02 Jun 2024 08:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Hochwasser Donau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hochwasser%20Donau",
-        "pubdate": "Sun, 02 Jun 2024 10:00:00 +0200"
+        "title": "Babenhausen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Babenhausen",
+        "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -66,20 +73,6 @@
     ],
     [
       {
-        "title": "ServusTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ServusTV",
-        "pubdate": "Sat, 01 Jun 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Götterbaum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#G%C3%B6tterbaum",
-        "pubdate": "Sat, 01 Jun 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Toni Kroos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Toni%20Kroos",
         "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zverev",
-        "pubdate": "Sat, 01 Jun 2024 16:00:00 +0200"
+        "title": "Götterbaum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#G%C3%B6tterbaum",
+        "pubdate": "Sat, 01 Jun 2024 08:00:00 +0200"
       }
     ],
     [
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Carlo Ancelotti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Carlo%20Ancelotti",
-        "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zverev",
+        "pubdate": "Sat, 01 Jun 2024 16:00:00 +0200"
       }
     ],
     [
@@ -122,8 +115,8 @@
     ],
     [
       {
-        "title": "Edin Terzic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Edin%20Terzic",
+        "title": "Modric",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Modric",
         "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
       }
     ],
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Modric",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Modric",
-        "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
+        "title": "Marco Reus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marco%20Reus",
+        "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bellingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bellingham",
+        "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
       }
     ]
   ]
