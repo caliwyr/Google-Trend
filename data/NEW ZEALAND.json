@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2024 , 17:47:53",
+  "lastUpdate": "02-06-2024 , 17:57:05",
   "data": [
     [
       {
@@ -62,6 +62,13 @@
         "title": "Kevin Holland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kevin%20Holland",
         "pubdate": "Sun, 02 Jun 2024 16:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "ICC T20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ICC%20T20",
+        "pubdate": "Sun, 02 Jun 2024 18:00:00 +1200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "NASCAR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NASCAR",
+        "title": "NASCAR Xfinity",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NASCAR%20Xfinity",
         "pubdate": "Sun, 02 Jun 2024 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Champions%20League",
-        "pubdate": "Sat, 01 Jun 2024 10:00:00 +1200"
       }
     ]
   ]
