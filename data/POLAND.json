@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2024 , 03:41:27",
+  "lastUpdate": "02-06-2024 , 03:50:42",
   "data": [
     [
       {
@@ -26,6 +26,13 @@
       {
         "title": "Marilyn Monroe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marilyn%20Monroe",
+        "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Małgorzata Rozenek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ma%C5%82gorzata%20Rozenek",
         "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
       }
     ],
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "KKS Kalisz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KKS%20Kalisz",
-        "pubdate": "Sat, 01 Jun 2024 17:00:00 +0200"
+        "title": "Natalia Niemen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Natalia%20Niemen",
+        "pubdate": "Sat, 01 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -94,9 +101,23 @@
     ],
     [
       {
+        "title": "KKS Kalisz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KKS%20Kalisz",
+        "pubdate": "Sat, 01 Jun 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bellingham",
         "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sabalenka",
+        "pubdate": "Sat, 01 Jun 2024 15:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Borysewicz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Borysewicz",
         "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lewandowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lewandowski",
-        "pubdate": "Sat, 01 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Julia Żugaj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Julia%20%C5%BBugaj",
-        "pubdate": "Sat, 01 Jun 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sabalenka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sabalenka",
-        "pubdate": "Sat, 01 Jun 2024 16:00:00 +0200"
       }
     ]
   ]
