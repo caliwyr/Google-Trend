@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2024 , 04:45:23",
+  "lastUpdate": "02-06-2024 , 04:54:52",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mbappe",
-        "pubdate": "Sat, 01 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Al-Nassr",
         "pubdate": "Sat, 01 Jun 2024 00:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Tesla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla",
         "pubdate": "Fri, 31 May 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump",
+        "pubdate": "Fri, 31 May 2024 00:00:00 +0200"
       }
     ]
   ]
