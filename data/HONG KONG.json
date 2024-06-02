@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-06-2024 , 17:16:40",
+  "lastUpdate": "02-06-2024 , 17:29:10",
   "data": [
-    [
-      {
-        "title": "WATERBOMB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#WATERBOMB",
-        "pubdate": "Mon, 03 Jun 2024 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "楊千嬅",
@@ -139,6 +132,13 @@
         "title": "兒童節",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%85%92%E7%AB%A5%E7%AF%80",
         "pubdate": "Fri, 31 May 2024 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "特朗普",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%89%B9%E6%9C%97%E6%99%AE",
+        "pubdate": "Fri, 31 May 2024 07:00:00 +0800"
       }
     ]
   ]
