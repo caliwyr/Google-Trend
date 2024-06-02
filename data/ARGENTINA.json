@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2024 , 14:45:27",
+  "lastUpdate": "02-06-2024 , 14:54:40",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Pachuca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pachuca",
-        "pubdate": "Sun, 02 Jun 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Dia del Bombero Voluntario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Dia%20del%20Bombero%20Voluntario",
         "pubdate": "Sun, 02 Jun 2024 07:00:00 -0300"
@@ -31,9 +24,16 @@
     ],
     [
       {
-        "title": "Flor Vigna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Flor%20Vigna",
-        "pubdate": "Sun, 02 Jun 2024 00:00:00 -0300"
+        "title": "Pachuca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pachuca",
+        "pubdate": "Sun, 02 Jun 2024 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Platense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Platense",
+        "pubdate": "Sun, 02 Jun 2024 11:00:00 -0300"
       }
     ],
     [
@@ -59,9 +59,16 @@
     ],
     [
       {
+        "title": "Racing  Deportivo Riestra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing%20%20Deportivo%20Riestra",
+        "pubdate": "Sat, 01 Jun 2024 18:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Racing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Racing",
-        "pubdate": "Sat, 01 Jun 2024 18:00:00 -0300"
+        "pubdate": "Sat, 01 Jun 2024 21:00:00 -0300"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Vinicius",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Vinicius",
+        "pubdate": "Sat, 01 Jun 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bellingham",
         "pubdate": "Sat, 01 Jun 2024 16:00:00 -0300"
@@ -125,20 +139,6 @@
         "title": "Reus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Reus",
         "pubdate": "Sat, 01 Jun 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Adeyemi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Adeyemi",
-        "pubdate": "Sat, 01 Jun 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ni una mas serie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ni%20una%20mas%20serie",
-        "pubdate": "Sat, 01 Jun 2024 00:00:00 -0300"
       }
     ]
   ]
