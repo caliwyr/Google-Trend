@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-06-2024 , 21:50:17",
+  "lastUpdate": "02-06-2024 , 21:59:36",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "下雨",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%8B%E9%9B%A8",
+        "pubdate": "Sun, 02 Jun 2024 18:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "T1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#T1",
         "pubdate": "Sun, 02 Jun 2024 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Djokovic",
+        "pubdate": "Sun, 02 Jun 2024 16:00:00 +0800"
       }
     ],
     [
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "黃昭凱",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%83%E6%98%AD%E5%87%B1",
-        "pubdate": "Sun, 02 Jun 2024 12:00:00 +0800"
+        "title": "徐若熙",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BE%90%E8%8B%A5%E7%86%99",
+        "pubdate": "Sun, 02 Jun 2024 20:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Djokovic",
-        "pubdate": "Sun, 02 Jun 2024 16:00:00 +0800"
+        "title": "靖國神社",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%9D%96%E5%9C%8B%E7%A5%9E%E7%A4%BE",
+        "pubdate": "Sun, 02 Jun 2024 15:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "兒童節",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%85%92%E7%AB%A5%E7%AF%80",
         "pubdate": "Sat, 01 Jun 2024 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "JCB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#JCB",
-        "pubdate": "Sat, 01 Jun 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "派偉俊",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B4%BE%E5%81%89%E4%BF%8A",
-        "pubdate": "Sat, 01 Jun 2024 15:00:00 +0800"
       }
     ]
   ]
