@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2024 , 04:46:54",
+  "lastUpdate": "03-06-2024 , 04:56:12",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Cricket World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket%20World%20Cup",
-        "pubdate": "Mon, 03 Jun 2024 04:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Rupert Murdoch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rupert%20Murdoch",
         "pubdate": "Mon, 03 Jun 2024 14:00:00 +1200"
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Cricket World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket%20World%20Cup",
+        "pubdate": "Mon, 03 Jun 2024 04:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Robert MacIntyre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Robert%20MacIntyre",
         "pubdate": "Mon, 03 Jun 2024 11:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Canadian Open prize money",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Canadian%20Open%20prize%20money",
+        "pubdate": "Mon, 03 Jun 2024 16:00:00 +1200"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#UFC",
         "pubdate": "Sun, 02 Jun 2024 10:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "T20 World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#T20%20World%20Cup",
-        "pubdate": "Sun, 02 Jun 2024 13:00:00 +1200"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "ICC T20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ICC%20T20",
+        "pubdate": "Sun, 02 Jun 2024 18:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Infinite",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Infinite",
         "pubdate": "Sun, 02 Jun 2024 21:00:00 +1200"
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Godzilla minus one",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Godzilla%20minus%20one",
+        "title": "Godzilla Minus One",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Godzilla%20Minus%20One",
         "pubdate": "Sun, 02 Jun 2024 14:00:00 +1200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Lotto Powerball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lotto%20Powerball",
         "pubdate": "Sun, 02 Jun 2024 13:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Jennifer Lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jennifer%20Lopez",
-        "pubdate": "Sun, 02 Jun 2024 08:00:00 +1200"
       }
     ]
   ]
