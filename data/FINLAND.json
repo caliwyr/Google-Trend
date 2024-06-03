@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-06-2024 , 21:46:27",
+  "lastUpdate": "03-06-2024 , 21:55:40",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Berkshire Hathaway stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Berkshire%20Hathaway%20stock",
+        "pubdate": "Mon, 03 Jun 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Rupert Murdoch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rupert%20Murdoch",
         "pubdate": "Mon, 03 Jun 2024 20:00:00 +0300"
@@ -62,13 +69,6 @@
         "title": "Kevin Costner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kevin%20Costner",
         "pubdate": "Mon, 03 Jun 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Berkshire Hathaway stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Berkshire%20Hathaway%20stock",
-        "pubdate": "Mon, 03 Jun 2024 22:00:00 +0300"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ronaldo",
-        "pubdate": "Sun, 02 Jun 2024 00:00:00 +0300"
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mbappe",
+        "pubdate": "Sun, 02 Jun 2024 16:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mbappe",
-        "pubdate": "Sun, 02 Jun 2024 16:00:00 +0300"
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ronaldo",
+        "pubdate": "Sun, 02 Jun 2024 00:00:00 +0300"
       }
     ]
   ]
