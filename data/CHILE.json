@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "03-06-2024 , 14:46:04",
+  "lastUpdate": "03-06-2024 , 14:55:30",
   "data": [
-    [
-      {
-        "title": "Falabella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Falabella",
-        "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Ripley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ripley",
-        "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Paris",
@@ -24,16 +10,16 @@
     ],
     [
       {
-        "title": "LATAM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#LATAM",
-        "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
+        "title": "Cyber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cyber",
+        "pubdate": "Mon, 03 Jun 2024 00:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Cyber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cyber",
-        "pubdate": "Mon, 03 Jun 2024 00:00:00 -0400"
+        "title": "Latam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Latam",
+        "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
       }
     ],
     [
@@ -52,22 +38,29 @@
     ],
     [
       {
-        "title": "PUMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PUMA",
+        "title": "Puma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Puma",
         "pubdate": "Mon, 03 Jun 2024 00:00:00 -0400"
       }
     ],
     [
       {
-        "title": "H&M",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#H%26M",
-        "pubdate": "Mon, 03 Jun 2024 02:00:00 -0400"
+        "title": "iPhone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#iPhone",
+        "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
       }
     ],
     [
       {
         "title": "Zara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zara",
+        "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Samsung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Samsung",
         "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
       }
     ],
@@ -87,15 +80,15 @@
     ],
     [
       {
-        "title": "Converse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Converse",
+        "title": "Rosen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rosen",
         "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
       }
     ],
     [
       {
-        "title": "iPhone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#iPhone",
+        "title": "Converse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Converse",
         "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
       }
     ],
@@ -111,13 +104,6 @@
         "title": "Under Armour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Under%20Armour",
         "pubdate": "Mon, 03 Jun 2024 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "iPhone 15",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#iPhone%2015",
-        "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
       }
     ],
     [
@@ -138,6 +124,20 @@
       {
         "title": "PS5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PS5",
+        "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Smart TV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Smart%20TV",
+        "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Zapatillas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Zapatillas",
         "pubdate": "Mon, 03 Jun 2024 01:00:00 -0400"
       }
     ]

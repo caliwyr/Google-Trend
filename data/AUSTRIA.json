@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-06-2024 , 14:46:03",
+  "lastUpdate": "03-06-2024 , 14:55:29",
   "data": [
     [
       {
         "title": "FTI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FTI",
         "pubdate": "Mon, 03 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bierlein Brigitte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bierlein%20Brigitte",
+        "pubdate": "Mon, 03 Jun 2024 16:00:00 +0200"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Klimaticket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klimaticket",
+        "pubdate": "Mon, 03 Jun 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rupert Murdoch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rupert%20Murdoch",
         "pubdate": "Mon, 03 Jun 2024 08:00:00 +0200"
@@ -31,9 +45,16 @@
     ],
     [
       {
-        "title": "GameStop-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GameStop-Aktie",
+        "title": "GameStop Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GameStop%20Aktie",
         "pubdate": "Mon, 03 Jun 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sabalenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sabalenka",
+        "pubdate": "Mon, 03 Jun 2024 16:00:00 +0200"
       }
     ],
     [
@@ -41,6 +62,13 @@
         "title": "Heidelberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heidelberg",
         "pubdate": "Mon, 03 Jun 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manching",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manching",
+        "pubdate": "Mon, 03 Jun 2024 16:00:00 +0200"
       }
     ],
     [
@@ -87,16 +115,16 @@
     ],
     [
       {
-        "title": "Hochwasser Donau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hochwasser%20Donau",
-        "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alcaraz",
+        "pubdate": "Sun, 02 Jun 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alcaraz",
-        "pubdate": "Sun, 02 Jun 2024 22:00:00 +0200"
+        "title": "Hochwasser Donau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hochwasser%20Donau",
+        "pubdate": "Sun, 02 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -108,36 +136,8 @@
     ],
     [
       {
-        "title": "Pfaffenhofen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pfaffenhofen",
-        "pubdate": "Sun, 02 Jun 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Stefanos Tsitsipas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stefanos%20Tsitsipas",
-        "pubdate": "Sun, 02 Jun 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jose Mourinho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jose%20Mourinho",
-        "pubdate": "Sun, 02 Jun 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ursula Stenzel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ursula%20Stenzel",
-        "pubdate": "Sun, 02 Jun 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Franz Kafka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Franz%20Kafka",
         "pubdate": "Sun, 02 Jun 2024 16:00:00 +0200"
       }
     ]
