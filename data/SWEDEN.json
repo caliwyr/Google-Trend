@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-06-2024 , 23:56:28",
+  "lastUpdate": "03-06-2024 , 01:07:15",
   "data": [
     [
       {
         "title": "Djurgården Hammarby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20Hammarby",
         "pubdate": "Sun, 02 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Häcken mot AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken%20mot%20AIK",
+        "pubdate": "Sun, 02 Jun 2024 17:00:00 +0200"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Sun, 02 Jun 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bauhausgalan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bauhausgalan",
         "pubdate": "Sun, 02 Jun 2024 13:00:00 +0200"
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "Värnamo mot Mjällby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4rnamo%20mot%20Mj%C3%A4llby",
+        "title": "Lucas Bergvall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lucas%20Bergvall",
         "pubdate": "Sun, 02 Jun 2024 18:00:00 +0200"
       }
     ],
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Dif",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dif",
-        "pubdate": "Sun, 02 Jun 2024 18:00:00 +0200"
+        "title": "Jan Emanuel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jan%20Emanuel",
+        "pubdate": "Sun, 02 Jun 2024 10:00:00 +0200"
       }
     ],
     [
@@ -97,6 +97,13 @@
         "title": "Bauhausgalan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bauhausgalan",
         "pubdate": "Sun, 02 Jun 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mjällby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mj%C3%A4llby",
+        "pubdate": "Sun, 02 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Champions League 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Champions%20League%202024",
         "pubdate": "Sun, 02 Jun 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
-        "pubdate": "Sat, 01 Jun 2024 00:00:00 +0200"
       }
     ]
   ]
