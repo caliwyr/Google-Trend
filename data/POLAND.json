@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-06-2024 , 13:52:13",
+  "lastUpdate": "03-06-2024 , 14:07:18",
   "data": [
+    [
+      {
+        "title": "Red is Bad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Red%20is%20Bad",
+        "pubdate": "Mon, 03 Jun 2024 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Zuzia Macheta nie zyje",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Paweł Szopa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pawe%C5%82%20Szopa",
-        "pubdate": "Mon, 03 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mannheim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mannheim",
         "pubdate": "Mon, 03 Jun 2024 13:00:00 +0200"
@@ -52,16 +52,9 @@
     ],
     [
       {
-        "title": "Kolor zla czerwien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kolor%20zla%20czerwien",
-        "pubdate": "Mon, 03 Jun 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ełk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#E%C5%82k",
-        "pubdate": "Mon, 03 Jun 2024 11:00:00 +0200"
+        "title": "Mikołaj Pawlak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Miko%C5%82aj%20Pawlak",
+        "pubdate": "Mon, 03 Jun 2024 15:00:00 +0200"
       }
     ],
     [
@@ -73,23 +66,16 @@
     ],
     [
       {
-        "title": "Notcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Notcoin",
-        "pubdate": "Mon, 03 Jun 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jakub Kałuziński",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jakub%20Ka%C5%82uzi%C5%84ski",
-        "pubdate": "Mon, 03 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Andrzej Kostenko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzej%20Kostenko",
         "pubdate": "Mon, 03 Jun 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Notcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Notcoin",
+        "pubdate": "Mon, 03 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -108,9 +94,9 @@
     ],
     [
       {
-        "title": "Bovska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bovska",
-        "pubdate": "Sun, 02 Jun 2024 21:00:00 +0200"
+        "title": "Janusz Kondratowicz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Janusz%20Kondratowicz",
+        "pubdate": "Sun, 02 Jun 2024 15:00:00 +0200"
       }
     ],
     [
@@ -122,15 +108,15 @@
     ],
     [
       {
-        "title": "Jopek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jopek",
-        "pubdate": "Sun, 02 Jun 2024 23:00:00 +0200"
+        "title": "Bovska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bovska",
+        "pubdate": "Sun, 02 Jun 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Santor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Santor",
+        "title": "Jopek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jopek",
         "pubdate": "Sun, 02 Jun 2024 23:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Natalia Kukulska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Natalia%20Kukulska",
         "pubdate": "Sun, 02 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Euro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Euro%202024",
+        "pubdate": "Sun, 02 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kayah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kayah",
+        "pubdate": "Sun, 02 Jun 2024 23:00:00 +0200"
       }
     ]
   ]
