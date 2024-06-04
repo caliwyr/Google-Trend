@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2024 , 03:49:16",
+  "lastUpdate": "04-06-2024 , 03:58:48",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Kevin Costner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kevin%20Costner",
-        "pubdate": "Mon, 03 Jun 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Indiana Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Indiana%20Jones",
         "pubdate": "Mon, 03 Jun 2024 11:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Marco Reus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marco%20Reus",
         "pubdate": "Sun, 02 Jun 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bullets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bullets",
+        "pubdate": "Sun, 02 Jun 2024 19:00:00 +0300"
       }
     ]
   ]
