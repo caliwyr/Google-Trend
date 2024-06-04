@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-06-2024 , 02:47:16",
+  "lastUpdate": "04-06-2024 , 02:56:26",
   "data": [
+    [
+      {
+        "title": "Erdbeben Schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Erdbeben%20Schweiz",
+        "pubdate": "Tue, 04 Jun 2024 03:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Le Jour le plus long",
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "GameStop Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#GameStop%20Aktie",
+        "title": "Gamestop Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gamestop%20Aktie",
         "pubdate": "Mon, 03 Jun 2024 14:00:00 +0200"
       }
     ],
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Überschwemmung Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%C3%9Cberschwemmung%20Deutschland",
-        "pubdate": "Mon, 03 Jun 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marthe Keller",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marthe%20Keller",
         "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Tobias Moretti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tobias%20Moretti",
-        "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
+        "title": "Überschwemmung Deutschland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#%C3%9Cberschwemmung%20Deutschland",
+        "pubdate": "Mon, 03 Jun 2024 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Oberrüti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oberr%C3%BCti",
+        "title": "Tobias Moretti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tobias%20Moretti",
         "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
       }
     ]
