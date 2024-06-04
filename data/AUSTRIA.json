@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "04-06-2024 , 06:48:22",
+  "lastUpdate": "04-06-2024 , 06:57:52",
   "data": [
+    [
+      {
+        "title": "Kafka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kafka",
+        "pubdate": "Tue, 04 Jun 2024 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Rosenheim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rosenheim",
         "pubdate": "Tue, 04 Jun 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lange Nacht der Kirchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lange%20Nacht%20der%20Kirchen",
+        "pubdate": "Tue, 04 Jun 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Venom 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Venom%203",
+        "pubdate": "Tue, 04 Jun 2024 08:00:00 +0200"
       }
     ],
     [
@@ -94,9 +115,9 @@
     ],
     [
       {
-        "title": "Regensburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Regensburg",
-        "pubdate": "Mon, 03 Jun 2024 12:00:00 +0200"
+        "title": "Berkshire Hathaway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Berkshire%20Hathaway",
+        "pubdate": "Mon, 03 Jun 2024 18:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "De Minaur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#De%20Minaur",
         "pubdate": "Mon, 03 Jun 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "ARD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ARD",
-        "pubdate": "Mon, 03 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tobias Moretti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tobias%20Moretti",
-        "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Berkshire Hathaway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Berkshire%20Hathaway",
-        "pubdate": "Mon, 03 Jun 2024 18:00:00 +0200"
       }
     ]
   ]
