@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2024 , 17:55:34",
+  "lastUpdate": "04-06-2024 , 18:17:49",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Fußball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball",
+        "pubdate": "Tue, 04 Jun 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kafka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kafka",
         "pubdate": "Tue, 04 Jun 2024 00:00:00 +0200"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Lars Windhorst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lars%20Windhorst",
-        "pubdate": "Tue, 04 Jun 2024 10:00:00 +0200"
+        "title": "Kylian Mbappé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kylian%20Mbapp%C3%A9",
+        "pubdate": "Tue, 04 Jun 2024 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Claudia Sheinbaum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Claudia%20Sheinbaum",
         "pubdate": "Sun, 02 Jun 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Holger Rune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holger%20Rune",
-        "pubdate": "Sun, 02 Jun 2024 11:00:00 +0200"
       }
     ]
   ]
