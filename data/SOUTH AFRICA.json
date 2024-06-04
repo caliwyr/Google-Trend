@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-06-2024 , 10:55:02",
+  "lastUpdate": "04-06-2024 , 11:11:42",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Germany",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Germany",
         "pubdate": "Tue, 04 Jun 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "England Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20Football",
+        "pubdate": "Tue, 04 Jun 2024 12:00:00 +0200"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Weather Today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Weather%20Today",
+        "pubdate": "Mon, 03 Jun 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jabulani Khumalo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jabulani%20Khumalo",
         "pubdate": "Mon, 03 Jun 2024 14:00:00 +0200"
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "Petrol price June 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Petrol%20price%20June%202024",
-        "pubdate": "Mon, 03 Jun 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "When is Father's Day in 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#When%20is%20Father's%20Day%20in%202024",
         "pubdate": "Mon, 03 Jun 2024 13:00:00 +0200"
@@ -82,13 +89,6 @@
       {
         "title": "Bafana Bafana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bafana%20Bafana",
-        "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tornado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tornado",
         "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
       }
     ],
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Fuel price June 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fuel%20price%20June%202024",
+        "pubdate": "Mon, 03 Jun 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ernie Els",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ernie%20Els",
         "pubdate": "Mon, 03 Jun 2024 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "South African election results",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20African%20election%20results",
         "pubdate": "Sun, 02 Jun 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eastern Cape floods",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Eastern%20Cape%20floods",
-        "pubdate": "Sun, 02 Jun 2024 15:00:00 +0200"
       }
     ]
   ]
