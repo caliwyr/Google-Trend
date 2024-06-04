@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-06-2024 , 16:56:58",
+  "lastUpdate": "04-06-2024 , 17:13:58",
   "data": [
-    [
-      {
-        "title": "Bharatiya Janata Party",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bharatiya%20Janata%20Party",
-        "pubdate": "Tue, 04 Jun 2024 15:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "OpenAI",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Edmonton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Edmonton",
-        "pubdate": "Tue, 04 Jun 2024 00:00:00 +0300"
+        "title": "Bharatiya Janata Party",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bharatiya%20Janata%20Party",
+        "pubdate": "Tue, 04 Jun 2024 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Charley Hull",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Charley%20Hull",
+        "pubdate": "Tue, 04 Jun 2024 15:00:00 +0300"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Journey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Journey",
         "pubdate": "Tue, 04 Jun 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Edmonton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Edmonton",
+        "pubdate": "Tue, 04 Jun 2024 00:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Marco Reus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marco%20Reus",
         "pubdate": "Sun, 02 Jun 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mbappe",
-        "pubdate": "Sun, 02 Jun 2024 16:00:00 +0300"
       }
     ]
   ]
