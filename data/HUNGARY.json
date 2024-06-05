@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2024 , 15:47:17",
+  "lastUpdate": "05-06-2024 , 15:56:33",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Marco Rossi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marco%20Rossi",
-        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Christina Applegate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Christina%20Applegate",
         "pubdate": "Wed, 05 Jun 2024 13:00:00 +0200"
@@ -87,9 +80,23 @@
     ],
     [
       {
+        "title": "Marco Rossi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marco%20Rossi",
+        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hungary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hungary",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Horváth Sisa Anna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Horv%C3%A1th%20Sisa%20Anna",
+        "pubdate": "Wed, 05 Jun 2024 13:00:00 +0200"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Junius 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Junius%204",
-        "pubdate": "Tue, 04 Jun 2024 09:00:00 +0200"
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Djokovic",
+        "pubdate": "Tue, 04 Jun 2024 07:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Milák Kristóf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mil%C3%A1k%20Krist%C3%B3f",
         "pubdate": "Tue, 04 Jun 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Star Wars Acolyte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Star%20Wars%20Acolyte",
-        "pubdate": "Tue, 04 Jun 2024 12:00:00 +0200"
       }
     ]
   ]

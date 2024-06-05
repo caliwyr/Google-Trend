@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2024 , 15:47:14",
+  "lastUpdate": "05-06-2024 , 15:56:30",
   "data": [
     [
       {
@@ -12,6 +12,20 @@
       {
         "title": "Österreich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreich",
+        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ÖFB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96FB",
+        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arnautovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arnautovic",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
       }
     ],
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "Fussball österreich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fussball%20%C3%B6sterreich",
+        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tsitsipas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tsitsipas",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
@@ -52,8 +73,8 @@
     ],
     [
       {
-        "title": "Fussball österreich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fussball%20%C3%B6sterreich",
+        "title": "Gisa Zach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gisa%20Zach",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
       }
     ],
@@ -68,13 +89,6 @@
       {
         "title": "Türkei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#T%C3%BCrkei",
-        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dragovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dragovic",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
       }
     ],
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Fussball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fussball",
-        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The Acolyte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20Acolyte",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Rybakina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rybakina",
+        "pubdate": "Wed, 05 Jun 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "D-Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#D-Day",
         "pubdate": "Wed, 05 Jun 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eurojackpot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eurojackpot",
-        "pubdate": "Wed, 05 Jun 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zverev",
-        "pubdate": "Tue, 04 Jun 2024 07:00:00 +0200"
       }
     ]
   ]
