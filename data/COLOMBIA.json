@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-06-2024 , 14:10:51",
+  "lastUpdate": "05-06-2024 , 14:28:56",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Italia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Italia",
         "pubdate": "Wed, 05 Jun 2024 04:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bancolombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Bancolombia",
+        "pubdate": "Tue, 04 Jun 2024 12:00:00 -0500"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Bancolombia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Bancolombia",
-        "pubdate": "Mon, 03 Jun 2024 20:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Portugal - Finlandia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Portugal%20-%20Finlandia",
         "pubdate": "Mon, 03 Jun 2024 16:00:00 -0500"
@@ -104,13 +104,6 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Novak%20Djokovic",
         "pubdate": "Mon, 03 Jun 2024 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Alemania  Ucrania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Alemania%20%20Ucrania",
-        "pubdate": "Mon, 03 Jun 2024 14:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Alemania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Alemania",
         "pubdate": "Mon, 03 Jun 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Venom 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Venom%203",
+        "pubdate": "Mon, 03 Jun 2024 21:00:00 -0500"
       }
     ]
   ]
