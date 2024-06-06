@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-06-2024 , 06:45:39",
+  "lastUpdate": "06-06-2024 , 06:54:52",
   "data": [
     [
       {
@@ -52,9 +52,23 @@
     ],
     [
       {
-        "title": "Sous la Seine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sous%20la%20Seine",
+        "title": "Sous la Seine Netflix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sous%20la%20Seine%20Netflix",
         "pubdate": "Wed, 05 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sinner",
+        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Plumelec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Plumelec",
+        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
       }
     ],
     [
@@ -69,13 +83,6 @@
         "title": "La Rochelle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Rochelle",
         "pubdate": "Wed, 05 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Plumelec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Plumelec",
-        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Laurent Luyat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laurent%20Luyat",
+        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Portugal",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Celine%20Dion",
-        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elisa Martin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elisa%20Martin",
-        "pubdate": "Wed, 05 Jun 2024 21:00:00 +0200"
       }
     ]
   ]
