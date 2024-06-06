@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-06-2024 , 03:49:35",
+  "lastUpdate": "06-06-2024 , 03:58:58",
   "data": [
-    [
-      {
-        "title": "Petter Nome",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Nome",
-        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "C.Gambino",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Tvungen lønnsnemnd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tvungen%20l%C3%B8nnsnemnd",
+        "title": "Petter Nome",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Nome",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "David Møller Wolfe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#David%20M%C3%B8ller%20Wolfe",
+        "pubdate": "Wed, 05 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Oslo kommune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20kommune",
-        "pubdate": "Wed, 05 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sabalenka",
         "pubdate": "Wed, 05 Jun 2024 20:00:00 +0200"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Frederic Kvasnes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frederic%20Kvasnes",
-        "pubdate": "Wed, 05 Jun 2024 16:00:00 +0200"
+        "title": "Tonje Brenna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tonje%20Brenna",
+        "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
       }
     ],
     [
@@ -76,20 +69,6 @@
         "title": "Jo Nesbø",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jo%20Nesb%C3%B8",
         "pubdate": "Wed, 05 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Studentflak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Studentflak",
-        "pubdate": "Wed, 05 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Møller Wolfe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#M%C3%B8ller%20Wolfe",
-        "pubdate": "Wed, 05 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -122,13 +101,6 @@
     ],
     [
       {
-        "title": "Sjoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sjoa",
-        "pubdate": "Wed, 05 Jun 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lupus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lupus",
         "pubdate": "Wed, 05 Jun 2024 16:00:00 +0200"
@@ -136,9 +108,37 @@
     ],
     [
       {
+        "title": "Gøteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#G%C3%B8teborg",
+        "pubdate": "Wed, 05 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Norge-Kosovo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norge-Kosovo",
         "pubdate": "Tue, 04 Jun 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ChatGPT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ChatGPT",
+        "pubdate": "Tue, 04 Jun 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Casper Ruud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
+        "pubdate": "Tue, 04 Jun 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Casper Ruud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
+        "pubdate": "Tue, 04 Jun 2024 06:00:00 +0200"
       }
     ]
   ]
