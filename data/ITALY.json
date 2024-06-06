@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "06-06-2024 , 13:38:55",
+  "lastUpdate": "06-06-2024 , 13:48:19",
   "data": [
     [
       {
         "title": "Allegri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Allegri",
         "pubdate": "Thu, 06 Jun 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sbarco in Normandia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sbarco%20in%20Normandia",
+        "pubdate": "Thu, 06 Jun 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bce",
+        "pubdate": "Thu, 06 Jun 2024 13:00:00 +0200"
       }
     ],
     [
@@ -31,23 +45,9 @@
     ],
     [
       {
-        "title": "D-Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#D-Day",
-        "pubdate": "Thu, 06 Jun 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kaio Jorge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Kaio%20Jorge",
         "pubdate": "Thu, 06 Jun 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bce",
-        "pubdate": "Thu, 06 Jun 2024 13:00:00 +0200"
       }
     ],
     [
@@ -59,15 +59,8 @@
     ],
     [
       {
-        "title": "Greta Spreafico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Greta%20Spreafico",
-        "pubdate": "Thu, 06 Jun 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Simone Borgese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Simone%20Borgese",
+        "title": "Icardi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Icardi",
         "pubdate": "Thu, 06 Jun 2024 14:00:00 +0200"
       }
     ],
@@ -76,20 +69,6 @@
         "title": "Carrara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Carrara",
         "pubdate": "Thu, 06 Jun 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Camarda Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Camarda%20Milan",
-        "pubdate": "Thu, 06 Jun 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Icardi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Icardi",
-        "pubdate": "Thu, 06 Jun 2024 14:00:00 +0200"
       }
     ],
     [
@@ -115,8 +94,8 @@
     ],
     [
       {
-        "title": "Italia Under 17",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Italia%20Under%2017",
+        "title": "Italia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Italia",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
       }
     ],
@@ -139,6 +118,27 @@
         "title": "Vicenza-Carrarese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vicenza-Carrarese",
         "pubdate": "Wed, 05 Jun 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Zverev",
+        "pubdate": "Wed, 05 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tudor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tudor",
+        "pubdate": "Wed, 05 Jun 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Amanda Knox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Amanda%20Knox",
+        "pubdate": "Wed, 05 Jun 2024 13:00:00 +0200"
       }
     ]
   ]
