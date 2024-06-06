@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-06-2024 , 12:34:33",
+  "lastUpdate": "06-06-2024 , 12:55:41",
   "data": [
     [
       {
         "title": "NRL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NRL",
         "pubdate": "Thu, 06 Jun 2024 09:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "GeoNet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
+        "pubdate": "Thu, 06 Jun 2024 07:00:00 +1200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
-        "pubdate": "Thu, 06 Jun 2024 08:00:00 +1200"
+        "title": "Jetstar NZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jetstar%20NZ",
+        "pubdate": "Thu, 06 Jun 2024 19:00:00 +1200"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
+        "pubdate": "Thu, 06 Jun 2024 08:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Mirra Andreeva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mirra%20Andreeva",
         "pubdate": "Thu, 06 Jun 2024 09:00:00 +1200"
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "GeoNet nz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet%20nz",
-        "pubdate": "Thu, 06 Jun 2024 08:00:00 +1200"
+        "title": "Echidna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Echidna",
+        "pubdate": "Thu, 06 Jun 2024 18:00:00 +1200"
       }
     ],
     [
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Echidna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Echidna",
-        "pubdate": "Thu, 06 Jun 2024 18:00:00 +1200"
+        "title": "Blues vs Maroons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Blues%20vs%20Maroons",
+        "pubdate": "Thu, 06 Jun 2024 00:00:00 +1200"
       }
     ],
     [
@@ -115,15 +129,8 @@
     ],
     [
       {
-        "title": "Nrl State of Origin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nrl%20State%20of%20Origin",
-        "pubdate": "Thu, 06 Jun 2024 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Bono",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bono",
+        "title": "Jasmine Paolini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jasmine%20Paolini",
         "pubdate": "Thu, 06 Jun 2024 22:00:00 +1200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "State of Origin Game 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#State%20of%20Origin%20Game%202",
         "pubdate": "Thu, 06 Jun 2024 21:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "State of Origin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#State%20of%20Origin",
-        "pubdate": "Wed, 05 Jun 2024 21:00:00 +1200"
       }
     ]
   ]
