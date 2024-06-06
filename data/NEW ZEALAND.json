@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "06-06-2024 , 14:39:59",
+  "lastUpdate": "06-06-2024 , 14:49:19",
   "data": [
     [
       {
         "title": "NRL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NRL",
         "pubdate": "Thu, 06 Jun 2024 09:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "GeoNet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
+        "pubdate": "Thu, 06 Jun 2024 07:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Jetstar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jetstar",
+        "pubdate": "Thu, 06 Jun 2024 21:00:00 +1200"
       }
     ],
     [
@@ -31,8 +45,8 @@
     ],
     [
       {
-        "title": "Joey Essex",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joey%20Essex",
+        "title": "JOEY Essex",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#JOEY%20Essex",
         "pubdate": "Thu, 06 Jun 2024 19:00:00 +1200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Jasmine Paolini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jasmine%20Paolini",
         "pubdate": "Thu, 06 Jun 2024 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "State of Origin Game 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#State%20of%20Origin%20Game%202",
-        "pubdate": "Thu, 06 Jun 2024 21:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "State of Origin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#State%20of%20Origin",
-        "pubdate": "Wed, 05 Jun 2024 21:00:00 +1200"
       }
     ]
   ]
