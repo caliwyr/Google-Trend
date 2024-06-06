@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "06-06-2024 , 17:56:59",
+  "lastUpdate": "06-06-2024 , 18:20:36",
   "data": [
     [
       {
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
         "pubdate": "Thu, 06 Jun 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Putin",
+        "pubdate": "Thu, 06 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SpaceX",
+        "pubdate": "Thu, 06 Jun 2024 14:00:00 +0200"
       }
     ],
     [
@@ -17,9 +31,9 @@
     ],
     [
       {
-        "title": "SpaceX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SpaceX",
-        "pubdate": "Thu, 06 Jun 2024 14:00:00 +0200"
+        "title": "Laura Siegemund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Laura%20Siegemund",
+        "pubdate": "Thu, 06 Jun 2024 10:00:00 +0200"
       }
     ],
     [
@@ -45,15 +59,15 @@
     ],
     [
       {
-        "title": "EZB-Zinsentscheid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB-Zinsentscheid",
+        "title": "The Acolyte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Acolyte",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "The Acolyte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#The%20Acolyte",
+        "title": "EZB-Zinsentscheid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB-Zinsentscheid",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
       }
     ],
@@ -66,8 +80,8 @@
     ],
     [
       {
-        "title": "Türkei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%BCrkei",
+        "title": "TU Berlin, Geraldine Rauch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#TU%20Berlin,%20Geraldine%20Rauch",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
       }
     ],
@@ -90,6 +104,13 @@
         "title": "Kafka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kafka",
         "pubdate": "Tue, 04 Jun 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nagelsmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nagelsmann",
+        "pubdate": "Tue, 04 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Polizei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polizei",
         "pubdate": "Mon, 03 Jun 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FTI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FTI",
-        "pubdate": "Sun, 02 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Polizist Mannheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polizist%20Mannheim",
-        "pubdate": "Sun, 02 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Claudia Sheinbaum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Claudia%20Sheinbaum",
-        "pubdate": "Sun, 02 Jun 2024 16:00:00 +0200"
       }
     ]
   ]
