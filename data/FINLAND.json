@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "07-06-2024 , 13:40:10",
+  "lastUpdate": "07-06-2024 , 13:49:33",
   "data": [
     [
       {
         "title": "GME stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#GME%20stock",
-        "pubdate": "Fri, 07 Jun 2024 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "GME",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#GME",
         "pubdate": "Fri, 07 Jun 2024 11:00:00 +0300"
       }
     ],
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Apocalyptica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Apocalyptica",
+        "pubdate": "Fri, 07 Jun 2024 15:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Kevin Spacey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kevin%20Spacey",
         "pubdate": "Fri, 07 Jun 2024 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SpaceX",
+        "pubdate": "Fri, 07 Jun 2024 11:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "JUDAS PRIEST",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#JUDAS%20PRIEST",
         "pubdate": "Wed, 05 Jun 2024 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Acolyte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Acolyte",
-        "pubdate": "Wed, 05 Jun 2024 18:00:00 +0300"
       }
     ]
   ]
