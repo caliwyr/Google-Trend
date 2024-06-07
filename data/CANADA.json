@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "07-06-2024 , 19:43:36",
+  "lastUpdate": "07-06-2024 , 19:53:02",
   "data": [
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Alcaraz",
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carlos%20Alcaraz",
         "pubdate": "Fri, 07 Jun 2024 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1",
+        "pubdate": "Fri, 07 Jun 2024 14:00:00 -0400"
       }
     ],
     [
@@ -13,13 +20,6 @@
         "title": "Sabrina Carpenter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sabrina%20Carpenter",
         "pubdate": "Fri, 07 Jun 2024 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "F1 Montreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1%20Montreal",
-        "pubdate": "Fri, 07 Jun 2024 14:00:00 -0400"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Border strike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Border%20strike",
+        "pubdate": "Fri, 07 Jun 2024 03:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Fiona Harvey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fiona%20Harvey",
         "pubdate": "Fri, 07 Jun 2024 04:00:00 -0400"
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "Border strike",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Border%20strike",
-        "pubdate": "Fri, 07 Jun 2024 03:00:00 -0400"
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Formula%201",
+        "pubdate": "Fri, 07 Jun 2024 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Summer Game Fest 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Summer%20Game%20Fest%202024",
+        "pubdate": "Fri, 07 Jun 2024 12:00:00 -0400"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Summer Game Fest 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Summer%20Game%20Fest%202024",
-        "pubdate": "Fri, 07 Jun 2024 12:00:00 -0400"
+        "title": "England vs Iceland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#England%20vs%20Iceland",
+        "pubdate": "Fri, 07 Jun 2024 15:00:00 -0400"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "Michael Mosley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michael%20Mosley",
         "pubdate": "Fri, 07 Jun 2024 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Calgary Herald",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Herald",
-        "pubdate": "Fri, 07 Jun 2024 02:00:00 -0400"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "CFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CFL",
+        "title": "Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Celtics",
         "pubdate": "Thu, 06 Jun 2024 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "USA vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#USA%20vs%20Pakistan",
-        "pubdate": "Thu, 06 Jun 2024 16:00:00 -0400"
       }
     ]
   ]
