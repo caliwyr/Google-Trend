@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "07-06-2024 , 02:50:59",
+  "lastUpdate": "07-06-2024 , 03:00:33",
   "data": [
     [
       {
         "title": "KSW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KSW",
-        "pubdate": "Fri, 07 Jun 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mirage 2000",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mirage%202000",
         "pubdate": "Fri, 07 Jun 2024 00:00:00 +0200"
       }
     ],
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "D-Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#D-Day",
-        "pubdate": "Thu, 06 Jun 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Granica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Granica",
         "pubdate": "Thu, 06 Jun 2024 17:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Starlink",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Starlink",
         "pubdate": "Thu, 06 Jun 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Biden Joe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Biden%20Joe",
+        "pubdate": "Thu, 06 Jun 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Terminarz ekstraklasy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Terminarz%20ekstraklasy",
+        "pubdate": "Thu, 06 Jun 2024 19:00:00 +0200"
       }
     ]
   ]

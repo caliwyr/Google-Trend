@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "07-06-2024 , 02:50:55",
+  "lastUpdate": "07-06-2024 , 03:00:28",
   "data": [
     [
       {
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
+        "pubdate": "Thu, 06 Jun 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alexander Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Zverev",
         "pubdate": "Thu, 06 Jun 2024 16:00:00 +0200"
       }
     ],
@@ -13,13 +20,6 @@
         "title": "SpaceX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SpaceX",
         "pubdate": "Thu, 06 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zverev French Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev%20French%20Open",
-        "pubdate": "Thu, 06 Jun 2024 09:00:00 +0200"
       }
     ],
     [
@@ -59,8 +59,8 @@
     ],
     [
       {
-        "title": "EZB zinsentscheid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB%20zinsentscheid",
+        "title": "EZB-Zinsentscheid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EZB-Zinsentscheid",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
       }
     ],
@@ -76,6 +76,13 @@
         "title": "TU Berlin, Geraldine Rauch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#TU%20Berlin,%20Geraldine%20Rauch",
         "pubdate": "Wed, 05 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Resilienz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Resilienz",
+        "pubdate": "Wed, 05 Jun 2024 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Polizei",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polizei",
         "pubdate": "Mon, 03 Jun 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FTI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FTI",
-        "pubdate": "Sun, 02 Jun 2024 21:00:00 +0200"
       }
     ]
   ]
