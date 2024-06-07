@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-06-2024 , 01:18:02",
+  "lastUpdate": "07-06-2024 , 02:09:38",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Joe%20Biden",
+        "pubdate": "Thu, 06 Jun 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lewis Morgan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lewis%20Morgan",
         "pubdate": "Thu, 06 Jun 2024 17:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Chris Davies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chris%20Davies",
         "pubdate": "Thu, 06 Jun 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Karen Read",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Karen%20Read",
-        "pubdate": "Thu, 06 Jun 2024 21:00:00 +0100"
       }
     ]
   ]
