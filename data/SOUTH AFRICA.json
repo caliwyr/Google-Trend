@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "09-06-2024 , 03:46:16",
+  "lastUpdate": "09-06-2024 , 03:55:37",
   "data": [
-    [
-      {
-        "title": "Cricket World Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cricket%20World%20Cup",
-        "pubdate": "Sun, 09 Jun 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "USA vs Colombia",
@@ -41,13 +34,6 @@
         "title": "Glasgow Warriors vs Stormers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Glasgow%20Warriors%20vs%20Stormers",
         "pubdate": "Sat, 08 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zverev",
-        "pubdate": "Sat, 08 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -87,9 +73,23 @@
     ],
     [
       {
-        "title": "F1 Qualifying",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20Qualifying",
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zverev",
+        "pubdate": "Sat, 08 Jun 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1 qualifying",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20qualifying",
         "pubdate": "Sat, 08 Jun 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Formula%201",
+        "pubdate": "Sat, 08 Jun 2024 09:00:00 +0200"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Relebohile Mofokeng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Relebohile%20Mofokeng",
+        "pubdate": "Sat, 08 Jun 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Germany",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Germany",
         "pubdate": "Sat, 08 Jun 2024 10:00:00 +0200"
@@ -131,13 +138,6 @@
       {
         "title": "England vs Iceland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20vs%20Iceland",
-        "pubdate": "Fri, 07 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1",
         "pubdate": "Fri, 07 Jun 2024 21:00:00 +0200"
       }
     ]
