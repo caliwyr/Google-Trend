@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-06-2024 , 13:45:03",
+  "lastUpdate": "09-06-2024 , 13:54:17",
   "data": [
+    [
+      {
+        "title": "Wahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl",
+        "pubdate": "Sun, 09 Jun 2024 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "SPD",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Europawahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europawahl",
+        "title": "FDP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FDP",
         "pubdate": "Sun, 09 Jun 2024 10:00:00 +0200"
       }
     ],
@@ -20,20 +27,6 @@
         "title": "CDU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CDU",
         "pubdate": "Sun, 09 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron",
-        "pubdate": "Sun, 09 Jun 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ben Zucker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ben%20Zucker",
-        "pubdate": "Sun, 09 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -94,16 +87,16 @@
     ],
     [
       {
-        "title": "Swiatek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Swiatek",
-        "pubdate": "Sat, 08 Jun 2024 21:00:00 +0200"
+        "title": "French-Open-Finale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#French-Open-Finale",
+        "pubdate": "Sat, 08 Jun 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "French-Open-Finale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#French-Open-Finale",
-        "pubdate": "Sat, 08 Jun 2024 14:00:00 +0200"
+        "title": "Swiatek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Swiatek",
+        "pubdate": "Sat, 08 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Leichtathletik-EM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leichtathletik-EM",
         "pubdate": "Fri, 07 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Michael Mosley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20Mosley",
+        "pubdate": "Fri, 07 Jun 2024 17:00:00 +0200"
       }
     ]
   ]
