@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-06-2024 , 22:57:25",
+  "lastUpdate": "10-06-2024 , 23:16:34",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Modi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Modi",
-        "pubdate": "Mon, 10 Jun 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "ICC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ICC",
         "pubdate": "Mon, 10 Jun 2024 17:00:00 +0800"
@@ -62,6 +55,13 @@
         "title": "Benny Gantz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Benny%20Gantz",
         "pubdate": "Mon, 10 Jun 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Modi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Modi",
+        "pubdate": "Mon, 10 Jun 2024 16:00:00 +0800"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Kyrie Irving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kyrie%20Irving",
-        "pubdate": "Mon, 10 Jun 2024 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Jrue Holiday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jrue%20Holiday",
         "pubdate": "Mon, 10 Jun 2024 18:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "F1 canada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1%20canada",
         "pubdate": "Sun, 09 Jun 2024 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Michael Mosley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Michael%20Mosley",
+        "pubdate": "Sun, 09 Jun 2024 21:00:00 +0800"
       }
     ]
   ]
