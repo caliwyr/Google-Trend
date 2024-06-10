@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "10-06-2024 , 09:57:19",
+  "lastUpdate": "10-06-2024 , 10:18:33",
   "data": [
+    [
+      {
+        "title": "Europawahl 2024 berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europawahl%202024%20berlin",
+        "pubdate": "Mon, 10 Jun 2024 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Israel Benny Gantz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel%20Benny%20Gantz",
         "pubdate": "Mon, 10 Jun 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Europawahl 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europawahl%202024",
-        "pubdate": "Sun, 09 Jun 2024 08:00:00 +0200"
       }
     ],
     [
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Wahlergebnisse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahlergebnisse",
-        "pubdate": "Sun, 09 Jun 2024 12:00:00 +0200"
+        "title": "Europawahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europawahl",
+        "pubdate": "Sun, 09 Jun 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BSW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BSW",
+        "pubdate": "Sun, 09 Jun 2024 10:00:00 +0200"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Kommunalwahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kommunalwahl",
-        "pubdate": "Sun, 09 Jun 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FDP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FDP",
         "pubdate": "Sun, 09 Jun 2024 10:00:00 +0200"
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Europa wahlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20wahlen",
+        "pubdate": "Sun, 09 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Freie Wähler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freie%20W%C3%A4hler",
         "pubdate": "Sun, 09 Jun 2024 08:00:00 +0200"
@@ -94,29 +101,29 @@
     ],
     [
       {
-        "title": "Europawahl Italien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europawahl%20Italien",
-        "pubdate": "Sun, 09 Jun 2024 22:00:00 +0200"
+        "title": "Kommunalwahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kommunalwahl",
+        "pubdate": "Sun, 09 Jun 2024 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Wahlbeteiligung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahlbeteiligung",
-        "pubdate": "Sun, 09 Jun 2024 16:00:00 +0200"
+        "title": "Wahl 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahl%202024",
+        "pubdate": "Sun, 09 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wagenknecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wagenknecht",
+        "pubdate": "Sun, 09 Jun 2024 12:00:00 +0200"
       }
     ],
     [
       {
         "title": "MDR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
-        "pubdate": "Sun, 09 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Europawahl Sachsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europawahl%20Sachsen",
         "pubdate": "Sun, 09 Jun 2024 21:00:00 +0200"
       }
     ],
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "Gemeinderatswahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gemeinderatswahl",
-        "pubdate": "Sun, 09 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "CSU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CSU",
+        "title": "Europawahl Wahlbeteiligung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europawahl%20Wahlbeteiligung",
         "pubdate": "Sun, 09 Jun 2024 20:00:00 +0200"
       }
     ]
