@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-06-2024 , 16:54:04",
+  "lastUpdate": "10-06-2024 , 17:09:38",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Google Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20Maps",
+        "pubdate": "Mon, 10 Jun 2024 15:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Baroque",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Baroque",
         "pubdate": "Mon, 10 Jun 2024 07:00:00 +1200"
@@ -104,13 +111,6 @@
         "title": "EP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EP",
         "pubdate": "Mon, 10 Jun 2024 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Docs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Docs",
-        "pubdate": "Mon, 10 Jun 2024 10:00:00 +1200"
       }
     ],
     [
