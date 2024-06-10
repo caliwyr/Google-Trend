@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-06-2024 , 14:52:35",
+  "lastUpdate": "10-06-2024 , 15:09:17",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "NDR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NDR",
-        "pubdate": "Mon, 10 Jun 2024 12:00:00 +0200"
+        "title": "Kommunalwahlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kommunalwahlen",
+        "pubdate": "Mon, 10 Jun 2024 06:00:00 +0200"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "EVP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EVP",
-        "pubdate": "Sun, 09 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wahlergebnisse 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahlergebnisse%202024",
         "pubdate": "Sun, 09 Jun 2024 13:00:00 +0200"
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "EVP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EVP",
+        "pubdate": "Sun, 09 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "AfD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
         "pubdate": "Sun, 09 Jun 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
+        "pubdate": "Sun, 09 Jun 2024 15:00:00 +0200"
       }
     ],
     [
@@ -75,7 +82,7 @@
       {
         "title": "Sahra Wagenknecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sahra%20Wagenknecht",
-        "pubdate": "Sun, 09 Jun 2024 12:00:00 +0200"
+        "pubdate": "Sun, 09 Jun 2024 10:00:00 +0200"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "FPÖ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FP%C3%96",
-        "pubdate": "Sun, 09 Jun 2024 18:00:00 +0200"
+        "title": "Alexander Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Zverev",
+        "pubdate": "Sun, 09 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -101,16 +108,23 @@
     ],
     [
       {
-        "title": "CDU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CDU",
+        "title": "FPÖ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FP%C3%96",
+        "pubdate": "Sun, 09 Jun 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Die Partei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Die%20Partei",
         "pubdate": "Sun, 09 Jun 2024 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bündnis Sahra Wagenknecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%BCndnis%20Sahra%20Wagenknecht",
-        "pubdate": "Sun, 09 Jun 2024 10:00:00 +0200"
+        "title": "CDU",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CDU",
+        "pubdate": "Sun, 09 Jun 2024 11:00:00 +0200"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "Gesa Krause",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gesa%20Krause",
-        "pubdate": "Sun, 09 Jun 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Die Linke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Die%20Linke",
-        "pubdate": "Sun, 09 Jun 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Klingbeil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Klingbeil",
         "pubdate": "Sun, 09 Jun 2024 23:00:00 +0200"
       }
     ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-06-2024 , 14:52:35",
+  "lastUpdate": "10-06-2024 , 15:09:17",
   "data": [
+    [
+      {
+        "title": "Actualités",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Actualit%C3%A9s",
+        "pubdate": "Mon, 10 Jun 2024 10:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Nadal",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Resultats europeennes par commune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Resultats%20europeennes%20par%20commune",
-        "pubdate": "Mon, 10 Jun 2024 11:00:00 +0200"
+        "title": "Info du jour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Info%20du%20jour",
+        "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -54,6 +61,13 @@
       {
         "title": "Dissolution Assemblée nationale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dissolution%20Assembl%C3%A9e%20nationale",
+        "pubdate": "Sun, 09 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Résultats des élections européennes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#R%C3%A9sultats%20des%20%C3%A9lections%20europ%C3%A9ennes",
         "pubdate": "Sun, 09 Jun 2024 09:00:00 +0200"
       }
     ],
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "Valerie Hayer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Valerie%20Hayer",
-        "pubdate": "Sun, 09 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Procuration vote",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Procuration%20vote",
         "pubdate": "Sun, 09 Jun 2024 11:00:00 +0200"
@@ -80,15 +87,8 @@
     ],
     [
       {
-        "title": "Aubry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aubry",
-        "pubdate": "Sun, 09 Jun 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LR",
+        "title": "LFI européennes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LFI%20europ%C3%A9ennes",
         "pubdate": "Sun, 09 Jun 2024 13:00:00 +0200"
       }
     ],
@@ -97,20 +97,6 @@
         "title": "Raphaël Glucksmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rapha%C3%ABl%20Glucksmann",
         "pubdate": "Sun, 09 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Glucksmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Glucksmann",
-        "pubdate": "Sun, 09 Jun 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Le Monde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Monde",
-        "pubdate": "Sun, 09 Jun 2024 22:00:00 +0200"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Francois Xavier Bellamy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Francois%20Xavier%20Bellamy",
+        "pubdate": "Sun, 09 Jun 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Oradour-sur-Glane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Oradour-sur-Glane",
         "pubdate": "Sun, 09 Jun 2024 00:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Melenchon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Melenchon",
         "pubdate": "Sun, 09 Jun 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BFM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#BFM",
+        "pubdate": "Sun, 09 Jun 2024 21:00:00 +0200"
       }
     ]
   ]
