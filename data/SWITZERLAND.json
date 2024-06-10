@@ -1,10 +1,31 @@
 {
-  "lastUpdate": "10-06-2024 , 11:59:47",
+  "lastUpdate": "10-06-2024 , 12:39:21",
   "data": [
     [
       {
-        "title": "Le temps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20temps",
+        "title": "Art Basel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Art%20Basel",
+        "pubdate": "Mon, 10 Jun 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nvidia",
+        "pubdate": "Mon, 10 Jun 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Giorgia Meloni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Giorgia%20Meloni",
+        "pubdate": "Mon, 10 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Le Temps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20Temps",
         "pubdate": "Mon, 10 Jun 2024 07:00:00 +0200"
       }
     ],
@@ -45,9 +66,16 @@
     ],
     [
       {
-        "title": "Tennis LIVE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tennis%20LIVE",
-        "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
+        "title": "Oradour-sur-Glane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oradour-sur-Glane",
+        "pubdate": "Mon, 10 Jun 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tour de France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20France",
+        "pubdate": "Mon, 10 Jun 2024 12:00:00 +0200"
       }
     ],
     [
@@ -80,30 +108,9 @@
     ],
     [
       {
-        "title": "Wahlergebnisse 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlergebnisse%202024",
-        "pubdate": "Mon, 10 Jun 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RTN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#RTN",
-        "pubdate": "Mon, 10 Jun 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WWDC 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WWDC%202024",
         "pubdate": "Mon, 10 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Italia",
-        "pubdate": "Mon, 10 Jun 2024 08:00:00 +0200"
       }
     ],
     [
@@ -115,30 +122,23 @@
     ],
     [
       {
-        "title": "Johnny Depp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Johnny%20Depp",
-        "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
+        "title": "ATP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ATP",
+        "pubdate": "Mon, 10 Jun 2024 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tour de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tour%20de%20France",
-        "pubdate": "Mon, 10 Jun 2024 12:00:00 +0200"
+        "title": "Wahlergebnisse 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlergebnisse%202024",
+        "pubdate": "Mon, 10 Jun 2024 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Giorgia Meloni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Giorgia%20Meloni",
-        "pubdate": "Mon, 10 Jun 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Xbox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Xbox",
-        "pubdate": "Mon, 10 Jun 2024 09:00:00 +0200"
+        "title": "RTN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#RTN",
+        "pubdate": "Mon, 10 Jun 2024 10:00:00 +0200"
       }
     ]
   ]
