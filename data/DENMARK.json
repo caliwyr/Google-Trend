@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "10-06-2024 , 20:54:00",
+  "lastUpdate": "10-06-2024 , 21:11:00",
   "data": [
     [
       {
         "title": "Nvidia stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nvidia%20stock",
         "pubdate": "Mon, 10 Jun 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Apple",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Apple",
+        "pubdate": "Mon, 10 Jun 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meloni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Meloni",
+        "pubdate": "Mon, 10 Jun 2024 01:00:00 +0200"
       }
     ],
     [
@@ -17,23 +31,9 @@
     ],
     [
       {
-        "title": "Giorgia Meloni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Giorgia%20Meloni",
-        "pubdate": "Mon, 10 Jun 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "DFDS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DFDS",
         "pubdate": "Mon, 10 Jun 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "WWDC 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#WWDC%202024",
-        "pubdate": "Mon, 10 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Decathlon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Decathlon",
+        "pubdate": "Mon, 10 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "European Union election results",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#European%20Union%20election%20results",
         "pubdate": "Sun, 09 Jun 2024 02:00:00 +0200"
@@ -62,13 +69,6 @@
         "title": "EPP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#EPP",
         "pubdate": "Sun, 09 Jun 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SF",
-        "pubdate": "Sun, 09 Jun 2024 13:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Rod Stewart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rod%20Stewart",
-        "pubdate": "Sun, 09 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "DD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DD",
         "pubdate": "Sun, 09 Jun 2024 11:00:00 +0200"
@@ -122,8 +115,8 @@
     ],
     [
       {
-        "title": "EM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#EM",
+        "title": "Em",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Em",
         "pubdate": "Sun, 09 Jun 2024 13:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Anastasia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Anastasia",
         "pubdate": "Sun, 09 Jun 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "El",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#El",
+        "pubdate": "Sun, 09 Jun 2024 21:00:00 +0200"
       }
     ]
   ]
