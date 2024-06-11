@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-06-2024 , 06:58:28",
+  "lastUpdate": "11-06-2024 , 07:17:54",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Stefanidi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Stefanidi",
+        "pubdate": "Mon, 10 Jun 2024 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Billie%20Eilish",
         "pubdate": "Mon, 10 Jun 2024 21:00:00 +0300"
@@ -73,9 +80,23 @@
     ],
     [
       {
+        "title": "RN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RN",
+        "pubdate": "Mon, 10 Jun 2024 06:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Dunkirk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dunkirk",
         "pubdate": "Mon, 10 Jun 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Crux",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Crux",
+        "pubdate": "Mon, 10 Jun 2024 17:00:00 +0300"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "EPP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#EPP",
-        "pubdate": "Sun, 09 Jun 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Michael Mosley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Michael%20Mosley",
         "pubdate": "Sun, 09 Jun 2024 12:00:00 +0300"
@@ -125,20 +139,6 @@
         "title": "Eu elections",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eu%20elections",
         "pubdate": "Sun, 09 Jun 2024 03:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Re",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Re",
-        "pubdate": "Sun, 09 Jun 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "ID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ID",
-        "pubdate": "Sun, 09 Jun 2024 22:00:00 +0300"
       }
     ]
   ]
