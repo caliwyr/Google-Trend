@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-06-2024 , 04:56:58",
+  "lastUpdate": "11-06-2024 , 05:16:35",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
+        "pubdate": "Mon, 10 Jun 2024 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "CSA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CSA",
         "pubdate": "Mon, 10 Jun 2024 17:00:00 -0500"
       }
     ],
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Bad Boys 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bad%20Boys%203",
+        "pubdate": "Mon, 10 Jun 2024 22:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "iOS 18",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#iOS%2018",
         "pubdate": "Mon, 10 Jun 2024 14:00:00 -0500"
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Bad Boys 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bad%20Boys%203",
-        "pubdate": "Mon, 10 Jun 2024 22:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Sport Recife",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport%20Recife",
         "pubdate": "Mon, 10 Jun 2024 14:00:00 -0500"
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Polonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Polonia",
+        "title": "Polônia x Turquia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pol%C3%B4nia%20x%20Turquia",
         "pubdate": "Mon, 10 Jun 2024 15:00:00 -0500"
       }
     ],
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#NFL",
-        "pubdate": "Mon, 10 Jun 2024 11:00:00 -0500"
+        "title": "XP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#XP",
+        "pubdate": "Mon, 10 Jun 2024 09:00:00 -0500"
       }
     ],
     [
       {
-        "title": "XP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#XP",
-        "pubdate": "Mon, 10 Jun 2024 09:00:00 -0500"
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#NFL",
+        "pubdate": "Mon, 10 Jun 2024 11:00:00 -0500"
       }
     ],
     [
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Xbox Series X",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Xbox%20Series%20X",
-        "pubdate": "Mon, 10 Jun 2024 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Quina de São João",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quina%20de%20S%C3%A3o%20Jo%C3%A3o",
-        "pubdate": "Mon, 10 Jun 2024 20:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Acidente avião Bauru",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Acidente%20avi%C3%A3o%20Bauru",
         "pubdate": "Mon, 10 Jun 2024 19:00:00 -0500"
@@ -139,6 +132,13 @@
         "title": "Emília Clarke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Em%C3%ADlia%20Clarke",
         "pubdate": "Mon, 10 Jun 2024 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Quina de São João",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quina%20de%20S%C3%A3o%20Jo%C3%A3o",
+        "pubdate": "Mon, 10 Jun 2024 20:00:00 -0500"
       }
     ]
   ]

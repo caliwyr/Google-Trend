@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-06-2024 , 04:57:03",
+  "lastUpdate": "11-06-2024 , 05:16:40",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Keith Foo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Keith%20Foo",
+        "pubdate": "Mon, 10 Jun 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Yahoo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Yahoo",
         "pubdate": "Mon, 10 Jun 2024 13:00:00 +0800"
@@ -41,13 +48,6 @@
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Carlos%20Alcaraz",
         "pubdate": "Mon, 10 Jun 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Keith Foo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Keith%20Foo",
-        "pubdate": "Mon, 10 Jun 2024 12:00:00 +0800"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Oman vs Scotland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Oman%20vs%20Scotland",
-        "pubdate": "Mon, 10 Jun 2024 02:00:00 +0800"
+        "title": "WWDC 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#WWDC%202024",
+        "pubdate": "Mon, 10 Jun 2024 19:00:00 +0800"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "WWDC 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#WWDC%202024",
-        "pubdate": "Mon, 10 Jun 2024 19:00:00 +0800"
+        "title": "Australian Open 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Australian%20Open%202024",
+        "pubdate": "Mon, 10 Jun 2024 16:00:00 +0800"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "LLM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#LLM",
         "pubdate": "Mon, 10 Jun 2024 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Perkeso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Perkeso",
-        "pubdate": "Mon, 10 Jun 2024 14:00:00 +0800"
       }
     ],
     [
@@ -111,13 +104,6 @@
         "title": "Ryan Garcia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ryan%20Garcia",
         "pubdate": "Mon, 10 Jun 2024 03:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "POS Malaysia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#POS%20Malaysia",
-        "pubdate": "Mon, 10 Jun 2024 15:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Petronas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Petronas",
         "pubdate": "Mon, 10 Jun 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "DHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#DHL",
+        "pubdate": "Mon, 10 Jun 2024 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Ashok Elluswamy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ashok%20Elluswamy",
+        "pubdate": "Mon, 10 Jun 2024 13:00:00 +0800"
       }
     ]
   ]
