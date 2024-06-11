@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-06-2024 , 07:56:32",
+  "lastUpdate": "11-06-2024 , 08:19:46",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Index",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Index",
-        "pubdate": "Mon, 10 Jun 2024 01:00:00 +0200"
+        "title": "Origo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Origo",
+        "pubdate": "Mon, 10 Jun 2024 06:00:00 +0200"
       }
     ],
     [
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Hírek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%ADrek",
-        "pubdate": "Mon, 10 Jun 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tiszapárt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tiszap%C3%A1rt",
         "pubdate": "Mon, 10 Jun 2024 15:00:00 +0200"
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Hírek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%ADrek",
+        "pubdate": "Mon, 10 Jun 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "EP-választás",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#EP-v%C3%A1laszt%C3%A1s",
         "pubdate": "Mon, 10 Jun 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "iOS 18",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#iOS%2018",
+        "pubdate": "Mon, 10 Jun 2024 17:00:00 +0200"
       }
     ],
     [
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "iOS 18",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#iOS%2018",
-        "pubdate": "Mon, 10 Jun 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "24",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#24",
         "pubdate": "Mon, 10 Jun 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Europai parlamenti választások",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Europai%20parlamenti%20v%C3%A1laszt%C3%A1sok",
-        "pubdate": "Mon, 10 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -125,6 +118,13 @@
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Billie%20Eilish",
         "pubdate": "Mon, 10 Jun 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pécs választás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%A9cs%20v%C3%A1laszt%C3%A1s",
+        "pubdate": "Mon, 10 Jun 2024 04:00:00 +0200"
       }
     ],
     [
