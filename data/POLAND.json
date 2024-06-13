@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 06:56:46",
+  "lastUpdate": "13-06-2024 , 07:14:28",
   "data": [
     [
       {
@@ -117,13 +117,6 @@
       {
         "title": "Polska Turcja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20Turcja",
-        "pubdate": "Mon, 10 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mecz Polska Turcja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mecz%20Polska%20Turcja",
         "pubdate": "Mon, 10 Jun 2024 10:00:00 +0200"
       }
     ],
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Kacper Urbański",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kacper%20Urba%C5%84ski",
+        "title": "Lewandowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lewandowski",
+        "pubdate": "Mon, 10 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nicola Zalewski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nicola%20Zalewski",
         "pubdate": "Mon, 10 Jun 2024 22:00:00 +0200"
       }
     ]
