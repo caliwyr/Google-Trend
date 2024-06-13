@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 17:56:37",
+  "lastUpdate": "13-06-2024 , 18:21:02",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "EVP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EVP",
+        "pubdate": "Sun, 09 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Europawahl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europawahl",
         "pubdate": "Sun, 09 Jun 2024 08:00:00 +0200"
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "AfD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD",
-        "pubdate": "Sun, 09 Jun 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Europawahl Hochrechnung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europawahl%20Hochrechnung",
+        "title": "Hochrechnung Europawahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hochrechnung%20Europawahl",
         "pubdate": "Sun, 09 Jun 2024 08:00:00 +0200"
       }
     ]
