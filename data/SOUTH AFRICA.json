@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 14:37:15",
+  "lastUpdate": "13-06-2024 , 14:46:30",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "U.S. Open Golf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#U.S.%20Open%20Golf",
+        "pubdate": "Thu, 13 Jun 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pope Francis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pope%20Francis",
         "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
@@ -48,13 +55,6 @@
         "title": "Andile Jali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Andile%20Jali",
         "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "U.S. Open golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#U.S.%20Open%20golf",
-        "pubdate": "Thu, 13 Jun 2024 14:00:00 +0200"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Mxolisi Kaunda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mxolisi%20Kaunda",
-        "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wilgenhof",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wilgenhof",
         "pubdate": "Thu, 13 Jun 2024 14:00:00 +0200"
@@ -90,13 +83,6 @@
         "title": "South Africa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa",
         "pubdate": "Tue, 11 Jun 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Portugal vs Ireland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Portugal%20vs%20Ireland",
-        "pubdate": "Tue, 11 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -129,16 +115,30 @@
     ],
     [
       {
-        "title": "Bafana Bafana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bafana%20Bafana",
-        "pubdate": "Mon, 10 Jun 2024 23:00:00 +0200"
+        "title": "South Africa vs Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa%20vs%20Bangladesh",
+        "pubdate": "Mon, 10 Jun 2024 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "South Africa vs Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa%20vs%20Bangladesh",
-        "pubdate": "Mon, 10 Jun 2024 17:00:00 +0200"
+        "title": "Malawi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Malawi",
+        "pubdate": "Mon, 10 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nigeria vs Benin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nigeria%20vs%20Benin",
+        "pubdate": "Mon, 10 Jun 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "World Cup Qualifiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#World%20Cup%20Qualifiers",
+        "pubdate": "Mon, 10 Jun 2024 23:00:00 +0200"
       }
     ]
   ]
