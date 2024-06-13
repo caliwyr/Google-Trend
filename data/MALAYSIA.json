@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-06-2024 , 03:58:57",
+  "lastUpdate": "13-06-2024 , 04:23:50",
   "data": [
     [
       {
         "title": "iOS 18",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#iOS%2018",
         "pubdate": "Tue, 11 Jun 2024 04:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "World Cup Qualifiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#World%20Cup%20Qualifiers",
+        "pubdate": "Tue, 11 Jun 2024 20:00:00 +0800"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Diesel price Malaysia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Diesel%20price%20Malaysia",
-        "pubdate": "Sun, 09 Jun 2024 18:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "India vs Pakistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#India%20vs%20Pakistan",
         "pubdate": "Sun, 09 Jun 2024 22:00:00 +0800"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Mexico vs Brazil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mexico%20vs%20Brazil",
-        "pubdate": "Sun, 09 Jun 2024 09:00:00 +0800"
+        "title": "Diesel price Malaysia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Diesel%20price%20Malaysia",
+        "pubdate": "Sun, 09 Jun 2024 18:00:00 +0800"
       }
     ]
   ]
