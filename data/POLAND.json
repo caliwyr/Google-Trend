@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-06-2024 , 11:33:54",
+  "lastUpdate": "13-06-2024 , 11:43:09",
   "data": [
+    [
+      {
+        "title": "Słajszewo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82ajszewo",
+        "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Mateusz Sitek",
@@ -31,8 +38,22 @@
     ],
     [
       {
+        "title": "Zalew Radkowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zalew%20Radkowski",
+        "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Uniwersytet warszawski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Uniwersytet%20warszawski",
+        "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marta Wcisło",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marta%20Wcis%C5%82o",
         "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
       }
     ],
@@ -45,8 +66,8 @@
     ],
     [
       {
-        "title": "Marta Wcisło",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marta%20Wcis%C5%82o",
+        "title": "Armenia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Armenia",
         "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
       }
     ],
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Skazana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Skazana",
-        "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Niemcy - Szkocja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Niemcy%20-%20Szkocja",
         "pubdate": "Tue, 11 Jun 2024 21:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Zaproszenie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zaproszenie",
         "pubdate": "Tue, 11 Jun 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Prezydent Andrzej Duda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prezydent%20Andrzej%20Duda",
-        "pubdate": "Tue, 11 Jun 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dorota Gardias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dorota%20Gardias",
-        "pubdate": "Tue, 11 Jun 2024 08:00:00 +0200"
       }
     ]
   ]
