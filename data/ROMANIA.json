@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 20:40:27",
+  "lastUpdate": "13-06-2024 , 20:50:02",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Ozempic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ozempic",
-        "pubdate": "Thu, 13 Jun 2024 13:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Bridgerton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bridgerton",
         "pubdate": "Thu, 13 Jun 2024 16:00:00 +0300"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Campionatul European de fotbal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Campionatul%20European%20de%20fotbal",
-        "pubdate": "Thu, 13 Jun 2024 16:00:00 +0300"
+        "title": "Ozempic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ozempic",
+        "pubdate": "Thu, 13 Jun 2024 13:00:00 +0300"
       }
     ],
     [
@@ -41,13 +34,6 @@
         "title": "Cutremur Romania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cutremur%20Romania",
         "pubdate": "Thu, 13 Jun 2024 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Țânțarul-tigru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#%C8%9A%C3%A2n%C8%9Barul-tigru",
-        "pubdate": "Thu, 13 Jun 2024 17:00:00 +0300"
       }
     ],
     [
@@ -66,6 +52,13 @@
     ],
     [
       {
+        "title": "Campionatul European 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Campionatul%20European%202024",
+        "pubdate": "Thu, 13 Jun 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Catalin cirjan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Catalin%20cirjan",
         "pubdate": "Thu, 13 Jun 2024 18:00:00 +0300"
@@ -75,6 +68,13 @@
       {
         "title": "Centrul Vechi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Centrul%20Vechi",
+        "pubdate": "Thu, 13 Jun 2024 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Marius Ștefănescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marius%20%C8%98tef%C4%83nescu",
         "pubdate": "Thu, 13 Jun 2024 13:00:00 +0300"
       }
     ],
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Gheorghe Flutur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gheorghe%20Flutur",
-        "pubdate": "Thu, 13 Jun 2024 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Concert Coldplay bucuresti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Concert%20Coldplay%20bucuresti",
         "pubdate": "Tue, 11 Jun 2024 20:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Wurzburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Wurzburg",
         "pubdate": "Tue, 11 Jun 2024 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Cernavoda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cernavoda",
+        "pubdate": "Tue, 11 Jun 2024 16:00:00 +0300"
       }
     ]
   ]
