@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 21:38:30",
+  "lastUpdate": "13-06-2024 , 21:47:59",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "RIGI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#RIGI",
+        "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Boston Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boston%20Celtics",
         "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "RIGI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#RIGI",
+        "title": "TN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#TN",
         "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
       }
     ],
@@ -87,34 +94,6 @@
     ],
     [
       {
-        "title": "Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brasil",
-        "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ecuador  Bolivia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ecuador%20%20Bolivia",
-        "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Brasil vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brasil%20vs",
-        "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Primera División",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera%20Divisi%C3%B3n",
-        "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "San Antonio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Antonio",
         "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
@@ -129,15 +108,36 @@
     ],
     [
       {
-        "title": "Futbol argentino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol%20argentino",
+        "title": "Primera División",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera%20Divisi%C3%B3n",
         "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Central",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central",
+        "title": "Ecuador  Bolivia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ecuador%20%20Bolivia",
+        "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Bridgerton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bridgerton",
+        "pubdate": "Thu, 13 Jun 2024 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Brasil vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brasil%20vs",
+        "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Futbol argentino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol%20argentino",
         "pubdate": "Thu, 13 Jun 2024 07:00:00 -0300"
       }
     ]
