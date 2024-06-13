@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 07:44:54",
+  "lastUpdate": "13-06-2024 , 07:54:18",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Nvidia stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nvidia%20stock",
         "pubdate": "Tue, 11 Jun 2024 00:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Auckland Council",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20Council",
+        "pubdate": "Tue, 11 Jun 2024 01:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Matariki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Matariki",
         "pubdate": "Mon, 10 Jun 2024 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "EP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EP",
-        "pubdate": "Mon, 10 Jun 2024 09:00:00 +1200"
       }
     ]
   ]
