@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 11:43:05",
+  "lastUpdate": "13-06-2024 , 11:52:21",
   "data": [
     [
       {
@@ -47,7 +47,21 @@
       {
         "title": "Apple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple",
-        "pubdate": "Mon, 10 Jun 2024 22:00:00 +0200"
+        "pubdate": "Mon, 10 Jun 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tennis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tennis",
+        "pubdate": "Mon, 10 Jun 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Krah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Krah",
+        "pubdate": "Mon, 10 Jun 2024 09:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bündnis Sahra Wagenknecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%BCndnis%20Sahra%20Wagenknecht",
         "pubdate": "Sun, 09 Jun 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Die Linke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Die%20Linke",
-        "pubdate": "Sun, 09 Jun 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Freie Wähler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freie%20W%C3%A4hler",
-        "pubdate": "Sun, 09 Jun 2024 08:00:00 +0200"
       }
     ]
   ]
