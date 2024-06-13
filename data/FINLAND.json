@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 05:39:13",
+  "lastUpdate": "13-06-2024 , 05:48:25",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Malawi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Malawi",
         "pubdate": "Tue, 11 Jun 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "JoJo Siwa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#JoJo%20Siwa",
+        "pubdate": "Tue, 11 Jun 2024 18:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "European Union election results",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#European%20Union%20election%20results",
         "pubdate": "Sun, 09 Jun 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Zverev",
-        "pubdate": "Sun, 09 Jun 2024 17:00:00 +0300"
       }
     ]
   ]
