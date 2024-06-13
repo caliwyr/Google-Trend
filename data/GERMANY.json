@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-06-2024 , 17:16:11",
+  "lastUpdate": "13-06-2024 , 17:28:52",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "iOS 18",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#iOS%2018",
+        "pubdate": "Mon, 10 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Stuttgart 21",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuttgart%2021",
         "pubdate": "Mon, 10 Jun 2024 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Macron",
         "pubdate": "Sun, 09 Jun 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kommunalwahlen 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kommunalwahlen%202024",
-        "pubdate": "Sun, 09 Jun 2024 10:00:00 +0200"
       }
     ]
   ]
