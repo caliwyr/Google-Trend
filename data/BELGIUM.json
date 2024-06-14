@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-06-2024 , 10:41:57",
+  "lastUpdate": "14-06-2024 , 10:51:19",
   "data": [
+    [
+      {
+        "title": "Euro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Euro",
+        "pubdate": "Fri, 14 Jun 2024 12:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Duitsland voetbal",
@@ -10,9 +17,16 @@
     ],
     [
       {
-        "title": "US Open Golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#US%20Open%20Golf",
+        "title": "US Open golf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#US%20Open%20golf",
         "pubdate": "Fri, 14 Jun 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "François hollande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fran%C3%A7ois%20hollande",
+        "pubdate": "Fri, 14 Jun 2024 12:00:00 +0200"
       }
     ],
     [
@@ -27,6 +41,13 @@
         "title": "Scotch and Soda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Scotch%20and%20Soda",
         "pubdate": "Fri, 14 Jun 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Luke Newton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luke%20Newton",
+        "pubdate": "Fri, 14 Jun 2024 11:00:00 +0200"
       }
     ],
     [
@@ -61,7 +82,7 @@
       {
         "title": "Bridgerton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bridgerton",
-        "pubdate": "Thu, 13 Jun 2024 12:00:00 +0200"
+        "pubdate": "Thu, 13 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "The Boys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Boys",
         "pubdate": "Thu, 13 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luc Martens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luc%20Martens",
-        "pubdate": "Thu, 13 Jun 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maradona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maradona",
-        "pubdate": "Thu, 13 Jun 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ontex Eeklo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ontex%20Eeklo",
-        "pubdate": "Thu, 13 Jun 2024 15:00:00 +0200"
       }
     ]
   ]
