@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2024 , 08:40:27",
+  "lastUpdate": "14-06-2024 , 08:49:52",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "משפחת ביבס",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%9E%D7%A9%D7%A4%D7%97%D7%AA%20%D7%91%D7%99%D7%91%D7%A1",
-        "pubdate": "Fri, 14 Jun 2024 01:00:00 +0300"
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Tesla%20stock",
+        "pubdate": "Fri, 14 Jun 2024 00:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Bridgerton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Bridgerton",
-        "pubdate": "Fri, 14 Jun 2024 02:00:00 +0300"
+        "title": "ביבס",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%99%D7%91%D7%A1",
+        "pubdate": "Fri, 14 Jun 2024 01:00:00 +0300"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "תום נשר",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%AA%D7%95%D7%9D%20%D7%A0%D7%A9%D7%A8",
         "pubdate": "Fri, 14 Jun 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bridgerton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Bridgerton",
+        "pubdate": "Fri, 14 Jun 2024 02:00:00 +0300"
       }
     ],
     [
@@ -40,13 +47,6 @@
       {
         "title": "יזהר שי",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%99%D7%96%D7%94%D7%A8%20%D7%A9%D7%99",
-        "pubdate": "Thu, 13 Jun 2024 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "טל מורד",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%98%D7%9C%20%D7%9E%D7%95%D7%A8%D7%93",
         "pubdate": "Thu, 13 Jun 2024 13:00:00 +0300"
       }
     ],
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Jerry West",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Jerry%20West",
+        "title": "טל מורד",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%98%D7%9C%20%D7%9E%D7%95%D7%A8%D7%93",
         "pubdate": "Thu, 13 Jun 2024 13:00:00 +0300"
       }
     ],
@@ -76,6 +76,13 @@
         "title": "נפתלי בנט",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A0%D7%A4%D7%AA%D7%9C%D7%99%20%D7%91%D7%A0%D7%98",
         "pubdate": "Thu, 13 Jun 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Jerry West",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Jerry%20West",
+        "pubdate": "Thu, 13 Jun 2024 13:00:00 +0300"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "אנה ארונוב",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%A0%D7%94%20%D7%90%D7%A8%D7%95%D7%A0%D7%95%D7%91",
+        "pubdate": "Thu, 13 Jun 2024 13:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "בלה חדיד",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%9C%D7%94%20%D7%97%D7%93%D7%99%D7%93",
         "pubdate": "Thu, 13 Jun 2024 15:00:00 +0300"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "ברידג'רטון",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%91%D7%A8%D7%99%D7%93%D7%92'%D7%A8%D7%98%D7%95%D7%9F",
-        "pubdate": "Thu, 13 Jun 2024 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "אסף אבידן",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%A1%D7%A3%20%D7%90%D7%91%D7%99%D7%93%D7%9F",
-        "pubdate": "Thu, 13 Jun 2024 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "אודיה",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%95%D7%93%D7%99%D7%94",
-        "pubdate": "Thu, 13 Jun 2024 13:00:00 +0300"
+        "title": "פרשת נשא",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A4%D7%A8%D7%A9%D7%AA%20%D7%A0%D7%A9%D7%90",
+        "pubdate": "Thu, 13 Jun 2024 20:00:00 +0300"
       }
     ]
   ]
