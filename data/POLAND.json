@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "15-06-2024 , 08:53:35",
+  "lastUpdate": "15-06-2024 , 09:09:42",
   "data": [
     [
       {
-        "title": "To",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#To",
+        "title": "Copa america",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Copa%20america",
+        "pubdate": "Sat, 15 Jun 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "15 czerwca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#15%20czerwca",
         "pubdate": "Sat, 15 Jun 2024 00:00:00 +0200"
       }
     ],
@@ -13,6 +20,13 @@
         "title": "Władimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#W%C5%82adimir%20Putin",
         "pubdate": "Sat, 15 Jun 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "To",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#To",
+        "pubdate": "Sat, 15 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -38,9 +52,16 @@
     ],
     [
       {
-        "title": "STS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#STS",
-        "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
+        "title": "Nicola Zalewski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nicola%20Zalewski",
+        "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kamil Szymczak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kamil%20Szymczak",
+        "pubdate": "Fri, 14 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -73,13 +94,6 @@
     ],
     [
       {
-        "title": "Zalewski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zalewski",
-        "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rekiny w Bałtyku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rekiny%20w%20Ba%C5%82tyku",
         "pubdate": "Fri, 14 Jun 2024 11:00:00 +0200"
@@ -97,13 +111,6 @@
         "title": "Sanah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sanah",
         "pubdate": "Fri, 14 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Polska - Dominikana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Dominikana",
-        "pubdate": "Fri, 14 Jun 2024 14:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nuri Sahin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nuri%20Sahin",
         "pubdate": "Fri, 14 Jun 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mateusz Strzelczyk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mateusz%20Strzelczyk",
-        "pubdate": "Fri, 14 Jun 2024 14:00:00 +0200"
       }
     ]
   ]
