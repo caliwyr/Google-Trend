@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "15-06-2024 , 05:57:11",
+  "lastUpdate": "15-06-2024 , 06:20:47",
   "data": [
-    [
-      {
-        "title": "Türkiye",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#T%C3%BCrkiye",
-        "pubdate": "Sat, 15 Jun 2024 03:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "15 Temmuz Şehitler Köprüsü",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#15%20Temmuz%20%C5%9Eehitler%20K%C3%B6pr%C3%BCs%C3%BC",
         "pubdate": "Sat, 15 Jun 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Türkiye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#T%C3%BCrkiye",
+        "pubdate": "Sat, 15 Jun 2024 03:00:00 +0300"
       }
     ],
     [
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Ceza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ceza",
-        "pubdate": "Sat, 15 Jun 2024 01:00:00 +0300"
+        "title": "İlkay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0lkay",
+        "pubdate": "Sat, 15 Jun 2024 00:00:00 +0300"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Abdullah Gül",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Abdullah%20G%C3%BCl",
         "pubdate": "Sat, 15 Jun 2024 06:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Ceza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ceza",
+        "pubdate": "Sat, 15 Jun 2024 01:00:00 +0300"
       }
     ],
     [
@@ -94,6 +101,20 @@
     ],
     [
       {
+        "title": "Eylem Tok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eylem%20Tok",
+        "pubdate": "Fri, 14 Jun 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bayram namazı saati",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayram%20namaz%C4%B1%20saati",
+        "pubdate": "Fri, 14 Jun 2024 12:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Nwakaeme",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Nwakaeme",
         "pubdate": "Fri, 14 Jun 2024 17:00:00 +0300"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Bayram namazı SAATİ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayram%20namaz%C4%B1%20SAAT%C4%B0",
-        "pubdate": "Fri, 14 Jun 2024 12:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Yurtdışı çıkış harcı",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Yurtd%C4%B1%C5%9F%C4%B1%20%C3%A7%C4%B1k%C4%B1%C5%9F%20harc%C4%B1",
         "pubdate": "Fri, 14 Jun 2024 12:00:00 +0300"
@@ -125,20 +139,6 @@
         "title": "TRT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TRT",
         "pubdate": "Fri, 14 Jun 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "İlkay Gündoğan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0lkay%20G%C3%BCndo%C4%9Fan",
-        "pubdate": "Fri, 14 Jun 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sıla Doğu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#S%C4%B1la%20Do%C4%9Fu",
-        "pubdate": "Fri, 14 Jun 2024 03:00:00 +0300"
       }
     ]
   ]
