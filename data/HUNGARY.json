@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-06-2024 , 04:46:22",
+  "lastUpdate": "15-06-2024 , 04:55:53",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Magyarország Svájc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyarorsz%C3%A1g%20Sv%C3%A1jc",
+        "title": "Magyarország - Svájc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyarorsz%C3%A1g%20-%20Sv%C3%A1jc",
         "pubdate": "Fri, 14 Jun 2024 17:00:00 +0200"
       }
     ],
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "Euro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Euro%202024",
+        "title": "EURO-2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#EURO-2024",
         "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
       }
     ],
@@ -76,13 +76,6 @@
         "title": "Peller Károly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Peller%20K%C3%A1roly",
         "pubdate": "Fri, 14 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Európa-bajnokság 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eur%C3%B3pa-bajnoks%C3%A1g%202024",
-        "pubdate": "Fri, 14 Jun 2024 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Vb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vb",
         "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gemenci erdő",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gemenci%20erd%C5%91",
+        "pubdate": "Fri, 14 Jun 2024 07:00:00 +0200"
       }
     ]
   ]
