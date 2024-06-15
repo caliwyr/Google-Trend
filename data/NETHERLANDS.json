@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-06-2024 , 01:10:56",
+  "lastUpdate": "15-06-2024 , 02:06:42",
   "data": [
+    [
+      {
+        "title": "EK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#EK",
+        "pubdate": "Fri, 14 Jun 2024 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Ek voetbal",
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "PVV Marjolein Faber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PVV%20Marjolein%20Faber",
+        "title": "Faber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Faber",
         "pubdate": "Fri, 14 Jun 2024 14:00:00 +0200"
       }
     ],
@@ -41,20 +48,6 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Elon%20Musk",
         "pubdate": "Fri, 14 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vicky Maeijer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vicky%20Maeijer",
-        "pubdate": "Fri, 14 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#EK",
-        "pubdate": "Thu, 13 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Voetbal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Voetbal",
         "pubdate": "Mon, 10 Jun 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dumfries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dumfries",
+        "pubdate": "Mon, 10 Jun 2024 22:00:00 +0200"
       }
     ]
   ]
