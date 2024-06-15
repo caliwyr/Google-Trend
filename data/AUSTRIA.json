@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-06-2024 , 23:56:55",
+  "lastUpdate": "15-06-2024 , 01:10:49",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "UEFA Euro 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UEFA%20Euro%202024",
+        "pubdate": "Fri, 14 Jun 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "EM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EM",
         "pubdate": "Fri, 14 Jun 2024 11:00:00 +0200"
@@ -40,20 +47,13 @@
       {
         "title": "EURO 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EURO%202024",
-        "pubdate": "Fri, 14 Jun 2024 14:00:00 +0200"
+        "pubdate": "Fri, 14 Jun 2024 00:00:00 +0200"
       }
     ],
     [
       {
         "title": "Europameisterschaft",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Europameisterschaft",
-        "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wirtz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wirtz",
         "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
       }
     ],
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "Füllkrug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F%C3%BCllkrug",
-        "pubdate": "Fri, 14 Jun 2024 23:00:00 +0200"
+        "title": "Wirtz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wirtz",
+        "pubdate": "Fri, 14 Jun 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "ZDF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF",
-        "pubdate": "Fri, 14 Jun 2024 19:00:00 +0200"
+        "title": "Füllkrug",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F%C3%BCllkrug",
+        "pubdate": "Fri, 14 Jun 2024 23:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Manuel Neuer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manuel%20Neuer",
-        "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Eis am Stiel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Eis%20am%20Stiel",
         "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WM",
-        "pubdate": "Fri, 14 Jun 2024 17:00:00 +0200"
+        "title": "Manuel Neuer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manuel%20Neuer",
+        "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Allianz Arena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Allianz%20Arena",
+        "pubdate": "Fri, 14 Jun 2024 21:00:00 +0200"
       }
     ]
   ]
