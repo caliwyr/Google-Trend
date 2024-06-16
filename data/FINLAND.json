@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-06-2024 , 07:55:07",
+  "lastUpdate": "16-06-2024 , 08:14:27",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Stella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Stella",
+        "pubdate": "Sun, 16 Jun 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Jack Nicholson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jack%20Nicholson",
         "pubdate": "Sun, 16 Jun 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Martin Adam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Martin%20Adam",
+        "pubdate": "Sun, 16 Jun 2024 10:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Florida Panthers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Florida%20Panthers",
         "pubdate": "Fri, 14 Jun 2024 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sideways",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sideways",
-        "pubdate": "Fri, 14 Jun 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Aleksander Barkov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aleksander%20Barkov",
-        "pubdate": "Fri, 14 Jun 2024 18:00:00 +0300"
       }
     ]
   ]
