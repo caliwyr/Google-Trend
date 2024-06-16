@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-06-2024 , 02:51:38",
+  "lastUpdate": "16-06-2024 , 03:07:32",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "GAA Results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#GAA%20Results",
-        "pubdate": "Sat, 15 Jun 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Cork v Tyrone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Cork%20v%20Tyrone",
         "pubdate": "Sat, 15 Jun 2024 16:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Kyle Walker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kyle%20Walker",
         "pubdate": "Sat, 15 Jun 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Donegal v Clare",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Donegal%20v%20Clare",
+        "pubdate": "Sat, 15 Jun 2024 16:00:00 +0100"
       }
     ]
   ]
