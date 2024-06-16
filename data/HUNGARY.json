@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-06-2024 , 05:49:54",
+  "lastUpdate": "16-06-2024 , 05:59:15",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "Albánia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alb%C3%A1nia",
+        "pubdate": "Sat, 15 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Labdarúgó-eb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Labdar%C3%BAg%C3%B3-eb",
         "pubdate": "Sat, 15 Jun 2024 21:00:00 +0200"
       }
     ],
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Morata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Morata",
-        "pubdate": "Sat, 15 Jun 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Szakács István",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szak%C3%A1cs%20Istv%C3%A1n",
         "pubdate": "Sat, 15 Jun 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cristiano%20Ronaldo",
-        "pubdate": "Sat, 15 Jun 2024 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Pellegrini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pellegrini",
         "pubdate": "Sat, 15 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hungary",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hungary",
+        "pubdate": "Sat, 15 Jun 2024 17:00:00 +0200"
       }
     ]
   ]
