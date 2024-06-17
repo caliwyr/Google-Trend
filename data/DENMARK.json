@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-06-2024 , 08:51:13",
+  "lastUpdate": "17-06-2024 , 09:00:32",
   "data": [
     [
       {
         "title": "Okapi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Okapi",
         "pubdate": "Mon, 17 Jun 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Henry Cavill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Henry%20Cavill",
+        "pubdate": "Mon, 17 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Eid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eid",
-        "pubdate": "Sun, 16 Jun 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Poland vs Netherlands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Poland%20vs%20Netherlands",
         "pubdate": "Sun, 16 Jun 2024 17:00:00 +0200"
@@ -61,6 +61,13 @@
       {
         "title": "Father's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Father's%20Day",
+        "pubdate": "Sun, 16 Jun 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eid",
         "pubdate": "Sun, 16 Jun 2024 09:00:00 +0200"
       }
     ],
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Eid al-Adha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eid%20al-Adha",
+        "pubdate": "Sun, 16 Jun 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Xavi Simons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Xavi%20Simons",
         "pubdate": "Sun, 16 Jun 2024 17:00:00 +0200"
@@ -117,28 +131,14 @@
       {
         "title": "Le Mans 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Le%20Mans%202024",
+        "pubdate": "Sat, 15 Jun 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Le Mans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Le%20Mans",
         "pubdate": "Sat, 15 Jun 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Generator",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Generator",
-        "pubdate": "Sat, 15 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FM radio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FM%20radio",
-        "pubdate": "Sat, 15 Jun 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kevin Campbell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kevin%20Campbell",
-        "pubdate": "Sat, 15 Jun 2024 12:00:00 +0200"
       }
     ]
   ]
