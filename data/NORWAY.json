@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-06-2024 , 11:51:24",
+  "lastUpdate": "17-06-2024 , 12:11:19",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Lyn.met",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lyn.met",
-        "pubdate": "Sun, 16 Jun 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Eriksen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eriksen",
         "pubdate": "Sun, 16 Jun 2024 19:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Katinka Sletten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Katinka%20Sletten",
-        "pubdate": "Sun, 16 Jun 2024 22:00:00 +0200"
+        "title": "Egersund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Egersund",
+        "pubdate": "Sun, 16 Jun 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hamburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hamburg",
+        "pubdate": "Sun, 16 Jun 2024 20:00:00 +0200"
       }
     ]
   ]
