@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "17-06-2024 , 23:56:10",
+  "lastUpdate": "18-06-2024 , 01:06:02",
   "data": [
-    [
-      {
-        "title": "ARD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ARD",
-        "pubdate": "Tue, 18 Jun 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Frankreich Österreich",
@@ -26,13 +19,6 @@
       {
         "title": "Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bellingham",
-        "pubdate": "Mon, 17 Jun 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Christoph Kramer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Christoph%20Kramer",
         "pubdate": "Mon, 17 Jun 2024 00:00:00 +0200"
       }
     ],
@@ -66,9 +52,16 @@
     ],
     [
       {
-        "title": "Österreich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich",
+        "title": "Baumgartner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baumgartner",
         "pubdate": "Mon, 17 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marvin Wildhage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marvin%20Wildhage",
+        "pubdate": "Mon, 17 Jun 2024 11:00:00 +0200"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Eriksen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eriksen",
-        "pubdate": "Sun, 16 Jun 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Weghorst",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Weghorst",
         "pubdate": "Sun, 16 Jun 2024 17:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Haaland",
         "pubdate": "Sun, 16 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Le Mans 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Le%20Mans%202024",
+        "pubdate": "Sat, 15 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bellingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bellingham",
+        "pubdate": "Sat, 15 Jun 2024 00:00:00 +0200"
       }
     ]
   ]
