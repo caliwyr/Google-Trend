@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-06-2024 , 04:48:47",
+  "lastUpdate": "19-06-2024 , 04:58:17",
   "data": [
+    [
+      {
+        "title": "Brigitte Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brigitte%20Macron",
+        "pubdate": "Wed, 19 Jun 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Secret Story",
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Appel du 18 juin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Appel%20du%2018%20juin",
+        "pubdate": "Tue, 18 Jun 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Olivier Véran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Olivier%20V%C3%A9ran",
         "pubdate": "Tue, 18 Jun 2024 08:00:00 +0200"
@@ -76,13 +90,6 @@
         "title": "Train de La Mure",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Train%20de%20La%20Mure",
         "pubdate": "Tue, 18 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Appel du 18 juin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Appel%20du%2018%20juin",
-        "pubdate": "Tue, 18 Jun 2024 09:00:00 +0200"
       }
     ],
     [
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Boston Celtics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Boston%20Celtics",
-        "pubdate": "Tue, 18 Jun 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Carlos%20Alcaraz",
-        "pubdate": "Tue, 18 Jun 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Olivier Giroud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Olivier%20Giroud",
         "pubdate": "Tue, 18 Jun 2024 00:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Europe 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Europe%201",
-        "pubdate": "Tue, 18 Jun 2024 00:00:00 +0200"
+        "title": "Alexander Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alexander%20Zverev",
+        "pubdate": "Tue, 18 Jun 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Boston Celtics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Boston%20Celtics",
+        "pubdate": "Tue, 18 Jun 2024 10:00:00 +0200"
       }
     ]
   ]

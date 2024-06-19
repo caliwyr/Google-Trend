@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2024 , 04:48:45",
+  "lastUpdate": "19-06-2024 , 04:58:14",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "Pepe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pepe",
-        "pubdate": "Tue, 18 Jun 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marlene Engelhorn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marlene%20Engelhorn",
         "pubdate": "Tue, 18 Jun 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arda Güler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arda%20G%C3%BCler",
-        "pubdate": "Tue, 18 Jun 2024 18:00:00 +0200"
       }
     ],
     [
@@ -69,6 +55,13 @@
         "title": "Donauinselfest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Donauinselfest",
         "pubdate": "Tue, 18 Jun 2024 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Frankreich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Frankreich",
+        "pubdate": "Tue, 18 Jun 2024 10:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Austria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria",
-        "pubdate": "Tue, 18 Jun 2024 00:00:00 +0200"
+        "title": "Gadertal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gadertal",
+        "pubdate": "Tue, 18 Jun 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brau Union",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brau%20Union",
+        "pubdate": "Tue, 18 Jun 2024 16:00:00 +0200"
       }
     ]
   ]

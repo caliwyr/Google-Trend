@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2024 , 04:48:45",
+  "lastUpdate": "19-06-2024 , 04:58:13",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Portugal vs Czechia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Portugal%20vs%20Czechia",
         "pubdate": "Wed, 19 Jun 2024 05:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "NHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NHL",
+        "pubdate": "Wed, 19 Jun 2024 14:00:00 +1000"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Collins Street",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collins%20Street",
-        "pubdate": "Wed, 19 Jun 2024 13:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Haris Rauf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Haris%20Rauf",
         "pubdate": "Wed, 19 Jun 2024 12:00:00 +1000"
@@ -90,6 +90,13 @@
         "title": "Juneteenth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Juneteenth",
         "pubdate": "Wed, 19 Jun 2024 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Melbourne news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melbourne%20news",
+        "pubdate": "Wed, 19 Jun 2024 14:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Quantum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Quantum",
         "pubdate": "Tue, 18 Jun 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Ian McKellen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ian%20McKellen",
-        "pubdate": "Tue, 18 Jun 2024 12:00:00 +1000"
       }
     ]
   ]
