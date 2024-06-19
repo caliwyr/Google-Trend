@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-06-2024 , 18:46:29",
+  "lastUpdate": "19-06-2024 , 18:55:55",
   "data": [
     [
       {
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Clima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clima",
+        "pubdate": "Tue, 18 Jun 2024 08:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Gran Hermano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gran%20Hermano",
         "pubdate": "Tue, 18 Jun 2024 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Alperovich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alperovich",
+        "pubdate": "Tue, 18 Jun 2024 15:00:00 -0300"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Alperovich edad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alperovich%20edad",
-        "pubdate": "Tue, 18 Jun 2024 21:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Georgia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Georgia",
         "pubdate": "Tue, 18 Jun 2024 13:00:00 -0300"
@@ -132,13 +139,6 @@
         "title": "Manuel Belgrano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manuel%20Belgrano",
         "pubdate": "Tue, 18 Jun 2024 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Sara Facio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sara%20Facio",
-        "pubdate": "Tue, 18 Jun 2024 22:00:00 -0300"
       }
     ]
   ]
