@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2024 , 07:40:25",
+  "lastUpdate": "20-06-2024 , 07:49:36",
   "data": [
     [
       {
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "Te Whatu Ora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Te%20Whatu%20Ora",
+        "pubdate": "Thu, 20 Jun 2024 19:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Justin Timberlake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Justin%20Timberlake",
         "pubdate": "Wed, 19 Jun 2024 08:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "State of Origin Game 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#State%20of%20Origin%20Game%202",
+        "pubdate": "Wed, 19 Jun 2024 19:00:00 +1200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Jay Slater missing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jay%20Slater%20missing",
         "pubdate": "Wed, 19 Jun 2024 19:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Noam Chomsky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Noam%20Chomsky",
-        "pubdate": "Wed, 19 Jun 2024 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Wellington traffic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20traffic",
-        "pubdate": "Wed, 19 Jun 2024 18:00:00 +1200"
       }
     ]
   ]

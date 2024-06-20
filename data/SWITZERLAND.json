@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-06-2024 , 07:40:28",
+  "lastUpdate": "20-06-2024 , 07:49:39",
   "data": [
-    [
-      {
-        "title": "SFR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SFR",
-        "pubdate": "Thu, 20 Jun 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "McDonald's",
@@ -24,15 +17,15 @@
     ],
     [
       {
-        "title": "Courbevoie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Courbevoie",
+        "title": "Ilkay Gündogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ilkay%20G%C3%BCndogan",
         "pubdate": "Thu, 20 Jun 2024 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ilkay Gündogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ilkay%20G%C3%BCndogan",
+        "title": "Courbevoie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Courbevoie",
         "pubdate": "Thu, 20 Jun 2024 00:00:00 +0200"
       }
     ],
@@ -48,13 +41,6 @@
         "title": "FC Lugano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
         "pubdate": "Thu, 20 Jun 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami – Columbus Crew",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Miami%20%E2%80%93%20Columbus%20Crew",
-        "pubdate": "Thu, 20 Jun 2024 08:00:00 +0200"
       }
     ],
     [
@@ -115,6 +101,13 @@
     ],
     [
       {
+        "title": "Schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweiz",
+        "pubdate": "Wed, 19 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rodriguez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Rodriguez",
         "pubdate": "Wed, 19 Jun 2024 07:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nvidia",
         "pubdate": "Wed, 19 Jun 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dan Ndoye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dan%20Ndoye",
+        "pubdate": "Wed, 19 Jun 2024 22:00:00 +0200"
       }
     ]
   ]

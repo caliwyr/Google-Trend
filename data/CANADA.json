@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2024 , 07:40:18",
+  "lastUpdate": "20-06-2024 , 07:49:31",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Croatia vs Albania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Croatia%20vs%20Albania",
-        "pubdate": "Wed, 19 Jun 2024 09:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Germany vs Hungary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Germany%20vs%20Hungary",
         "pubdate": "Wed, 19 Jun 2024 12:00:00 -0400"
@@ -48,6 +41,13 @@
         "title": "WestJet strike",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WestJet%20strike",
         "pubdate": "Wed, 19 Jun 2024 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Croatia vs Albania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Croatia%20vs%20Albania",
+        "pubdate": "Wed, 19 Jun 2024 09:00:00 -0400"
       }
     ],
     [
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Stanley Cup playoffs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Stanley%20Cup%20playoffs",
-        "pubdate": "Wed, 19 Jun 2024 02:00:00 -0400"
+        "title": "Stanley Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Stanley%20Cup",
+        "pubdate": "Wed, 19 Jun 2024 00:00:00 -0400"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "Canada vs Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada%20vs%20Argentina",
         "pubdate": "Wed, 19 Jun 2024 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Stanley Cup playoffs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Stanley%20Cup%20playoffs",
+        "pubdate": "Wed, 19 Jun 2024 02:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "CDK cyberattack",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CDK%20cyberattack",
         "pubdate": "Wed, 19 Jun 2024 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Hockey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hockey",
-        "pubdate": "Wed, 19 Jun 2024 00:00:00 -0400"
       }
     ]
   ]
