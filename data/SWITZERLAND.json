@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2024 , 02:47:31",
+  "lastUpdate": "20-06-2024 , 02:56:57",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Public Viewing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Public%20Viewing",
+        "pubdate": "Wed, 19 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nvidia",
         "pubdate": "Wed, 19 Jun 2024 14:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Schweinsteiger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweinsteiger",
         "pubdate": "Wed, 19 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Antonio Rüdiger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Antonio%20R%C3%BCdiger",
-        "pubdate": "Wed, 19 Jun 2024 20:00:00 +0200"
       }
     ]
   ]
