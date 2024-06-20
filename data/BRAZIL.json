@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-06-2024 , 09:38:30",
+  "lastUpdate": "20-06-2024 , 09:47:46",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Sao Paulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo",
         "pubdate": "Wed, 19 Jun 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Brasileirao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileirao",
-        "pubdate": "Wed, 19 Jun 2024 19:00:00 -0500"
       }
     ],
     [
@@ -54,7 +47,7 @@
       {
         "title": "Vasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco",
-        "pubdate": "Wed, 19 Jun 2024 16:00:00 -0500"
+        "pubdate": "Wed, 19 Jun 2024 17:00:00 -0500"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Gremio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gremio",
         "pubdate": "Wed, 19 Jun 2024 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Brasileirão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileir%C3%A3o",
+        "pubdate": "Wed, 19 Jun 2024 19:00:00 -0500"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "SPFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
+        "pubdate": "Wed, 19 Jun 2024 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Inter Miami x Columbus Crew",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20Miami%20x%20Columbus%20Crew",
         "pubdate": "Wed, 19 Jun 2024 18:00:00 -0500"
@@ -111,13 +118,6 @@
         "title": "Chico Buarque",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chico%20Buarque",
         "pubdate": "Wed, 19 Jun 2024 03:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "SPFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
-        "pubdate": "Wed, 19 Jun 2024 20:00:00 -0500"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Santos FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
-        "pubdate": "Wed, 19 Jun 2024 18:00:00 -0500"
+        "title": "Selic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selic",
+        "pubdate": "Wed, 19 Jun 2024 17:00:00 -0500"
       }
     ]
   ]
