@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "21-06-2024 , 20:47:11",
+  "lastUpdate": "21-06-2024 , 20:56:23",
   "data": [
-    [
-      {
-        "title": "Poland vs Austria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Poland%20vs%20Austria",
-        "pubdate": "Fri, 21 Jun 2024 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Netherlands vs France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Netherlands%20vs%20France",
         "pubdate": "Fri, 21 Jun 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Poland vs Austria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Poland%20vs%20Austria",
+        "pubdate": "Fri, 21 Jun 2024 09:00:00 +0200"
       }
     ],
     [
@@ -38,6 +38,20 @@
     ],
     [
       {
+        "title": "Trigger Warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Trigger%20Warning",
+        "pubdate": "Fri, 21 Jun 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#France",
+        "pubdate": "Fri, 21 Jun 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dr Nomsa Masuku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dr%20Nomsa%20Masuku",
         "pubdate": "Fri, 21 Jun 2024 15:00:00 +0200"
@@ -48,13 +62,6 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1",
         "pubdate": "Fri, 21 Jun 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trigger Warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Trigger%20Warning",
-        "pubdate": "Fri, 21 Jun 2024 19:00:00 +0200"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Travis Scott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Travis%20Scott",
         "pubdate": "Fri, 21 Jun 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ukraine",
-        "pubdate": "Fri, 21 Jun 2024 18:00:00 +0200"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "England fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#England%20fc",
+        "title": "India vs Afghanistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#India%20vs%20Afghanistan",
         "pubdate": "Thu, 20 Jun 2024 17:00:00 +0200"
       }
     ]
