@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2024 , 01:07:42",
+  "lastUpdate": "21-06-2024 , 02:06:06",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Pickford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pickford",
-        "pubdate": "Thu, 20 Jun 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The Sun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Sun",
         "pubdate": "Thu, 20 Jun 2024 20:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Vietnam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vietnam",
         "pubdate": "Thu, 20 Jun 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sky Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sky%20Sports",
+        "pubdate": "Thu, 20 Jun 2024 22:00:00 +0200"
       }
     ]
   ]
