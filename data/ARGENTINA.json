@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-06-2024 , 11:51:07",
+  "lastUpdate": "21-06-2024 , 12:09:38",
   "data": [
-    [
-      {
-        "title": "Argentina Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentina%20Chile",
-        "pubdate": "Fri, 21 Jun 2024 00:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Montiel",
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Paredes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paredes",
-        "pubdate": "Thu, 20 Jun 2024 22:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chile",
         "pubdate": "Thu, 20 Jun 2024 23:00:00 -0300"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Paredes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Paredes",
+        "pubdate": "Thu, 20 Jun 2024 22:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Luna Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Luna%20Park",
         "pubdate": "Thu, 20 Jun 2024 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Garnacho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Garnacho",
+        "pubdate": "Thu, 20 Jun 2024 22:00:00 -0300"
       }
     ]
   ]
