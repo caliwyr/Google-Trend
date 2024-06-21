@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-06-2024 , 04:41:05",
+  "lastUpdate": "21-06-2024 , 04:50:24",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "John Guidetti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#John%20Guidetti",
-        "pubdate": "Thu, 20 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Northvolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Northvolt",
         "pubdate": "Thu, 20 Jun 2024 02:00:00 +0200"
@@ -41,6 +34,13 @@
         "title": "Mareld",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mareld",
         "pubdate": "Thu, 20 Jun 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Guidetti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Guidetti",
+        "pubdate": "Thu, 20 Jun 2024 23:00:00 +0200"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Sven Nordqvist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sven%20Nordqvist",
+        "pubdate": "Thu, 20 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ellen Krauss",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ellen%20Krauss",
         "pubdate": "Thu, 20 Jun 2024 08:00:00 +0200"
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "Glad midsommar!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Glad%20midsommar!",
-        "pubdate": "Wed, 19 Jun 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Albanien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Albanien",
         "pubdate": "Wed, 19 Jun 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tyskland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tyskland",
-        "pubdate": "Wed, 19 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Trafiken.nu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trafiken.nu",
         "pubdate": "Wed, 19 Jun 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Skärmtid barn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sk%C3%A4rmtid%20barn",
+        "pubdate": "Wed, 19 Jun 2024 21:00:00 +0200"
       }
     ]
   ]

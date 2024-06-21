@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-06-2024 , 04:41:05",
+  "lastUpdate": "21-06-2024 , 04:50:23",
   "data": [
-    [
-      {
-        "title": "Copa America",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Copa%20America",
-        "pubdate": "Fri, 21 Jun 2024 04:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bangladesh vs Australia",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Argentina vs Canada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Argentina%20vs%20Canada",
+        "pubdate": "Thu, 20 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Slovenia vs Serbia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Slovenia%20vs%20Serbia",
         "pubdate": "Thu, 20 Jun 2024 11:00:00 +0200"
@@ -62,13 +62,6 @@
         "title": "West Indies vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#West%20Indies%20vs%20England",
         "pubdate": "Thu, 20 Jun 2024 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Argentina vs Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Argentina%20vs%20Canada",
-        "pubdate": "Thu, 20 Jun 2024 22:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Cyril Ramaphosa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cyril%20Ramaphosa",
+        "pubdate": "Wed, 19 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Croatia vs Albania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Croatia%20vs%20Albania",
         "pubdate": "Wed, 19 Jun 2024 12:00:00 +0200"
       }
     ]
