@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-06-2024 , 00:40:51",
+  "lastUpdate": "22-06-2024 , 01:44:05",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Esprit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Esprit",
+        "pubdate": "Fri, 21 Jun 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Formel%201",
         "pubdate": "Fri, 21 Jun 2024 17:00:00 +0200"
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Guardian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Guardian",
-        "pubdate": "Fri, 21 Jun 2024 12:00:00 +0200"
+        "title": "Tarisland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tarisland",
+        "pubdate": "Fri, 21 Jun 2024 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tarisland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tarisland",
-        "pubdate": "Fri, 21 Jun 2024 18:00:00 +0200"
+        "title": "Guardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Guardian",
+        "pubdate": "Fri, 21 Jun 2024 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Chappell Roan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chappell%20Roan",
         "pubdate": "Fri, 21 Jun 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tofu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tofu",
-        "pubdate": "Fri, 21 Jun 2024 09:00:00 +0200"
       }
     ]
   ]
