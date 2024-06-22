@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-06-2024 , 03:44:15",
+  "lastUpdate": "22-06-2024 , 03:53:34",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Hurricane-Festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hurricane-Festival",
-        "pubdate": "Fri, 21 Jun 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kylian Mbappé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kylian%20Mbapp%C3%A9",
         "pubdate": "Fri, 21 Jun 2024 22:00:00 +0200"
@@ -69,13 +62,6 @@
         "title": "Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leipzig",
         "pubdate": "Fri, 21 Jun 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kim Jong-un",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kim%20Jong-un",
-        "pubdate": "Fri, 21 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Göring-Eckardt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%B6ring-Eckardt",
         "pubdate": "Thu, 20 Jun 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sommersonnenwende",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sommersonnenwende",
+        "pubdate": "Thu, 20 Jun 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Spanien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Spanien",
+        "pubdate": "Thu, 20 Jun 2024 22:00:00 +0200"
       }
     ]
   ]
