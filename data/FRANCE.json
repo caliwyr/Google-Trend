@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-06-2024 , 17:46:49",
+  "lastUpdate": "22-06-2024 , 17:56:00",
   "data": [
-    [
-      {
-        "title": "Turquie – Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Turquie%20%E2%80%93%20Portugal",
-        "pubdate": "Sat, 22 Jun 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Anouk Aimée",
@@ -26,7 +19,14 @@
       {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#F1",
-        "pubdate": "Sat, 22 Jun 2024 17:00:00 +0200"
+        "pubdate": "Sat, 22 Jun 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "David Hallyday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#David%20Hallyday",
+        "pubdate": "Sat, 22 Jun 2024 01:00:00 +0200"
       }
     ],
     [
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "David Hallyday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#David%20Hallyday",
+        "title": "UBB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UBB",
         "pubdate": "Sat, 22 Jun 2024 01:00:00 +0200"
       }
     ],
@@ -52,15 +52,8 @@
     ],
     [
       {
-        "title": "UBB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UBB",
-        "pubdate": "Sat, 22 Jun 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Belgique Roumanie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Belgique%20Roumanie",
+        "title": "Belgique-Roumanie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Belgique-Roumanie",
         "pubdate": "Sat, 22 Jun 2024 17:00:00 +0200"
       }
     ],
@@ -83,6 +76,13 @@
         "title": "Flavio Briatore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Flavio%20Briatore",
         "pubdate": "Sat, 22 Jun 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Portugal Turquie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Portugal%20Turquie",
+        "pubdate": "Fri, 21 Jun 2024 22:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Edouard Philippe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edouard%20Philippe",
-        "pubdate": "Fri, 21 Jun 2024 00:00:00 +0200"
+        "title": "Slovaquie - Ukraine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Slovaquie%20-%20Ukraine",
+        "pubdate": "Fri, 21 Jun 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Slovaquie - Ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Slovaquie%20-%20Ukraine",
-        "pubdate": "Fri, 21 Jun 2024 14:00:00 +0200"
+        "title": "Edouard Philippe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Edouard%20Philippe",
+        "pubdate": "Fri, 21 Jun 2024 00:00:00 +0200"
       }
     ]
   ]
