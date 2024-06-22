@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-06-2024 , 20:52:22",
+  "lastUpdate": "22-06-2024 , 21:07:35",
   "data": [
+    [
+      {
+        "title": "Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Portugal",
+        "pubdate": "Sat, 22 Jun 2024 19:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Ronaldo",
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Coast to Coast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Coast%20to%20Coast",
+        "title": "Coast to coast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Coast%20to%20coast",
         "pubdate": "Sat, 22 Jun 2024 00:00:00 +0200"
       }
     ],
@@ -34,6 +41,13 @@
         "title": "Amsterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Amsterdam",
         "pubdate": "Sat, 22 Jun 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Portugal FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Portugal%20FC",
+        "pubdate": "Sat, 22 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -66,16 +80,16 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
-        "pubdate": "Fri, 21 Jun 2024 16:00:00 +0200"
+        "title": "Griezmann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Griezmann",
+        "pubdate": "Fri, 21 Jun 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Griezmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Griezmann",
-        "pubdate": "Fri, 21 Jun 2024 22:00:00 +0200"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
+        "pubdate": "Fri, 21 Jun 2024 16:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Esprit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Esprit",
-        "pubdate": "Fri, 21 Jun 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Glamping",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Glamping",
         "pubdate": "Fri, 21 Jun 2024 20:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Esprit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Esprit",
+        "pubdate": "Fri, 21 Jun 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Britvic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Britvic",
         "pubdate": "Fri, 21 Jun 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kante",
-        "pubdate": "Fri, 21 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zealand Pharma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zealand%20Pharma",
-        "pubdate": "Fri, 21 Jun 2024 12:00:00 +0200"
       }
     ]
   ]
