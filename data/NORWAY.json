@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-06-2024 , 22:48:18",
+  "lastUpdate": "22-06-2024 , 22:57:38",
   "data": [
     [
       {
         "title": "Lukaku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lukaku",
         "pubdate": "Sat, 22 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bykle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bykle",
+        "pubdate": "Sat, 22 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Bykle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bykle",
-        "pubdate": "Sat, 22 Jun 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Georgia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Georgia",
         "pubdate": "Sat, 22 Jun 2024 16:00:00 +0200"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Romania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Romania",
-        "pubdate": "Sat, 22 Jun 2024 21:00:00 +0200"
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Cristiano%20Ronaldo",
+        "pubdate": "Sat, 22 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Emil Gukild",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emil%20Gukild",
+        "pubdate": "Sat, 22 Jun 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Isabel Raad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Isabel%20Raad",
         "pubdate": "Sat, 22 Jun 2024 01:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Carola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Carola",
-        "pubdate": "Sat, 22 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kygo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kygo",
-        "pubdate": "Sat, 22 Jun 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rasmus Wold",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rasmus%20Wold",
         "pubdate": "Sat, 22 Jun 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Carola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Carola",
+        "pubdate": "Sat, 22 Jun 2024 14:00:00 +0200"
       }
     ]
   ]
