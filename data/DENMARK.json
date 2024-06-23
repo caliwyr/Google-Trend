@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-06-2024 , 18:49:27",
+  "lastUpdate": "23-06-2024 , 18:58:49",
   "data": [
     [
       {
         "title": "Dolly Parton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dolly%20Parton",
         "pubdate": "Sun, 23 Jun 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DP World Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DP%20World%20Tour",
+        "pubdate": "Sun, 23 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Portugal",
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ronaldo",
         "pubdate": "Sat, 22 Jun 2024 19:00:00 +0200"
       }
     ],
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ronaldo",
+        "title": "Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Portugal",
         "pubdate": "Sat, 22 Jun 2024 19:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
         "pubdate": "Fri, 21 Jun 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Formel 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Formel%201",
-        "pubdate": "Fri, 21 Jun 2024 17:00:00 +0200"
       }
     ]
   ]
