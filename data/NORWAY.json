@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2024 , 02:50:16",
+  "lastUpdate": "24-06-2024 , 02:59:32",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Tyrkia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tyrkia",
+        "pubdate": "Sat, 22 Jun 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Astruptunet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Astruptunet",
         "pubdate": "Sat, 22 Jun 2024 00:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "BYD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#BYD",
         "pubdate": "Sat, 22 Jun 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rasmus Wold",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rasmus%20Wold",
-        "pubdate": "Sat, 22 Jun 2024 19:00:00 +0200"
       }
     ]
   ]
