@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2024 , 08:53:05",
+  "lastUpdate": "24-06-2024 , 09:11:30",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
-        "title": "Frutigen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Frutigen",
+        "title": "Unfall Frutigen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unfall%20Frutigen",
         "pubdate": "Mon, 24 Jun 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Foolio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Foolio",
+        "pubdate": "Mon, 24 Jun 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sports",
+        "pubdate": "Mon, 24 Jun 2024 10:00:00 +0200"
       }
     ],
     [
@@ -34,6 +48,13 @@
         "title": "Gruppe A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gruppe%20A",
         "pubdate": "Mon, 24 Jun 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wimbledon",
+        "pubdate": "Mon, 24 Jun 2024 09:00:00 +0200"
       }
     ],
     [
@@ -59,9 +80,9 @@
     ],
     [
       {
-        "title": "Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wimbledon",
-        "pubdate": "Mon, 24 Jun 2024 09:00:00 +0200"
+        "title": "Widmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Widmer",
+        "pubdate": "Mon, 24 Jun 2024 00:00:00 +0200"
       }
     ],
     [
@@ -80,6 +101,27 @@
     ],
     [
       {
+        "title": "Ndoye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ndoye",
+        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Musiala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Musiala",
+        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rüdiger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#R%C3%BCdiger",
+        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Türkei Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#T%C3%BCrkei%20Portugal",
         "pubdate": "Sun, 23 Jun 2024 17:00:00 +0200"
@@ -94,50 +136,8 @@
     ],
     [
       {
-        "title": "Musiala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Musiala",
-        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Manuel Neuer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manuel%20Neuer",
-        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Toni Kroos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Toni%20Kroos",
-        "pubdate": "Sun, 23 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Antonio Rüdiger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Antonio%20R%C3%BCdiger",
-        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Joshua Kimmich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Joshua%20Kimmich",
-        "pubdate": "Sun, 23 Jun 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sommer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sommer",
-        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "ARD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ARD",
         "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
       }
     ]
