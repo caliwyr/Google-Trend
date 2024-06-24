@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2024 , 01:00:10",
+  "lastUpdate": "24-06-2024 , 02:04:53",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Titanic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Titanic",
+        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Deep Purple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Deep%20Purple",
         "pubdate": "Sun, 23 Jun 2024 21:00:00 +0200"
@@ -82,13 +89,6 @@
       {
         "title": "Ndoye",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ndoye",
-        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Titanic",
         "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
       }
     ],
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Philippe Bouvard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Philippe%20Bouvard",
+        "pubdate": "Sun, 23 Jun 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "BK Zottegem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BK%20Zottegem",
         "pubdate": "Sun, 23 Jun 2024 09:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Belgisch kampioenschap wielrennen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgisch%20kampioenschap%20wielrennen",
         "pubdate": "Sun, 23 Jun 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Joost Klein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joost%20Klein",
-        "pubdate": "Sun, 23 Jun 2024 13:00:00 +0200"
       }
     ]
   ]
