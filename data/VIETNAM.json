@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-06-2024 , 20:46:44",
+  "lastUpdate": "24-06-2024 , 20:56:06",
   "data": [
     [
       {
         "title": "Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Messi",
         "pubdate": "Tue, 25 Jun 2024 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Joselu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Joselu",
+        "pubdate": "Tue, 25 Jun 2024 03:00:00 +0700"
       }
     ],
     [
@@ -27,13 +34,6 @@
         "title": "Uruguay vs Panama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Uruguay%20vs%20Panama",
         "pubdate": "Mon, 24 Jun 2024 04:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Lịch thi tốt nghiệp THPT 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%8Bch%20thi%20t%E1%BB%91t%20nghi%E1%BB%87p%20THPT%202024",
-        "pubdate": "Mon, 24 Jun 2024 12:00:00 +0700"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Nam Định",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nam%20%C4%90%E1%BB%8Bnh",
-        "pubdate": "Mon, 24 Jun 2024 14:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Mecca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mecca",
         "pubdate": "Mon, 24 Jun 2024 21:00:00 +0700"
@@ -131,6 +124,13 @@
       {
         "title": "Thụy Sĩ đấu với Đức",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%E1%BB%A5y%20S%C4%A9%20%C4%91%E1%BA%A5u%20v%E1%BB%9Bi%20%C4%90%E1%BB%A9c",
+        "pubdate": "Sun, 23 Jun 2024 20:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Đức vs Thụy Sĩ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%E1%BB%A9c%20vs%20Th%E1%BB%A5y%20S%C4%A9",
         "pubdate": "Sun, 23 Jun 2024 03:00:00 +0700"
       }
     ],
