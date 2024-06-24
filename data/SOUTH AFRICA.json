@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2024 , 19:48:15",
+  "lastUpdate": "24-06-2024 , 19:57:23",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "NSFAS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NSFAS",
-        "pubdate": "Mon, 24 Jun 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "LinkedIn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#LinkedIn",
         "pubdate": "Mon, 24 Jun 2024 11:00:00 +0200"
@@ -76,6 +69,20 @@
         "title": "Absa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Absa",
         "pubdate": "Mon, 24 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NSFAS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NSFAS",
+        "pubdate": "Mon, 24 Jun 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Albania vs Spain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Albania%20vs%20Spain",
+        "pubdate": "Mon, 24 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -97,6 +104,13 @@
         "title": "Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Messi",
         "pubdate": "Mon, 24 Jun 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Croatia vs Italy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Croatia%20vs%20Italy",
+        "pubdate": "Mon, 24 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Yahoo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Yahoo",
         "pubdate": "Mon, 24 Jun 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cabinet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cabinet",
-        "pubdate": "Mon, 24 Jun 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Daily Sun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Daily%20Sun",
-        "pubdate": "Mon, 24 Jun 2024 13:00:00 +0200"
       }
     ]
   ]
