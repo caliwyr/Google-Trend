@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-06-2024 , 11:49:50",
+  "lastUpdate": "24-06-2024 , 11:59:02",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "IRONMAN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#IRONMAN",
-        "pubdate": "Sun, 23 Jun 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Scotland vs Hungary",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Scotland%20vs%20Hungary",
         "pubdate": "Sun, 23 Jun 2024 23:00:00 +0200"
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "IRONMAN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#IRONMAN",
+        "pubdate": "Sun, 23 Jun 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dangerous",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dangerous",
         "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Ironman 70.3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ironman%2070.3",
+        "pubdate": "Sun, 23 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ronaldo",
         "pubdate": "Sat, 22 Jun 2024 19:00:00 +0200"
@@ -131,13 +138,6 @@
       {
         "title": "Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Portugal",
-        "pubdate": "Sat, 22 Jun 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
         "pubdate": "Sat, 22 Jun 2024 19:00:00 +0200"
       }
     ]
