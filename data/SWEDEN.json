@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-06-2024 , 03:43:09",
+  "lastUpdate": "25-06-2024 , 03:52:30",
   "data": [
+    [
+      {
+        "title": "NHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NHL",
+        "pubdate": "Tue, 25 Jun 2024 05:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Malin Ekman",
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Almedalsveckan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Almedalsveckan",
-        "pubdate": "Mon, 24 Jun 2024 12:00:00 +0200"
+        "title": "Nhl final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nhl%20final",
+        "pubdate": "Mon, 24 Jun 2024 22:00:00 +0200"
       }
     ],
     [
@@ -104,6 +111,13 @@
         "title": "Indycar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Indycar",
         "pubdate": "Mon, 24 Jun 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tyskland Schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tyskland%20Schweiz",
+        "pubdate": "Sun, 23 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Schweiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Schweiz",
-        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Foolio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Foolio",
         "pubdate": "Sun, 23 Jun 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Toni Kroos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Toni%20Kroos",
-        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
       }
     ]
   ]
