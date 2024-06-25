@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "24-06-2024 , 23:58:01",
+  "lastUpdate": "25-06-2024 , 01:18:07",
   "data": [
     [
       {
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
-        "pubdate": "Tue, 25 Jun 2024 00:00:00 +0800"
+        "pubdate": "Tue, 25 Jun 2024 01:00:00 +0800"
       }
     ],
     [
       {
-        "title": "SingPost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SingPost",
-        "pubdate": "Tue, 25 Jun 2024 01:00:00 +0800"
+        "title": "Nvidia stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia%20stock",
+        "pubdate": "Tue, 25 Jun 2024 00:00:00 +0800"
       }
     ],
     [
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Messi",
-        "pubdate": "Tue, 25 Jun 2024 02:00:00 +0800"
+        "title": "Brazil vs Costa Rica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brazil%20vs%20Costa%20Rica",
+        "pubdate": "Tue, 25 Jun 2024 06:00:00 +0800"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "SGX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SGX",
+        "pubdate": "Mon, 24 Jun 2024 10:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Kylian Mbappé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kylian%20Mbapp%C3%A9",
         "pubdate": "Mon, 24 Jun 2024 17:00:00 +0800"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bitcoin",
+        "pubdate": "Mon, 24 Jun 2024 20:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "HSBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#HSBC",
         "pubdate": "Mon, 24 Jun 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Email",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Email",
-        "pubdate": "Mon, 24 Jun 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Docs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Docs",
-        "pubdate": "Mon, 24 Jun 2024 15:00:00 +0800"
       }
     ]
   ]
