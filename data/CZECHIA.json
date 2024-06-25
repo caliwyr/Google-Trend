@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-06-2024 , 10:49:31",
+  "lastUpdate": "25-06-2024 , 10:58:59",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Nosferatu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nosferatu",
         "pubdate": "Tue, 25 Jun 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Valná hromada ČEZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Valn%C3%A1%20hromada%20%C4%8CEZ",
+        "pubdate": "Tue, 25 Jun 2024 12:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Javier Milei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Javier%20Milei",
-        "pubdate": "Mon, 24 Jun 2024 16:00:00 +0200"
+        "title": "Vondráčková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vondr%C3%A1%C4%8Dkov%C3%A1",
+        "pubdate": "Mon, 24 Jun 2024 09:00:00 +0200"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Smartwings prodej",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Smartwings%20prodej",
+        "pubdate": "Mon, 24 Jun 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Heidi Klum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Heidi%20Klum",
         "pubdate": "Mon, 24 Jun 2024 00:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Lucie Vondráčková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20Vondr%C3%A1%C4%8Dkov%C3%A1",
         "pubdate": "Mon, 24 Jun 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Radko Gudas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radko%20Gudas",
-        "pubdate": "Mon, 24 Jun 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Smartwings prodej",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Smartwings%20prodej",
-        "pubdate": "Mon, 24 Jun 2024 23:00:00 +0200"
       }
     ]
   ]
