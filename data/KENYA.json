@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2024 , 06:48:56",
+  "lastUpdate": "26-06-2024 , 06:58:13",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Githurai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Githurai",
         "pubdate": "Wed, 26 Jun 2024 07:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Raila Odinga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Raila%20Odinga",
+        "pubdate": "Wed, 26 Jun 2024 08:00:00 +0300"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Kimani Kuria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kimani%20Kuria",
-        "pubdate": "Tue, 25 Jun 2024 16:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Oscar Sudi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Oscar%20Sudi",
         "pubdate": "Tue, 25 Jun 2024 01:00:00 +0300"
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Citizen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Citizen",
-        "pubdate": "Tue, 25 Jun 2024 09:00:00 +0300"
+        "title": "Kimani Kuria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kimani%20Kuria",
+        "pubdate": "Tue, 25 Jun 2024 20:00:00 +0300"
       }
     ],
     [
@@ -94,23 +94,9 @@
     ],
     [
       {
-        "title": "Breaking news in kenya today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Breaking%20news%20in%20kenya%20today",
-        "pubdate": "Tue, 25 Jun 2024 16:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "NATO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NATO",
         "pubdate": "Tue, 25 Jun 2024 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "CNN live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#CNN%20live",
-        "pubdate": "Tue, 25 Jun 2024 15:00:00 +0300"
       }
     ],
     [
@@ -122,8 +108,22 @@
     ],
     [
       {
+        "title": "CNN live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#CNN%20live",
+        "pubdate": "Tue, 25 Jun 2024 15:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Coup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Coup",
+        "pubdate": "Tue, 25 Jun 2024 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "City Hall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#City%20Hall",
         "pubdate": "Tue, 25 Jun 2024 17:00:00 +0300"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "non-NATO ally",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#non-NATO%20ally",
-        "pubdate": "Tue, 25 Jun 2024 09:00:00 +0300"
+        "title": "Safaricom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Safaricom",
+        "pubdate": "Tue, 25 Jun 2024 22:00:00 +0300"
       }
     ]
   ]
