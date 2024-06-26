@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-06-2024 , 21:48:47",
+  "lastUpdate": "26-06-2024 , 21:58:00",
   "data": [
     [
       {
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "Breaking news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Breaking%20news",
+        "title": "BREAKING news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#BREAKING%20news",
         "pubdate": "Wed, 26 Jun 2024 13:00:00 +0300"
       }
     ],
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Flightradar24",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Flightradar24",
-        "pubdate": "Wed, 26 Jun 2024 01:00:00 +0300"
+        "title": "Deployment",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Deployment",
+        "pubdate": "Wed, 26 Jun 2024 14:00:00 +0300"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "HI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#HI",
         "pubdate": "Wed, 26 Jun 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Czechia vs türkiye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Czechia%20vs%20t%C3%BCrkiye",
+        "pubdate": "Wed, 26 Jun 2024 23:00:00 +0300"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Czechia vs türkiye",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Czechia%20vs%20t%C3%BCrkiye",
+        "title": "Austerity",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Austerity",
         "pubdate": "Wed, 26 Jun 2024 23:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Austerity",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Austerity",
-        "pubdate": "Wed, 26 Jun 2024 23:00:00 +0300"
+        "title": "Mace Parliament",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mace%20Parliament",
+        "pubdate": "Wed, 26 Jun 2024 11:00:00 +0300"
       }
     ],
     [
@@ -115,30 +122,23 @@
     ],
     [
       {
+        "title": "Flightradar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Flightradar",
+        "pubdate": "Wed, 26 Jun 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Mess",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mess",
+        "pubdate": "Wed, 26 Jun 2024 12:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Larry Madowo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Larry%20Madowo",
         "pubdate": "Wed, 26 Jun 2024 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Kenya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kenya",
-        "pubdate": "Tue, 25 Jun 2024 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "England vs Slovenia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#England%20vs%20Slovenia",
-        "pubdate": "Tue, 25 Jun 2024 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "State of emergency",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#State%20of%20emergency",
-        "pubdate": "Tue, 25 Jun 2024 16:00:00 +0300"
       }
     ]
   ]
