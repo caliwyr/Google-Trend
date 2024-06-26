@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-06-2024 , 11:45:00",
+  "lastUpdate": "26-06-2024 , 11:54:26",
   "data": [
-    [
-      {
-        "title": "Slovinsko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slovinsko",
-        "pubdate": "Wed, 26 Jun 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Laďka Kozderková",
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Francie – Polsko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Francie%20%E2%80%93%20Polsko",
+        "pubdate": "Tue, 25 Jun 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Crazy Town",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Crazy%20Town",
         "pubdate": "Tue, 25 Jun 2024 15:00:00 +0200"
@@ -76,20 +76,6 @@
         "title": "Michael Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michael%20Jackson",
         "pubdate": "Tue, 25 Jun 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lewandowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lewandowski",
-        "pubdate": "Tue, 25 Jun 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nizozemsko – Rakousko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nizozemsko%20%E2%80%93%20Rakousko",
-        "pubdate": "Tue, 25 Jun 2024 19:00:00 +0200"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "SUM 41 Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SUM%2041%20Praha",
-        "pubdate": "Tue, 25 Jun 2024 08:00:00 +0200"
+        "title": "Corey Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Corey%20Perry",
+        "pubdate": "Tue, 25 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tamayo Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tamayo%20Perry",
+        "pubdate": "Mon, 24 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "František Vnouček",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Franti%C5%A1ek%20Vnou%C4%8Dek",
+        "pubdate": "Mon, 24 Jun 2024 17:00:00 +0200"
       }
     ]
   ]
