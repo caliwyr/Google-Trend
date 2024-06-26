@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "26-06-2024 , 04:57:19",
+  "lastUpdate": "26-06-2024 , 05:15:54",
   "data": [
-    [
-      {
-        "title": "Seksmisja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Seksmisja",
-        "pubdate": "Wed, 26 Jun 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Turysta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Turysta",
-        "pubdate": "Wed, 26 Jun 2024 01:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Nacho",
@@ -33,7 +19,7 @@
       {
         "title": "Holandia – Austria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Holandia%20%E2%80%93%20Austria",
-        "pubdate": "Tue, 25 Jun 2024 18:00:00 +0200"
+        "pubdate": "Tue, 25 Jun 2024 12:00:00 +0200"
       }
     ],
     [
@@ -73,6 +59,13 @@
     ],
     [
       {
+        "title": "Ksiądz Piotr Glas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ksi%C4%85dz%20Piotr%20Glas",
+        "pubdate": "Tue, 25 Jun 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liga Narodów",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liga%20Narod%C3%B3w",
         "pubdate": "Tue, 25 Jun 2024 21:00:00 +0200"
@@ -90,13 +83,6 @@
         "title": "Grzegorz Bloch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Grzegorz%20Bloch",
         "pubdate": "Tue, 25 Jun 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Słowenia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#S%C5%82owenia",
-        "pubdate": "Tue, 25 Jun 2024 22:00:00 +0200"
       }
     ],
     [
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Serbia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Serbia",
-        "pubdate": "Tue, 25 Jun 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Farming Simulator 25",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Farming%20Simulator%2025",
         "pubdate": "Tue, 25 Jun 2024 18:00:00 +0200"
@@ -136,8 +115,29 @@
     ],
     [
       {
+        "title": "Serbia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Serbia",
+        "pubdate": "Tue, 25 Jun 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Grupa Polski na Euro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Grupa%20Polski%20na%20Euro",
+        "pubdate": "Tue, 25 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Michael Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Michael%20Jackson",
+        "pubdate": "Tue, 25 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Siergiej Szojgu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Siergiej%20Szojgu",
         "pubdate": "Tue, 25 Jun 2024 21:00:00 +0200"
       }
     ]
