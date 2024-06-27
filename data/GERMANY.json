@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-06-2024 , 12:30:20",
+  "lastUpdate": "27-06-2024 , 12:54:45",
   "data": [
     [
       {
@@ -19,7 +19,7 @@
       {
         "title": "Unwetter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
-        "pubdate": "Thu, 27 Jun 2024 08:00:00 +0200"
+        "pubdate": "Thu, 27 Jun 2024 01:00:00 +0200"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Erdbeben",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdbeben",
         "pubdate": "Thu, 27 Jun 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NBA-Draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NBA-Draft",
+        "pubdate": "Thu, 27 Jun 2024 08:00:00 +0200"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Slowakei – Rumänien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Slowakei%20%E2%80%93%20Rum%C3%A4nien",
-        "pubdate": "Wed, 26 Jun 2024 12:00:00 +0200"
+        "title": "Rivian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rivian",
+        "pubdate": "Wed, 26 Jun 2024 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Rivian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rivian",
-        "pubdate": "Wed, 26 Jun 2024 01:00:00 +0200"
+        "title": "Slowakei – Rumänien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Slowakei%20%E2%80%93%20Rum%C3%A4nien",
+        "pubdate": "Wed, 26 Jun 2024 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Solingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Solingen",
         "pubdate": "Tue, 25 Jun 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Claudia Neumann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Claudia%20Neumann",
-        "pubdate": "Tue, 25 Jun 2024 22:00:00 +0200"
       }
     ]
   ]
