@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-06-2024 , 23:59:31",
+  "lastUpdate": "27-06-2024 , 01:33:05",
   "data": [
-    [
-      {
-        "title": "Bolivien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bolivien",
-        "pubdate": "Thu, 27 Jun 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Türkei Tschechien",
@@ -19,7 +12,7 @@
       {
         "title": "Portugal Georgien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Portugal%20Georgien",
-        "pubdate": "Wed, 26 Jun 2024 16:00:00 +0200"
+        "pubdate": "Wed, 26 Jun 2024 15:00:00 +0200"
       }
     ],
     [
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "Belgien Ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Belgien%20Ukraine",
-        "pubdate": "Wed, 26 Jun 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rivian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rivian",
         "pubdate": "Wed, 26 Jun 2024 01:00:00 +0200"
@@ -55,6 +41,13 @@
         "title": "Ursula Haverbeck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ursula%20Haverbeck",
         "pubdate": "Wed, 26 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Calhanoglu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Calhanoglu",
+        "pubdate": "Wed, 26 Jun 2024 22:00:00 +0200"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Solingen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Solingen",
+        "pubdate": "Tue, 25 Jun 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Deutschland Dänemark",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20D%C3%A4nemark",
         "pubdate": "Tue, 25 Jun 2024 22:00:00 +0200"
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "Solingen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Solingen",
-        "pubdate": "Tue, 25 Jun 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Claudia Neumann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Claudia%20Neumann",
-        "pubdate": "Tue, 25 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sabitzer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sabitzer",
-        "pubdate": "Tue, 25 Jun 2024 22:00:00 +0200"
+        "title": "Niederlande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Niederlande",
+        "pubdate": "Tue, 25 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Kroatien Italien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kroatien%20Italien",
         "pubdate": "Sun, 23 Jun 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Albanien Spanien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Albanien%20Spanien",
+        "pubdate": "Sun, 23 Jun 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Deutschland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland",
+        "pubdate": "Sun, 23 Jun 2024 22:00:00 +0200"
       }
     ]
   ]
