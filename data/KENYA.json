@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-06-2024 , 01:33:07",
+  "lastUpdate": "27-06-2024 , 02:21:12",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Hello",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hello",
-        "pubdate": "Wed, 26 Jun 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Austerity",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Austerity",
         "pubdate": "Wed, 26 Jun 2024 23:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Somalia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Somalia",
         "pubdate": "Wed, 26 Jun 2024 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Larry Madowo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Larry%20Madowo",
+        "pubdate": "Wed, 26 Jun 2024 09:00:00 +0300"
       }
     ]
   ]
