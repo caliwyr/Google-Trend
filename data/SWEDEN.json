@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-06-2024 , 23:57:30",
+  "lastUpdate": "28-06-2024 , 01:14:21",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "IAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IAC",
         "pubdate": "Thu, 27 Jun 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Daniel hellden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Daniel%20hellden",
-        "pubdate": "Thu, 27 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "Daniel hellden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Daniel%20hellden",
+        "pubdate": "Thu, 27 Jun 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Bear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Bear",
         "pubdate": "Thu, 27 Jun 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ukraina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ukraina",
+        "pubdate": "Thu, 27 Jun 2024 07:00:00 +0200"
       }
     ],
     [
@@ -87,29 +94,8 @@
     ],
     [
       {
-        "title": "Phil Foden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Phil%20Foden",
-        "pubdate": "Wed, 26 Jun 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Riksbanken räntebesked",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Riksbanken%20r%C3%A4ntebesked",
-        "pubdate": "Wed, 26 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mark Rutte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mark%20Rutte",
-        "pubdate": "Wed, 26 Jun 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lovisa Worge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lovisa%20Worge",
         "pubdate": "Wed, 26 Jun 2024 20:00:00 +0200"
       }
     ],
@@ -122,9 +108,16 @@
     ],
     [
       {
-        "title": "Lewi Pethrus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lewi%20Pethrus",
+        "title": "Dalecarlia Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dalecarlia%20Cup",
         "pubdate": "Wed, 26 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Foden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Foden",
+        "pubdate": "Wed, 26 Jun 2024 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Julian Assange",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Julian%20Assange",
         "pubdate": "Tue, 25 Jun 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Birgitta Ohlsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Birgitta%20Ohlsson",
+        "pubdate": "Tue, 25 Jun 2024 10:00:00 +0200"
       }
     ]
   ]
