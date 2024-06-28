@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2024 , 03:48:59",
+  "lastUpdate": "28-06-2024 , 03:58:30",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
-        "pubdate": "Thu, 27 Jun 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Debate Trump Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Debate%20Trump%20Biden",
         "pubdate": "Thu, 27 Jun 2024 21:00:00 +0100"
@@ -73,8 +66,15 @@
     ],
     [
       {
-        "title": "Bronny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bronny",
+        "title": "Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo",
+        "pubdate": "Thu, 27 Jun 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bronny James Draft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bronny%20James%20Draft",
         "pubdate": "Thu, 27 Jun 2024 09:00:00 +0100"
       }
     ],
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Antonio Costa assaltado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Antonio%20Costa%20assaltado",
+        "pubdate": "Thu, 27 Jun 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Roberto Martinez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roberto%20Martinez",
         "pubdate": "Thu, 27 Jun 2024 00:00:00 +0100"
@@ -117,13 +124,6 @@
       {
         "title": "Diogo Costa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Diogo%20Costa",
-        "pubdate": "Thu, 27 Jun 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Antonio Costa assaltado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Antonio%20Costa%20assaltado",
         "pubdate": "Thu, 27 Jun 2024 13:00:00 +0100"
       }
     ],
