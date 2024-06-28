@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-06-2024 , 09:41:12",
+  "lastUpdate": "28-06-2024 , 09:50:37",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Fox news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fox%20news",
-        "pubdate": "Fri, 28 Jun 2024 08:00:00 +0100"
+        "title": "CNN news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#CNN%20news",
+        "pubdate": "Fri, 28 Jun 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gavin Newsom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gavin%20Newsom",
+        "pubdate": "Fri, 28 Jun 2024 09:00:00 +0100"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Gavin Newsom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gavin%20Newsom",
-        "pubdate": "Fri, 28 Jun 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Aer Lingus strike Update",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Aer%20Lingus%20strike%20Update",
         "pubdate": "Fri, 28 Jun 2024 08:00:00 +0100"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Taylor%20Swift",
-        "pubdate": "Thu, 27 Jun 2024 14:00:00 +0100"
+        "title": "World Cup of Darts 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#World%20Cup%20of%20Darts%202024",
+        "pubdate": "Fri, 28 Jun 2024 01:00:00 +0100"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#CNN",
         "pubdate": "Thu, 27 Jun 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Taylor%20Swift",
+        "pubdate": "Thu, 27 Jun 2024 14:00:00 +0100"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Marty Whelan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Marty%20Whelan",
+        "pubdate": "Thu, 27 Jun 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "A Quiet Place: Day One",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#A%20Quiet%20Place:%20Day%20One",
         "pubdate": "Thu, 27 Jun 2024 21:00:00 +0100"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Marty Whelan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Marty%20Whelan",
-        "pubdate": "Thu, 27 Jun 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "EU Migration Pact",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#EU%20Migration%20Pact",
         "pubdate": "Thu, 27 Jun 2024 00:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Gymshark",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Gymshark",
         "pubdate": "Thu, 27 Jun 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mason Greenwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Mason%20Greenwood",
-        "pubdate": "Thu, 27 Jun 2024 11:00:00 +0100"
       }
     ]
   ]
