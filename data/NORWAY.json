@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-06-2024 , 12:37:20",
+  "lastUpdate": "29-06-2024 , 12:55:15",
   "data": [
+    [
+      {
+        "title": "Sandnes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandnes",
+        "pubdate": "Sat, 29 Jun 2024 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Pride-parade Oslo",
@@ -24,23 +31,9 @@
     ],
     [
       {
-        "title": "Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Biden",
-        "pubdate": "Fri, 28 Jun 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jakob Ingebrigtsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jakob%20Ingebrigtsen",
         "pubdate": "Fri, 28 Jun 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oslo Spektrum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20Spektrum",
-        "pubdate": "Fri, 28 Jun 2024 18:00:00 +0200"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Uriah Heep",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Uriah%20Heep",
         "pubdate": "Fri, 28 Jun 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NE-YO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#NE-YO",
+        "pubdate": "Fri, 28 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Devold",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Devold",
-        "pubdate": "Fri, 28 Jun 2024 09:00:00 +0200"
+        "title": "Gluecifer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gluecifer",
+        "pubdate": "Fri, 28 Jun 2024 20:00:00 +0200"
       }
     ],
     [
@@ -118,6 +118,13 @@
         "title": "Daniel Stisen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Daniel%20Stisen",
         "pubdate": "Fri, 28 Jun 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Devold",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Devold",
+        "pubdate": "Fri, 28 Jun 2024 09:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "USA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#USA",
-        "pubdate": "Fri, 28 Jun 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Piteå Summer Games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pite%C3%A5%20Summer%20Games",
         "pubdate": "Fri, 28 Jun 2024 20:00:00 +0200"
       }
     ]

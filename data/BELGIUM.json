@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-06-2024 , 12:37:13",
+  "lastUpdate": "29-06-2024 , 12:55:09",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Italie Suisse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Italie%20Suisse",
+        "title": "Italie-Suisse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Italie-Suisse",
+        "pubdate": "Sat, 29 Jun 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tamino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tamino",
         "pubdate": "Sat, 29 Jun 2024 09:00:00 +0200"
       }
     ],
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Tamino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tamino",
-        "pubdate": "Sat, 29 Jun 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "UFC 303",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UFC%20303",
         "pubdate": "Sat, 29 Jun 2024 11:00:00 +0200"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Benedicte Deprez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Benedicte%20Deprez",
-        "pubdate": "Sat, 29 Jun 2024 09:00:00 +0200"
+        "title": "Florence",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Florence",
+        "pubdate": "Sat, 29 Jun 2024 14:00:00 +0200"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Brand Hoegaarden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brand%20Hoegaarden",
-        "pubdate": "Fri, 28 Jun 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nicole Kidman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicole%20Kidman",
         "pubdate": "Fri, 28 Jun 2024 20:00:00 +0200"
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Technopolis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Technopolis",
+        "pubdate": "Fri, 28 Jun 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Familie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Familie",
         "pubdate": "Fri, 28 Jun 2024 10:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Technopolis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Technopolis",
-        "pubdate": "Fri, 28 Jun 2024 19:00:00 +0200"
+        "title": "The National",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20National",
+        "pubdate": "Fri, 28 Jun 2024 22:00:00 +0200"
       }
     ]
   ]
