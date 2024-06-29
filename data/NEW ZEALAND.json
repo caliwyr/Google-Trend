@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-06-2024 , 19:43:43",
+  "lastUpdate": "29-06-2024 , 19:53:14",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Latitude",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Latitude",
-        "pubdate": "Sat, 29 Jun 2024 00:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CNN",
         "pubdate": "Fri, 28 Jun 2024 08:00:00 +1200"
@@ -139,6 +132,13 @@
         "title": "Lizzy Musi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lizzy%20Musi",
         "pubdate": "Fri, 28 Jun 2024 19:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LeBron%20James",
+        "pubdate": "Fri, 28 Jun 2024 16:00:00 +1200"
       }
     ]
   ]

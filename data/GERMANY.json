@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-06-2024 , 19:43:40",
+  "lastUpdate": "29-06-2024 , 19:53:11",
   "data": [
     [
       {
         "title": "Deutschland Spiel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland%20Spiel",
         "pubdate": "Sat, 29 Jun 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Public Viewing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Public%20Viewing",
+        "pubdate": "Sat, 29 Jun 2024 12:00:00 +0200"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Friedrich Merz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Friedrich%20Merz",
-        "pubdate": "Sat, 29 Jun 2024 03:00:00 +0200"
+        "title": "Owen Ansah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Owen%20Ansah",
+        "pubdate": "Sat, 29 Jun 2024 17:00:00 +0200"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Olympiastadion Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olympiastadion%20Berlin",
         "pubdate": "Sat, 29 Jun 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gewitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gewitter",
+        "pubdate": "Sat, 29 Jun 2024 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Solingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Solingen",
         "pubdate": "Tue, 25 Jun 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dänemark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#D%C3%A4nemark",
-        "pubdate": "Tue, 25 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Füllkrug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F%C3%BCllkrug",
-        "pubdate": "Mon, 24 Jun 2024 00:00:00 +0200"
       }
     ]
   ]
