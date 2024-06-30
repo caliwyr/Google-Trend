@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2024 , 20:44:04",
+  "lastUpdate": "30-06-2024 , 20:53:22",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "England football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20football",
         "pubdate": "Mon, 01 Jul 2024 06:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Austrian GP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Austrian%20GP",
+        "pubdate": "Mon, 01 Jul 2024 08:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Spain vs Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Spain%20vs%20Georgia",
+        "pubdate": "Mon, 01 Jul 2024 08:00:00 +1200"
       }
     ],
     [
@@ -47,7 +61,7 @@
       {
         "title": "Tour de France 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tour%20de%20France%202024",
-        "pubdate": "Sun, 30 Jun 2024 08:00:00 +1200"
+        "pubdate": "Sun, 30 Jun 2024 01:00:00 +1200"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Switzerland vs Italy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Switzerland%20vs%20Italy",
         "pubdate": "Sun, 30 Jun 2024 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Tour de France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tour%20de%20France",
-        "pubdate": "Sun, 30 Jun 2024 01:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Warriors vs Broncos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Warriors%20vs%20Broncos",
         "pubdate": "Sat, 29 Jun 2024 12:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Maori All Blacks vs Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Maori%20All%20Blacks%20vs%20Japan",
-        "pubdate": "Sat, 29 Jun 2024 21:00:00 +1200"
       }
     ]
   ]
