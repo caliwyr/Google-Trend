@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-06-2024 , 13:43:06",
+  "lastUpdate": "30-06-2024 , 13:52:23",
   "data": [
     [
       {
@@ -45,16 +45,23 @@
     ],
     [
       {
-        "title": "ZZ Top",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ZZ%20Top",
-        "pubdate": "Sat, 29 Jun 2024 15:00:00 +0200"
+        "title": "Greta Van Fleet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Greta%20Van%20Fleet",
+        "pubdate": "Sat, 29 Jun 2024 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sveits Italia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sveits%20Italia",
+        "title": "Italia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Italia",
         "pubdate": "Sat, 29 Jun 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ZZ Top",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ZZ%20Top",
+        "pubdate": "Sat, 29 Jun 2024 15:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sarpsborg mot Bodø/Glimt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarpsborg%20mot%20Bod%C3%B8/Glimt",
         "pubdate": "Fri, 28 Jun 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#CNN",
-        "pubdate": "Fri, 28 Jun 2024 04:00:00 +0200"
       }
     ]
   ]
