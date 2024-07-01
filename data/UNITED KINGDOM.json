@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-07-2024 , 18:55:57",
+  "lastUpdate": "01-07-2024 , 19:12:53",
   "data": [
-    [
-      {
-        "title": "Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wimbledon",
-        "pubdate": "Mon, 01 Jul 2024 11:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "France vs Belgium",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Mark Lajal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mark%20Lajal",
-        "pubdate": "Mon, 01 Jul 2024 15:00:00 +0100"
+        "title": "Wimbledon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wimbledon",
+        "pubdate": "Mon, 01 Jul 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Raducanu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Raducanu",
+        "pubdate": "Mon, 01 Jul 2024 13:00:00 +0100"
       }
     ],
     [
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Raducanu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Raducanu",
-        "pubdate": "Mon, 01 Jul 2024 13:00:00 +0100"
+        "title": "Mark Lajal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mark%20Lajal",
+        "pubdate": "Mon, 01 Jul 2024 15:00:00 +0100"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "David Attenborough",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#David%20Attenborough",
+        "pubdate": "Mon, 01 Jul 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Simon Case",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Simon%20Case",
         "pubdate": "Mon, 01 Jul 2024 14:00:00 +0100"
@@ -59,9 +66,30 @@
     ],
     [
       {
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Mbappe",
+        "pubdate": "Mon, 01 Jul 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Scottish Power",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Scottish%20Power",
+        "pubdate": "Mon, 01 Jul 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Premium Bonds",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premium%20Bonds",
         "pubdate": "Mon, 01 Jul 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "COVID wave",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#COVID%20wave",
+        "pubdate": "Mon, 01 Jul 2024 08:00:00 +0100"
       }
     ],
     [
@@ -80,9 +108,23 @@
     ],
     [
       {
+        "title": "De Ligt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#De%20Ligt",
+        "pubdate": "Mon, 01 Jul 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Arthur Fery",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Arthur%20Fery",
         "pubdate": "Mon, 01 Jul 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Alert",
+        "pubdate": "Mon, 01 Jul 2024 19:00:00 +0100"
       }
     ],
     [
@@ -94,51 +136,9 @@
     ],
     [
       {
-        "title": "David Beckham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#David%20Beckham",
-        "pubdate": "Mon, 01 Jul 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "John Ruddy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#John%20Ruddy",
-        "pubdate": "Mon, 01 Jul 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Shania Twain Glastonbury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Shania%20Twain%20Glastonbury",
-        "pubdate": "Sun, 30 Jun 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Spain vs Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Spain%20vs%20Georgia",
-        "pubdate": "Sun, 30 Jun 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SZA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#SZA",
-        "pubdate": "Sun, 30 Jun 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The National",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20National",
-        "pubdate": "Sun, 30 Jun 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Georgia",
-        "pubdate": "Sun, 30 Jun 2024 20:00:00 +0100"
+        "title": "Ed Davey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ed%20Davey",
+        "pubdate": "Mon, 01 Jul 2024 19:00:00 +0100"
       }
     ]
   ]
