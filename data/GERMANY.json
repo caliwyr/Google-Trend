@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2024 , 08:56:15",
+  "lastUpdate": "01-07-2024 , 09:19:27",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Southgate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Southgate",
-        "pubdate": "Sun, 30 Jun 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kvaratskhelia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kvaratskhelia",
         "pubdate": "Sun, 30 Jun 2024 22:00:00 +0200"
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Alica Schmidt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alica%20Schmidt",
-        "pubdate": "Sun, 30 Jun 2024 14:00:00 +0200"
+        "title": "Olmo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olmo",
+        "pubdate": "Sun, 30 Jun 2024 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bochum",
-        "pubdate": "Sun, 30 Jun 2024 21:00:00 +0200"
+        "title": "Alica Schmidt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alica%20Schmidt",
+        "pubdate": "Sun, 30 Jun 2024 14:00:00 +0200"
       }
     ],
     [
@@ -94,8 +87,15 @@
     ],
     [
       {
-        "title": "Rüdiger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#R%C3%BCdiger",
+        "title": "Fußball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball",
+        "pubdate": "Sat, 29 Jun 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jude Bellingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jude%20Bellingham",
         "pubdate": "Sat, 29 Jun 2024 22:00:00 +0200"
       }
     ],
@@ -103,13 +103,6 @@
       {
         "title": "Nagelsmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nagelsmann",
-        "pubdate": "Sat, 29 Jun 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fußball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball",
         "pubdate": "Sat, 29 Jun 2024 23:00:00 +0200"
       }
     ],
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Kramer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kramer",
-        "pubdate": "Sat, 29 Jun 2024 22:00:00 +0200"
+        "title": "Gewitter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gewitter",
+        "pubdate": "Sat, 29 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Michelle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michelle",
+        "pubdate": "Sat, 29 Jun 2024 23:00:00 +0200"
       }
     ]
   ]
