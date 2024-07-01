@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "01-07-2024 , 02:44:57",
+  "lastUpdate": "01-07-2024 , 02:56:08",
   "data": [
     [
       {
-        "title": "Garrido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Garrido",
+        "title": "Ouest-France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ouest-France",
+        "pubdate": "Mon, 01 Jul 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Resultats Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Resultats%20Paris",
         "pubdate": "Mon, 01 Jul 2024 00:00:00 +0200"
       }
     ],
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Premier ministre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Premier%20ministre",
-        "pubdate": "Mon, 01 Jul 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Angleterre Slovaquie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Angleterre%20Slovaquie",
         "pubdate": "Sun, 30 Jun 2024 00:00:00 +0200"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Legislative",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Legislative",
-        "pubdate": "Sun, 30 Jun 2024 10:00:00 +0200"
+        "title": "LFI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LFI",
+        "pubdate": "Sun, 30 Jun 2024 13:00:00 +0200"
       }
     ],
     [
@@ -80,23 +80,9 @@
     ],
     [
       {
-        "title": "LR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LR",
-        "pubdate": "Sun, 30 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Eric Ciotti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Eric%20Ciotti",
         "pubdate": "Sun, 30 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LFI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LFI",
-        "pubdate": "Sun, 30 Jun 2024 15:00:00 +0200"
       }
     ],
     [
@@ -115,15 +101,8 @@
     ],
     [
       {
-        "title": "Laurent Wauquiez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Laurent%20Wauquiez",
-        "pubdate": "Sun, 30 Jun 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manuel Bompard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manuel%20Bompard",
+        "title": "Roussel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Roussel",
         "pubdate": "Sun, 30 Jun 2024 21:00:00 +0200"
       }
     ],
@@ -136,8 +115,29 @@
     ],
     [
       {
+        "title": "Les Républicains",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Les%20R%C3%A9publicains",
+        "pubdate": "Sun, 30 Jun 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Boyard Louis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Boyard%20Louis",
+        "pubdate": "Sun, 30 Jun 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rima Hassan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rima%20Hassan",
+        "pubdate": "Sun, 30 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manuel Bompard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manuel%20Bompard",
         "pubdate": "Sun, 30 Jun 2024 21:00:00 +0200"
       }
     ]
