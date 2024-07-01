@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "01-07-2024 , 05:48:01",
+  "lastUpdate": "01-07-2024 , 05:57:14",
   "data": [
     [
       {
         "title": "ATO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ATO",
         "pubdate": "Mon, 01 Jul 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Nova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nova",
-        "pubdate": "Mon, 01 Jul 2024 06:00:00 +1000"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Tax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tax",
+        "pubdate": "Mon, 01 Jul 2024 09:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Rocket Mortgage Classic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rocket%20Mortgage%20Classic",
         "pubdate": "Mon, 01 Jul 2024 09:00:00 +1000"
@@ -48,13 +48,6 @@
         "title": "Daniel Ricciardo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daniel%20Ricciardo",
         "pubdate": "Mon, 01 Jul 2024 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Tax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tax",
-        "pubdate": "Mon, 01 Jul 2024 09:00:00 +1000"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Tax cuts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tax%20cuts",
-        "pubdate": "Mon, 01 Jul 2024 12:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Michael Hooper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michael%20Hooper",
         "pubdate": "Mon, 01 Jul 2024 12:00:00 +1000"
@@ -104,6 +90,13 @@
         "title": "Spain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spain",
         "pubdate": "Mon, 01 Jul 2024 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Jay Slater missing Tenerife",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jay%20Slater%20missing%20Tenerife",
+        "pubdate": "Mon, 01 Jul 2024 15:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cook Islands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cook%20Islands",
         "pubdate": "Sun, 30 Jun 2024 20:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Austrian GP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Austrian%20GP",
+        "pubdate": "Sun, 30 Jun 2024 00:00:00 +1000"
       }
     ]
   ]
