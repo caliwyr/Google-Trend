@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "01-07-2024 , 20:49:04",
+  "lastUpdate": "01-07-2024 , 20:58:32",
   "data": [
+    [
+      {
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ronaldo",
+        "pubdate": "Mon, 01 Jul 2024 22:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wimbledon",
         "pubdate": "Mon, 01 Jul 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cristiano%20Ronaldo",
+        "pubdate": "Mon, 01 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "Ismail Kadare",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ismail%20Kadare",
+        "pubdate": "Mon, 01 Jul 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Frankreich Belgien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich%20Belgien",
         "pubdate": "Sun, 30 Jun 2024 20:00:00 +0200"
@@ -45,9 +66,16 @@
     ],
     [
       {
+        "title": "Portugal Slowenien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Portugal%20Slowenien",
+        "pubdate": "Sun, 30 Jun 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Spanien – Georgien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Spanien%20%E2%80%93%20Georgien",
-        "pubdate": "Sun, 30 Jun 2024 14:00:00 +0200"
+        "pubdate": "Sun, 30 Jun 2024 15:00:00 +0200"
       }
     ],
     [
@@ -73,9 +101,9 @@
     ],
     [
       {
-        "title": "Slowenien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Slowenien",
-        "pubdate": "Sun, 30 Jun 2024 19:00:00 +0200"
+        "title": "Norovirus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Norovirus",
+        "pubdate": "Sun, 30 Jun 2024 18:00:00 +0200"
       }
     ],
     [
@@ -87,9 +115,9 @@
     ],
     [
       {
-        "title": "Norovirus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Norovirus",
-        "pubdate": "Sun, 30 Jun 2024 18:00:00 +0200"
+        "title": "Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Yamal",
+        "pubdate": "Sun, 30 Jun 2024 22:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Sweet Caroline",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sweet%20Caroline",
         "pubdate": "Sun, 30 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Das erste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Das%20erste",
-        "pubdate": "Sun, 30 Jun 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gelsenkirchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gelsenkirchen",
-        "pubdate": "Sun, 30 Jun 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michael J. Fox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20J.%20Fox",
-        "pubdate": "Sun, 30 Jun 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Olmo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olmo",
-        "pubdate": "Sun, 30 Jun 2024 23:00:00 +0200"
       }
     ]
   ]
