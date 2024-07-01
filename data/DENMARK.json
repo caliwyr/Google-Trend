@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2024 , 04:45:36",
+  "lastUpdate": "01-07-2024 , 04:54:53",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "VAR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#VAR",
+        "pubdate": "Sun, 30 Jun 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Michael J. Fox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michael%20J.%20Fox",
         "pubdate": "Sun, 30 Jun 2024 01:00:00 +0200"
@@ -62,13 +69,6 @@
         "title": "The Bear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Bear",
         "pubdate": "Sun, 30 Jun 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Willy Sagnol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Willy%20Sagnol",
-        "pubdate": "Sun, 30 Jun 2024 22:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Rasmus højlund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rasmus%20h%C3%B8jlund",
-        "pubdate": "Sat, 29 Jun 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dortmund",
         "pubdate": "Sat, 29 Jun 2024 12:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Romain Bardet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Romain%20Bardet",
-        "pubdate": "Sat, 29 Jun 2024 15:00:00 +0200"
+        "title": "Christian Eriksen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Christian%20Eriksen",
+        "pubdate": "Sat, 29 Jun 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rasmus højlund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rasmus%20h%C3%B8jlund",
+        "pubdate": "Sat, 29 Jun 2024 22:00:00 +0200"
       }
     ]
   ]

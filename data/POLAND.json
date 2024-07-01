@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2024 , 04:45:42",
+  "lastUpdate": "01-07-2024 , 04:54:57",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Gdzie jest burza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gdzie%20jest%20burza",
+        "pubdate": "Sun, 30 Jun 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Wybory we Francji",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wybory%20we%20Francji",
         "pubdate": "Sun, 30 Jun 2024 14:00:00 +0200"
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "IMGW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#IMGW",
-        "pubdate": "Sun, 30 Jun 2024 16:00:00 +0200"
+        "title": "Mateusz Bogusz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mateusz%20Bogusz",
+        "pubdate": "Sun, 30 Jun 2024 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mateusz Bogusz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mateusz%20Bogusz",
-        "pubdate": "Sun, 30 Jun 2024 12:00:00 +0200"
+        "title": "Prognoza pogody",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prognoza%20pogody",
+        "pubdate": "Sun, 30 Jun 2024 23:00:00 +0200"
       }
     ],
     [
@@ -59,16 +66,23 @@
     ],
     [
       {
-        "title": "Wilfredo Leon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wilfredo%20Leon",
-        "pubdate": "Sun, 30 Jun 2024 11:00:00 +0200"
+        "title": "Alex Pereira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alex%20Pereira",
+        "pubdate": "Sun, 30 Jun 2024 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Francja Japonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Francja%20Japonia",
-        "pubdate": "Sun, 30 Jun 2024 21:00:00 +0200"
+        "title": "Lobotka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lobotka",
+        "pubdate": "Sun, 30 Jun 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wilfredo Leon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wilfredo%20Leon",
+        "pubdate": "Sun, 30 Jun 2024 11:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "PKP Cargo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PKP%20Cargo",
         "pubdate": "Sun, 30 Jun 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tyrol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tyrol",
-        "pubdate": "Sun, 30 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bon energetyczny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bon%20energetyczny",
-        "pubdate": "Sun, 30 Jun 2024 22:00:00 +0200"
       }
     ]
   ]

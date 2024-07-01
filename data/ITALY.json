@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2024 , 04:45:40",
+  "lastUpdate": "01-07-2024 , 04:54:55",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#England",
         "pubdate": "Mon, 01 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Georgia",
+        "pubdate": "Sun, 30 Jun 2024 15:00:00 +0200"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Tour de France Bologna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Tour%20de%20France%20Bologna",
-        "pubdate": "Sun, 30 Jun 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Angelica Donati",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angelica%20Donati",
         "pubdate": "Sun, 30 Jun 2024 21:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Noslin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Noslin",
-        "pubdate": "Sun, 30 Jun 2024 19:00:00 +0200"
+        "title": "Morata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Morata",
+        "pubdate": "Sun, 30 Jun 2024 22:00:00 +0200"
       }
     ]
   ]
