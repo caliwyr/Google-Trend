@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-07-2024 , 21:55:59",
+  "lastUpdate": "01-07-2024 , 22:14:15",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "France election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#France%20election",
-        "pubdate": "Mon, 01 Jul 2024 07:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wimbledon",
         "pubdate": "Mon, 01 Jul 2024 19:00:00 +0800"
@@ -45,15 +38,15 @@
     ],
     [
       {
-        "title": "Joanna Dong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Joanna%20Dong",
-        "pubdate": "Mon, 01 Jul 2024 22:00:00 +0800"
+        "title": "France election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#France%20election",
+        "pubdate": "Mon, 01 Jul 2024 07:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Wimbledon 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wimbledon%202024",
+        "title": "Joanna Dong",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Joanna%20Dong",
         "pubdate": "Mon, 01 Jul 2024 22:00:00 +0800"
       }
     ],
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Chris Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chris%20Paul",
-        "pubdate": "Mon, 01 Jul 2024 14:00:00 +0800"
+        "title": "Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Georgia",
+        "pubdate": "Mon, 01 Jul 2024 04:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Georgia",
-        "pubdate": "Mon, 01 Jul 2024 04:00:00 +0800"
+        "title": "Glastonbury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Glastonbury",
+        "pubdate": "Mon, 01 Jul 2024 10:00:00 +0800"
       }
     ],
     [
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Austrian GP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Austrian%20GP",
-        "pubdate": "Sun, 30 Jun 2024 18:00:00 +0800"
+        "title": "England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#England",
+        "pubdate": "Sun, 30 Jun 2024 23:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Virat Kohli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Virat%20Kohli",
         "pubdate": "Sun, 30 Jun 2024 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Austrian GP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Austrian%20GP",
+        "pubdate": "Sun, 30 Jun 2024 18:00:00 +0800"
       }
     ]
   ]
