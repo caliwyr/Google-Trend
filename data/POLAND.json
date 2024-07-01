@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-07-2024 , 19:50:35",
+  "lastUpdate": "01-07-2024 , 19:59:58",
   "data": [
-    [
-      {
-        "title": "ZUS (PUE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ZUS%20(PUE",
-        "pubdate": "Mon, 01 Jul 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Wimbledon",
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Ksiadz Olszewski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ksiadz%20Olszewski",
-        "pubdate": "Mon, 01 Jul 2024 16:00:00 +0200"
+        "title": "300 plus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#300%20plus",
+        "pubdate": "Mon, 01 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Paulina Matysiak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paulina%20Matysiak",
-        "pubdate": "Mon, 01 Jul 2024 08:00:00 +0200"
+        "title": "Ksiadz Olszewski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ksiadz%20Olszewski",
+        "pubdate": "Mon, 01 Jul 2024 16:00:00 +0200"
       }
     ],
     [
@@ -55,6 +48,13 @@
         "title": "Michael J. Fox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Michael%20J.%20Fox",
         "pubdate": "Mon, 01 Jul 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paulina Matysiak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paulina%20Matysiak",
+        "pubdate": "Mon, 01 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -80,6 +80,20 @@
     ],
     [
       {
+        "title": "Monika Róża",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Monika%20R%C3%B3%C5%BCa",
+        "pubdate": "Mon, 01 Jul 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Waldemar Kuchanny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Waldemar%20Kuchanny",
+        "pubdate": "Mon, 01 Jul 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tomb Raider",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tomb%20Raider",
         "pubdate": "Mon, 01 Jul 2024 00:00:00 +0200"
@@ -94,23 +108,9 @@
     ],
     [
       {
-        "title": "Waldemar Kuchanny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Waldemar%20Kuchanny",
-        "pubdate": "Mon, 01 Jul 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Douglas Luiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Douglas%20Luiz",
-        "pubdate": "Mon, 01 Jul 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "De Bruyne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#De%20Bruyne",
-        "pubdate": "Mon, 01 Jul 2024 20:00:00 +0200"
+        "title": "Krakow pogoda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Krakow%20pogoda",
+        "pubdate": "Mon, 01 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -122,23 +122,23 @@
     ],
     [
       {
-        "title": "Zbigniew Preisner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zbigniew%20Preisner",
-        "pubdate": "Mon, 01 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kante",
+        "title": "De Bruyne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#De%20Bruyne",
         "pubdate": "Mon, 01 Jul 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Gladiator 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gladiator%202",
-        "pubdate": "Mon, 01 Jul 2024 19:00:00 +0200"
+        "title": "Douglas Luiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Douglas%20Luiz",
+        "pubdate": "Mon, 01 Jul 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Emerytura",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Emerytura",
+        "pubdate": "Mon, 01 Jul 2024 20:00:00 +0200"
       }
     ]
   ]

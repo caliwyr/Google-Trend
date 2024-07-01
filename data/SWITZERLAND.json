@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "01-07-2024 , 19:50:37",
+  "lastUpdate": "01-07-2024 , 20:00:00",
   "data": [
     [
       {
         "title": "Wimbledon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wimbledon",
         "pubdate": "Mon, 01 Jul 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Frankreich Belgien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Frankreich%20Belgien",
-        "pubdate": "Mon, 01 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Lukaku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lukaku",
+        "pubdate": "Mon, 01 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "De Bruyne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#De%20Bruyne",
         "pubdate": "Mon, 01 Jul 2024 19:00:00 +0200"
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Simap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Simap",
-        "pubdate": "Mon, 01 Jul 2024 09:00:00 +0200"
+        "title": "Aarau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aarau",
+        "pubdate": "Mon, 01 Jul 2024 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Aarau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aarau",
-        "pubdate": "Mon, 01 Jul 2024 13:00:00 +0200"
+        "title": "Simap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Simap",
+        "pubdate": "Mon, 01 Jul 2024 09:00:00 +0200"
       }
     ],
     [
@@ -66,9 +66,23 @@
     ],
     [
       {
-        "title": "Portugal Euro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Portugal%20Euro%202024",
-        "pubdate": "Mon, 01 Jul 2024 19:00:00 +0200"
+        "title": "Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sinner",
+        "pubdate": "Mon, 01 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Portugal – Slovénie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Portugal%20%E2%80%93%20Slov%C3%A9nie",
+        "pubdate": "Mon, 01 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jannik%20Sinner",
+        "pubdate": "Mon, 01 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -83,6 +97,27 @@
         "title": "Suisse Angleterre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Suisse%20Angleterre",
         "pubdate": "Mon, 01 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "London",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#London",
+        "pubdate": "Mon, 01 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Schweizer Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweizer%20Cup",
+        "pubdate": "Mon, 01 Jul 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pink konzert Bern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pink%20konzert%20Bern",
+        "pubdate": "Mon, 01 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -104,41 +139,6 @@
         "title": "Wallets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wallets",
         "pubdate": "Mon, 01 Jul 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pink konzert Bern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pink%20konzert%20Bern",
-        "pubdate": "Mon, 01 Jul 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Watch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Watch",
-        "pubdate": "Mon, 01 Jul 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FCSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCSG",
-        "pubdate": "Mon, 01 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cogne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cogne",
-        "pubdate": "Mon, 01 Jul 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Djokovic",
-        "pubdate": "Mon, 01 Jul 2024 18:00:00 +0200"
       }
     ]
   ]
