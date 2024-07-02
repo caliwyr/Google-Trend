@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-07-2024 , 13:53:40",
+  "lastUpdate": "02-07-2024 , 14:09:54",
   "data": [
-    [
-      {
-        "title": "GLADIATOR 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#GLADIATOR%202",
-        "pubdate": "Tue, 02 Jul 2024 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Tomáš Jeřábek",
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Vlny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vlny",
-        "pubdate": "Mon, 01 Jul 2024 20:00:00 +0200"
+        "title": "Vlny film",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vlny%20film",
+        "pubdate": "Mon, 01 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Portál stavebníka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Port%C3%A1l%20stavebn%C3%ADka",
+        "pubdate": "Mon, 01 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Portal stavebnika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Portal%20stavebnika",
-        "pubdate": "Mon, 01 Jul 2024 13:00:00 +0200"
+        "title": "Francie – Belgie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Francie%20%E2%80%93%20Belgie",
+        "pubdate": "Mon, 01 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -90,6 +90,13 @@
         "title": "B4L",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#B4L",
         "pubdate": "Mon, 01 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marine Le Pen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marine%20Le%20Pen",
+        "pubdate": "Mon, 01 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Počasí",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Po%C4%8Das%C3%AD",
         "pubdate": "Sun, 30 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radar",
-        "pubdate": "Sun, 30 Jun 2024 16:00:00 +0200"
       }
     ]
   ]
