@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-07-2024 , 05:50:56",
+  "lastUpdate": "02-07-2024 , 06:00:12",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "UFS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UFS",
-        "pubdate": "Mon, 01 Jul 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mark Lajal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mark%20Lajal",
         "pubdate": "Mon, 01 Jul 2024 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Mexico vs Ecuador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mexico%20vs%20Ecuador",
         "pubdate": "Mon, 01 Jul 2024 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nova",
+        "pubdate": "Mon, 01 Jul 2024 14:00:00 +0200"
       }
     ]
   ]
