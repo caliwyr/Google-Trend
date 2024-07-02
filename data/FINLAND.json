@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "02-07-2024 , 18:53:09",
+  "lastUpdate": "02-07-2024 , 19:08:58",
   "data": [
-    [
-      {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Messi",
-        "pubdate": "Tue, 02 Jul 2024 15:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Romania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Romania",
         "pubdate": "Tue, 02 Jul 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Messi",
+        "pubdate": "Tue, 02 Jul 2024 15:00:00 +0300"
       }
     ],
     [
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "The edge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20edge",
-        "pubdate": "Tue, 02 Jul 2024 00:00:00 +0300"
+        "title": "Jacques Freitag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jacques%20Freitag",
+        "pubdate": "Tue, 02 Jul 2024 20:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Jacques Freitag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jacques%20Freitag",
-        "pubdate": "Tue, 02 Jul 2024 20:00:00 +0300"
+        "title": "The edge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20edge",
+        "pubdate": "Tue, 02 Jul 2024 00:00:00 +0300"
       }
     ],
     [
@@ -80,15 +80,15 @@
     ],
     [
       {
-        "title": "Griezmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Griezmann",
+        "title": "GRIEZMANN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#GRIEZMANN",
         "pubdate": "Mon, 01 Jul 2024 20:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Teuvo teräväinen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Teuvo%20ter%C3%A4v%C3%A4inen",
+        "title": "Teuvo Teräväinen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Teuvo%20Ter%C3%A4v%C3%A4inen",
         "pubdate": "Mon, 01 Jul 2024 22:00:00 +0300"
       }
     ],
@@ -96,6 +96,13 @@
       {
         "title": "Steven Stamkos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Steven%20Stamkos",
+        "pubdate": "Mon, 01 Jul 2024 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Kylian Mbappé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kylian%20Mbapp%C3%A9",
         "pubdate": "Mon, 01 Jul 2024 21:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Georgia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Georgia",
         "pubdate": "Sun, 30 Jun 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Slovakia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Slovakia",
-        "pubdate": "Sun, 30 Jun 2024 20:00:00 +0300"
       }
     ]
   ]
