@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-07-2024 , 22:48:27",
+  "lastUpdate": "02-07-2024 , 22:57:56",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Angelica Vale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Angelica%20Vale",
+        "title": "Angelicavale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Angelicavale",
+        "pubdate": "Tue, 02 Jul 2024 15:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Xbox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Xbox",
         "pubdate": "Tue, 02 Jul 2024 15:00:00 -0600"
       }
     ],
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Cuba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cuba",
-        "pubdate": "Tue, 02 Jul 2024 11:00:00 -0600"
+        "title": "Costa Rica vs Paraguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Costa%20Rica%20vs%20Paraguay",
+        "pubdate": "Tue, 02 Jul 2024 12:00:00 -0600"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Gustavo Petro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Gustavo%20Petro",
         "pubdate": "Tue, 02 Jul 2024 11:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Costa Rica vs Paraguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Costa%20Rica%20vs%20Paraguay",
-        "pubdate": "Tue, 02 Jul 2024 12:00:00 -0600"
       }
     ],
     [
@@ -59,23 +59,9 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Novak%20Djokovic",
-        "pubdate": "Tue, 02 Jul 2024 11:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Memphis Depay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Memphis%20Depay",
         "pubdate": "Tue, 02 Jul 2024 12:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Arda Güler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Arda%20G%C3%BCler",
-        "pubdate": "Tue, 02 Jul 2024 15:00:00 -0600"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Tormenta tropical Chris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tormenta%20tropical%20Chris",
+        "pubdate": "Mon, 01 Jul 2024 01:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Tigres Femenil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Tigres%20Femenil",
         "pubdate": "Mon, 01 Jul 2024 19:00:00 -0600"
@@ -139,6 +132,13 @@
         "title": "Huracan Beryl 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Huracan%20Beryl%202024",
         "pubdate": "Mon, 01 Jul 2024 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Brasil vs Colombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Brasil%20vs%20Colombia",
+        "pubdate": "Mon, 01 Jul 2024 12:00:00 -0600"
       }
     ]
   ]
