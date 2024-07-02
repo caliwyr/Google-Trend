@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-07-2024 , 02:49:31",
+  "lastUpdate": "02-07-2024 , 02:58:47",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Norovirus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Norovirus",
+        "pubdate": "Mon, 01 Jul 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "De Bruyne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#De%20Bruyne",
         "pubdate": "Mon, 01 Jul 2024 19:00:00 +0200"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Lukaku",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lukaku",
-        "pubdate": "Mon, 01 Jul 2024 20:00:00 +0200"
+        "title": "Vitinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vitinha",
+        "pubdate": "Mon, 01 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Micarna Courtepin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Micarna%20Courtepin",
+        "pubdate": "Mon, 01 Jul 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Maria Rosaria Omaggio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maria%20Rosaria%20Omaggio",
         "pubdate": "Mon, 01 Jul 2024 13:00:00 +0200"
@@ -124,20 +138,6 @@
       {
         "title": "Simap",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Simap",
-        "pubdate": "Mon, 01 Jul 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Solothurn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Solothurn",
-        "pubdate": "Mon, 01 Jul 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Suisse Angleterre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Suisse%20Angleterre",
         "pubdate": "Mon, 01 Jul 2024 09:00:00 +0200"
       }
     ]

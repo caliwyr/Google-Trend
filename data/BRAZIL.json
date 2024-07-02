@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "02-07-2024 , 02:49:23",
+  "lastUpdate": "02-07-2024 , 02:58:39",
   "data": [
     [
       {
-        "title": "Portugal FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Portugal%20FC",
-        "pubdate": "Mon, 01 Jul 2024 06:00:00 -0500"
+        "title": "Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos",
+        "pubdate": "Mon, 01 Jul 2024 17:00:00 -0500"
       }
     ],
     [
@@ -13,13 +13,6 @@
         "title": "França x Bélgica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fran%C3%A7a%20x%20B%C3%A9lgica",
         "pubdate": "Mon, 01 Jul 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos",
-        "pubdate": "Mon, 01 Jul 2024 17:00:00 -0500"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "CRB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
+        "pubdate": "Mon, 01 Jul 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Brasil x Colômbia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20x%20Col%C3%B4mbia",
         "pubdate": "Mon, 01 Jul 2024 08:00:00 -0500"
@@ -48,13 +48,6 @@
         "title": "Quem ganhou o Festival de Parintins 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Quem%20ganhou%20o%20Festival%20de%20Parintins%202024",
         "pubdate": "Mon, 01 Jul 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "CRB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
-        "pubdate": "Mon, 01 Jul 2024 10:00:00 -0500"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Bolívia x Panamá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bol%C3%ADvia%20x%20Panam%C3%A1",
+        "pubdate": "Mon, 01 Jul 2024 20:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Vitor Reis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitor%20Reis",
         "pubdate": "Mon, 01 Jul 2024 19:00:00 -0500"
@@ -94,30 +94,9 @@
     ],
     [
       {
-        "title": "Ferias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ferias",
-        "pubdate": "Mon, 01 Jul 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Klay Thompson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Klay%20Thompson",
-        "pubdate": "Mon, 01 Jul 2024 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Seleção francesa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sele%C3%A7%C3%A3o%20francesa",
-        "pubdate": "Mon, 01 Jul 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carlos%20Alcaraz",
-        "pubdate": "Mon, 01 Jul 2024 11:00:00 -0500"
+        "title": "EUA x Uruguai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#EUA%20x%20Uruguai",
+        "pubdate": "Mon, 01 Jul 2024 18:00:00 -0500"
       }
     ],
     [
@@ -129,16 +108,37 @@
     ],
     [
       {
-        "title": "Naturgy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Naturgy",
-        "pubdate": "Mon, 01 Jul 2024 11:00:00 -0500"
+        "title": "Klay Thompson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Klay%20Thompson",
+        "pubdate": "Mon, 01 Jul 2024 16:00:00 -0500"
       }
     ],
     [
       {
-        "title": "EUA x Uruguai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#EUA%20x%20Uruguai",
-        "pubdate": "Mon, 01 Jul 2024 18:00:00 -0500"
+        "title": "Ferias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ferias",
+        "pubdate": "Mon, 01 Jul 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Seleção francesa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sele%C3%A7%C3%A3o%20francesa",
+        "pubdate": "Mon, 01 Jul 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Resumo de Renascer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resumo%20de%20Renascer",
+        "pubdate": "Mon, 01 Jul 2024 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carlos%20Alcaraz",
+        "pubdate": "Mon, 01 Jul 2024 11:00:00 -0500"
       }
     ]
   ]
