@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-07-2024 , 21:47:09",
+  "lastUpdate": "02-07-2024 , 21:56:41",
   "data": [
+    [
+      {
+        "title": "Nederland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nederland",
+        "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Romania",
@@ -10,16 +17,9 @@
     ],
     [
       {
-        "title": "Jan Helge Andersen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jan%20Helge%20Andersen",
-        "pubdate": "Tue, 02 Jul 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The First Descendant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20First%20Descendant",
-        "pubdate": "Tue, 02 Jul 2024 13:00:00 +0200"
+        "title": "Nederland Romania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nederland%20Romania",
+        "pubdate": "Tue, 02 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -38,8 +38,22 @@
     ],
     [
       {
+        "title": "Baneheia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Baneheia",
+        "pubdate": "Tue, 02 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pogacar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pogacar",
+        "pubdate": "Tue, 02 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gjert Ingebrigtsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gjert%20Ingebrigtsen",
         "pubdate": "Tue, 02 Jul 2024 18:00:00 +0200"
       }
     ],
@@ -52,37 +66,9 @@
     ],
     [
       {
-        "title": "Gjert Ingebrigtsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gjert%20Ingebrigtsen",
-        "pubdate": "Tue, 02 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ekstrem gjemsel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ekstrem%20gjemsel",
-        "pubdate": "Tue, 02 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Beryl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Beryl",
         "pubdate": "Tue, 02 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Opp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Opp",
-        "pubdate": "Tue, 02 Jul 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Selja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Selja",
-        "pubdate": "Tue, 02 Jul 2024 10:00:00 +0200"
       }
     ],
     [
@@ -94,9 +80,16 @@
     ],
     [
       {
+        "title": "Selja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Selja",
+        "pubdate": "Tue, 02 Jul 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ronaldo",
-        "pubdate": "Mon, 01 Jul 2024 21:00:00 +0200"
+        "pubdate": "Mon, 01 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kevin De Bruyne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kevin%20De%20Bruyne",
         "pubdate": "Mon, 01 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Casper Ruud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
+        "pubdate": "Mon, 01 Jul 2024 13:00:00 +0200"
       }
     ]
   ]
