@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2024 , 01:00:40",
+  "lastUpdate": "03-07-2024 , 02:03:36",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Dumfries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dumfries",
+        "pubdate": "Tue, 02 Jul 2024 19:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sport",
         "pubdate": "Tue, 02 Jul 2024 22:00:00 +0300"
@@ -40,6 +47,13 @@
       {
         "title": "Ratiu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ratiu",
+        "pubdate": "Tue, 02 Jul 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "PROTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PROTV",
         "pubdate": "Tue, 02 Jul 2024 20:00:00 +0300"
       }
     ],
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "Dumfries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dumfries",
-        "pubdate": "Tue, 02 Jul 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Dennis Man",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dennis%20Man",
         "pubdate": "Tue, 02 Jul 2024 21:00:00 +0300"
@@ -75,7 +82,7 @@
       {
         "title": "Andrei Rațiu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Andrei%20Ra%C8%9Biu",
-        "pubdate": "Tue, 02 Jul 2024 20:00:00 +0300"
+        "pubdate": "Tue, 02 Jul 2024 22:00:00 +0300"
       }
     ],
     [
@@ -87,15 +94,22 @@
     ],
     [
       {
-        "title": "Zwayer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Zwayer",
-        "pubdate": "Tue, 02 Jul 2024 22:00:00 +0300"
+        "title": "Raducioiu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Raducioiu",
+        "pubdate": "Tue, 02 Jul 2024 18:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Florin raducioiu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Florin%20raducioiu",
+        "title": "Pariuri sportive",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pariuri%20sportive",
+        "pubdate": "Tue, 02 Jul 2024 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Aeroportul Otopeni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aeroportul%20Otopeni",
         "pubdate": "Tue, 02 Jul 2024 18:00:00 +0300"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Puscas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Puscas",
         "pubdate": "Tue, 02 Jul 2024 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Gladiator 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gladiator%202",
-        "pubdate": "Tue, 02 Jul 2024 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Prognoza meteo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Prognoza%20meteo",
-        "pubdate": "Tue, 02 Jul 2024 10:00:00 +0300"
       }
     ]
   ]
