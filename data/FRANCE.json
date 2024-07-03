@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-07-2024 , 23:48:13",
+  "lastUpdate": "03-07-2024 , 23:57:25",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Emmanuel Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Emmanuel%20Macron",
+        "pubdate": "Thu, 04 Jul 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Benoit Jacquot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Benoit%20Jacquot",
-        "pubdate": "Wed, 03 Jul 2024 15:00:00 +0200"
+        "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Thevenot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thevenot",
+        "pubdate": "Wed, 03 Jul 2024 14:00:00 +0200"
       }
     ],
     [
@@ -20,13 +34,6 @@
         "title": "Eric Poujade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Eric%20Poujade",
         "pubdate": "Wed, 03 Jul 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Prisca Thevenot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Prisca%20Thevenot",
-        "pubdate": "Wed, 03 Jul 2024 14:00:00 +0200"
       }
     ],
     [
@@ -47,13 +54,6 @@
       {
         "title": "France Turquie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Turquie",
-        "pubdate": "Wed, 03 Jul 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tondelier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tondelier",
         "pubdate": "Wed, 03 Jul 2024 23:00:00 +0200"
       }
     ],
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Gaël Monfils",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ga%C3%ABl%20Monfils",
+        "pubdate": "Wed, 03 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Aya Nakamura",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aya%20Nakamura",
         "pubdate": "Wed, 03 Jul 2024 11:00:00 +0200"
@@ -87,23 +94,9 @@
     ],
     [
       {
-        "title": "Jean-Michel Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Michel%20Macron",
-        "pubdate": "Wed, 03 Jul 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marie Dauchy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marie%20Dauchy",
         "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aymeric Caron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aymeric%20Caron",
-        "pubdate": "Wed, 03 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Christine Deviers-Joncour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christine%20Deviers-Joncour",
+        "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Carlos Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Carlos%20Alcaraz",
         "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Christine Deviers-Joncour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christine%20Deviers-Joncour",
-        "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
+        "title": "La Plage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Plage",
+        "pubdate": "Wed, 03 Jul 2024 00:00:00 +0200"
       }
     ]
   ]
