@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "02-07-2024 , 23:55:27",
+  "lastUpdate": "03-07-2024 , 01:00:40",
   "data": [
+    [
+      {
+        "title": "Microsoft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Microsoft",
+        "pubdate": "Wed, 03 Jul 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kuba Wojewódzki",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kuba%20Wojew%C3%B3dzki",
+        "pubdate": "Wed, 03 Jul 2024 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Tubi",
@@ -24,13 +38,6 @@
     ],
     [
       {
-        "title": "Rumunia – Holandia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rumunia%20%E2%80%93%20Holandia",
-        "pubdate": "Tue, 02 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hurkacz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hurkacz",
         "pubdate": "Tue, 02 Jul 2024 11:00:00 +0200"
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Arda Guler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arda%20Guler",
-        "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Travis Scott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Travis%20Scott",
         "pubdate": "Tue, 02 Jul 2024 18:00:00 +0200"
@@ -59,15 +59,15 @@
     ],
     [
       {
-        "title": "Prof michal Zembala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prof%20michal%20Zembala",
-        "pubdate": "Tue, 02 Jul 2024 01:00:00 +0200"
+        "title": "Andrzej Duda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzej%20Duda",
+        "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Andrzej Duda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzej%20Duda",
+        "title": "Gakpo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gakpo",
         "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
       }
     ],
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Ilicic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ilicic",
-        "pubdate": "Tue, 02 Jul 2024 00:00:00 +0200"
+        "title": "Linette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Linette",
+        "pubdate": "Tue, 02 Jul 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Linette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Linette",
-        "pubdate": "Tue, 02 Jul 2024 20:00:00 +0200"
+        "title": "Ilicic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ilicic",
+        "pubdate": "Tue, 02 Jul 2024 00:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "The First Descendant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#The%20First%20Descendant",
-        "pubdate": "Tue, 02 Jul 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Arnautovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arnautovic",
         "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
@@ -122,8 +115,8 @@
     ],
     [
       {
-        "title": "SPEED",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#SPEED",
+        "title": "Speed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Speed",
         "pubdate": "Tue, 02 Jul 2024 20:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Cody Gakpo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cody%20Gakpo",
         "pubdate": "Tue, 02 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kamala Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kamala%20Harris",
+        "pubdate": "Tue, 02 Jul 2024 23:00:00 +0200"
       }
     ]
   ]
