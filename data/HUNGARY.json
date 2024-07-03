@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "03-07-2024 , 03:49:28",
+  "lastUpdate": "03-07-2024 , 03:58:50",
   "data": [
     [
       {
         "title": "Microsoft",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Microsoft",
-        "pubdate": "Wed, 03 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tokaj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tokaj",
         "pubdate": "Wed, 03 Jul 2024 00:00:00 +0200"
       }
     ],
@@ -80,9 +73,16 @@
     ],
     [
       {
-        "title": "Varga Judit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Judit",
-        "pubdate": "Tue, 02 Jul 2024 07:00:00 +0200"
+        "title": "E.ON",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#E.ON",
+        "pubdate": "Tue, 02 Jul 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lamantin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lamantin",
+        "pubdate": "Tue, 02 Jul 2024 09:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Bugatti Tourbillon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bugatti%20Tourbillon",
-        "pubdate": "Tue, 02 Jul 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Capri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Capri",
         "pubdate": "Tue, 02 Jul 2024 16:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "Fradi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fradi",
+        "pubdate": "Tue, 02 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kolorádó Fesztivál",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kolor%C3%A1d%C3%B3%20Fesztiv%C3%A1l",
         "pubdate": "Tue, 02 Jul 2024 11:00:00 +0200"
       }
     ]
