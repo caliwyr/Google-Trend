@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2024 , 01:15:40",
+  "lastUpdate": "04-07-2024 , 02:09:55",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Tim Douwsma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tim%20Douwsma",
-        "pubdate": "Wed, 03 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Griekspoor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Griekspoor",
         "pubdate": "Wed, 03 Jul 2024 22:00:00 +0200"
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Dick Schoof",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dick%20Schoof",
-        "pubdate": "Tue, 02 Jul 2024 16:00:00 +0200"
+        "title": "kabinet-Schoof",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#kabinet-Schoof",
+        "pubdate": "Tue, 02 Jul 2024 12:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tour de France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tour%20de%20France",
         "pubdate": "Sat, 29 Jun 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Veteranendag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Veteranendag",
+        "pubdate": "Sat, 29 Jun 2024 11:00:00 +0200"
       }
     ]
   ]
