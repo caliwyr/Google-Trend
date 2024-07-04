@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2024 , 04:42:06",
+  "lastUpdate": "04-07-2024 , 04:51:26",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Annalena Baerbock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Annalena%20Baerbock",
-        "pubdate": "Wed, 03 Jul 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Isild Le Besco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Isild%20Le%20Besco",
         "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "Lourtier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lourtier",
-        "pubdate": "Wed, 03 Jul 2024 17:00:00 +0200"
+        "title": "Annalena Baerbock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Annalena%20Baerbock",
+        "pubdate": "Wed, 03 Jul 2024 12:00:00 +0200"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "Val de Bagnes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Val%20de%20Bagnes",
         "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lourtier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lourtier",
+        "pubdate": "Wed, 03 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Michelle Obama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michelle%20Obama",
-        "pubdate": "Wed, 03 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fognini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fognini",
         "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Jacques Pitteloud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jacques%20Pitteloud",
         "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ORF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ORF",
+        "pubdate": "Wed, 03 Jul 2024 07:00:00 +0200"
       }
     ]
   ]

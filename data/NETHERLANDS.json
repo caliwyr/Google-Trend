@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2024 , 04:42:02",
+  "lastUpdate": "04-07-2024 , 04:51:23",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Biden",
         "pubdate": "Wed, 03 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jamaica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jamaica",
+        "pubdate": "Wed, 03 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Dick Schoof",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dick%20Schoof",
-        "pubdate": "Tue, 02 Jul 2024 16:00:00 +0200"
+        "title": "kabinet-Schoof",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#kabinet-Schoof",
+        "pubdate": "Tue, 02 Jul 2024 12:00:00 +0200"
       }
     ],
     [
@@ -83,6 +90,13 @@
         "title": "Kabinet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kabinet",
         "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Memphis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Memphis",
+        "pubdate": "Tue, 02 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Tour de France",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tour%20de%20France",
         "pubdate": "Sat, 29 Jun 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Veteranendag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Veteranendag",
-        "pubdate": "Sat, 29 Jun 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Biden",
-        "pubdate": "Fri, 28 Jun 2024 09:00:00 +0200"
       }
     ]
   ]
