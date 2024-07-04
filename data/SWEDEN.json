@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-07-2024 , 12:32:21",
+  "lastUpdate": "04-07-2024 , 12:55:09",
   "data": [
     [
       {
         "title": "Labour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Labour",
         "pubdate": "Thu, 04 Jul 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Söderhamn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#S%C3%B6derhamn",
+        "pubdate": "Thu, 04 Jul 2024 02:00:00 +0200"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Krister Henriksson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Krister%20Henriksson",
         "pubdate": "Wed, 03 Jul 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Löddeköpinge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#L%C3%B6ddek%C3%B6pinge",
+        "pubdate": "Wed, 03 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Pogba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pogba",
         "pubdate": "Tue, 02 Jul 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bernardo Silva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bernardo%20Silva",
-        "pubdate": "Tue, 02 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruno Fernandes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bruno%20Fernandes",
-        "pubdate": "Tue, 02 Jul 2024 00:00:00 +0200"
       }
     ]
   ]
