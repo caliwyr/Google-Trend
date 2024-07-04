@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2024 , 20:45:06",
+  "lastUpdate": "04-07-2024 , 20:54:38",
   "data": [
     [
       {
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Lupus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lupus",
+        "title": "SRC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#SRC",
         "pubdate": "Wed, 03 Jul 2024 09:00:00 +0300"
       }
     ],
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "SRC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#SRC",
-        "pubdate": "Wed, 03 Jul 2024 12:00:00 +0300"
+        "title": "Lupus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lupus",
+        "pubdate": "Wed, 03 Jul 2024 09:00:00 +0300"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Lupus disease",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lupus%20disease",
+        "pubdate": "Wed, 03 Jul 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Matthijs de Ligt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Matthijs%20de%20Ligt",
         "pubdate": "Wed, 03 Jul 2024 10:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Romania vs Netherlands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Romania%20vs%20Netherlands",
         "pubdate": "Tue, 02 Jul 2024 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Brazil vs Colombia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brazil%20vs%20Colombia",
-        "pubdate": "Tue, 02 Jul 2024 18:00:00 +0300"
       }
     ]
   ]
