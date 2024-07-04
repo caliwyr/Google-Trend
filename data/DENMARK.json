@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-07-2024 , 23:46:28",
+  "lastUpdate": "04-07-2024 , 23:55:52",
   "data": [
+    [
+      {
+        "title": "The Guardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Guardian",
+        "pubdate": "Fri, 05 Jul 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Djokovic",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Fernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fernandez",
-        "pubdate": "Thu, 04 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jacob Fearnley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jacob%20Fearnley",
         "pubdate": "Thu, 04 Jul 2024 17:00:00 +0200"
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "4th of July",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#4th%20of%20July",
+        "title": "4th of july",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#4th%20of%20july",
         "pubdate": "Thu, 04 Jul 2024 13:00:00 +0200"
       }
     ],
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Nigel Farage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nigel%20Farage",
+        "pubdate": "Thu, 04 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Etna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Etna",
         "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
@@ -97,13 +104,6 @@
         "title": "IShowSpeed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#IShowSpeed",
         "pubdate": "Thu, 04 Jul 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nigel Farage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nigel%20Farage",
-        "pubdate": "Thu, 04 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Independence Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Independence%20Day",
+        "pubdate": "Thu, 04 Jul 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jazz Festival 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jazz%20Festival%202024",
         "pubdate": "Thu, 04 Jul 2024 13:00:00 +0200"
@@ -131,13 +138,6 @@
       {
         "title": "Mark Cavendish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mark%20Cavendish",
-        "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eddie Murphy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Eddie%20Murphy",
         "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
       }
     ]
