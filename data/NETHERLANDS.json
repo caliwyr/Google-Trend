@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-07-2024 , 15:47:01",
+  "lastUpdate": "04-07-2024 , 15:56:25",
   "data": [
+    [
+      {
+        "title": "Agema",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Agema",
+        "pubdate": "Thu, 04 Jul 2024 17:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Taylor Swift",
@@ -132,13 +139,6 @@
         "title": "F1 Oostenrijk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1%20Oostenrijk",
         "pubdate": "Thu, 27 Jun 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vindicat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vindicat",
-        "pubdate": "Thu, 27 Jun 2024 11:00:00 +0200"
       }
     ]
   ]
