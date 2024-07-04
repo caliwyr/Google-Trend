@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2024 , 11:48:02",
+  "lastUpdate": "04-07-2024 , 11:57:19",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Eddy Murphy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eddy%20Murphy",
-        "pubdate": "Thu, 04 Jul 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Etna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Etna",
         "pubdate": "Thu, 04 Jul 2024 11:00:00 +0200"
@@ -34,6 +27,13 @@
         "title": "Jasper Stuyven",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jasper%20Stuyven",
         "pubdate": "Thu, 04 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eddy Murphy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eddy%20Murphy",
+        "pubdate": "Thu, 04 Jul 2024 01:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Roland Dumas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roland%20Dumas",
-        "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Saint-Vulbas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Saint-Vulbas",
         "pubdate": "Wed, 03 Jul 2024 16:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Mohamed Amra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mohamed%20Amra",
-        "pubdate": "Wed, 03 Jul 2024 13:00:00 +0200"
+        "title": "Kamala Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kamala%20Harris",
+        "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The Girl On The Train",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Girl%20On%20The%20Train",
+        "pubdate": "Wed, 03 Jul 2024 21:00:00 +0200"
       }
     ]
   ]
