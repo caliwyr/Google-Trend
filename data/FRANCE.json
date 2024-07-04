@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-07-2024 , 08:42:20",
+  "lastUpdate": "04-07-2024 , 08:51:52",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Imagine Dragons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Imagine%20Dragons",
+        "pubdate": "Wed, 03 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Parc asterix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Parc%20asterix",
         "pubdate": "Wed, 03 Jul 2024 11:00:00 +0200"
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Apolline de Malherbe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Apolline%20de%20Malherbe",
-        "pubdate": "Wed, 03 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marie Dauchy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marie%20Dauchy",
         "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
@@ -110,13 +110,6 @@
       {
         "title": "Dumas Roland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dumas%20Roland",
-        "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Christine Deviers-Joncour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Christine%20Deviers-Joncour",
         "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
       }
     ],
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Autriche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Autriche",
-        "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Carlos%20Alcaraz",
+        "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "La plage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20plage",
+        "pubdate": "Wed, 03 Jul 2024 00:00:00 +0200"
       }
     ]
   ]
