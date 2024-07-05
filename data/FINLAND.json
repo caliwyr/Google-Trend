@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2024 , 01:04:23",
+  "lastUpdate": "05-07-2024 , 02:06:00",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Tsitsipas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tsitsipas",
         "pubdate": "Fri, 05 Jul 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "UK election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UK%20election",
+        "pubdate": "Fri, 05 Jul 2024 04:00:00 +0300"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "4th of july",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#4th%20of%20july",
+        "title": "4th of July",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#4th%20of%20July",
         "pubdate": "Thu, 04 Jul 2024 14:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump",
         "pubdate": "Wed, 03 Jul 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Nancy Pelosi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nancy%20Pelosi",
-        "pubdate": "Wed, 03 Jul 2024 21:00:00 +0300"
       }
     ]
   ]
