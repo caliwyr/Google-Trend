@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "05-07-2024 , 08:41:18",
+  "lastUpdate": "05-07-2024 , 08:50:42",
   "data": [
     [
       {
         "title": "BBC News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#BBC%20News",
         "pubdate": "Fri, 05 Jul 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "News BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#News%20BBC",
-        "pubdate": "Fri, 05 Jul 2024 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jacob Fearnley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jacob%20Fearnley",
-        "pubdate": "Fri, 05 Jul 2024 08:00:00 +0100"
       }
     ],
     [
@@ -52,13 +38,6 @@
     ],
     [
       {
-        "title": "Argentina vs Ecuador",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Argentina%20vs%20Ecuador",
-        "pubdate": "Fri, 05 Jul 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Robert Buckland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Robert%20Buckland",
         "pubdate": "Fri, 05 Jul 2024 01:00:00 +0100"
@@ -66,22 +45,8 @@
     ],
     [
       {
-        "title": "GB News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#GB%20News",
-        "pubdate": "Fri, 05 Jul 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rachel Reeves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rachel%20Reeves",
-        "pubdate": "Fri, 05 Jul 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lee Anderson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lee%20Anderson",
+        "title": "Argentina vs Ecuador",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Argentina%20vs%20Ecuador",
         "pubdate": "Fri, 05 Jul 2024 03:00:00 +0100"
       }
     ],
@@ -101,9 +66,16 @@
     ],
     [
       {
-        "title": "News today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#News%20today",
-        "pubdate": "Fri, 05 Jul 2024 06:00:00 +0100"
+        "title": "GB News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#GB%20News",
+        "pubdate": "Fri, 05 Jul 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rachel Reeves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rachel%20Reeves",
+        "pubdate": "Fri, 05 Jul 2024 02:00:00 +0100"
       }
     ],
     [
@@ -115,16 +87,16 @@
     ],
     [
       {
-        "title": "ITV News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#ITV%20News",
-        "pubdate": "Fri, 05 Jul 2024 00:00:00 +0100"
+        "title": "News Today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#News%20Today",
+        "pubdate": "Fri, 05 Jul 2024 06:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Bbcnews",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bbcnews",
-        "pubdate": "Fri, 05 Jul 2024 05:00:00 +0100"
+        "title": "ITV News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#ITV%20News",
+        "pubdate": "Fri, 05 Jul 2024 00:00:00 +0100"
       }
     ],
     [
@@ -136,8 +108,36 @@
     ],
     [
       {
+        "title": "Bbcnews",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bbcnews",
+        "pubdate": "Fri, 05 Jul 2024 05:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bridget Phillipson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bridget%20Phillipson",
+        "pubdate": "Fri, 05 Jul 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gillian Keegan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Gillian%20Keegan",
+        "pubdate": "Fri, 05 Jul 2024 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "James Cleverly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#James%20Cleverly",
+        "pubdate": "Fri, 05 Jul 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ben Habib",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ben%20Habib",
         "pubdate": "Fri, 05 Jul 2024 00:00:00 +0100"
       }
     ]
