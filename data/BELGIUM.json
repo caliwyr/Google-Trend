@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "05-07-2024 , 22:48:15",
+  "lastUpdate": "05-07-2024 , 22:57:25",
   "data": [
+    [
+      {
+        "title": "Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sports",
+        "pubdate": "Sat, 06 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sport",
+        "pubdate": "Sat, 06 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jannik%20Sinner",
+        "pubdate": "Sat, 06 Jul 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Euro 2024",
@@ -17,8 +38,8 @@
     ],
     [
       {
-        "title": "Espagne Allemagne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Espagne%20Allemagne",
+        "title": "Espagne-Allemagne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Espagne-Allemagne",
         "pubdate": "Fri, 05 Jul 2024 12:00:00 +0200"
       }
     ],
@@ -45,6 +66,13 @@
     ],
     [
       {
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ronaldo",
+        "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Remco Evenepoel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Remco%20Evenepoel",
         "pubdate": "Fri, 05 Jul 2024 18:00:00 +0200"
@@ -59,16 +87,16 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mbappe",
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cristiano%20Ronaldo",
         "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Muller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Muller",
-        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
+        "title": "Roberto Martinez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roberto%20Martinez",
+        "pubdate": "Fri, 05 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -80,9 +108,9 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cristiano%20Ronaldo",
-        "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
+        "title": "Muller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Muller",
+        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -94,23 +122,9 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alcaraz",
-        "pubdate": "Fri, 05 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Toni Kroos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Toni%20Kroos",
         "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Portugal voetbal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Portugal%20voetbal",
-        "pubdate": "Fri, 05 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Ed Sheeran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ed%20Sheeran",
-        "pubdate": "Fri, 05 Jul 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Willem Vermandere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Willem%20Vermandere",
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alcaraz",
         "pubdate": "Fri, 05 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Yungblud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Yungblud",
-        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
       }
     ]
   ]
