@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "05-07-2024 , 20:46:11",
+  "lastUpdate": "05-07-2024 , 20:55:41",
   "data": [
     [
       {
-        "title": "Euro 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Euro%202024",
+        "title": "France Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Portugal",
         "pubdate": "Fri, 05 Jul 2024 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Espagne-Allemagne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Espagne-Allemagne",
+        "title": "Espagne Allemagne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Espagne%20Allemagne",
         "pubdate": "Fri, 05 Jul 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ronaldo",
+        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ronaldo",
-        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mbappe",
+        "pubdate": "Fri, 05 Jul 2024 15:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mbappe",
-        "pubdate": "Fri, 05 Jul 2024 15:00:00 +0200"
+        "title": "Foot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Foot",
+        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -59,23 +66,16 @@
     ],
     [
       {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alcaraz",
+        "pubdate": "Fri, 05 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Moha La Squale",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Moha%20La%20Squale",
         "pubdate": "Fri, 05 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cristiano%20Ronaldo",
-        "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Foot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Foot",
-        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alcaraz",
-        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cheque energie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cheque%20energie",
         "pubdate": "Fri, 05 Jul 2024 14:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Jean luc Mélenchon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean%20luc%20M%C3%A9lenchon",
         "pubdate": "Fri, 05 Jul 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Russie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Russie",
+        "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
       }
     ]
   ]

@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "05-07-2024 , 20:46:09",
+  "lastUpdate": "05-07-2024 , 20:55:38",
   "data": [
     [
       {
         "title": "EM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EM",
         "pubdate": "Fri, 05 Jul 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Portugal - Frankreich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Portugal%20-%20Frankreich",
+        "pubdate": "Fri, 05 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Toni Kroos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Toni%20Kroos",
+        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
       }
     ],
     [
@@ -17,16 +31,16 @@
     ],
     [
       {
-        "title": "Portugal – Frankreich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Portugal%20%E2%80%93%20Frankreich",
-        "pubdate": "Fri, 05 Jul 2024 11:00:00 +0200"
+        "title": "Demiral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Demiral",
+        "pubdate": "Fri, 05 Jul 2024 07:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Demiral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Demiral",
-        "pubdate": "Fri, 05 Jul 2024 16:00:00 +0200"
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ronaldo",
+        "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ronaldo",
+        "title": "Fußball-Europameisterschaft",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fu%C3%9Fball-Europameisterschaft",
         "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
       }
     ],
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "ARD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ARD",
-        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Yamal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Yamal",
         "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "Kroos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kroos",
+        "title": "Schweinsteiger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schweinsteiger",
         "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
       }
     ],
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "ServusTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ServusTV",
-        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jérôme Boateng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#J%C3%A9r%C3%B4me%20Boateng",
         "pubdate": "Fri, 05 Jul 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Julian Nagelsmann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Julian%20Nagelsmann",
-        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Schweinsteiger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schweinsteiger",
-        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
+        "title": "ZDF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF",
+        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Neuer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Neuer",
         "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aktenzeichen XY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aktenzeichen%20XY",
+        "pubdate": "Fri, 05 Jul 2024 22:00:00 +0200"
       }
     ]
   ]

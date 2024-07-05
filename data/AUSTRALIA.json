@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2024 , 20:46:08",
+  "lastUpdate": "05-07-2024 , 20:55:38",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "BBC news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BBC%20news",
-        "pubdate": "Fri, 05 Jul 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Argentina vs Ecuador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Argentina%20vs%20Ecuador",
         "pubdate": "Fri, 05 Jul 2024 10:00:00 +1000"
@@ -45,16 +38,23 @@
     ],
     [
       {
-        "title": "Andy Murray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andy%20Murray",
-        "pubdate": "Fri, 05 Jul 2024 10:00:00 +1000"
+        "title": "Spain vs Germany",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spain%20vs%20Germany",
+        "pubdate": "Fri, 05 Jul 2024 17:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Spain vs Germany",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spain%20vs%20Germany",
-        "pubdate": "Fri, 05 Jul 2024 17:00:00 +1000"
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BBC%20news",
+        "pubdate": "Fri, 05 Jul 2024 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Andy Murray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andy%20Murray",
+        "pubdate": "Fri, 05 Jul 2024 10:00:00 +1000"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Portugal vs France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Portugal%20vs%20France",
+        "pubdate": "Fri, 05 Jul 2024 08:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Collingwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collingwood",
         "pubdate": "Fri, 05 Jul 2024 21:00:00 +1000"
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Portugal vs France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Portugal%20vs%20France",
-        "pubdate": "Fri, 05 Jul 2024 08:00:00 +1000"
+        "title": "DeMar DeRozan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#DeMar%20DeRozan",
+        "pubdate": "Fri, 05 Jul 2024 14:00:00 +1000"
       }
     ],
     [
@@ -97,13 +104,6 @@
         "title": "Boomers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boomers",
         "pubdate": "Fri, 05 Jul 2024 09:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Kendrick Lamar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kendrick%20Lamar",
-        "pubdate": "Fri, 05 Jul 2024 17:00:00 +1000"
       }
     ],
     [
