@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2024 , 07:37:11",
+  "lastUpdate": "05-07-2024 , 07:46:23",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "BBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BBC",
         "pubdate": "Fri, 05 Jul 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ederson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ederson",
+        "pubdate": "Fri, 05 Jul 2024 09:00:00 +0200"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joe%20Biden",
-        "pubdate": "Thu, 04 Jul 2024 18:00:00 +0200"
+        "title": "Mister Supranational 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mister%20Supranational%202024",
+        "pubdate": "Thu, 04 Jul 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mister Supranational 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mister%20Supranational%202024",
-        "pubdate": "Thu, 04 Jul 2024 21:00:00 +0200"
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Joe%20Biden",
+        "pubdate": "Thu, 04 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "SUV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#SUV",
         "pubdate": "Thu, 04 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Blanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Blanka",
-        "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
       }
     ]
   ]

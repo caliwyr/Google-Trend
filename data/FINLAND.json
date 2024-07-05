@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2024 , 07:37:07",
+  "lastUpdate": "05-07-2024 , 07:46:18",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Tsitsipas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tsitsipas",
         "pubdate": "Fri, 05 Jul 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Guardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Guardian",
+        "pubdate": "Fri, 05 Jul 2024 10:00:00 +0300"
       }
     ],
     [
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Esprit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Esprit",
-        "pubdate": "Wed, 03 Jul 2024 12:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Eddie Murphy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eddie%20Murphy",
         "pubdate": "Wed, 03 Jul 2024 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kamala%20Harris",
-        "pubdate": "Wed, 03 Jul 2024 12:00:00 +0300"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Biden",
-        "pubdate": "Wed, 03 Jul 2024 21:00:00 +0300"
+        "title": "Kamala Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kamala%20Harris",
+        "pubdate": "Wed, 03 Jul 2024 12:00:00 +0300"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Donald%20Trump",
+        "pubdate": "Wed, 03 Jul 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Michelle Obama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Michelle%20Obama",
         "pubdate": "Wed, 03 Jul 2024 22:00:00 +0300"
       }
     ]
