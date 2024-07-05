@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-07-2024 , 06:40:27",
+  "lastUpdate": "05-07-2024 , 06:49:56",
   "data": [
     [
       {
         "title": "Etna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Etna",
         "pubdate": "Fri, 05 Jul 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mats Olin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mats%20Olin",
+        "pubdate": "Fri, 05 Jul 2024 07:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Julia Henriksson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Julia%20Henriksson",
-        "pubdate": "Thu, 04 Jul 2024 20:00:00 +0200"
+        "title": "V75",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V75",
+        "pubdate": "Thu, 04 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -54,6 +61,13 @@
       {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joe%20Biden",
+        "pubdate": "Wed, 03 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Biden",
         "pubdate": "Wed, 03 Jul 2024 18:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Sabitzer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sabitzer",
         "pubdate": "Tue, 02 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gladiator 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gladiator%202",
-        "pubdate": "Tue, 02 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Koenigsegg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Koenigsegg",
-        "pubdate": "Tue, 02 Jul 2024 16:00:00 +0200"
       }
     ]
   ]
