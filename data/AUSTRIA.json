@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2024 , 14:52:23",
+  "lastUpdate": "06-07-2024 , 15:08:10",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Pandemie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pandemie",
-        "pubdate": "Sat, 06 Jul 2024 10:00:00 +0200"
+        "title": "F1 Silverstone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F1%20Silverstone",
+        "pubdate": "Sat, 06 Jul 2024 12:00:00 +0200"
       }
     ],
     [
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "F1 Silverstone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F1%20Silverstone",
-        "pubdate": "Sat, 06 Jul 2024 12:00:00 +0200"
+        "title": "Pandemie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pandemie",
+        "pubdate": "Sat, 06 Jul 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cohabitation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cohabitation",
+        "pubdate": "Sat, 06 Jul 2024 15:00:00 +0200"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Cohabitation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Cohabitation",
-        "pubdate": "Sat, 06 Jul 2024 15:00:00 +0200"
+        "title": "Sachsenring",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sachsenring",
+        "pubdate": "Sat, 06 Jul 2024 16:00:00 +0200"
       }
     ],
     [
@@ -87,16 +94,23 @@
     ],
     [
       {
-        "title": "Demiral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Demiral",
-        "pubdate": "Fri, 05 Jul 2024 16:00:00 +0200"
+        "title": "EM Spiele heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EM%20Spiele%20heute",
+        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "EM Spiele heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EM%20Spiele%20heute",
-        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
+        "title": "EM heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EM%20heute",
+        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Demiral",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Demiral",
+        "pubdate": "Fri, 05 Jul 2024 16:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Türkei Niederlande",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#T%C3%BCrkei%20Niederlande",
         "pubdate": "Fri, 05 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fußball-Europameisterschaft",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fu%C3%9Fball-Europameisterschaft",
-        "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Joyn!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joyn!",
-        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
       }
     ]
   ]
