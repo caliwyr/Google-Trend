@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-07-2024 , 05:46:03",
+  "lastUpdate": "06-07-2024 , 05:55:15",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Holandia - Turcja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Holandia%20-%20Turcja",
         "pubdate": "Sat, 06 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Coco Gauff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Coco%20Gauff",
+        "pubdate": "Sat, 06 Jul 2024 07:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Morata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Morata",
-        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mistrzostwa Europy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mistrzostwa%20Europy",
         "pubdate": "Fri, 05 Jul 2024 22:00:00 +0200"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "TVP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP",
-        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Miss Polski 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Miss%20Polski%202024",
         "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Orban",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Orban",
-        "pubdate": "Fri, 05 Jul 2024 14:00:00 +0200"
+        "title": "TVP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP",
+        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marciniak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marciniak",
+        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
       }
     ]
   ]
