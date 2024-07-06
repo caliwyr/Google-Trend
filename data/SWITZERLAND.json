@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "06-07-2024 , 07:47:59",
+  "lastUpdate": "06-07-2024 , 07:57:13",
   "data": [
     [
       {
         "title": "Jannik Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jannik%20Sinner",
         "pubdate": "Sat, 06 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20Schumacher",
-        "pubdate": "Sat, 06 Jul 2024 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anne Will",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anne%20Will",
-        "pubdate": "Sat, 06 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -31,15 +17,29 @@
     ],
     [
       {
-        "title": "Allez les Bleus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Allez%20les%20Bleus",
+        "title": "Anne Will",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Anne%20Will",
+        "pubdate": "Sat, 06 Jul 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michael%20Schumacher",
+        "pubdate": "Sat, 06 Jul 2024 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kicker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kicker",
         "pubdate": "Sat, 06 Jul 2024 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Giroud",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Giroud",
+        "title": "Allez les Bleus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Allez%20les%20Bleus",
         "pubdate": "Sat, 06 Jul 2024 00:00:00 +0200"
       }
     ],
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Jon Batiste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jon%20Batiste",
-        "pubdate": "Sat, 06 Jul 2024 01:00:00 +0200"
+        "title": "Giroud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Giroud",
+        "pubdate": "Sat, 06 Jul 2024 00:00:00 +0200"
       }
     ],
     [
@@ -87,6 +87,27 @@
     ],
     [
       {
+        "title": "Jérôme Boateng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#J%C3%A9r%C3%B4me%20Boateng",
+        "pubdate": "Sat, 06 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Danny Trejo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Danny%20Trejo",
+        "pubdate": "Sat, 06 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lulu Sun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lulu%20Sun",
+        "pubdate": "Sat, 06 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Euro 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Euro%202024",
         "pubdate": "Fri, 05 Jul 2024 09:00:00 +0200"
@@ -108,37 +129,16 @@
     ],
     [
       {
-        "title": "Fussball-EM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fussball-EM",
-        "pubdate": "Fri, 05 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Espagne Allemagne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Espagne%20Allemagne",
+        "title": "Euro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Euro",
         "pubdate": "Fri, 05 Jul 2024 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "SRF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SRF",
-        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ronaldo",
-        "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stromboli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stromboli",
-        "pubdate": "Fri, 05 Jul 2024 00:00:00 +0200"
+        "title": "Fussball-EM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fussball-EM",
+        "pubdate": "Fri, 05 Jul 2024 18:00:00 +0200"
       }
     ]
   ]
