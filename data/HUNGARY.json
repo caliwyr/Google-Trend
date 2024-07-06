@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-07-2024 , 23:56:36",
+  "lastUpdate": "06-07-2024 , 01:07:50",
   "data": [
     [
       {
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Pepe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pepe",
-        "pubdate": "Fri, 05 Jul 2024 22:00:00 +0200"
+        "title": "Copa America",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Copa%20America",
+        "pubdate": "Fri, 05 Jul 2024 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Copa America",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Copa%20America",
-        "pubdate": "Fri, 05 Jul 2024 16:00:00 +0200"
+        "title": "Pepe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pepe",
+        "pubdate": "Fri, 05 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Etna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Etna",
         "pubdate": "Fri, 05 Jul 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Labdarúgó-eb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Labdar%C3%BAg%C3%B3-eb",
+        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -87,30 +94,9 @@
     ],
     [
       {
-        "title": "M1 baleset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M1%20baleset",
-        "pubdate": "Fri, 05 Jul 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#UEFA",
-        "pubdate": "Fri, 05 Jul 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kroos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kroos",
+        "title": "Neuer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Neuer",
         "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ferenczi Attila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferenczi%20Attila",
-        "pubdate": "Fri, 05 Jul 2024 13:00:00 +0200"
       }
     ],
     [
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Neuer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Neuer",
-        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kylian Mbappé",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kylian%20Mbapp%C3%A9",
         "pubdate": "Fri, 05 Jul 2024 22:00:00 +0200"
@@ -136,9 +115,30 @@
     ],
     [
       {
-        "title": "Bajkó Ervin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bajk%C3%B3%20Ervin",
-        "pubdate": "Fri, 05 Jul 2024 12:00:00 +0200"
+        "title": "Francia válogatott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Francia%20v%C3%A1logatott",
+        "pubdate": "Fri, 05 Jul 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UEFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#UEFA",
+        "pubdate": "Fri, 05 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Európa-bajnokság 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Eur%C3%B3pa-bajnoks%C3%A1g%202024",
+        "pubdate": "Fri, 05 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Roska Botond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Roska%20Botond",
+        "pubdate": "Fri, 05 Jul 2024 18:00:00 +0200"
       }
     ]
   ]
