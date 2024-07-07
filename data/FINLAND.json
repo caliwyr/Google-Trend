@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-07-2024 , 00:41:37",
+  "lastUpdate": "07-07-2024 , 01:57:49",
   "data": [
     [
       {
@@ -40,13 +40,6 @@
       {
         "title": "Midway",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Midway",
-        "pubdate": "Sun, 07 Jul 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Akanji",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Akanji",
         "pubdate": "Sun, 07 Jul 2024 00:00:00 +0300"
       }
     ],
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Euros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Euros",
-        "pubdate": "Sat, 06 Jul 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Dembele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dembele",
         "pubdate": "Sat, 06 Jul 2024 01:00:00 +0300"
@@ -139,6 +125,20 @@
         "title": "Euro 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Euro%202024",
         "pubdate": "Fri, 05 Jul 2024 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ronaldo",
+        "pubdate": "Fri, 05 Jul 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mbappe",
+        "pubdate": "Fri, 05 Jul 2024 20:00:00 +0300"
       }
     ]
   ]
