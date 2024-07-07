@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "07-07-2024 , 16:58:42",
+  "lastUpdate": "07-07-2024 , 17:18:06",
   "data": [
     [
       {
         "title": "Bodø/Glimt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
         "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lewis Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lewis%20Hamilton",
+        "pubdate": "Sun, 07 Jul 2024 13:00:00 +0200"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Brann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
-        "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Diamond League 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Diamond%20League%202024",
         "pubdate": "Sun, 07 Jul 2024 17:00:00 +0200"
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Silverstone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Silverstone",
-        "pubdate": "Sun, 07 Jul 2024 13:00:00 +0200"
+        "title": "Brann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+        "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Geilo ungdomsskole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Geilo%20ungdomsskole",
+        "pubdate": "Sun, 07 Jul 2024 09:00:00 +0200"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "KFUM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KFUM",
+        "pubdate": "Sun, 07 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Andre Drege",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Andre%20Drege",
         "pubdate": "Sat, 06 Jul 2024 17:00:00 +0200"
@@ -66,15 +80,22 @@
     ],
     [
       {
-        "title": "Nederland mot Tyrkia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nederland%20mot%20Tyrkia",
+        "title": "Bebe Rexha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bebe%20Rexha",
         "pubdate": "Sat, 06 Jul 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bebe Rexha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bebe%20Rexha",
+        "title": "EM Fotball 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#EM%20Fotball%202024",
+        "pubdate": "Sat, 06 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nederland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nederland",
         "pubdate": "Sat, 06 Jul 2024 21:00:00 +0200"
       }
     ],
@@ -101,30 +122,9 @@
     ],
     [
       {
-        "title": "Toppscorer EM 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Toppscorer%20EM%202024",
-        "pubdate": "Sat, 06 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Roskilde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Roskilde",
         "pubdate": "Sat, 06 Jul 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Amber Heard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Amber%20Heard",
-        "pubdate": "Sat, 06 Jul 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eurosport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eurosport",
-        "pubdate": "Sat, 06 Jul 2024 19:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Benjamin Ingrosso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Benjamin%20Ingrosso",
-        "pubdate": "Sat, 06 Jul 2024 22:00:00 +0200"
+        "title": "Amber Heard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Amber%20Heard",
+        "pubdate": "Sat, 06 Jul 2024 23:00:00 +0200"
       }
     ]
   ]
