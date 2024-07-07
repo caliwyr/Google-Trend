@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "07-07-2024 , 20:44:42",
+  "lastUpdate": "07-07-2024 , 20:54:01",
   "data": [
     [
       {
-        "title": "Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
         "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
       }
     ],
@@ -17,15 +17,22 @@
     ],
     [
       {
-        "title": "IFK Göteborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
+        "title": "Gais",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
+        "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Värnamo mot IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4rnamo%20mot%20IFK%20G%C3%B6teborg",
         "pubdate": "Sun, 07 Jul 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "title": "IFK Göteborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
         "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
       }
     ],
@@ -34,6 +41,13 @@
         "title": "Northvolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Northvolt",
         "pubdate": "Sun, 07 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Margot Robbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Margot%20Robbie",
+        "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "Margot Robbie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Margot%20Robbie",
-        "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Duplantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Duplantis",
         "pubdate": "Sun, 07 Jul 2024 19:00:00 +0200"
@@ -87,16 +94,9 @@
     ],
     [
       {
-        "title": "Värnamo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4rnamo",
-        "pubdate": "Sun, 07 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Allsvenskan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskan",
-        "pubdate": "Sat, 06 Jul 2024 16:00:00 +0200"
+        "title": "Andreas Johansson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Andreas%20Johansson",
+        "pubdate": "Sun, 07 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Arda guler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arda%20guler",
         "pubdate": "Sat, 06 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nederländerna mot Turkiet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nederl%C3%A4nderna%20mot%20Turkiet",
-        "pubdate": "Sat, 06 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Mike Heslin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mike%20Heslin",
         "pubdate": "Sat, 06 Jul 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Holland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Holland",
+        "pubdate": "Sat, 06 Jul 2024 22:00:00 +0200"
       }
     ]
   ]
