@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-07-2024 , 08:48:40",
+  "lastUpdate": "07-07-2024 , 08:57:52",
   "data": [
-    [
-      {
-        "title": "Omroep West",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omroep%20West",
-        "pubdate": "Sun, 07 Jul 2024 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Andre Drege",
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "De Vrij",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Vrij",
-        "pubdate": "Sat, 06 Jul 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Girmay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Girmay",
         "pubdate": "Sat, 06 Jul 2024 18:00:00 +0200"
@@ -59,16 +45,16 @@
     ],
     [
       {
-        "title": "EURO 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#EURO%202024",
-        "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
+        "title": "Carola Schouten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Carola%20Schouten",
+        "pubdate": "Fri, 05 Jul 2024 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Carola Schouten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Carola%20Schouten",
-        "pubdate": "Fri, 05 Jul 2024 00:00:00 +0200"
+        "title": "EURO 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#EURO%202024",
+        "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Dick Schoof",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dick%20Schoof",
         "pubdate": "Sun, 30 Jun 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mark Rutte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mark%20Rutte",
+        "pubdate": "Sun, 30 Jun 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rutte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rutte",
+        "pubdate": "Sun, 30 Jun 2024 18:00:00 +0200"
       }
     ]
   ]
