@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 21:45:31",
+  "lastUpdate": "08-07-2024 , 21:54:51",
   "data": [
     [
       {
@@ -38,9 +38,16 @@
     ],
     [
       {
+        "title": "Internacional x Vasco da Gama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional%20x%20Vasco%20da%20Gama",
+        "pubdate": "Sun, 07 Jul 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Vasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco",
-        "pubdate": "Sun, 07 Jul 2024 15:00:00 -0500"
+        "pubdate": "Sun, 07 Jul 2024 19:00:00 -0500"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Coritiba x Paysandu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coritiba%20x%20Paysandu",
         "pubdate": "Sun, 07 Jul 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Atlético-GO x Athletico-PR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-GO%20x%20Athletico-PR",
+        "pubdate": "Sun, 07 Jul 2024 16:00:00 -0500"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Atletico GO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20GO",
-        "pubdate": "Sun, 07 Jul 2024 23:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Margot Robbie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Margot%20Robbie",
         "pubdate": "Sun, 07 Jul 2024 12:00:00 -0500"
@@ -132,13 +139,6 @@
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lewis%20Hamilton",
         "pubdate": "Sun, 07 Jul 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vasco da Gama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco%20da%20Gama",
-        "pubdate": "Sun, 07 Jul 2024 19:00:00 -0500"
       }
     ]
   ]
