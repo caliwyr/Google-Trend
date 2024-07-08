@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 01:03:21",
+  "lastUpdate": "08-07-2024 , 02:08:20",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alcaraz",
-        "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
+        "title": "Lewis Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lewis%20Hamilton",
+        "pubdate": "Sun, 07 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -27,13 +27,6 @@
         "title": "Jon Landau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jon%20Landau",
         "pubdate": "Sun, 07 Jul 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lewis%20Hamilton",
-        "pubdate": "Sun, 07 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Türkei EM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#T%C3%BCrkei%20EM",
         "pubdate": "Fri, 05 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fußball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fu%C3%9Fball",
+        "pubdate": "Fri, 05 Jul 2024 19:00:00 +0200"
       }
     ]
   ]
