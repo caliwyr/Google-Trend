@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 18:43:10",
+  "lastUpdate": "08-07-2024 , 18:52:41",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Rotterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rotterdam",
+        "pubdate": "Sun, 07 Jul 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hamilton",
         "pubdate": "Sun, 07 Jul 2024 18:00:00 +0200"
@@ -27,13 +34,6 @@
         "title": "Silverstone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Silverstone",
         "pubdate": "Sun, 07 Jul 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Schilderswijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schilderswijk",
-        "pubdate": "Sun, 07 Jul 2024 13:00:00 +0200"
       }
     ],
     [
@@ -55,13 +55,6 @@
         "title": "Oranje",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje",
         "pubdate": "Sat, 06 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Koeman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koeman",
-        "pubdate": "Sat, 06 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Mark Rutte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mark%20Rutte",
         "pubdate": "Sun, 30 Jun 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rutte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rutte",
+        "pubdate": "Sun, 30 Jun 2024 18:00:00 +0200"
       }
     ]
   ]
