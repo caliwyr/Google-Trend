@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 17:44:18",
+  "lastUpdate": "08-07-2024 , 17:53:50",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Volby Francie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20Francie",
-        "pubdate": "Sun, 07 Jul 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Margot Robbie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Margot%20Robbie",
         "pubdate": "Sun, 07 Jul 2024 20:00:00 +0200"
@@ -41,6 +34,13 @@
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lewis%20Hamilton",
         "pubdate": "Sun, 07 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Macron",
+        "pubdate": "Sun, 07 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Dior",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dior",
         "pubdate": "Sun, 07 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kemp Keramika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kemp%20Keramika",
-        "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Casper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Casper",
         "pubdate": "Sun, 07 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "27",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#27",
+        "pubdate": "Sun, 07 Jul 2024 18:00:00 +0200"
       }
     ]
   ]

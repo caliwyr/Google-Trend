@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 17:44:21",
+  "lastUpdate": "08-07-2024 , 17:53:52",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Babaváró hitel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Babav%C3%A1r%C3%B3%20hitel",
-        "pubdate": "Mon, 08 Jul 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vidnyánszky Attila",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vidny%C3%A1nszky%20Attila",
         "pubdate": "Mon, 08 Jul 2024 16:00:00 +0200"
@@ -45,13 +38,6 @@
     ],
     [
       {
-        "title": "Rácz András",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1cz%20Andr%C3%A1s",
-        "pubdate": "Mon, 08 Jul 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Koton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Koton",
         "pubdate": "Mon, 08 Jul 2024 16:00:00 +0200"
@@ -59,9 +45,23 @@
     ],
     [
       {
+        "title": "Rácz András",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#R%C3%A1cz%20Andr%C3%A1s",
+        "pubdate": "Mon, 08 Jul 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jon Landau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jon%20Landau",
         "pubdate": "Mon, 08 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Babaváró hitel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Babav%C3%A1r%C3%B3%20hitel",
+        "pubdate": "Mon, 08 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Antal Attila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Antal%20Attila",
-        "pubdate": "Sun, 07 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Koncz Gábor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Koncz%20G%C3%A1bor",
         "pubdate": "Sun, 07 Jul 2024 00:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "Korda György",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korda%20Gy%C3%B6rgy",
+        "pubdate": "Sun, 07 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ganxsta Zolee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ganxsta%20Zolee",
         "pubdate": "Sun, 07 Jul 2024 22:00:00 +0200"
       }
     ]
