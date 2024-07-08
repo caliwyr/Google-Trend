@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 20:56:24",
+  "lastUpdate": "08-07-2024 , 21:15:11",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#365",
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Maps",
+        "pubdate": "Mon, 08 Jul 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Outlook 365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Outlook%20365",
         "pubdate": "Mon, 08 Jul 2024 09:00:00 -0500"
       }
     ],
@@ -27,6 +34,13 @@
         "title": "Proteccion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Proteccion",
         "pubdate": "Mon, 08 Jul 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Pico y placa Pasto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Pico%20y%20placa%20Pasto",
+        "pubdate": "Mon, 08 Jul 2024 08:00:00 -0500"
       }
     ],
     [
@@ -52,9 +66,23 @@
     ],
     [
       {
-        "title": "Liga Femenina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Liga%20Femenina",
-        "pubdate": "Sun, 07 Jul 2024 15:00:00 -0500"
+        "title": "Policia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Policia",
+        "pubdate": "Mon, 08 Jul 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Contraloria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Contraloria",
+        "pubdate": "Mon, 08 Jul 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Partido Colombia Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Partido%20Colombia%20Uruguay",
+        "pubdate": "Sun, 07 Jul 2024 08:00:00 -0500"
       }
     ],
     [
@@ -66,9 +94,9 @@
     ],
     [
       {
-        "title": "Falcao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Falcao",
-        "pubdate": "Sun, 07 Jul 2024 15:00:00 -0500"
+        "title": "Liga Femenina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Liga%20Femenina",
+        "pubdate": "Sun, 07 Jul 2024 22:00:00 -0500"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Neymar",
         "pubdate": "Sun, 07 Jul 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Carlos%20Alcaraz",
-        "pubdate": "Sun, 07 Jul 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jon Landau Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Jon%20Landau%20Titanic",
-        "pubdate": "Sun, 07 Jul 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Araujo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Araujo",
-        "pubdate": "Sun, 07 Jul 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bellingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Bellingham",
-        "pubdate": "Sun, 07 Jul 2024 09:00:00 -0500"
       }
     ]
   ]
