@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 10:41:14",
+  "lastUpdate": "08-07-2024 , 10:50:37",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Emmanuel Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emmanuel%20Macron",
         "pubdate": "Mon, 08 Jul 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brad Pitt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brad%20Pitt",
+        "pubdate": "Mon, 08 Jul 2024 00:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Mikrohus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mikrohus",
         "pubdate": "Sun, 07 Jul 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HamKam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
-        "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
       }
     ]
   ]
