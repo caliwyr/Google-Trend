@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 23:45:53",
+  "lastUpdate": "08-07-2024 , 23:55:10",
   "data": [
     [
       {
@@ -31,16 +31,9 @@
     ],
     [
       {
-        "title": "Meyer Habib",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Meyer%20Habib",
-        "pubdate": "Mon, 08 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "LFI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LFI",
-        "pubdate": "Mon, 08 Jul 2024 11:00:00 +0200"
+        "pubdate": "Mon, 08 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -55,6 +48,13 @@
         "title": "Curacao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Curacao",
         "pubdate": "Mon, 08 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Emma Raducanu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emma%20Raducanu",
+        "pubdate": "Mon, 08 Jul 2024 13:00:00 +0200"
       }
     ],
     [
@@ -87,6 +87,20 @@
     ],
     [
       {
+        "title": "La France Insoumise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20France%20Insoumise",
+        "pubdate": "Mon, 08 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Caroline Yadan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Caroline%20Yadan",
+        "pubdate": "Mon, 08 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Olivier Faure",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Olivier%20Faure",
         "pubdate": "Mon, 08 Jul 2024 13:00:00 +0200"
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Clementine Autain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Clementine%20Autain",
-        "pubdate": "Mon, 08 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nouveau Front populaire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nouveau%20Front%20populaire",
         "pubdate": "Sun, 07 Jul 2024 16:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Emmanuel Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emmanuel%20Macron",
         "pubdate": "Sun, 07 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Foo Fighters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foo%20Fighters",
-        "pubdate": "Sun, 07 Jul 2024 12:00:00 +0200"
       }
     ]
   ]
