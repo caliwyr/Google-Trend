@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-07-2024 , 11:46:48",
+  "lastUpdate": "08-07-2024 , 11:56:15",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Macron",
+        "pubdate": "Sun, 07 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lewis%20Hamilton",
         "pubdate": "Sun, 07 Jul 2024 18:00:00 +0200"
@@ -38,9 +45,16 @@
     ],
     [
       {
-        "title": "Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Macron",
-        "pubdate": "Sun, 07 Jul 2024 20:00:00 +0200"
+        "title": "Slunce, seno, jahody",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slunce,%20seno,%20jahody",
+        "pubdate": "Sun, 07 Jul 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Turecko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Turecko",
+        "pubdate": "Sun, 07 Jul 2024 14:00:00 +0200"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Justýna Zedníková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Just%C3%BDna%20Zedn%C3%ADkov%C3%A1",
+        "pubdate": "Sun, 07 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tomáš Holý",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Hol%C3%BD",
         "pubdate": "Sun, 07 Jul 2024 17:00:00 +0200"
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "John Cena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#John%20Cena",
-        "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Holi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Holi",
         "pubdate": "Sun, 07 Jul 2024 22:00:00 +0200"
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "John Cena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#John%20Cena",
+        "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Casper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Casper",
         "pubdate": "Sun, 07 Jul 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radar",
-        "pubdate": "Sat, 06 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Euro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Euro",
-        "pubdate": "Sat, 06 Jul 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "David Guetta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Guetta",
-        "pubdate": "Sat, 06 Jul 2024 22:00:00 +0200"
       }
     ]
   ]
