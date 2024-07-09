@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2024 , 09:42:49",
+  "lastUpdate": "09-07-2024 , 09:52:14",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Michal David",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Michal%20David",
+        "pubdate": "Mon, 08 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alcaraz",
         "pubdate": "Mon, 08 Jul 2024 19:00:00 +0200"
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Festival planet Brno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Festival%20planet%20Brno",
-        "pubdate": "Mon, 08 Jul 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Djokovic",
         "pubdate": "Mon, 08 Jul 2024 23:00:00 +0200"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Tomáš Weber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Weber",
-        "pubdate": "Mon, 08 Jul 2024 08:00:00 +0200"
+        "title": "Festival planet Brno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Festival%20planet%20Brno",
+        "pubdate": "Mon, 08 Jul 2024 23:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Macron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Macron",
-        "pubdate": "Sun, 07 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dior",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dior",
         "pubdate": "Sun, 07 Jul 2024 19:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "John Cena",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#John%20Cena",
         "pubdate": "Sun, 07 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "27",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#27",
+        "pubdate": "Sun, 07 Jul 2024 18:00:00 +0200"
       }
     ]
   ]
