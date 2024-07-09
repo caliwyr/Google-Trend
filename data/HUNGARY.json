@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-07-2024 , 07:43:52",
+  "lastUpdate": "09-07-2024 , 07:53:15",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Kormányinfó",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyinf%C3%B3",
         "pubdate": "Mon, 08 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Babaváró hitel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Babav%C3%A1r%C3%B3%20hitel",
-        "pubdate": "Mon, 08 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Babaváró hitel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Babav%C3%A1r%C3%B3%20hitel",
+        "pubdate": "Mon, 08 Jul 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kalocsa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kalocsa",
         "pubdate": "Mon, 08 Jul 2024 07:00:00 +0200"
@@ -90,6 +90,13 @@
         "title": "Glen Powell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Glen%20Powell",
         "pubdate": "Mon, 08 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pásztó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%A1szt%C3%B3",
+        "pubdate": "Mon, 08 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tompos Márton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tompos%20M%C3%A1rton",
         "pubdate": "Sun, 07 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Antal Attila",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Antal%20Attila",
-        "pubdate": "Sun, 07 Jul 2024 00:00:00 +0200"
       }
     ]
   ]
