@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-07-2024 , 10:43:24",
+  "lastUpdate": "10-07-2024 , 10:52:55",
   "data": [
-    [
-      {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Messi",
-        "pubdate": "Wed, 10 Jul 2024 00:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Morata",
@@ -17,8 +10,22 @@
     ],
     [
       {
+        "title": "Giroud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Giroud",
+        "pubdate": "Wed, 10 Jul 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Gypsy Rose",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gypsy%20Rose",
+        "pubdate": "Wed, 10 Jul 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Lionel Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lionel%20Messi",
         "pubdate": "Wed, 10 Jul 2024 00:00:00 +0300"
       }
     ],
@@ -48,6 +55,13 @@
         "title": "Lamine Yamal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lamine%20Yamal",
         "pubdate": "Tue, 09 Jul 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mbappe",
+        "pubdate": "Tue, 09 Jul 2024 23:00:00 +0300"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Kylian Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kylian%20Mbappe",
-        "pubdate": "Tue, 09 Jul 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Kolo Muani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kolo%20Muani",
         "pubdate": "Tue, 09 Jul 2024 23:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Tom Hanks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tom%20Hanks",
         "pubdate": "Tue, 09 Jul 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Billie Eilish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Billie%20Eilish",
-        "pubdate": "Tue, 09 Jul 2024 21:00:00 +0300"
       }
     ]
   ]
