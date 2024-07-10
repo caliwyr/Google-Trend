@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2024 , 04:37:48",
+  "lastUpdate": "10-07-2024 , 04:47:01",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "KNMI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNMI",
-        "pubdate": "Tue, 09 Jul 2024 05:00:00 +0200"
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Tue, 09 Jul 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Tue, 09 Jul 2024 20:00:00 +0200"
+        "title": "Noodweer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noodweer",
+        "pubdate": "Tue, 09 Jul 2024 16:00:00 +0200"
       }
     ],
     [
@@ -34,13 +34,6 @@
         "title": "Jasper Philipsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jasper%20Philipsen",
         "pubdate": "Tue, 09 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marcel Kittel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marcel%20Kittel",
-        "pubdate": "Mon, 08 Jul 2024 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Rutte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rutte",
         "pubdate": "Sun, 30 Jun 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Collin Veijer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Collin%20Veijer",
+        "pubdate": "Sat, 29 Jun 2024 00:00:00 +0200"
       }
     ]
   ]
