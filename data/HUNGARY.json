@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-07-2024 , 23:46:34",
+  "lastUpdate": "10-07-2024 , 23:55:47",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Számszeríj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C3%A1mszer%C3%ADj",
-        "pubdate": "Wed, 10 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kane",
         "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Julia Fox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Julia%20Fox",
         "pubdate": "Wed, 10 Jul 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ice Nine Kills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ice%20Nine%20Kills",
+        "pubdate": "Wed, 10 Jul 2024 08:00:00 +0200"
       }
     ]
   ]
