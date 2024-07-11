@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "10-07-2024 , 23:55:50",
+  "lastUpdate": "11-07-2024 , 01:05:15",
   "data": [
     [
       {
         "title": "BBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#BBC",
+        "pubdate": "Thu, 11 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tv2.no",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tv2.no",
         "pubdate": "Thu, 11 Jul 2024 00:00:00 +0200"
       }
     ],
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Nederland england",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nederland%20england",
-        "pubdate": "Wed, 10 Jul 2024 11:00:00 +0200"
+        "title": "Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kane",
+        "pubdate": "Wed, 10 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Tv2.no",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tv2.no",
+        "title": "Saka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Saka",
         "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
       }
     ],
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Frankrike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frankrike",
+        "pubdate": "Wed, 10 Jul 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dortmund",
         "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Argentina",
         "pubdate": "Wed, 10 Jul 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sahara Ray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sahara%20Ray",
-        "pubdate": "Wed, 10 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mamma Mia!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mamma%20Mia!",
-        "pubdate": "Wed, 10 Jul 2024 00:00:00 +0200"
       }
     ]
   ]
