@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2024 , 01:05:12",
+  "lastUpdate": "11-07-2024 , 02:10:31",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Hollandia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hollandia",
+        "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "M4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
         "pubdate": "Wed, 10 Jul 2024 20:00:00 +0200"
@@ -47,13 +54,6 @@
       {
         "title": "Once Human",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Once%20Human",
-        "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ollie Watkins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ollie%20Watkins",
         "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
       }
     ],
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "A renitens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A%20renitens",
-        "pubdate": "Wed, 10 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gypsy Rose",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gypsy%20Rose",
         "pubdate": "Wed, 10 Jul 2024 13:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Julia Fox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Julia%20Fox",
         "pubdate": "Wed, 10 Jul 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ice Nine Kills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ice%20Nine%20Kills",
+        "pubdate": "Wed, 10 Jul 2024 08:00:00 +0200"
       }
     ]
   ]
