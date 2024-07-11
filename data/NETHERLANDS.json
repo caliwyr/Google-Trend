@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2024 , 19:49:35",
+  "lastUpdate": "11-07-2024 , 19:58:58",
   "data": [
     [
       {
@@ -17,22 +17,15 @@
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dortmund",
-        "pubdate": "Wed, 10 Jul 2024 17:00:00 +0200"
+        "title": "Alzheimer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Alzheimer",
+        "pubdate": "Thu, 11 Jul 2024 21:00:00 +0200"
       }
     ],
     [
       {
         "title": "Oranje",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oranje",
-        "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nederland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland",
         "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Barry Madlener",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barry%20Madlener",
         "pubdate": "Wed, 03 Jul 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kabinet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kabinet",
+        "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
       }
     ]
   ]
