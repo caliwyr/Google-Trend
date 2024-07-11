@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-07-2024 , 09:49:10",
+  "lastUpdate": "11-07-2024 , 09:58:25",
   "data": [
     [
       {
@@ -17,16 +17,23 @@
     ],
     [
       {
-        "title": "Felix Zwayer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Felix%20Zwayer",
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Biden",
+        "pubdate": "Wed, 10 Jul 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Van Dijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Van%20Dijk",
         "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Biden",
-        "pubdate": "Wed, 10 Jul 2024 12:00:00 +0200"
+        "title": "Southgate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Southgate",
+        "pubdate": "Wed, 10 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "EM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EM",
         "pubdate": "Fri, 05 Jul 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "EM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#EM",
-        "pubdate": "Fri, 05 Jul 2024 16:00:00 +0200"
       }
     ]
   ]

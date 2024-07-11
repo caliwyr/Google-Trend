@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-07-2024 , 09:49:13",
+  "lastUpdate": "11-07-2024 , 09:58:29",
   "data": [
+    [
+      {
+        "title": "Tom Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tom%20Jones",
+        "pubdate": "Thu, 11 Jul 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Nederlands elftal",
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Emma Watson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Emma%20Watson",
+        "title": "Temper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Temper",
         "pubdate": "Wed, 10 Jul 2024 18:00:00 +0200"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Schoof",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schoof",
+        "pubdate": "Tue, 02 Jul 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kabinet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kabinet",
         "pubdate": "Tue, 02 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Keti Koti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Keti%20Koti",
-        "pubdate": "Sun, 30 Jun 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dick Schoof",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dick%20Schoof",
-        "pubdate": "Sun, 30 Jun 2024 16:00:00 +0200"
       }
     ]
   ]
