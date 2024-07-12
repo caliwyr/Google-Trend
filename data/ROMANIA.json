@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2024 , 17:38:30",
+  "lastUpdate": "12-07-2024 , 17:48:02",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Medvedev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Medvedev",
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alcaraz",
         "pubdate": "Fri, 12 Jul 2024 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Deșertul Atacama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#De%C8%99ertul%20Atacama",
+        "pubdate": "Fri, 12 Jul 2024 09:00:00 +0300"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alcaraz",
-        "pubdate": "Fri, 12 Jul 2024 18:00:00 +0300"
+        "title": "Raed Arafat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Raed%20Arafat",
+        "pubdate": "Fri, 12 Jul 2024 15:00:00 +0300"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Petre Roman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petre%20Roman",
-        "pubdate": "Fri, 12 Jul 2024 14:00:00 +0300"
+        "title": "Stiripesurse.ro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stiripesurse.ro",
+        "pubdate": "Fri, 12 Jul 2024 13:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Stiripesurse.ro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stiripesurse.ro",
-        "pubdate": "Fri, 12 Jul 2024 13:00:00 +0300"
+        "title": "12 iulie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#12%20iulie",
+        "pubdate": "Fri, 12 Jul 2024 15:00:00 +0300"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Boris Elțîn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Boris%20El%C8%9B%C3%AEn",
-        "pubdate": "Thu, 11 Jul 2024 08:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Vekic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vekic",
         "pubdate": "Thu, 11 Jul 2024 18:00:00 +0300"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Deșertul Atacama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#De%C8%99ertul%20Atacama",
-        "pubdate": "Thu, 11 Jul 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Denis Drăguș",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Denis%20Dr%C4%83gu%C8%99",
         "pubdate": "Thu, 11 Jul 2024 08:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Virgil van Dijk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Virgil%20van%20Dijk",
         "pubdate": "Thu, 11 Jul 2024 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Biden",
+        "pubdate": "Thu, 11 Jul 2024 13:00:00 +0300"
       }
     ]
   ]
