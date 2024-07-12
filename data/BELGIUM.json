@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-07-2024 , 03:47:17",
+  "lastUpdate": "12-07-2024 , 03:56:30",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Southgate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Southgate",
-        "pubdate": "Thu, 11 Jul 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Patrick Cohen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patrick%20Cohen",
         "pubdate": "Thu, 11 Jul 2024 12:00:00 +0200"
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Johnny Depp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Johnny%20Depp",
-        "pubdate": "Thu, 11 Jul 2024 18:00:00 +0200"
+        "title": "Southgate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Southgate",
+        "pubdate": "Thu, 11 Jul 2024 07:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sabrina Carpenter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sabrina%20Carpenter",
         "pubdate": "Thu, 11 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vlaanderen feest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vlaanderen%20feest",
+        "pubdate": "Thu, 11 Jul 2024 17:00:00 +0200"
       }
     ]
   ]
