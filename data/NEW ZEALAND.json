@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-07-2024 , 21:45:01",
+  "lastUpdate": "12-07-2024 , 21:54:25",
   "data": [
     [
       {
         "title": "Gladiator",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gladiator",
         "pubdate": "Sat, 13 Jul 2024 00:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Novak%20Djokovic",
+        "pubdate": "Sat, 13 Jul 2024 09:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Euros final",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Euros%20final",
         "pubdate": "Thu, 11 Jul 2024 10:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Baba Vanga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Baba%20Vanga",
-        "pubdate": "Thu, 11 Jul 2024 18:00:00 +1200"
       }
     ]
   ]
