@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-07-2024 , 17:37:13",
+  "lastUpdate": "13-07-2024 , 17:46:17",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "CRB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
+        "title": "Meteoro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Meteoro",
         "pubdate": "Sat, 13 Jul 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Novorizontino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novorizontino",
+        "pubdate": "Sat, 13 Jul 2024 12:00:00 -0500"
       }
     ],
     [
@@ -24,8 +31,22 @@
     ],
     [
       {
-        "title": "Meteoro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Meteoro",
+        "title": "CRB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
+        "pubdate": "Sat, 13 Jul 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Thiago Monteiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Thiago%20Monteiro",
+        "pubdate": "Sat, 13 Jul 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bahia x Cuiabá",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20Cuiab%C3%A1",
         "pubdate": "Sat, 13 Jul 2024 11:00:00 -0500"
       }
     ],
@@ -38,16 +59,16 @@
     ],
     [
       {
-        "title": "General Ross",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#General%20Ross",
-        "pubdate": "Sat, 13 Jul 2024 05:00:00 -0500"
+        "title": "Cassio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cassio",
+        "pubdate": "Sat, 13 Jul 2024 10:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Cassio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cassio",
-        "pubdate": "Sat, 13 Jul 2024 10:00:00 -0500"
+        "title": "General Ross",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#General%20Ross",
+        "pubdate": "Sat, 13 Jul 2024 05:00:00 -0500"
       }
     ],
     [
@@ -59,9 +80,9 @@
     ],
     [
       {
-        "title": "Bahia x Cuiabá",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20Cuiab%C3%A1",
-        "pubdate": "Sat, 13 Jul 2024 11:00:00 -0500"
+        "title": "Final Euro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Final%20Euro",
+        "pubdate": "Sat, 13 Jul 2024 12:00:00 -0500"
       }
     ],
     [
@@ -87,6 +108,13 @@
     ],
     [
       {
+        "title": "Descendentes 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Descendentes%204",
+        "pubdate": "Fri, 12 Jul 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ponte Preta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ponte%20Preta",
         "pubdate": "Fri, 12 Jul 2024 06:00:00 -0500"
@@ -101,27 +129,6 @@
     ],
     [
       {
-        "title": "Botafogo-SP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP",
-        "pubdate": "Fri, 12 Jul 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Dia do Rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Rock",
-        "pubdate": "Fri, 12 Jul 2024 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Hulk Vermelho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Hulk%20Vermelho",
-        "pubdate": "Fri, 12 Jul 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Biden",
         "pubdate": "Fri, 12 Jul 2024 08:00:00 -0500"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Anant Ambani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Anant%20Ambani",
+        "title": "Dia do Rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Rock",
         "pubdate": "Fri, 12 Jul 2024 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Alec Baldwin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alec%20Baldwin",
-        "pubdate": "Fri, 12 Jul 2024 20:00:00 -0500"
       }
     ]
   ]

@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "13-07-2024 , 17:37:20",
+  "lastUpdate": "13-07-2024 , 17:46:24",
   "data": [
-    [
-      {
-        "title": "Longlegs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Longlegs",
-        "pubdate": "Sat, 13 Jul 2024 03:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Alec Baldwin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alec%20Baldwin",
         "pubdate": "Sat, 13 Jul 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Longlegs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Longlegs",
+        "pubdate": "Sat, 13 Jul 2024 03:00:00 +0200"
       }
     ],
     [
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "Ruch Chorzów",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ruch%20Chorz%C3%B3w",
+        "title": "Atrium Targówek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Atrium%20Targ%C3%B3wek",
+        "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Biden Joe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Biden%20Joe",
         "pubdate": "Sat, 13 Jul 2024 09:00:00 +0200"
       }
     ],
@@ -38,16 +45,23 @@
     ],
     [
       {
-        "title": "Burza warszawa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Burza%20warszawa",
+        "title": "Ruch Chorzów",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ruch%20Chorz%C3%B3w",
         "pubdate": "Sat, 13 Jul 2024 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Biden Joe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Biden%20Joe",
+        "title": "Burza Warszawa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Burza%20Warszawa",
         "pubdate": "Sat, 13 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polska - Niemcy Siatkówka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Niemcy%20Siatk%C3%B3wka",
+        "pubdate": "Sat, 13 Jul 2024 19:00:00 +0200"
       }
     ],
     [
@@ -66,20 +80,6 @@
     ],
     [
       {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tom%20Cruise",
-        "pubdate": "Sat, 13 Jul 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PSL",
-        "pubdate": "Sat, 13 Jul 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Maria Koterbska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Maria%20Koterbska",
         "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Atrium Targówek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Atrium%20Targ%C3%B3wek",
-        "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
+        "title": "PSL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PSL",
+        "pubdate": "Sat, 13 Jul 2024 12:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Agata Duda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Agata%20Duda",
-        "pubdate": "Fri, 12 Jul 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ed Sheeran gdansk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ed%20Sheeran%20gdansk",
         "pubdate": "Fri, 12 Jul 2024 14:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Audioriver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Audioriver",
-        "pubdate": "Fri, 12 Jul 2024 16:00:00 +0200"
+        "title": "Szatkowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szatkowski",
+        "pubdate": "Fri, 12 Jul 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Djokovic",
+        "pubdate": "Fri, 12 Jul 2024 19:00:00 +0200"
       }
     ]
   ]
