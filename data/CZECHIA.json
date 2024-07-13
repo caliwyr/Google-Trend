@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "13-07-2024 , 18:40:55",
+  "lastUpdate": "13-07-2024 , 18:50:31",
   "data": [
-    [
-      {
-        "title": "Wimbledon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wimbledon",
-        "pubdate": "Sat, 13 Jul 2024 19:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Siniakova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Siniakova",
         "pubdate": "Sat, 13 Jul 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Krejcikova paulova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krejcikova%20paulova",
+        "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "IShowSpeed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#IShowSpeed",
+        "title": "Speed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Speed",
         "pubdate": "Sat, 13 Jul 2024 19:00:00 +0200"
       }
     ],
@@ -48,6 +48,13 @@
         "title": "Obama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Obama",
         "pubdate": "Sat, 13 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nestor kea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nestor%20kea",
+        "pubdate": "Sat, 13 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Finale Wimbledon 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Finale%20Wimbledon%202024",
-        "pubdate": "Fri, 12 Jul 2024 07:00:00 +0200"
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Joe%20Biden",
+        "pubdate": "Fri, 12 Jul 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Joe%20Biden",
-        "pubdate": "Fri, 12 Jul 2024 20:00:00 +0200"
+        "title": "Finale Wimbledon 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Finale%20Wimbledon%202024",
+        "pubdate": "Fri, 12 Jul 2024 07:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Helena Růžičková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Helena%20R%C5%AF%C5%BEi%C4%8Dkov%C3%A1",
         "pubdate": "Fri, 12 Jul 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kate Beckinsale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kate%20Beckinsale",
-        "pubdate": "Fri, 12 Jul 2024 00:00:00 +0200"
       }
     ]
   ]
