@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-07-2024 , 14:37:06",
+  "lastUpdate": "13-07-2024 , 14:46:18",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Hello Kitty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hello%20Kitty",
+        "pubdate": "Sat, 13 Jul 2024 22:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Shelley Duvall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shelley%20Duvall",
         "pubdate": "Fri, 12 Jul 2024 07:00:00 +1200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "LPGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LPGA",
-        "pubdate": "Fri, 12 Jul 2024 10:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Anna Mowbray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anna%20Mowbray",
-        "pubdate": "Fri, 12 Jul 2024 15:00:00 +1200"
+        "title": "Jasmine Paolini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jasmine%20Paolini",
+        "pubdate": "Fri, 12 Jul 2024 14:00:00 +1200"
       }
     ]
   ]
