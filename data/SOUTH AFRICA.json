@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 18:47:26",
+  "lastUpdate": "14-07-2024 , 18:56:45",
   "data": [
     [
       {
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tom%20Cruise",
-        "pubdate": "Sun, 14 Jul 2024 18:00:00 +0200"
+        "title": "U20 Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#U20%20Rugby",
+        "pubdate": "Sun, 14 Jul 2024 19:00:00 +0200"
       }
     ],
     [
@@ -73,9 +73,16 @@
     ],
     [
       {
-        "title": "Euro final",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Euro%20final",
+        "title": "Spain vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Spain%20vs%20England",
         "pubdate": "Sat, 13 Jul 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wimbledon final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wimbledon%20final",
+        "pubdate": "Sat, 13 Jul 2024 15:00:00 +0200"
       }
     ],
     [
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Australia vs Wales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20Wales",
-        "pubdate": "Sat, 13 Jul 2024 12:00:00 +0200"
+        "title": "Argentina vs Colombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Argentina%20vs%20Colombia",
+        "pubdate": "Sat, 13 Jul 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Argentina vs Colombia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Argentina%20vs%20Colombia",
-        "pubdate": "Sat, 13 Jul 2024 19:00:00 +0200"
+        "title": "Australia vs Wales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australia%20vs%20Wales",
+        "pubdate": "Sat, 13 Jul 2024 12:00:00 +0200"
       }
     ],
     [
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Wimbledon final",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wimbledon%20final",
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Novak%20Djokovic",
         "pubdate": "Fri, 12 Jul 2024 20:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Orlando Pirates",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Orlando%20Pirates",
         "pubdate": "Fri, 12 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eminem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Eminem",
-        "pubdate": "Fri, 12 Jul 2024 10:00:00 +0200"
       }
     ]
   ]
