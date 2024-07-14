@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "14-07-2024 , 08:45:16",
+  "lastUpdate": "14-07-2024 , 08:54:40",
   "data": [
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
-        "pubdate": "Sat, 13 Jul 2024 14:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Schlag den Star",
@@ -66,9 +59,16 @@
     ],
     [
       {
-        "title": "Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biden",
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
         "pubdate": "Fri, 12 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
+        "pubdate": "Fri, 12 Jul 2024 21:00:00 +0200"
       }
     ],
     [
