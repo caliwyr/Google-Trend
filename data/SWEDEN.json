@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "14-07-2024 , 12:42:36",
+  "lastUpdate": "14-07-2024 , 13:15:49",
   "data": [
     [
       {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
         "pubdate": "Sun, 14 Jul 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Richard Simmons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Richard%20Simmons",
-        "pubdate": "Sun, 14 Jul 2024 00:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Richard Simmons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Richard%20Simmons",
+        "pubdate": "Sun, 14 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nyheter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nyheter",
         "pubdate": "Sun, 14 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djurgården",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
+        "pubdate": "Sun, 14 Jul 2024 14:00:00 +0200"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Leo Borg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leo%20Borg",
+        "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sundevall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sundevall",
         "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
@@ -69,20 +83,6 @@
         "title": "Läckö slott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#L%C3%A4ck%C3%B6%20slott",
         "pubdate": "Sat, 13 Jul 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leo Borg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Leo%20Borg",
-        "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jardell Kanga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jardell%20Kanga",
-        "pubdate": "Sat, 13 Jul 2024 15:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Ijeh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ijeh",
-        "pubdate": "Fri, 12 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alcaraz",
         "pubdate": "Fri, 12 Jul 2024 18:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Em Kval",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Em%20Kval",
-        "pubdate": "Fri, 12 Jul 2024 23:00:00 +0200"
+        "title": "Per Gessle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Per%20Gessle",
+        "pubdate": "Fri, 12 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Umeå universitet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ume%C3%A5%20universitet",
+        "pubdate": "Fri, 12 Jul 2024 03:00:00 +0200"
       }
     ]
   ]
