@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 08:54:43",
+  "lastUpdate": "14-07-2024 , 09:13:43",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "BBC news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#BBC%20news",
         "pubdate": "Sun, 14 Jul 2024 18:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#News",
+        "pubdate": "Sun, 14 Jul 2024 15:00:00 +1200"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Nicolas Cage Longlegs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nicolas%20Cage%20Longlegs",
-        "pubdate": "Sun, 14 Jul 2024 17:00:00 +1200"
+        "title": "World news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#World%20news",
+        "pubdate": "Sun, 14 Jul 2024 16:00:00 +1200"
       }
     ],
     [
       {
-        "title": "World news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#World%20news",
-        "pubdate": "Sun, 14 Jul 2024 16:00:00 +1200"
+        "title": "Nicolas Cage Longlegs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nicolas%20Cage%20Longlegs",
+        "pubdate": "Sun, 14 Jul 2024 17:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Novak%20Djokovic",
         "pubdate": "Sat, 13 Jul 2024 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Anant Ambani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anant%20Ambani",
-        "pubdate": "Sat, 13 Jul 2024 19:00:00 +1200"
       }
     ]
   ]
