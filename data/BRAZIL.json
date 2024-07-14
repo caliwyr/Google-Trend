@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 07:36:18",
+  "lastUpdate": "14-07-2024 , 07:45:41",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Copa do brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20brasil",
-        "pubdate": "Sat, 13 Jul 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Cruzeiro x Bragantino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro%20x%20Bragantino",
         "pubdate": "Sat, 13 Jul 2024 08:00:00 -0500"
@@ -31,8 +24,8 @@
     ],
     [
       {
-        "title": "Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro",
+        "title": "Copa do brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20brasil",
         "pubdate": "Sat, 13 Jul 2024 15:00:00 -0500"
       }
     ],
@@ -41,6 +34,13 @@
         "title": "Canadá x Uruguai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Canad%C3%A1%20x%20Uruguai",
         "pubdate": "Sat, 13 Jul 2024 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cruzeiro",
+        "pubdate": "Sat, 13 Jul 2024 15:00:00 -0500"
       }
     ],
     [
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Final Copa america",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Final%20Copa%20america",
-        "pubdate": "Sat, 13 Jul 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Final Eurocopa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Final%20Eurocopa",
         "pubdate": "Sat, 13 Jul 2024 12:00:00 -0500"
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Sport Recife x América-MG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport%20Recife%20x%20Am%C3%A9rica-MG",
-        "pubdate": "Sat, 13 Jul 2024 15:00:00 -0500"
+        "title": "Final Copa america",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Final%20Copa%20america",
+        "pubdate": "Sat, 13 Jul 2024 14:00:00 -0500"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Sport Recife x América-MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport%20Recife%20x%20Am%C3%A9rica-MG",
+        "pubdate": "Sat, 13 Jul 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "CRB x Coritiba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB%20x%20Coritiba",
         "pubdate": "Sat, 13 Jul 2024 16:00:00 -0500"
@@ -94,9 +94,16 @@
     ],
     [
       {
-        "title": "Jogo do inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20inter",
-        "pubdate": "Sat, 13 Jul 2024 11:00:00 -0500"
+        "title": "Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
+        "pubdate": "Sat, 13 Jul 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Jogo do cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20cruzeiro",
+        "pubdate": "Sat, 13 Jul 2024 15:00:00 -0500"
       }
     ],
     [
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Jogo do cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20cruzeiro",
-        "pubdate": "Sat, 13 Jul 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "CRB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
-        "pubdate": "Sat, 13 Jul 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Meteoro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Meteoro",
         "pubdate": "Sat, 13 Jul 2024 11:00:00 -0500"
@@ -139,6 +132,13 @@
         "title": "Zenit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Zenit",
         "pubdate": "Sat, 13 Jul 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Krejcikova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Krejcikova",
+        "pubdate": "Sat, 13 Jul 2024 11:00:00 -0500"
       }
     ]
   ]
