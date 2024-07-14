@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 09:39:11",
+  "lastUpdate": "14-07-2024 , 09:48:42",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Trump nieuws",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Trump%20nieuws",
+        "title": "Trump Nieuws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Trump%20Nieuws",
         "pubdate": "Sun, 14 Jul 2024 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "14 juillet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#14%20juillet",
+        "pubdate": "Sun, 14 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Gaslighting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gaslighting",
         "pubdate": "Sun, 14 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Celya enlevement",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Celya%20enlevement",
+        "pubdate": "Sun, 14 Jul 2024 01:00:00 +0200"
       }
     ],
     [
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "Fantasia festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fantasia%20festival",
-        "pubdate": "Sat, 13 Jul 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Doja Cat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Doja%20Cat",
         "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Alec Baldwin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alec%20Baldwin",
-        "pubdate": "Sat, 13 Jul 2024 08:00:00 +0200"
+        "title": "Fantasia festival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fantasia%20festival",
+        "pubdate": "Sat, 13 Jul 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Celya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Celya",
-        "pubdate": "Sat, 13 Jul 2024 11:00:00 +0200"
+        "title": "Alec Baldwin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alec%20Baldwin",
+        "pubdate": "Sat, 13 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Foire du Midi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Foire%20du%20Midi",
         "pubdate": "Sat, 13 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Central Cee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Central%20Cee",
-        "pubdate": "Sat, 13 Jul 2024 17:00:00 +0200"
       }
     ]
   ]
