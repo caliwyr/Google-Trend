@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-07-2024 , 23:54:10",
+  "lastUpdate": "14-07-2024 , 00:57:46",
   "data": [
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#CNN",
+        "pubdate": "Sun, 14 Jul 2024 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Novotná",
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Rytmus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rytmus",
-        "pubdate": "Sat, 13 Jul 2024 15:00:00 +0200"
+        "title": "Tadej Pogačar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tadej%20Poga%C4%8Dar",
+        "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Pogačar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Poga%C4%8Dar",
-        "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
+        "title": "Rytmus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rytmus",
+        "pubdate": "Sat, 13 Jul 2024 15:00:00 +0200"
       }
     ],
     [
@@ -66,23 +73,9 @@
     ],
     [
       {
-        "title": "Tadej Pogačar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tadej%20Poga%C4%8Dar",
-        "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Obama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Obama",
         "pubdate": "Sat, 13 Jul 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Motylek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Motylek",
-        "pubdate": "Sat, 13 Jul 2024 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Djokovic",
         "pubdate": "Fri, 12 Jul 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alain Delon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Alain%20Delon",
+        "pubdate": "Fri, 12 Jul 2024 21:00:00 +0200"
       }
     ]
   ]
