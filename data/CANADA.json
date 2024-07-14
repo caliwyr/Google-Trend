@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 23:47:44",
+  "lastUpdate": "14-07-2024 , 23:56:56",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BBC%20news",
+        "pubdate": "Sun, 14 Jul 2024 08:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Jacoby Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jacoby%20Jones",
         "pubdate": "Sun, 14 Jul 2024 12:00:00 -0400"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Harry Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Harry%20Kane",
-        "pubdate": "Sun, 14 Jul 2024 16:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Canada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canada",
         "pubdate": "Sun, 14 Jul 2024 15:00:00 -0400"
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "CTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CTV",
-        "pubdate": "Sun, 14 Jul 2024 18:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Stampede attendance record",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Stampede%20attendance%20record",
         "pubdate": "Sun, 14 Jul 2024 13:00:00 -0400"
@@ -108,16 +101,23 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elon%20Musk",
-        "pubdate": "Sun, 14 Jul 2024 00:00:00 -0400"
+        "title": "CTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CTV",
+        "pubdate": "Sun, 14 Jul 2024 18:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Ronald Reagan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ronald%20Reagan",
-        "pubdate": "Sun, 14 Jul 2024 02:00:00 -0400"
+        "title": "Attentat Donald",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Attentat%20Donald",
+        "pubdate": "Sun, 14 Jul 2024 08:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elon%20Musk",
+        "pubdate": "Sun, 14 Jul 2024 00:00:00 -0400"
       }
     ],
     [
