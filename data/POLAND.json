@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 20:42:30",
+  "lastUpdate": "14-07-2024 , 20:51:52",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Beverly Hills",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Beverly%20Hills",
+        "title": "Beverly Hills, 90210",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Beverly%20Hills,%2090210",
         "pubdate": "Sun, 14 Jul 2024 15:00:00 +0200"
       }
     ],
@@ -24,9 +24,30 @@
     ],
     [
       {
+        "title": "Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Yamal",
+        "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kane",
+        "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#CNN",
         "pubdate": "Sun, 14 Jul 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Morata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Morata",
+        "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -52,9 +73,16 @@
     ],
     [
       {
-        "title": "Kanada – Urugwaj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kanada%20%E2%80%93%20Urugwaj",
-        "pubdate": "Sun, 14 Jul 2024 03:00:00 +0200"
+        "title": "Pozar gdansk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pozar%20gdansk",
+        "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bellingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bellingham",
+        "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -66,9 +94,30 @@
     ],
     [
       {
+        "title": "Roman Wszoła",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Roman%20Wszo%C5%82a",
+        "pubdate": "Sun, 14 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Strzelanina w Łęczycy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Strzelanina%20w%20%C5%81%C4%99czycy",
         "pubdate": "Sun, 14 Jul 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Szpakowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szpakowski",
+        "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Carvajal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Carvajal",
+        "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -80,13 +129,6 @@
     ],
     [
       {
-        "title": "Harry Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Harry%20Kane",
-        "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Borys Szyc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Borys%20Szyc",
         "pubdate": "Sun, 14 Jul 2024 11:00:00 +0200"
@@ -94,50 +136,8 @@
     ],
     [
       {
-        "title": "Teresa Lipowska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Teresa%20Lipowska",
-        "pubdate": "Sun, 14 Jul 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pozar gdansk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pozar%20gdansk",
-        "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Roman Wszoła",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Roman%20Wszo%C5%82a",
-        "pubdate": "Sun, 14 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Żona Sebastiana M",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%BBona%20Sebastiana%20M",
-        "pubdate": "Sun, 14 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Siatkówka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Siatk%C3%B3wka",
-        "pubdate": "Sun, 14 Jul 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Czesław Michniewicz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Czes%C5%82aw%20Michniewicz",
-        "pubdate": "Sun, 14 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Elon%20Musk",
         "pubdate": "Sun, 14 Jul 2024 00:00:00 +0200"
       }
     ]
