@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 10:37:06",
+  "lastUpdate": "14-07-2024 , 10:46:54",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Chris Evert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chris%20Evert",
+        "pubdate": "Sat, 13 Jul 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump",
         "pubdate": "Fri, 12 Jul 2024 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
         "pubdate": "Fri, 12 Jul 2024 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anant Ambani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Anant%20Ambani",
-        "pubdate": "Fri, 12 Jul 2024 22:00:00 +0200"
       }
     ]
   ]
