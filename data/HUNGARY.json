@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 16:30:49",
+  "lastUpdate": "14-07-2024 , 16:54:08",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alcaraz",
-        "pubdate": "Sun, 14 Jul 2024 17:00:00 +0200"
+        "title": "Bűbájos boszorkák",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C5%B1b%C3%A1jos%20boszork%C3%A1k",
+        "pubdate": "Sun, 14 Jul 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Richter József",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Richter%20J%C3%B3zsef",
+        "pubdate": "Sun, 14 Jul 2024 09:00:00 +0200"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Richard Simmons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Richard%20Simmons",
-        "pubdate": "Sun, 14 Jul 2024 08:00:00 +0200"
+        "title": "Halálos baleset Kiszombor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hal%C3%A1los%20baleset%20Kiszombor",
+        "pubdate": "Sun, 14 Jul 2024 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Halálos baleset Kiszombor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hal%C3%A1los%20baleset%20Kiszombor",
-        "pubdate": "Sun, 14 Jul 2024 09:00:00 +0200"
+        "title": "Richard Simmons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Richard%20Simmons",
+        "pubdate": "Sun, 14 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Shannen Doherty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shannen%20Doherty",
-        "pubdate": "Sun, 14 Jul 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Donald%20Trump",
         "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
@@ -97,6 +97,13 @@
         "title": "Spanyol angol döntő",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Spanyol%20angol%20d%C3%B6nt%C5%91",
         "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Balazs Kicks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Balazs%20Kicks",
+        "pubdate": "Sat, 13 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Kevin Costner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kevin%20Costner",
-        "pubdate": "Sat, 13 Jul 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Balázs Kicks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bal%C3%A1zs%20Kicks",
-        "pubdate": "Sat, 13 Jul 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Judas Priest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Judas%20Priest",
         "pubdate": "Sat, 13 Jul 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Harrison Ford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Harrison%20Ford",
+        "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
       }
     ]
   ]
