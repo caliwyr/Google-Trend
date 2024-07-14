@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-07-2024 , 15:29:36",
+  "lastUpdate": "14-07-2024 , 15:47:13",
   "data": [
     [
       {
@@ -33,6 +33,13 @@
       {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Joe%20Biden",
+        "pubdate": "Sun, 14 Jul 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "CNN news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#CNN%20news",
         "pubdate": "Sun, 14 Jul 2024 12:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Saint Academy school Jos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Saint%20Academy%20school%20Jos",
         "pubdate": "Fri, 12 Jul 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mukesh Ambani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mukesh%20Ambani",
-        "pubdate": "Fri, 12 Jul 2024 17:00:00 +0100"
       }
     ]
   ]
