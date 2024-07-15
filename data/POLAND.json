@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-07-2024 , 06:44:47",
+  "lastUpdate": "15-07-2024 , 06:53:58",
   "data": [
+    [
+      {
+        "title": "TVP SPORT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP%20SPORT",
+        "pubdate": "Mon, 15 Jul 2024 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Euro",
@@ -10,16 +17,9 @@
     ],
     [
       {
-        "title": "Argentyna – Kolumbia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Argentyna%20%E2%80%93%20Kolumbia",
+        "title": "Kolumbia Argentyna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kolumbia%20Argentyna",
         "pubdate": "Mon, 15 Jul 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Putin",
-        "pubdate": "Mon, 15 Jul 2024 06:00:00 +0200"
       }
     ],
     [
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Jesus Navas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jesus%20Navas",
-        "pubdate": "Mon, 15 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ralf Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ralf%20Schumacher",
         "pubdate": "Mon, 15 Jul 2024 01:00:00 +0200"
@@ -59,9 +52,37 @@
     ],
     [
       {
+        "title": "Jesus Navas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jesus%20Navas",
+        "pubdate": "Mon, 15 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Król strzelców Euro 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kr%C3%B3l%20strzelc%C3%B3w%20Euro%202024",
         "pubdate": "Mon, 15 Jul 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kobbie Mainoo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kobbie%20Mainoo",
+        "pubdate": "Mon, 15 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Magdalena Adamowicz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Magdalena%20Adamowicz",
+        "pubdate": "Mon, 15 Jul 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ksiądz Marek Hajdyła",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ksi%C4%85dz%20Marek%20Hajdy%C5%82a",
+        "pubdate": "Mon, 15 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -80,9 +101,9 @@
     ],
     [
       {
-        "title": "TVP SPORT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP%20SPORT",
-        "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
+        "title": "Copa America",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Copa%20America",
+        "pubdate": "Sun, 14 Jul 2024 14:00:00 +0200"
       }
     ],
     [
@@ -90,6 +111,13 @@
         "title": "Yamal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Yamal",
         "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alcaraz",
+        "pubdate": "Sun, 14 Jul 2024 16:00:00 +0200"
       }
     ],
     [
@@ -108,36 +136,8 @@
     ],
     [
       {
-        "title": "STS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#STS",
-        "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Harry Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Harry%20Kane",
-        "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Messi",
-        "pubdate": "Sun, 14 Jul 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carvajal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Carvajal",
-        "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bellingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bellingham",
+        "title": "TVP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP",
         "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
       }
     ]
