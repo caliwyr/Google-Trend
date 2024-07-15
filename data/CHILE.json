@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-07-2024 , 09:55:26",
+  "lastUpdate": "15-07-2024 , 10:14:42",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Marca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marca",
         "pubdate": "Mon, 15 Jul 2024 02:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dani Carvajal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dani%20Carvajal",
+        "pubdate": "Mon, 15 Jul 2024 01:00:00 -0400"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Cobresal  Coquimbo Unido",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobresal%20%20Coquimbo%20Unido",
-        "pubdate": "Sun, 14 Jul 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Himno de Colombia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Himno%20de%20Colombia",
         "pubdate": "Sun, 14 Jul 2024 22:00:00 -0400"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Conmebol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Conmebol",
+        "pubdate": "Sun, 14 Jul 2024 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bellingham",
         "pubdate": "Sun, 14 Jul 2024 16:00:00 -0400"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#James",
-        "pubdate": "Sun, 14 Jul 2024 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Conmebol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Conmebol",
-        "pubdate": "Sun, 14 Jul 2024 21:00:00 -0400"
+        "title": "Coquimbo Unido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido",
+        "pubdate": "Sun, 14 Jul 2024 17:00:00 -0400"
       }
     ]
   ]
