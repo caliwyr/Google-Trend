@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-07-2024 , 07:52:29",
+  "lastUpdate": "15-07-2024 , 08:11:43",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Uoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Uoa",
-        "pubdate": "Mon, 15 Jul 2024 02:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Kate Middleton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kate%20Middleton",
         "pubdate": "Mon, 15 Jul 2024 06:00:00 +1200"
@@ -87,8 +80,15 @@
     ],
     [
       {
-        "title": "Weather Forecast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20Forecast",
+        "title": "Benedict Cumberbatch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Benedict%20Cumberbatch",
+        "pubdate": "Mon, 15 Jul 2024 19:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Weather forecast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Weather%20forecast",
         "pubdate": "Mon, 15 Jul 2024 17:00:00 +1200"
       }
     ],
