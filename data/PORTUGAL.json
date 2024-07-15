@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-07-2024 , 08:52:44",
+  "lastUpdate": "15-07-2024 , 09:10:06",
   "data": [
-    [
-      {
-        "title": "Futemax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Futemax",
-        "pubdate": "Mon, 15 Jul 2024 03:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Celine dion",
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Exames nacionais 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Exames%20nacionais%202024",
+        "pubdate": "Mon, 15 Jul 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Euros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Euros",
         "pubdate": "Mon, 15 Jul 2024 00:00:00 +0100"
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "Finalissima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Finalissima",
+        "pubdate": "Mon, 15 Jul 2024 06:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Richard Rios",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Richard%20Rios",
         "pubdate": "Mon, 15 Jul 2024 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nego Di",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nego%20Di",
+        "pubdate": "Mon, 15 Jul 2024 07:00:00 +0100"
       }
     ],
     [
@@ -94,15 +108,15 @@
     ],
     [
       {
-        "title": "Nico Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nico%20Williams",
+        "title": "Lamine Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lamine%20Yamal",
         "pubdate": "Sun, 14 Jul 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Lamine Yamal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lamine%20Yamal",
+        "title": "Nico Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nico%20Williams",
         "pubdate": "Sun, 14 Jul 2024 21:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Kane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kane",
         "pubdate": "Sun, 14 Jul 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "RTP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#RTP",
-        "pubdate": "Sun, 14 Jul 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CNN",
-        "pubdate": "Sun, 14 Jul 2024 03:00:00 +0100"
       }
     ]
   ]
