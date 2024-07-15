@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-07-2024 , 23:47:08",
+  "lastUpdate": "15-07-2024 , 23:56:29",
   "data": [
-    [
-      {
-        "title": "J.D. Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#J.D.%20Vance",
-        "pubdate": "Tue, 16 Jul 2024 06:00:00 +1000"
-      }
-    ],
     [
       {
         "title": "Jay Slater missing Tenerife",
@@ -27,6 +20,13 @@
         "title": "Bella Brave",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bella%20Brave",
         "pubdate": "Tue, 16 Jul 2024 01:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Sizzler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sizzler",
+        "pubdate": "Tue, 16 Jul 2024 09:00:00 +1000"
       }
     ],
     [
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Amazon Prime Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amazon%20Prime%20Day",
+        "pubdate": "Mon, 15 Jul 2024 16:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Travis Bazzana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Travis%20Bazzana",
         "pubdate": "Mon, 15 Jul 2024 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "UEFA EURO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UEFA%20EURO",
+        "pubdate": "Mon, 15 Jul 2024 12:00:00 +1000"
       }
     ],
     [
@@ -87,23 +101,16 @@
     ],
     [
       {
-        "title": "Amazon Prime Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amazon%20Prime%20Day",
-        "pubdate": "Mon, 15 Jul 2024 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "UEFA EURO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UEFA%20EURO",
-        "pubdate": "Mon, 15 Jul 2024 13:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Soccer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Soccer",
         "pubdate": "Mon, 15 Jul 2024 07:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Corey Comperatore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Corey%20Comperatore",
+        "pubdate": "Mon, 15 Jul 2024 10:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Adelaide University",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adelaide%20University",
         "pubdate": "Mon, 15 Jul 2024 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "England football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20football",
-        "pubdate": "Mon, 15 Jul 2024 11:00:00 +1000"
       }
     ]
   ]
