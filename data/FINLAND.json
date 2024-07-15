@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-07-2024 , 18:54:23",
+  "lastUpdate": "15-07-2024 , 19:10:10",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Marc Cucurella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Marc%20Cucurella",
-        "pubdate": "Mon, 15 Jul 2024 08:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Carvajal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Carvajal",
         "pubdate": "Mon, 15 Jul 2024 00:00:00 +0300"
@@ -45,20 +38,6 @@
     ],
     [
       {
-        "title": "Katy Perry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Katy%20Perry",
-        "pubdate": "Mon, 15 Jul 2024 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Venus Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Venus%20Williams",
-        "pubdate": "Mon, 15 Jul 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Kaja Kallas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kaja%20Kallas",
         "pubdate": "Mon, 15 Jul 2024 18:00:00 +0300"
@@ -66,9 +45,23 @@
     ],
     [
       {
+        "title": "Katy Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Katy%20Perry",
+        "pubdate": "Mon, 15 Jul 2024 11:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Finalissima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Finalissima",
         "pubdate": "Mon, 15 Jul 2024 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Venus Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Venus%20Williams",
+        "pubdate": "Mon, 15 Jul 2024 00:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
         "pubdate": "Sun, 14 Jul 2024 05:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Cucurella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cucurella",
+        "pubdate": "Sun, 14 Jul 2024 23:00:00 +0300"
       }
     ]
   ]
