@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-07-2024 , 05:47:18",
+  "lastUpdate": "16-07-2024 , 05:56:51",
   "data": [
     [
       {
         "title": "Niklas Åstedt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Niklas%20%C3%85stedt",
         "pubdate": "Tue, 16 Jul 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bruce Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bruce%20Springsteen",
+        "pubdate": "Mon, 15 Jul 2024 15:00:00 +0200"
       }
     ],
     [
@@ -20,20 +27,6 @@
         "title": "J.D. Vance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#J.D.%20Vance",
         "pubdate": "Mon, 15 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Springsteen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bruce%20Springsteen",
-        "pubdate": "Mon, 15 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gothia cup 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gothia%20cup%202024",
-        "pubdate": "Mon, 15 Jul 2024 09:00:00 +0200"
       }
     ],
     [
@@ -55,13 +48,6 @@
         "title": "AIK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
         "pubdate": "Mon, 15 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SVT Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT%20Sport",
-        "pubdate": "Mon, 15 Jul 2024 00:00:00 +0200"
       }
     ],
     [
@@ -101,6 +87,13 @@
     ],
     [
       {
+        "title": "OS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#OS",
+        "pubdate": "Mon, 15 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sport",
         "pubdate": "Mon, 15 Jul 2024 11:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Häcken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#H%C3%A4cken",
-        "pubdate": "Mon, 15 Jul 2024 01:00:00 +0200"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
+        "pubdate": "Sun, 14 Jul 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Spanien England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Spanien%20England",
+        "pubdate": "Sun, 14 Jul 2024 08:00:00 +0200"
       }
     ]
   ]
