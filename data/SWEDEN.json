@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-07-2024 , 16:54:55",
+  "lastUpdate": "16-07-2024 , 17:11:10",
   "data": [
     [
       {
         "title": "Gibraltar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gibraltar",
         "pubdate": "Tue, 16 Jul 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tenacious D",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tenacious%20D",
+        "pubdate": "Tue, 16 Jul 2024 16:00:00 +0200"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Tenacious D",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tenacious%20D",
-        "pubdate": "Tue, 16 Jul 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Niklas Åstedt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Niklas%20%C3%85stedt",
         "pubdate": "Tue, 16 Jul 2024 06:00:00 +0200"
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Linn Svahn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linn%20Svahn",
+        "pubdate": "Tue, 16 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bruce Springsteen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bruce%20Springsteen",
         "pubdate": "Mon, 15 Jul 2024 13:00:00 +0200"
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "J.D. Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#J.D.%20Vance",
+        "title": "JD Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JD%20Vance",
         "pubdate": "Mon, 15 Jul 2024 21:00:00 +0200"
       }
     ],
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "AIK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
-        "pubdate": "Mon, 15 Jul 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Argentina",
         "pubdate": "Mon, 15 Jul 2024 00:00:00 +0200"
@@ -94,16 +94,23 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
-        "pubdate": "Mon, 15 Jul 2024 13:00:00 +0200"
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nadal",
+        "pubdate": "Mon, 15 Jul 2024 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nadal",
-        "pubdate": "Mon, 15 Jul 2024 09:00:00 +0200"
+        "title": "AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK",
+        "pubdate": "Mon, 15 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+        "pubdate": "Mon, 15 Jul 2024 13:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "OS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#OS",
         "pubdate": "Mon, 15 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sport",
-        "pubdate": "Mon, 15 Jul 2024 11:00:00 +0200"
       }
     ]
   ]
