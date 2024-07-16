@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-07-2024 , 07:45:45",
+  "lastUpdate": "16-07-2024 , 08:16:32",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Copa America",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Copa%20America",
+        "pubdate": "Mon, 15 Jul 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fussball EM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Fussball%20EM",
         "pubdate": "Mon, 15 Jul 2024 03:00:00 +0200"
@@ -27,20 +34,6 @@
         "title": "Amazon Prime Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Day",
         "pubdate": "Mon, 15 Jul 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Olympia 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olympia%202024",
-        "pubdate": "Mon, 15 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Messi",
-        "pubdate": "Mon, 15 Jul 2024 07:00:00 +0200"
       }
     ],
     [
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "Lamine Yamal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lamine%20Yamal",
-        "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "J.D. Vance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J.D.%20Vance",
         "pubdate": "Sun, 14 Jul 2024 11:00:00 +0200"
@@ -90,6 +76,13 @@
         "title": "Spanien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Spanien",
         "pubdate": "Sun, 14 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nachrichten aktuell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nachrichten%20aktuell",
+        "pubdate": "Sun, 14 Jul 2024 15:00:00 +0200"
       }
     ],
     [
@@ -108,23 +101,9 @@
     ],
     [
       {
-        "title": "England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#England",
-        "pubdate": "Sun, 14 Jul 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Madame Web",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Madame%20Web",
         "pubdate": "Sun, 14 Jul 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tennis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tennis",
-        "pubdate": "Sun, 14 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Pogacar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pogacar",
         "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alwara Höfels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alwara%20H%C3%B6fels",
+        "pubdate": "Sat, 13 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Unwetter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter",
+        "pubdate": "Sat, 13 Jul 2024 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biden",
+        "pubdate": "Fri, 12 Jul 2024 11:00:00 +0200"
       }
     ]
   ]
