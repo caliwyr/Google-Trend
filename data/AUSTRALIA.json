@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-07-2024 , 22:48:50",
+  "lastUpdate": "16-07-2024 , 22:58:04",
   "data": [
     [
       {
         "title": "Bronny James",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bronny%20James",
         "pubdate": "Wed, 17 Jul 2024 01:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "MH17",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MH17",
+        "pubdate": "Wed, 17 Jul 2024 08:00:00 +1000"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "JD Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#JD%20Vance",
+        "title": "J.D. Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#J.D.%20Vance",
         "pubdate": "Tue, 16 Jul 2024 06:00:00 +1000"
       }
     ],
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Australia vs USA Basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20vs%20USA%20Basketball",
-        "pubdate": "Tue, 16 Jul 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Amber Rose",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Amber%20Rose",
         "pubdate": "Tue, 16 Jul 2024 14:00:00 +1000"
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Boomers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Boomers",
+        "pubdate": "Tue, 16 Jul 2024 08:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Mbappe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mbappe",
         "pubdate": "Tue, 16 Jul 2024 22:00:00 +1000"
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Millaa Millaa Falls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Millaa%20Millaa%20Falls",
-        "pubdate": "Tue, 16 Jul 2024 17:00:00 +1000"
+        "title": "Natalie Portman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Natalie%20Portman",
+        "pubdate": "Tue, 16 Jul 2024 20:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Natalie Portman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Natalie%20Portman",
-        "pubdate": "Tue, 16 Jul 2024 20:00:00 +1000"
+        "title": "Millaa Millaa Falls",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Millaa%20Millaa%20Falls",
+        "pubdate": "Tue, 16 Jul 2024 17:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Copa America",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Copa%20America",
         "pubdate": "Mon, 15 Jul 2024 07:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Euros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Euros",
-        "pubdate": "Mon, 15 Jul 2024 10:00:00 +1000"
       }
     ]
   ]
