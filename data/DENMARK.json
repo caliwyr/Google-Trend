@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-07-2024 , 18:54:27",
+  "lastUpdate": "16-07-2024 , 19:10:17",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Leo Borg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leo%20Borg",
         "pubdate": "Tue, 16 Jul 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
+        "pubdate": "Tue, 16 Jul 2024 15:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Ingrid Andress",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ingrid%20Andress",
         "pubdate": "Tue, 16 Jul 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bianca Censori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bianca%20Censori",
-        "pubdate": "Tue, 16 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "ADHD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ADHD",
-        "pubdate": "Mon, 15 Jul 2024 20:00:00 +0200"
+        "title": "OL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#OL",
+        "pubdate": "Mon, 15 Jul 2024 14:00:00 +0200"
       }
     ]
   ]
