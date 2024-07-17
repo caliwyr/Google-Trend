@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "17-07-2024 , 15:40:12",
+  "lastUpdate": "17-07-2024 , 15:49:27",
   "data": [
-    [
-      {
-        "title": "Amazon Prime Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Day",
-        "pubdate": "Wed, 17 Jul 2024 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor%20Swift",
+        "pubdate": "Wed, 17 Jul 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Amazon Prime Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Day",
         "pubdate": "Wed, 17 Jul 2024 10:00:00 +0200"
       }
     ],
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "El Hotzo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Hotzo",
-        "pubdate": "Tue, 16 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "DJ Tomcraft",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DJ%20Tomcraft",
         "pubdate": "Tue, 16 Jul 2024 18:00:00 +0200"
@@ -48,6 +41,13 @@
         "title": "Compact",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Compact",
         "pubdate": "Tue, 16 Jul 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "El Hotzo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#El%20Hotzo",
+        "pubdate": "Tue, 16 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -66,22 +66,8 @@
     ],
     [
       {
-        "title": "DFB-Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
-        "pubdate": "Tue, 16 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Roberta Metsola",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Roberta%20Metsola",
-        "pubdate": "Tue, 16 Jul 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Von der Leyen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Von%20der%20Leyen",
         "pubdate": "Tue, 16 Jul 2024 17:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Doherty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Doherty",
         "pubdate": "Sun, 14 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ralf Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ralf%20Schumacher",
+        "pubdate": "Sun, 14 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Prinzessin Kate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prinzessin%20Kate",
+        "pubdate": "Sat, 13 Jul 2024 00:00:00 +0200"
       }
     ]
   ]

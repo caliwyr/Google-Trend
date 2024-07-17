@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-07-2024 , 15:40:15",
+  "lastUpdate": "17-07-2024 , 15:49:30",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sevilla",
-        "pubdate": "Tue, 16 Jul 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rosenborg vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rosenborg%20vs%20Man%20United",
         "pubdate": "Mon, 15 Jul 2024 17:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Saka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Saka",
         "pubdate": "Mon, 15 Jul 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Movies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Movies",
+        "pubdate": "Mon, 15 Jul 2024 10:00:00 +0100"
       }
     ]
   ]
