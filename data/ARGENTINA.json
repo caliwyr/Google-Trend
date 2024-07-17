@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-07-2024 , 10:45:47",
+  "lastUpdate": "17-07-2024 , 10:55:01",
   "data": [
     [
       {
         "title": "Estudiantes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Estudiantes",
         "pubdate": "Wed, 17 Jul 2024 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Instituto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Instituto",
+        "pubdate": "Wed, 17 Jul 2024 07:00:00 -0300"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Fantino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fantino",
+        "pubdate": "Tue, 16 Jul 2024 10:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Diego Kravetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Diego%20Kravetz",
         "pubdate": "Tue, 16 Jul 2024 17:00:00 -0300"
@@ -62,13 +76,6 @@
         "title": "Survivor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Survivor",
         "pubdate": "Tue, 16 Jul 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Tronco Neura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tronco%20Neura",
-        "pubdate": "Tue, 16 Jul 2024 10:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "UOM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#UOM",
         "pubdate": "Tue, 16 Jul 2024 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "La Rural",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Rural",
-        "pubdate": "Tue, 16 Jul 2024 15:00:00 -0300"
       }
     ]
   ]
