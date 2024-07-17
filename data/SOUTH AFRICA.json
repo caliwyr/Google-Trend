@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "17-07-2024 , 16:40:57",
+  "lastUpdate": "17-07-2024 , 16:50:11",
   "data": [
-    [
-      {
-        "title": "Jack Black",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jack%20Black",
-        "pubdate": "Wed, 17 Jul 2024 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Enzo Fernandez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Enzo%20Fernandez",
         "pubdate": "Wed, 17 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jack Black",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jack%20Black",
+        "pubdate": "Wed, 17 Jul 2024 07:00:00 +0200"
       }
     ],
     [
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mbappe",
-        "pubdate": "Tue, 16 Jul 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sundowns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
         "pubdate": "Tue, 16 Jul 2024 19:00:00 +0200"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Plane crash in Pretoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Plane%20crash%20in%20Pretoria",
-        "pubdate": "Tue, 16 Jul 2024 08:00:00 +0200"
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mbappe",
+        "pubdate": "Tue, 16 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -59,16 +52,9 @@
     ],
     [
       {
-        "title": "Mamelodi Sundowns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mamelodi%20Sundowns",
-        "pubdate": "Tue, 16 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rafael%20Nadal",
-        "pubdate": "Tue, 16 Jul 2024 18:00:00 +0200"
+        "title": "Plane crash in Pretoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Plane%20crash%20in%20Pretoria",
+        "pubdate": "Tue, 16 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -76,6 +62,13 @@
         "title": "Al Ahly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Ahly",
         "pubdate": "Tue, 16 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Rafael%20Nadal",
+        "pubdate": "Tue, 16 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -122,8 +115,8 @@
     ],
     [
       {
-        "title": "J.D. Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#J.D.%20Vance",
+        "title": "JD Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#JD%20Vance",
         "pubdate": "Mon, 15 Jul 2024 22:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Ralf Schumacher F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ralf%20Schumacher%20F1",
         "pubdate": "Mon, 15 Jul 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tshifhiwa Matodzi VBS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Tshifhiwa%20Matodzi%20VBS",
+        "pubdate": "Mon, 15 Jul 2024 03:00:00 +0200"
       }
     ]
   ]
