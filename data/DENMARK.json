@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-07-2024 , 23:52:06",
+  "lastUpdate": "17-07-2024 , 00:36:26",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
-        "pubdate": "Tue, 16 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ingrid Andress",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ingrid%20Andress",
         "pubdate": "Tue, 16 Jul 2024 14:00:00 +0200"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
+        "pubdate": "Tue, 16 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gareth Southgate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gareth%20Southgate",
         "pubdate": "Tue, 16 Jul 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kurt Iswarienko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kurt%20Iswarienko",
+        "pubdate": "Tue, 16 Jul 2024 07:00:00 +0200"
       }
     ],
     [
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Rosenborg  Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rosenborg%20%20Man%20utd",
+        "title": "Rosenborg  Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rosenborg%20%20Man%20Utd",
         "pubdate": "Mon, 15 Jul 2024 18:00:00 +0200"
       }
     ],
@@ -108,8 +115,8 @@
     ],
     [
       {
-        "title": "Manchester united",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20united",
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20United",
         "pubdate": "Mon, 15 Jul 2024 19:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Wirex",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wirex",
         "pubdate": "Mon, 15 Jul 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Burberry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Burberry",
-        "pubdate": "Mon, 15 Jul 2024 14:00:00 +0200"
       }
     ]
   ]
