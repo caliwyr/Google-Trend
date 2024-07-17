@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-07-2024 , 23:49:35",
+  "lastUpdate": "17-07-2024 , 23:58:50",
   "data": [
     [
       {
         "title": "Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris",
         "pubdate": "Thu, 18 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC 25",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FC%2025",
+        "pubdate": "Thu, 18 Jul 2024 01:00:00 +0200"
       }
     ],
     [
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "Nonce Paolini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nonce%20Paolini",
-        "pubdate": "Wed, 17 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Twisters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Twisters",
         "pubdate": "Wed, 17 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "France Japon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Japon",
-        "pubdate": "Wed, 17 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "The Acolyte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#The%20Acolyte",
         "pubdate": "Wed, 17 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "France - Japon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20-%20Japon",
+        "pubdate": "Wed, 17 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -101,16 +101,16 @@
     ],
     [
       {
-        "title": "Tony Delsham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tony%20Delsham",
-        "pubdate": "Wed, 17 Jul 2024 21:00:00 +0200"
+        "title": "Leny Yoro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Leny%20Yoro",
+        "pubdate": "Wed, 17 Jul 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Leny Yoro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Leny%20Yoro",
-        "pubdate": "Wed, 17 Jul 2024 19:00:00 +0200"
+        "title": "Tony Delsham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tony%20Delsham",
+        "pubdate": "Wed, 17 Jul 2024 21:00:00 +0200"
       }
     ],
     [
