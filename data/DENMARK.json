@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-07-2024 , 09:39:23",
+  "lastUpdate": "18-07-2024 , 09:48:54",
   "data": [
+    [
+      {
+        "title": "The Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Open",
+        "pubdate": "Thu, 18 Jul 2024 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Jada",
@@ -13,13 +20,6 @@
         "title": "Corona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Corona",
         "pubdate": "Thu, 18 Jul 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Open",
-        "pubdate": "Thu, 18 Jul 2024 09:00:00 +0200"
       }
     ],
     [
@@ -47,13 +47,6 @@
       {
         "title": "Ursula von der Leyen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ursula%20von%20der%20Leyen",
-        "pubdate": "Wed, 17 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Celine%20Dion",
         "pubdate": "Wed, 17 Jul 2024 22:00:00 +0200"
       }
     ],
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Enzo Fernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Enzo%20Fernandez",
-        "pubdate": "Wed, 17 Jul 2024 10:00:00 +0200"
+        "title": "IShowSpeed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#IShowSpeed",
+        "pubdate": "Wed, 17 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "IShowSpeed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#IShowSpeed",
-        "pubdate": "Wed, 17 Jul 2024 22:00:00 +0200"
+        "title": "Enzo Fernandez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Enzo%20Fernandez",
+        "pubdate": "Wed, 17 Jul 2024 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Simone Biles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Simone%20Biles",
         "pubdate": "Wed, 17 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ASML stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ASML%20stock",
+        "pubdate": "Wed, 17 Jul 2024 15:00:00 +0200"
       }
     ]
   ]
