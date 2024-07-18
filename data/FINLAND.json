@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-07-2024 , 04:41:29",
+  "lastUpdate": "18-07-2024 , 04:50:41",
   "data": [
     [
       {
@@ -47,6 +47,13 @@
       {
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Celine%20Dion",
+        "pubdate": "Wed, 17 Jul 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Yandex",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yandex",
         "pubdate": "Wed, 17 Jul 2024 22:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Longlegs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Longlegs",
         "pubdate": "Tue, 16 Jul 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "FlixBus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FlixBus",
-        "pubdate": "Tue, 16 Jul 2024 11:00:00 +0300"
       }
     ]
   ]
