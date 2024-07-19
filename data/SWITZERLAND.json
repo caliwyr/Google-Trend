@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-07-2024 , 12:38:40",
+  "lastUpdate": "19-07-2024 , 12:58:30",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Tom Cruise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tom%20Cruise",
+        "pubdate": "Fri, 19 Jul 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Katie Price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Katie%20Price",
         "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Barcelonnette",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelonnette",
-        "pubdate": "Thu, 18 Jul 2024 16:00:00 +0200"
+        "title": "Raye",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Raye",
+        "pubdate": "Thu, 18 Jul 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Raye",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Raye",
-        "pubdate": "Thu, 18 Jul 2024 21:00:00 +0200"
+        "title": "Barcelonnette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelonnette",
+        "pubdate": "Thu, 18 Jul 2024 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Samuel Theis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Samuel%20Theis",
         "pubdate": "Thu, 18 Jul 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Open",
-        "pubdate": "Thu, 18 Jul 2024 15:00:00 +0200"
       }
     ]
   ]
