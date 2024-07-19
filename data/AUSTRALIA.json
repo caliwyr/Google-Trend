@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "19-07-2024 , 17:38:33",
+  "lastUpdate": "19-07-2024 , 17:47:55",
   "data": [
     [
       {
-        "title": "Latest News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Latest%20News",
+        "title": "Latest news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Latest%20news",
         "pubdate": "Sat, 20 Jul 2024 01:00:00 +1000"
       }
     ],
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Reds vs Wales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Reds%20vs%20Wales",
-        "pubdate": "Fri, 19 Jul 2024 19:00:00 +1000"
+        "title": "Leeds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leeds",
+        "pubdate": "Fri, 19 Jul 2024 18:00:00 +1000"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rafael%20Nadal",
+        "pubdate": "Fri, 19 Jul 2024 11:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Mark Wahlberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mark%20Wahlberg",
         "pubdate": "Fri, 19 Jul 2024 12:00:00 +1000"
@@ -132,13 +139,6 @@
         "title": "Trump speech",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trump%20speech",
         "pubdate": "Fri, 19 Jul 2024 15:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Barron Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barron%20Trump",
-        "pubdate": "Fri, 19 Jul 2024 14:00:00 +1000"
       }
     ]
   ]
