@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-07-2024 , 19:40:25",
+  "lastUpdate": "19-07-2024 , 19:49:48",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Bob Newhart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bob%20Newhart",
         "pubdate": "Fri, 19 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BER",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BER",
-        "pubdate": "Fri, 19 Jul 2024 10:00:00 +0200"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
-        "pubdate": "Thu, 18 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Taylor%20Swift",
         "pubdate": "Wed, 17 Jul 2024 01:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Amazon Prime Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Prime%20Day",
         "pubdate": "Mon, 15 Jul 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Olympia 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olympia%202024",
+        "pubdate": "Mon, 15 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Prime Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prime%20Day",
+        "pubdate": "Mon, 15 Jul 2024 09:00:00 +0200"
       }
     ]
   ]
