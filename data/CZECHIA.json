@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-07-2024 , 06:42:02",
+  "lastUpdate": "19-07-2024 , 06:51:31",
   "data": [
-    [
-      {
-        "title": "Olympijské hry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Olympijsk%C3%A9%20hry",
-        "pubdate": "Fri, 19 Jul 2024 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bob Newhart",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Diana Mórová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Diana%20M%C3%B3rov%C3%A1",
-        "pubdate": "Thu, 18 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pančavský vodopád",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pan%C4%8Davsk%C3%BD%20vodop%C3%A1d",
         "pubdate": "Thu, 18 Jul 2024 09:00:00 +0200"
@@ -52,9 +38,9 @@
     ],
     [
       {
-        "title": "Developer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Developer",
-        "pubdate": "Thu, 18 Jul 2024 18:00:00 +0200"
+        "title": "Vinnetou - Rudý gentleman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vinnetou%20-%20Rud%C3%BD%20gentleman",
+        "pubdate": "Thu, 18 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -62,6 +48,13 @@
         "title": "Beetlejuice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Beetlejuice",
         "pubdate": "Thu, 18 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Developer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Developer",
+        "pubdate": "Thu, 18 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Dukovany",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dukovany",
-        "pubdate": "Wed, 17 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zahradnikuv rok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zahradnikuv%20rok",
         "pubdate": "Wed, 17 Jul 2024 21:00:00 +0200"
@@ -101,8 +87,15 @@
     ],
     [
       {
-        "title": "Dánsko-švédský farmářský pes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#D%C3%A1nsko-%C5%A1v%C3%A9dsk%C3%BD%20farm%C3%A1%C5%99sk%C3%BD%20pes",
+        "title": "Dukovany",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dukovany",
+        "pubdate": "Wed, 17 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Carapaz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Carapaz",
         "pubdate": "Wed, 17 Jul 2024 21:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Radar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radar",
         "pubdate": "Tue, 16 Jul 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Martin Fenin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Fenin",
+        "pubdate": "Tue, 16 Jul 2024 16:00:00 +0200"
       }
     ]
   ]
