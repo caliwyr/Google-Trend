@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-07-2024 , 13:39:30",
+  "lastUpdate": "19-07-2024 , 13:48:56",
   "data": [
     [
       {
         "title": "Microsoft",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Microsoft",
         "pubdate": "Fri, 19 Jul 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Col de la Bonette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Col%20de%20la%20Bonette",
+        "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
       }
     ],
     [
@@ -17,20 +24,6 @@
     ],
     [
       {
-        "title": "Isola 2000",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isola%202000",
-        "pubdate": "Fri, 19 Jul 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Boys saison 4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#The%20Boys%20saison%204",
-        "pubdate": "Fri, 19 Jul 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Zverev",
         "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Composition Assemblée nationale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Composition%20Assembl%C3%A9e%20nationale",
-        "pubdate": "Fri, 19 Jul 2024 11:00:00 +0200"
+        "title": "The Boys saison 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#The%20Boys%20saison%204",
+        "pubdate": "Fri, 19 Jul 2024 02:00:00 +0200"
       }
     ],
     [
@@ -101,16 +94,16 @@
     ],
     [
       {
-        "title": "Victor Campenaerts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Victor%20Campenaerts",
-        "pubdate": "Thu, 18 Jul 2024 18:00:00 +0200"
+        "title": "Rafael Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rafael%20Nadal",
+        "pubdate": "Thu, 18 Jul 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Rafael Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rafael%20Nadal",
-        "pubdate": "Thu, 18 Jul 2024 20:00:00 +0200"
+        "title": "Victor Campenaerts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Victor%20Campenaerts",
+        "pubdate": "Thu, 18 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Préfet du Tarn, Michel Vilbois",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pr%C3%A9fet%20du%20Tarn,%20Michel%20Vilbois",
-        "pubdate": "Thu, 18 Jul 2024 19:00:00 +0200"
+        "title": "Rabiot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rabiot",
+        "pubdate": "Thu, 18 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wilfried Happio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Wilfried%20Happio",
+        "pubdate": "Thu, 18 Jul 2024 15:00:00 +0200"
       }
     ]
   ]
