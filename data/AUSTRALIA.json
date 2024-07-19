@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-07-2024 , 23:38:52",
+  "lastUpdate": "19-07-2024 , 23:48:07",
   "data": [
     [
       {
         "title": "Latest news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Latest%20news",
         "pubdate": "Sat, 20 Jul 2024 01:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Clint Eastwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Clint%20Eastwood",
+        "pubdate": "Sat, 20 Jul 2024 09:00:00 +1000"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Tel Aviv",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tel%20Aviv",
-        "pubdate": "Sat, 20 Jul 2024 01:00:00 +1000"
+        "title": "Canberra Raiders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Canberra%20Raiders",
+        "pubdate": "Sat, 20 Jul 2024 08:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Canberra Raiders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Canberra%20Raiders",
-        "pubdate": "Sat, 20 Jul 2024 08:00:00 +1000"
+        "title": "Tel Aviv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tel%20Aviv",
+        "pubdate": "Sat, 20 Jul 2024 01:00:00 +1000"
       }
     ],
     [
@@ -52,23 +59,9 @@
     ],
     [
       {
-        "title": "Abc news/australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Abc%20news/australia",
-        "pubdate": "Fri, 19 Jul 2024 22:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "ABC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC",
         "pubdate": "Fri, 19 Jul 2024 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "News headlines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#News%20headlines",
-        "pubdate": "Fri, 19 Jul 2024 20:00:00 +1000"
       }
     ],
     [
@@ -87,16 +80,23 @@
     ],
     [
       {
-        "title": "Reds vs Wales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Reds%20vs%20Wales",
-        "pubdate": "Fri, 19 Jul 2024 19:00:00 +1000"
+        "title": "Darcy Moore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Darcy%20Moore",
+        "pubdate": "Fri, 19 Jul 2024 22:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Darcy Moore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Darcy%20Moore",
-        "pubdate": "Fri, 19 Jul 2024 22:00:00 +1000"
+        "title": "News Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#News%20Australia",
+        "pubdate": "Fri, 19 Jul 2024 23:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Reds vs Wales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Reds%20vs%20Wales",
+        "pubdate": "Fri, 19 Jul 2024 19:00:00 +1000"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Abc news Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Abc%20news%20Australia",
+        "pubdate": "Fri, 19 Jul 2024 22:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Melania Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melania%20Trump",
         "pubdate": "Fri, 19 Jul 2024 13:00:00 +1000"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Tiger Woods",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tiger%20Woods",
+        "pubdate": "Fri, 19 Jul 2024 04:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Those About to Die",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Those%20About%20to%20Die",
         "pubdate": "Fri, 19 Jul 2024 13:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Breaking News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Breaking%20News",
-        "pubdate": "Fri, 19 Jul 2024 18:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Leeds riots",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Leeds%20riots",
-        "pubdate": "Fri, 19 Jul 2024 18:00:00 +1000"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-07-2024 , 23:38:53",
+  "lastUpdate": "19-07-2024 , 23:48:07",
   "data": [
+    [
+      {
+        "title": "Parookaville",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Parookaville",
+        "pubdate": "Sat, 20 Jul 2024 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Crowdstrike",
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Böhmermann Imker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%B6hmermann%20Imker",
-        "pubdate": "Fri, 19 Jul 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wanda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wanda",
         "pubdate": "Fri, 19 Jul 2024 17:00:00 +0200"
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "Internet Ausfall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Internet%20Ausfall",
-        "pubdate": "Fri, 19 Jul 2024 16:00:00 +0200"
+        "title": "Böhmermann Imker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%B6hmermann%20Imker",
+        "pubdate": "Fri, 19 Jul 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Flughafen München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Flughafen%20M%C3%BCnchen",
+        "pubdate": "Fri, 19 Jul 2024 12:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Evan Gershkovich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Evan%20Gershkovich",
+        "pubdate": "Fri, 19 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Freischütz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Freisch%C3%BCtz",
         "pubdate": "Fri, 19 Jul 2024 22:00:00 +0200"
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Evan Gershkovich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Evan%20Gershkovich",
-        "pubdate": "Fri, 19 Jul 2024 18:00:00 +0200"
+        "title": "Internet Ausfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Internet%20Ausfall",
+        "pubdate": "Fri, 19 Jul 2024 16:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Salzburger Festspiele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Salzburger%20Festspiele",
         "pubdate": "Fri, 19 Jul 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jedermann",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jedermann",
-        "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tom Holland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tom%20Holland",
-        "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
       }
     ]
   ]

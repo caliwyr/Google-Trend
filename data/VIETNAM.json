@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-07-2024 , 23:39:03",
+  "lastUpdate": "19-07-2024 , 23:48:17",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "VTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#VTV",
+        "pubdate": "Fri, 19 Jul 2024 19:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "CrowdStrike",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#CrowdStrike",
         "pubdate": "Fri, 19 Jul 2024 15:00:00 +0700"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Ugarte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ugarte",
-        "pubdate": "Fri, 19 Jul 2024 09:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Thời sự",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%E1%BB%9Di%20s%E1%BB%B1",
         "pubdate": "Fri, 19 Jul 2024 18:00:00 +0700"
@@ -90,6 +90,13 @@
         "title": "Bác Hồ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%A1c%20H%E1%BB%93",
         "pubdate": "Fri, 19 Jul 2024 20:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ugarte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ugarte",
+        "pubdate": "Fri, 19 Jul 2024 09:00:00 +0700"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "To lam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#To%20lam",
-        "pubdate": "Fri, 19 Jul 2024 19:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Tin mới",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tin%20m%E1%BB%9Bi",
         "pubdate": "Fri, 19 Jul 2024 19:00:00 +0700"
       }
     ]
