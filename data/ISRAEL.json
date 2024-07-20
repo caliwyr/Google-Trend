@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 09:38:52",
+  "lastUpdate": "20-07-2024 , 09:48:03",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Fox news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Fox%20news",
-        "pubdate": "Fri, 19 Jul 2024 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "שגיב יחזקאל",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%A9%D7%92%D7%99%D7%91%20%D7%99%D7%97%D7%96%D7%A7%D7%90%D7%9C",
         "pubdate": "Fri, 19 Jul 2024 19:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#Biden",
         "pubdate": "Thu, 18 Jul 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "אמדוקס",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IL#%D7%90%D7%9E%D7%93%D7%95%D7%A7%D7%A1",
+        "pubdate": "Thu, 18 Jul 2024 18:00:00 +0300"
       }
     ]
   ]

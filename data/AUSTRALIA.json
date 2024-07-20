@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "20-07-2024 , 09:38:47",
+  "lastUpdate": "20-07-2024 , 09:47:58",
   "data": [
     [
       {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1",
         "pubdate": "Sat, 20 Jul 2024 17:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "All Blacks vs Fiji",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#All%20Blacks%20vs%20Fiji",
-        "pubdate": "Sat, 20 Jul 2024 12:00:00 +1000"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "All Blacks vs Fiji",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#All%20Blacks%20vs%20Fiji",
+        "pubdate": "Sat, 20 Jul 2024 12:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Clint Eastwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Clint%20Eastwood",
         "pubdate": "Sat, 20 Jul 2024 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Collingwood vs hawthorn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Collingwood%20vs%20hawthorn",
+        "pubdate": "Sat, 20 Jul 2024 17:00:00 +1000"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Latest news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Latest%20news",
         "pubdate": "Sat, 20 Jul 2024 01:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Armie Hammer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Armie%20Hammer",
+        "pubdate": "Sat, 20 Jul 2024 12:00:00 +1000"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Darcy Moore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Darcy%20Moore",
-        "pubdate": "Fri, 19 Jul 2024 22:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "ABC NEWS Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC%20NEWS%20Australia",
         "pubdate": "Fri, 19 Jul 2024 22:00:00 +1000"
@@ -131,13 +138,6 @@
       {
         "title": "ABC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC",
-        "pubdate": "Fri, 19 Jul 2024 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Essendon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Essendon",
         "pubdate": "Fri, 19 Jul 2024 21:00:00 +1000"
       }
     ]
