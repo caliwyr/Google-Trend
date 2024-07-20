@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 10:42:42",
+  "lastUpdate": "20-07-2024 , 10:51:54",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Verb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Verb",
+        "pubdate": "Fri, 19 Jul 2024 11:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Zane Phillips",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Zane%20Phillips",
         "pubdate": "Fri, 19 Jul 2024 10:00:00 +0800"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Dogs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dogs",
-        "pubdate": "Fri, 19 Jul 2024 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Beetlejuice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Beetlejuice",
-        "pubdate": "Fri, 19 Jul 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Dubai Princess Sheikha Mahra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dubai%20Princess%20Sheikha%20Mahra",
         "pubdate": "Fri, 19 Jul 2024 04:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Dogs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Dogs",
+        "pubdate": "Fri, 19 Jul 2024 10:00:00 +0800"
       }
     ]
   ]
