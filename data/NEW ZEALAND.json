@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 02:37:25",
+  "lastUpdate": "20-07-2024 , 02:49:16",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Leeds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Leeds",
+        "title": "Leeds riots",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Leeds%20riots",
         "pubdate": "Sat, 20 Jul 2024 09:00:00 +1200"
       }
     ],
@@ -62,13 +62,6 @@
         "title": "Bob Newhart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bob%20Newhart",
         "pubdate": "Fri, 19 Jul 2024 10:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "ASB Bank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ASB%20Bank",
-        "pubdate": "Fri, 19 Jul 2024 20:00:00 +1200"
       }
     ],
     [
@@ -129,8 +122,8 @@
     ],
     [
       {
-        "title": "Breaking news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Breaking%20news",
+        "title": "Breaking News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Breaking%20News",
         "pubdate": "Fri, 19 Jul 2024 21:00:00 +1200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "PGA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PGA",
         "pubdate": "Fri, 19 Jul 2024 08:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Cobra Kai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cobra%20Kai",
+        "pubdate": "Fri, 19 Jul 2024 15:00:00 +1200"
       }
     ]
   ]
