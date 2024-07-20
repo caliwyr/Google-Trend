@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 04:41:33",
+  "lastUpdate": "20-07-2024 , 04:50:48",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Azure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Azure",
+        "pubdate": "Fri, 19 Jul 2024 18:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Rafael Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rafael%20Nadal",
         "pubdate": "Fri, 19 Jul 2024 08:00:00 +0800"
@@ -62,13 +69,6 @@
         "title": "Nguyen Phu Trong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nguyen%20Phu%20Trong",
         "pubdate": "Fri, 19 Jul 2024 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Azure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Azure",
-        "pubdate": "Fri, 19 Jul 2024 18:00:00 +0800"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Phase 2A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Phase%202A",
-        "pubdate": "Thu, 18 Jul 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "TSMC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#TSMC",
         "pubdate": "Thu, 18 Jul 2024 00:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tottenham",
         "pubdate": "Thu, 18 Jul 2024 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "The Acolyte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Acolyte",
+        "pubdate": "Thu, 18 Jul 2024 00:00:00 +0800"
       }
     ]
   ]
