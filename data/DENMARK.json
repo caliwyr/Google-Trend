@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "20-07-2024 , 17:44:02",
+  "lastUpdate": "20-07-2024 , 17:53:18",
   "data": [
-    [
-      {
-        "title": "BBC news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC%20news",
-        "pubdate": "Sat, 20 Jul 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vingegaard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vingegaard",
-        "pubdate": "Sat, 20 Jul 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Rangers  Man utd",
@@ -27,6 +13,13 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
         "pubdate": "Sat, 20 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BBC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC%20news",
+        "pubdate": "Sat, 20 Jul 2024 04:00:00 +0200"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "QPR Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#QPR%20Tottenham",
+        "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sandra Hemme",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sandra%20Hemme",
         "pubdate": "Sat, 20 Jul 2024 10:00:00 +0200"
@@ -55,13 +55,6 @@
         "title": "Paddleboard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Paddleboard",
         "pubdate": "Sat, 20 Jul 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "QPR  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#QPR%20%20Tottenham",
-        "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -101,16 +94,16 @@
     ],
     [
       {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clint%20Eastwood",
-        "pubdate": "Fri, 19 Jul 2024 22:00:00 +0200"
+        "title": "Microsoft stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Microsoft%20stock",
+        "pubdate": "Fri, 19 Jul 2024 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Microsoft stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Microsoft%20stock",
-        "pubdate": "Fri, 19 Jul 2024 11:00:00 +0200"
+        "title": "Clint Eastwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clint%20Eastwood",
+        "pubdate": "Fri, 19 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -125,6 +118,13 @@
         "title": "Hulk Hogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hulk%20Hogan",
         "pubdate": "Fri, 19 Jul 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zane Phillips",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zane%20Phillips",
+        "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
       }
     ],
     [
