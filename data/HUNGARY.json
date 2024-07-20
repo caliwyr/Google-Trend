@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 08:40:13",
+  "lastUpdate": "20-07-2024 , 08:49:36",
   "data": [
     [
       {
@@ -54,21 +54,7 @@
       {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1",
-        "pubdate": "Fri, 19 Jul 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1 Magyar Nagydíj",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1%20Magyar%20Nagyd%C3%ADj",
         "pubdate": "Fri, 19 Jul 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Niki Belucci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Niki%20Belucci",
-        "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
       }
     ],
     [
@@ -80,9 +66,16 @@
     ],
     [
       {
-        "title": "M4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
-        "pubdate": "Fri, 19 Jul 2024 15:00:00 +0200"
+        "title": "Niki Belucci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Niki%20Belucci",
+        "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ábrahám Róbert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81brah%C3%A1m%20R%C3%B3bert",
+        "pubdate": "Fri, 19 Jul 2024 19:00:00 +0200"
       }
     ],
     [
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Giorgia Meloni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Giorgia%20Meloni",
-        "pubdate": "Fri, 19 Jul 2024 01:00:00 +0200"
+        "title": "M4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M4",
+        "pubdate": "Fri, 19 Jul 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ábrahám Róbert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81brah%C3%A1m%20R%C3%B3bert",
-        "pubdate": "Fri, 19 Jul 2024 19:00:00 +0200"
+        "title": "Giorgia Meloni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Giorgia%20Meloni",
+        "pubdate": "Fri, 19 Jul 2024 01:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Pogacar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pogacar",
         "pubdate": "Fri, 19 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ursula von der Leyen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ursula%20von%20der%20Leyen",
+        "pubdate": "Thu, 18 Jul 2024 14:00:00 +0200"
       }
     ]
   ]
