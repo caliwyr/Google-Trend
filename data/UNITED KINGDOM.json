@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "20-07-2024 , 16:42:50",
+  "lastUpdate": "20-07-2024 , 16:52:20",
   "data": [
     [
       {
         "title": "National Lottery",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#National%20Lottery",
         "pubdate": "Sat, 20 Jul 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ray Reardon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ray%20Reardon",
-        "pubdate": "Sat, 20 Jul 2024 13:00:00 +0100"
       }
     ],
     [
@@ -31,6 +24,20 @@
     ],
     [
       {
+        "title": "Ray Reardon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ray%20Reardon",
+        "pubdate": "Sat, 20 Jul 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "QPR vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#QPR%20vs%20Tottenham",
+        "pubdate": "Sat, 20 Jul 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool",
         "pubdate": "Sat, 20 Jul 2024 03:00:00 +0100"
@@ -41,13 +48,6 @@
         "title": "Lotto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lotto",
         "pubdate": "Sat, 20 Jul 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "QPR vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#QPR%20vs%20Tottenham",
-        "pubdate": "Sat, 20 Jul 2024 15:00:00 +0100"
       }
     ],
     [
@@ -80,29 +80,8 @@
     ],
     [
       {
-        "title": "F1 qualifying",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#F1%20qualifying",
-        "pubdate": "Sat, 20 Jul 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chido Obi-Martin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chido%20Obi-Martin",
-        "pubdate": "Sat, 20 Jul 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Twister movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Twister%20movie",
-        "pubdate": "Sat, 20 Jul 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liz Truss",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liz%20Truss",
         "pubdate": "Sat, 20 Jul 2024 00:00:00 +0100"
       }
     ],
@@ -115,15 +94,29 @@
     ],
     [
       {
-        "title": "Suella Braverman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Suella%20Braverman",
-        "pubdate": "Sat, 20 Jul 2024 16:00:00 +0100"
+        "title": "Chido Obi-Martin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chido%20Obi-Martin",
+        "pubdate": "Sat, 20 Jul 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liz Truss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liz%20Truss",
+        "pubdate": "Sat, 20 Jul 2024 00:00:00 +0100"
       }
     ],
     [
       {
         "title": "Calafiori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Calafiori",
+        "pubdate": "Sat, 20 Jul 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Suella Braverman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Suella%20Braverman",
         "pubdate": "Sat, 20 Jul 2024 16:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Sky News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sky%20News",
         "pubdate": "Fri, 19 Jul 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#News",
+        "pubdate": "Fri, 19 Jul 2024 13:00:00 +0100"
       }
     ]
   ]
