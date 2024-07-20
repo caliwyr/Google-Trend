@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 12:26:26",
+  "lastUpdate": "20-07-2024 , 12:49:58",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Azure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Azure",
-        "pubdate": "Fri, 19 Jul 2024 18:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Cobra Kai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cobra%20Kai",
         "pubdate": "Fri, 19 Jul 2024 16:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "TSMC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#TSMC",
         "pubdate": "Thu, 18 Jul 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "The Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Open",
+        "pubdate": "Thu, 18 Jul 2024 23:00:00 +0800"
       }
     ]
   ]
