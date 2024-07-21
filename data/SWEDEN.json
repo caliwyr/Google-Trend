@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "21-07-2024 , 23:37:23",
+  "lastUpdate": "21-07-2024 , 23:46:28",
   "data": [
-    [
-      {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joe%20Biden",
-        "pubdate": "Sun, 21 Jul 2024 21:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Kamala Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kamala%20Harris",
         "pubdate": "Sun, 21 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nadal",
-        "pubdate": "Sun, 21 Jul 2024 16:00:00 +0200"
       }
     ],
     [
@@ -31,16 +17,16 @@
     ],
     [
       {
-        "title": "Niklas Ekstedt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Niklas%20Ekstedt",
-        "pubdate": "Sun, 21 Jul 2024 12:00:00 +0200"
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nadal",
+        "pubdate": "Sun, 21 Jul 2024 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Marika Lindström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marika%20Lindstr%C3%B6m",
-        "pubdate": "Sun, 21 Jul 2024 18:00:00 +0200"
+        "title": "Niklas Ekstedt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Niklas%20Ekstedt",
+        "pubdate": "Sun, 21 Jul 2024 12:00:00 +0200"
       }
     ],
     [
@@ -94,9 +80,23 @@
     ],
     [
       {
-        "title": "Superettan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Superettan",
-        "pubdate": "Sat, 20 Jul 2024 16:00:00 +0200"
+        "title": "IFK Göteborg Västerås",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg%20V%C3%A4ster%C3%A5s",
+        "pubdate": "Sun, 21 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kalmar FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalmar%20FF",
+        "pubdate": "Sat, 20 Jul 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marcus Oscarsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marcus%20Oscarsson",
+        "pubdate": "Sat, 20 Jul 2024 11:00:00 +0200"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Hammarby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
         "pubdate": "Sat, 20 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
-        "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
         "pubdate": "Sat, 20 Jul 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Crowdstrike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Crowdstrike",
+        "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
       }
     ]
   ]
