@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2024 , 20:47:46",
+  "lastUpdate": "21-07-2024 , 20:57:03",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Peter Obi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Peter%20Obi",
+        "pubdate": "Sun, 21 Jul 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#MLS",
         "pubdate": "Sun, 21 Jul 2024 07:00:00 +0100"
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Jadon Sancho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jadon%20Sancho",
-        "pubdate": "Sun, 21 Jul 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Deadpool & Wolverine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Deadpool%20%26%20Wolverine",
         "pubdate": "Sun, 21 Jul 2024 17:00:00 +0100"
@@ -52,9 +52,23 @@
     ],
     [
       {
+        "title": "Jadon Sancho",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jadon%20Sancho",
+        "pubdate": "Sun, 21 Jul 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dangote",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dangote",
         "pubdate": "Sun, 21 Jul 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Deadpool & Wolverine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Deadpool%20%26%20Wolverine",
+        "pubdate": "Sun, 21 Jul 2024 01:00:00 +0100"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Calafiori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Calafiori",
-        "pubdate": "Sat, 20 Jul 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Chido Obi-Martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chido%20Obi-Martin",
         "pubdate": "Sat, 20 Jul 2024 00:00:00 +0100"
@@ -97,6 +104,13 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aston%20Villa",
         "pubdate": "Sat, 20 Jul 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Riccardo Calafiori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Riccardo%20Calafiori",
+        "pubdate": "Sat, 20 Jul 2024 16:00:00 +0100"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Gent",
+        "pubdate": "Sat, 20 Jul 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20FC",
         "pubdate": "Sat, 20 Jul 2024 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "CrowdStrike",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#CrowdStrike",
-        "pubdate": "Fri, 19 Jul 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Those About to Die",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Those%20About%20to%20Die",
-        "pubdate": "Fri, 19 Jul 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Evan Gershkovich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Evan%20Gershkovich",
-        "pubdate": "Fri, 19 Jul 2024 21:00:00 +0100"
       }
     ]
   ]

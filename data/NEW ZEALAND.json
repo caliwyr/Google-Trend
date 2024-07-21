@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-07-2024 , 20:47:46",
+  "lastUpdate": "21-07-2024 , 20:57:02",
   "data": [
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joe%20Biden",
+        "pubdate": "Mon, 22 Jul 2024 07:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "F1",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kamala%20Harris",
-        "pubdate": "Mon, 22 Jul 2024 07:00:00 +1200"
+        "title": "Billy Horschel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Billy%20Horschel",
+        "pubdate": "Mon, 22 Jul 2024 00:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Billy Horschel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Billy%20Horschel",
-        "pubdate": "Mon, 22 Jul 2024 00:00:00 +1200"
+        "title": "Cowboys vs Bulldogs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cowboys%20vs%20Bulldogs",
+        "pubdate": "Mon, 22 Jul 2024 08:00:00 +1200"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Orana Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Orana%20Park",
         "pubdate": "Sun, 21 Jul 2024 19:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "South Africa vs Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#South%20Africa%20vs%20Portugal",
+        "pubdate": "Sun, 21 Jul 2024 08:00:00 +1200"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Springboks vs Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Springboks%20vs%20Portugal",
-        "pubdate": "Sun, 21 Jul 2024 12:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "F1 qualifying",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1%20qualifying",
         "pubdate": "Sun, 21 Jul 2024 17:00:00 +1200"
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "All Blacks vs Fiji",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks%20vs%20Fiji",
-        "pubdate": "Sat, 20 Jul 2024 15:00:00 +1200"
+        "title": "All Blacks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks",
+        "pubdate": "Sat, 20 Jul 2024 11:00:00 +1200"
       }
     ],
     [
       {
-        "title": "All Blacks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks",
-        "pubdate": "Sat, 20 Jul 2024 11:00:00 +1200"
+        "title": "All Blacks vs Fiji",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Blacks%20vs%20Fiji",
+        "pubdate": "Sat, 20 Jul 2024 14:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Cortez Ratima",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cortez%20Ratima",
         "pubdate": "Sat, 20 Jul 2024 15:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "News NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#News%20NZ",
-        "pubdate": "Sat, 20 Jul 2024 11:00:00 +1200"
       }
     ]
   ]
