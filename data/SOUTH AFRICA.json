@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2024 , 07:43:41",
+  "lastUpdate": "21-07-2024 , 07:52:56",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Miami",
+        "pubdate": "Sun, 21 Jul 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MLS",
         "pubdate": "Sun, 21 Jul 2024 07:00:00 +0200"
       }
     ],
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Find Me Falling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Find%20Me%20Falling",
-        "pubdate": "Sat, 20 Jul 2024 08:00:00 +0200"
+        "title": "Hardik Pandya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Hardik%20Pandya",
+        "pubdate": "Sat, 20 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -97,6 +104,13 @@
         "title": "Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chiefs",
         "pubdate": "Sat, 20 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Find Me Falling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Find%20Me%20Falling",
+        "pubdate": "Sat, 20 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "CrowdStrike",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#CrowdStrike",
         "pubdate": "Fri, 19 Jul 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Capitec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Capitec",
-        "pubdate": "Fri, 19 Jul 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bob Newhart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bob%20Newhart",
-        "pubdate": "Fri, 19 Jul 2024 07:00:00 +0200"
       }
     ]
   ]
