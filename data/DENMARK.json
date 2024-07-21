@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-07-2024 , 23:58:45",
+  "lastUpdate": "21-07-2024 , 01:38:53",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "BBC News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC%20News",
+        "pubdate": "Sat, 20 Jul 2024 04:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Armie Hammer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Armie%20Hammer",
         "pubdate": "Sat, 20 Jul 2024 09:00:00 +0200"
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "QPR  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#QPR%20%20Tottenham",
-        "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
+        "title": "Nice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nice",
+        "pubdate": "Sat, 20 Jul 2024 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sandra Hemme",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sandra%20Hemme",
-        "pubdate": "Sat, 20 Jul 2024 10:00:00 +0200"
+        "title": "QPR  Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#QPR%20%20Tottenham",
+        "pubdate": "Sat, 20 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Delaney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Delaney",
         "pubdate": "Fri, 19 Jul 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PI",
-        "pubdate": "Fri, 19 Jul 2024 20:00:00 +0200"
       }
     ]
   ]
