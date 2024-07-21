@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-07-2024 , 19:44:35",
+  "lastUpdate": "21-07-2024 , 19:53:56",
   "data": [
+    [
+      {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biden",
+        "pubdate": "Sun, 21 Jul 2024 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Unwetter",
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Formel 1 Ungarn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201%20Ungarn",
+        "title": "Gefragt Gejagt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gefragt%20Gejagt",
         "pubdate": "Sat, 20 Jul 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Gefragt Gejagt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gefragt%20Gejagt",
-        "pubdate": "Sat, 20 Jul 2024 21:00:00 +0200"
+        "title": "Lisa Müller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lisa%20M%C3%BCller",
+        "pubdate": "Sat, 20 Jul 2024 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Prime Day 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Prime%20Day%202024",
         "pubdate": "Mon, 15 Jul 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "WM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#WM",
-        "pubdate": "Mon, 15 Jul 2024 00:00:00 +0200"
       }
     ]
   ]
