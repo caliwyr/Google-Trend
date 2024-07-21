@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2024 , 17:35:59",
+  "lastUpdate": "21-07-2024 , 17:45:12",
   "data": [
     [
       {
@@ -38,9 +38,30 @@
     ],
     [
       {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zverev",
+        "pubdate": "Sun, 21 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jedermann-Premiere 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jedermann-Premiere%202024",
         "pubdate": "Sun, 21 Jul 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ZDF-Fernsehgarten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF-Fernsehgarten",
+        "pubdate": "Sun, 21 Jul 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Reinhold Messner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Reinhold%20Messner",
+        "pubdate": "Sun, 21 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -52,23 +73,9 @@
     ],
     [
       {
-        "title": "Magdalena Lobnig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Magdalena%20Lobnig",
-        "pubdate": "Sun, 21 Jul 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Grundlsee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Grundlsee",
         "pubdate": "Sun, 21 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Reinhold Messner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Reinhold%20Messner",
-        "pubdate": "Sun, 21 Jul 2024 17:00:00 +0200"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Hillary Clinton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hillary%20Clinton",
-        "pubdate": "Sun, 21 Jul 2024 16:00:00 +0200"
+        "title": "Es geschah am hellichten Tag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Es%20geschah%20am%20hellichten%20Tag",
+        "pubdate": "Sun, 21 Jul 2024 19:00:00 +0200"
       }
     ],
     [
@@ -124,7 +131,7 @@
       {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#F1",
-        "pubdate": "Sat, 20 Jul 2024 18:00:00 +0200"
+        "pubdate": "Sat, 20 Jul 2024 08:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Stauffenberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stauffenberg",
         "pubdate": "Sat, 20 Jul 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rapid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
-        "pubdate": "Sat, 20 Jul 2024 15:00:00 +0200"
       }
     ]
   ]
