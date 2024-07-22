@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-07-2024 , 23:55:53",
+  "lastUpdate": "22-07-2024 , 01:07:52",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1",
         "pubdate": "Mon, 22 Jul 2024 06:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Olympics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Olympics",
+        "pubdate": "Mon, 22 Jul 2024 12:00:00 +1200"
       }
     ],
     [
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Hero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hero",
-        "pubdate": "Mon, 22 Jul 2024 10:00:00 +1200"
+        "title": "Slides",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Slides",
+        "pubdate": "Mon, 22 Jul 2024 11:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Slides",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Slides",
-        "pubdate": "Mon, 22 Jul 2024 11:00:00 +1200"
+        "title": "Hero",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hero",
+        "pubdate": "Mon, 22 Jul 2024 10:00:00 +1200"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Word",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Word",
+        "pubdate": "Mon, 22 Jul 2024 12:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Cowboys vs Bulldogs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cowboys%20vs%20Bulldogs",
         "pubdate": "Mon, 22 Jul 2024 08:00:00 +1200"
@@ -76,6 +90,13 @@
         "title": "Hillary Clinton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hillary%20Clinton",
         "pubdate": "Mon, 22 Jul 2024 10:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Gavin Newsom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gavin%20Newsom",
+        "pubdate": "Mon, 22 Jul 2024 12:00:00 +1200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Yemen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Yemen",
         "pubdate": "Sun, 21 Jul 2024 18:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Xi Jinping",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Xi%20Jinping",
-        "pubdate": "Sun, 21 Jul 2024 14:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Springboks vs Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Springboks%20vs%20Portugal",
-        "pubdate": "Sun, 21 Jul 2024 12:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Reece Walsh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Reece%20Walsh",
-        "pubdate": "Sun, 21 Jul 2024 10:00:00 +1200"
       }
     ]
   ]
