@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2024 , 15:50:24",
+  "lastUpdate": "22-07-2024 , 15:59:39",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Breaking news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Breaking%20news",
+        "pubdate": "Mon, 22 Jul 2024 08:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Calgary Stampeders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20Stampeders",
         "pubdate": "Mon, 22 Jul 2024 00:00:00 -0400"
@@ -24,15 +31,15 @@
     ],
     [
       {
-        "title": "Politico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Politico",
+        "title": "Paul Watson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paul%20Watson",
         "pubdate": "Mon, 22 Jul 2024 10:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Paul Watson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paul%20Watson",
+        "title": "Politico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Politico",
         "pubdate": "Mon, 22 Jul 2024 10:00:00 -0400"
       }
     ],
@@ -59,20 +66,6 @@
     ],
     [
       {
-        "title": "Josh Shapiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Josh%20Shapiro",
-        "pubdate": "Sun, 21 Jul 2024 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Mark Kelly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mark%20Kelly",
-        "pubdate": "Sun, 21 Jul 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Gavin Newsom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gavin%20Newsom",
         "pubdate": "Sun, 21 Jul 2024 15:00:00 -0400"
@@ -80,15 +73,22 @@
     ],
     [
       {
-        "title": "Michelle Obama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michelle%20Obama",
+        "title": "Josh Shapiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Josh%20Shapiro",
         "pubdate": "Sun, 21 Jul 2024 16:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Gretchen Whitmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gretchen%20Whitmer",
+        "title": "Kamala Harris Vice President",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kamala%20Harris%20Vice%20President",
+        "pubdate": "Sun, 21 Jul 2024 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Michelle Obama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Michelle%20Obama",
         "pubdate": "Sun, 21 Jul 2024 16:00:00 -0400"
       }
     ],
