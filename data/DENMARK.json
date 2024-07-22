@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2024 , 18:40:51",
+  "lastUpdate": "22-07-2024 , 18:50:21",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20Times",
+        "pubdate": "Mon, 22 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fox News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fox%20News",
         "pubdate": "Mon, 22 Jul 2024 19:00:00 +0200"
@@ -34,6 +41,13 @@
         "title": "Nipah virus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nipah%20virus",
         "pubdate": "Mon, 22 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bill Clinton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bill%20Clinton",
+        "pubdate": "Mon, 22 Jul 2024 11:00:00 +0200"
       }
     ],
     [
@@ -52,16 +66,16 @@
     ],
     [
       {
-        "title": "Evenepoel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Evenepoel",
-        "pubdate": "Sun, 21 Jul 2024 20:00:00 +0200"
+        "title": "Mark Cavendish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mark%20Cavendish",
+        "pubdate": "Sun, 21 Jul 2024 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mark Cavendish",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mark%20Cavendish",
-        "pubdate": "Sun, 21 Jul 2024 15:00:00 +0200"
+        "title": "Nancy Pelosi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nancy%20Pelosi",
+        "pubdate": "Sun, 21 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "Gavin Newsom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gavin%20Newsom",
-        "pubdate": "Sun, 21 Jul 2024 22:00:00 +0200"
+        "title": "Evenepoel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Evenepoel",
+        "pubdate": "Sun, 21 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -96,13 +110,6 @@
       {
         "title": "Michelle Obama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michelle%20Obama",
-        "pubdate": "Sun, 21 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nancy Pelosi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nancy%20Pelosi",
         "pubdate": "Sun, 21 Jul 2024 22:00:00 +0200"
       }
     ],
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "A.D.H.D",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#A.D.H.D",
+        "title": "ADHD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ADHD",
         "pubdate": "Sun, 21 Jul 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bangladesh",
-        "pubdate": "Sun, 21 Jul 2024 09:00:00 +0200"
       }
     ]
   ]
