@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2024 , 01:07:51",
+  "lastUpdate": "22-07-2024 , 02:14:04",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tottenham",
-        "pubdate": "Sat, 20 Jul 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20FC",
         "pubdate": "Sat, 20 Jul 2024 11:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Ruto new cabinet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ruto%20new%20cabinet",
         "pubdate": "Fri, 19 Jul 2024 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "CrowdStrike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#CrowdStrike",
+        "pubdate": "Fri, 19 Jul 2024 11:00:00 +0300"
       }
     ]
   ]

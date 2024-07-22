@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-07-2024 , 01:07:46",
+  "lastUpdate": "22-07-2024 , 02:13:59",
   "data": [
     [
       {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Biden",
         "pubdate": "Mon, 22 Jul 2024 06:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Olympics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Olympics",
+        "pubdate": "Mon, 22 Jul 2024 11:00:00 +1000"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Josh Shapiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Josh%20Shapiro",
+        "pubdate": "Mon, 22 Jul 2024 11:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Nuno Borges",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nuno%20Borges",
         "pubdate": "Mon, 22 Jul 2024 00:00:00 +1000"
@@ -38,9 +52,16 @@
     ],
     [
       {
-        "title": "Carlton vs North Melbourne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlton%20vs%20North%20Melbourne",
-        "pubdate": "Sun, 21 Jul 2024 16:00:00 +1000"
+        "title": "Michelle Obama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Michelle%20Obama",
+        "pubdate": "Mon, 22 Jul 2024 11:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "TAFE NSW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#TAFE%20NSW",
+        "pubdate": "Mon, 22 Jul 2024 11:00:00 +1000"
       }
     ],
     [
@@ -59,9 +80,9 @@
     ],
     [
       {
-        "title": "Carlton station",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlton%20station",
-        "pubdate": "Sun, 21 Jul 2024 15:00:00 +1000"
+        "title": "Carlton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlton",
+        "pubdate": "Sun, 21 Jul 2024 19:00:00 +1000"
       }
     ],
     [
@@ -76,6 +97,13 @@
         "title": "Swans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swans",
         "pubdate": "Sun, 21 Jul 2024 16:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Carlton train station",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Carlton%20train%20station",
+        "pubdate": "Sun, 21 Jul 2024 18:00:00 +1000"
       }
     ],
     [
@@ -101,44 +129,16 @@
     ],
     [
       {
+        "title": "Sydney Swans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Swans",
+        "pubdate": "Sun, 21 Jul 2024 19:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Fremantle Dockers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fremantle%20Dockers",
         "pubdate": "Sun, 21 Jul 2024 17:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "USA Basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#USA%20Basketball",
-        "pubdate": "Sun, 21 Jul 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Billy Horschel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Billy%20Horschel",
-        "pubdate": "Sun, 21 Jul 2024 10:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20utd",
-        "pubdate": "Sun, 21 Jul 2024 03:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "WNBA All-Star Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#WNBA%20All-Star%20Game",
-        "pubdate": "Sun, 21 Jul 2024 14:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Erin Molan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Erin%20Molan",
-        "pubdate": "Sun, 21 Jul 2024 14:00:00 +1000"
       }
     ]
   ]
