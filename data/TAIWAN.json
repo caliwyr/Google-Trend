@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "22-07-2024 , 23:46:50",
+  "lastUpdate": "22-07-2024 , 23:56:19",
   "data": [
     [
       {
-        "title": "ADR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#ADR",
+        "title": "Tsmc ADR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Tsmc%20ADR",
         "pubdate": "Tue, 23 Jul 2024 00:00:00 +0800"
       }
     ],
@@ -24,16 +24,9 @@
     ],
     [
       {
-        "title": "台股",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E8%82%A1",
-        "pubdate": "Mon, 22 Jul 2024 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "台積電",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E7%A9%8D%E9%9B%BB",
-        "pubdate": "Mon, 22 Jul 2024 11:00:00 +0800"
+        "pubdate": "Mon, 22 Jul 2024 10:00:00 +0800"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "台風",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E9%A2%A8",
-        "pubdate": "Mon, 22 Jul 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "合一",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%90%88%E4%B8%80",
         "pubdate": "Mon, 22 Jul 2024 10:00:00 +0800"
@@ -108,9 +94,9 @@
     ],
     [
       {
-        "title": "謝國樑",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%AC%9D%E5%9C%8B%E6%A8%91",
-        "pubdate": "Mon, 22 Jul 2024 04:00:00 +0800"
+        "title": "劉真",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8A%89%E7%9C%9F",
+        "pubdate": "Mon, 22 Jul 2024 12:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "萬安演習",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%90%AC%E5%AE%89%E6%BC%94%E7%BF%92",
         "pubdate": "Sun, 21 Jul 2024 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "蘇慧倫",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%98%87%E6%85%A7%E5%80%AB",
+        "pubdate": "Sun, 21 Jul 2024 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "林正明",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E6%AD%A3%E6%98%8E",
+        "pubdate": "Sun, 21 Jul 2024 12:00:00 +0800"
       }
     ]
   ]
