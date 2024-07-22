@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-07-2024 , 19:45:51",
+  "lastUpdate": "22-07-2024 , 19:55:20",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Bø",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#B%C3%B8",
+        "title": "Stjørdal stasjon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Stj%C3%B8rdal%20stasjon",
+        "pubdate": "Mon, 22 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bø i Telemark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#B%C3%B8%20i%20Telemark",
         "pubdate": "Mon, 22 Jul 2024 20:00:00 +0200"
       }
     ],
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Var",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Var",
-        "pubdate": "Sun, 21 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Formel%201",
         "pubdate": "Sun, 21 Jul 2024 23:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Strømsgodset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8msgodset",
-        "pubdate": "Sun, 21 Jul 2024 17:00:00 +0200"
+        "title": "Dana Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dana%20Cup",
+        "pubdate": "Sun, 21 Jul 2024 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "HamKam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#HamKam",
-        "pubdate": "Sun, 21 Jul 2024 20:00:00 +0200"
+        "title": "Strømsgodset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8msgodset",
+        "pubdate": "Sun, 21 Jul 2024 17:00:00 +0200"
       }
     ]
   ]
