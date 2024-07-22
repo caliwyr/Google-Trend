@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-07-2024 , 16:41:21",
+  "lastUpdate": "22-07-2024 , 16:50:38",
   "data": [
-    [
-      {
-        "title": "Meteoradar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Meteoradar",
-        "pubdate": "Mon, 22 Jul 2024 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Jiří Žák",
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Vingegaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vingegaard",
+        "pubdate": "Mon, 22 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Prague Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prague%20Open",
         "pubdate": "Mon, 22 Jul 2024 00:00:00 +0200"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "FCSB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FCSB",
-        "pubdate": "Mon, 22 Jul 2024 14:00:00 +0200"
+        "title": "Czech Tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Czech%20Tour",
+        "pubdate": "Mon, 22 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -41,6 +41,13 @@
         "title": "Zakletý v čase",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zaklet%C3%BD%20v%20%C4%8Dase",
         "pubdate": "Mon, 22 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Linda Nosková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Linda%20Noskov%C3%A1",
+        "pubdate": "Mon, 22 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Jenovéfa Boková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jenov%C3%A9fa%20Bokov%C3%A1",
-        "pubdate": "Sun, 21 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Woke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Woke",
         "pubdate": "Sun, 21 Jul 2024 07:00:00 +0200"
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "AC/DC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AC/DC",
+        "pubdate": "Sun, 21 Jul 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Muchova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Muchova",
         "pubdate": "Sun, 21 Jul 2024 15:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Max Verstappen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Max%20Verstappen",
         "pubdate": "Sun, 21 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bejlek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bejlek",
-        "pubdate": "Sun, 21 Jul 2024 19:00:00 +0200"
       }
     ]
   ]
