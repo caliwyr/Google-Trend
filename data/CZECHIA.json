@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2024 , 02:42:24",
+  "lastUpdate": "23-07-2024 , 02:52:15",
   "data": [
     [
       {
@@ -33,6 +33,13 @@
       {
         "title": "Pogacar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pogacar",
+        "pubdate": "Mon, 22 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brad Pitt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brad%20Pitt",
         "pubdate": "Mon, 22 Jul 2024 18:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Formule 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Formule%201",
         "pubdate": "Sun, 21 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Koupaliště",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Koupali%C5%A1t%C4%9B",
-        "pubdate": "Sun, 21 Jul 2024 12:00:00 +0200"
       }
     ]
   ]
