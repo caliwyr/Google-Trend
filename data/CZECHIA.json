@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2024 , 14:47:31",
+  "lastUpdate": "23-07-2024 , 14:57:04",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Emily in Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emily%20in%20Paris",
+        "pubdate": "Tue, 23 Jul 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Blake Lively",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Blake%20Lively",
         "pubdate": "Tue, 23 Jul 2024 13:00:00 +0200"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Emily in Paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emily%20in%20Paris",
-        "pubdate": "Tue, 23 Jul 2024 14:00:00 +0200"
+        "title": "Hannig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hannig",
+        "pubdate": "Tue, 23 Jul 2024 15:00:00 +0200"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Hannig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hannig",
-        "pubdate": "Tue, 23 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jiří Žák",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20%C5%BD%C3%A1k",
         "pubdate": "Mon, 22 Jul 2024 16:00:00 +0200"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Tadej Pogačar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tadej%20Poga%C4%8Dar",
-        "pubdate": "Mon, 22 Jul 2024 14:00:00 +0200"
+        "title": "Laura Samson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Laura%20Samson",
+        "pubdate": "Mon, 22 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -97,13 +97,6 @@
         "title": "Jakub Vágner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20V%C3%A1gner",
         "pubdate": "Mon, 22 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Laura Samson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Laura%20Samson",
-        "pubdate": "Mon, 22 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Silné bouřky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Siln%C3%A9%20bou%C5%99ky",
         "pubdate": "Sun, 21 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Whitney Rydbeck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Whitney%20Rydbeck",
+        "pubdate": "Sun, 21 Jul 2024 19:00:00 +0200"
       }
     ]
   ]
