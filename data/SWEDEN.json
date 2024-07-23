@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-07-2024 , 21:37:50",
+  "lastUpdate": "23-07-2024 , 21:47:07",
   "data": [
     [
       {
         "title": "Malmö FF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
         "pubdate": "Tue, 23 Jul 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alice Babs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alice%20Babs",
+        "pubdate": "Tue, 23 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Annelie ojonen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Annelie%20ojonen",
+        "pubdate": "Tue, 23 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Northvolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Northvolt",
         "pubdate": "Tue, 23 Jul 2024 08:00:00 +0200"
@@ -52,9 +66,23 @@
     ],
     [
       {
-        "title": "Gais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais",
-        "pubdate": "Mon, 22 Jul 2024 11:00:00 +0200"
+        "title": "LT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#LT",
+        "pubdate": "Tue, 23 Jul 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gais AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gais%20AIK",
+        "pubdate": "Mon, 22 Jul 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Harris Kamala",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harris%20Kamala",
+        "pubdate": "Mon, 22 Jul 2024 12:00:00 +0200"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Lucas Bergvall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lucas%20Bergvall",
         "pubdate": "Sun, 21 Jul 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "IFK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK",
-        "pubdate": "Sun, 21 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1",
-        "pubdate": "Sat, 20 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hammarby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
-        "pubdate": "Sat, 20 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
-        "pubdate": "Sat, 20 Jul 2024 20:00:00 +0200"
       }
     ]
   ]
