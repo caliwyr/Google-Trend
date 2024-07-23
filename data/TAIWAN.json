@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2024 , 19:45:57",
+  "lastUpdate": "23-07-2024 , 19:55:20",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "中央",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%AD%E5%A4%AE",
-        "pubdate": "Tue, 23 Jul 2024 03:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "驀然回首",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%A9%80%E7%84%B6%E5%9B%9E%E9%A6%96",
         "pubdate": "Tue, 23 Jul 2024 11:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "颱風",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%A2%B1%E9%A2%A8",
         "pubdate": "Mon, 22 Jul 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "拜登",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%8B%9C%E7%99%BB",
+        "pubdate": "Mon, 22 Jul 2024 04:00:00 +0800"
       }
     ]
   ]

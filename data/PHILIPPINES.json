@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2024 , 19:45:54",
+  "lastUpdate": "23-07-2024 , 19:55:18",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Blake Lively",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Blake%20Lively",
-        "pubdate": "Tue, 23 Jul 2024 16:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Hugh Jackman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hugh%20Jackman",
         "pubdate": "Tue, 23 Jul 2024 20:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Typhoon Philippines",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Typhoon%20Philippines",
         "pubdate": "Mon, 22 Jul 2024 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Joe%20Biden",
+        "pubdate": "Mon, 22 Jul 2024 08:00:00 +0800"
       }
     ]
   ]
