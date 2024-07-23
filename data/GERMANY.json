@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-07-2024 , 06:43:33",
+  "lastUpdate": "23-07-2024 , 06:53:00",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Quickborn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Quickborn",
+        "pubdate": "Mon, 22 Jul 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kamala Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kamala%20Harris",
         "pubdate": "Sun, 21 Jul 2024 21:00:00 +0200"
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "DELMENHORST",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DELMENHORST",
+        "title": "Delmenhorst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Delmenhorst",
         "pubdate": "Sun, 21 Jul 2024 21:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Compact",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Compact",
         "pubdate": "Tue, 16 Jul 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lena Oberdorf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lena%20Oberdorf",
-        "pubdate": "Tue, 16 Jul 2024 21:00:00 +0200"
       }
     ]
   ]
