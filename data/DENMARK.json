@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-07-2024 , 20:38:26",
+  "lastUpdate": "24-07-2024 , 20:47:57",
   "data": [
+    [
+      {
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
+        "pubdate": "Wed, 24 Jul 2024 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "John Mayall",
@@ -13,13 +20,6 @@
         "title": "Man City  Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Celtic",
         "pubdate": "Wed, 24 Jul 2024 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
-        "pubdate": "Wed, 24 Jul 2024 09:00:00 +0200"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Bradley Cooper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bradley%20Cooper",
-        "pubdate": "Wed, 24 Jul 2024 16:00:00 +0200"
+        "title": "Clint Eastwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clint%20Eastwood",
+        "pubdate": "Wed, 24 Jul 2024 12:00:00 +0200"
       }
     ],
     [
@@ -54,13 +54,6 @@
       {
         "title": "DSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DSV",
-        "pubdate": "Wed, 24 Jul 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Clint Eastwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clint%20Eastwood",
         "pubdate": "Wed, 24 Jul 2024 12:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "FCM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FCM",
         "pubdate": "Tue, 23 Jul 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CrowdStrike stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CrowdStrike%20stock",
+        "pubdate": "Tue, 23 Jul 2024 08:00:00 +0200"
       }
     ]
   ]
