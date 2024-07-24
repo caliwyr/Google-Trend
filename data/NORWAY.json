@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-07-2024 , 16:43:02",
+  "lastUpdate": "24-07-2024 , 16:52:15",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Netanyahu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Netanyahu",
         "pubdate": "Wed, 24 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Deadpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Deadpool",
+        "pubdate": "Tue, 23 Jul 2024 19:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Argos Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Argos%20Georgia",
-        "pubdate": "Tue, 23 Jul 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sonya Massey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sonya%20Massey",
         "pubdate": "Tue, 23 Jul 2024 16:00:00 +0200"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Deadpool And Wolverine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Deadpool%20And%20Wolverine",
-        "pubdate": "Tue, 23 Jul 2024 19:00:00 +0200"
+        "title": "Argos Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Argos%20Georgia",
+        "pubdate": "Tue, 23 Jul 2024 16:00:00 +0200"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Drea de Matteo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Drea%20de%20Matteo",
-        "pubdate": "Tue, 23 Jul 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "OA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#OA",
         "pubdate": "Tue, 23 Jul 2024 10:00:00 +0200"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Sommarland i Bø",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sommarland%20i%20B%C3%B8",
-        "pubdate": "Tue, 23 Jul 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Innerdalen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Innerdalen",
         "pubdate": "Tue, 23 Jul 2024 19:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Bø i Telemark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#B%C3%B8%20i%20Telemark",
+        "title": "Utøya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ut%C3%B8ya",
+        "pubdate": "Mon, 22 Jul 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bø",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#B%C3%B8",
         "pubdate": "Mon, 22 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hanne Sørvaag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hanne%20S%C3%B8rvaag",
+        "pubdate": "Mon, 22 Jul 2024 15:00:00 +0200"
       }
     ]
   ]
