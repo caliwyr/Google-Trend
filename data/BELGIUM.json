@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "24-07-2024 , 10:41:03",
+  "lastUpdate": "24-07-2024 , 10:50:16",
   "data": [
-    [
-      {
-        "title": "Ryan Reynolds",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ryan%20Reynolds",
-        "pubdate": "Wed, 24 Jul 2024 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "John Mayall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#John%20Mayall",
         "pubdate": "Wed, 24 Jul 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ryan Reynolds",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ryan%20Reynolds",
+        "pubdate": "Wed, 24 Jul 2024 09:00:00 +0200"
       }
     ],
     [
@@ -24,23 +24,16 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20City",
+        "pubdate": "Wed, 24 Jul 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Simic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Simic",
         "pubdate": "Wed, 24 Jul 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lucie Castets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lucie%20Castets",
-        "pubdate": "Tue, 23 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Virus Nipah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Virus%20Nipah",
-        "pubdate": "Tue, 23 Jul 2024 00:00:00 +0200"
       }
     ],
     [
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Hugo Siquet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hugo%20Siquet",
-        "pubdate": "Tue, 23 Jul 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cyril Féraud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cyril%20F%C3%A9raud",
         "pubdate": "Tue, 23 Jul 2024 17:00:00 +0200"
@@ -76,6 +62,13 @@
         "title": "CIO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#CIO",
         "pubdate": "Tue, 23 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hugo Siquet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hugo%20Siquet",
+        "pubdate": "Tue, 23 Jul 2024 10:00:00 +0200"
       }
     ],
     [
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Prinses Elisabeth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Prinses%20Elisabeth",
-        "pubdate": "Tue, 23 Jul 2024 22:00:00 +0200"
+        "title": "Sonya Massey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sonya%20Massey",
+        "pubdate": "Tue, 23 Jul 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sonya Massey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sonya%20Massey",
-        "pubdate": "Tue, 23 Jul 2024 21:00:00 +0200"
+        "title": "Prinses Elisabeth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Prinses%20Elisabeth",
+        "pubdate": "Tue, 23 Jul 2024 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Jean Butez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jean%20Butez",
         "pubdate": "Tue, 23 Jul 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Goedele Liekens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Goedele%20Liekens",
+        "pubdate": "Tue, 23 Jul 2024 17:00:00 +0200"
       }
     ]
   ]
