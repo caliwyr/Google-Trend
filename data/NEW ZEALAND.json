@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-07-2024 , 06:40:49",
+  "lastUpdate": "24-07-2024 , 06:50:22",
   "data": [
     [
       {
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Barge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barge",
-        "pubdate": "Wed, 24 Jul 2024 15:00:00 +1200"
+        "title": "Yellowstone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Yellowstone",
+        "pubdate": "Wed, 24 Jul 2024 16:00:00 +1200"
       }
     ],
     [
@@ -52,9 +52,16 @@
     ],
     [
       {
-        "title": "Yellowstone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Yellowstone",
-        "pubdate": "Wed, 24 Jul 2024 16:00:00 +1200"
+        "title": "Barge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barge",
+        "pubdate": "Wed, 24 Jul 2024 15:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "John Mayall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#John%20Mayall",
+        "pubdate": "Wed, 24 Jul 2024 18:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Te Whatu Ora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Te%20Whatu%20Ora",
         "pubdate": "Tue, 23 Jul 2024 10:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joe%20Biden",
-        "pubdate": "Mon, 22 Jul 2024 08:00:00 +1200"
       }
     ]
   ]
