@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-07-2024 , 05:39:40",
+  "lastUpdate": "25-07-2024 , 05:49:11",
   "data": [
     [
       {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Wed, 24 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Deadpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Deadpool",
+        "pubdate": "Wed, 24 Jul 2024 19:00:00 +0200"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Deadpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Deadpool",
-        "pubdate": "Wed, 24 Jul 2024 21:00:00 +0200"
+        "title": "Robert Vis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Robert%20Vis",
+        "pubdate": "Wed, 24 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Vierdaagsefeesten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vierdaagsefeesten",
         "pubdate": "Sat, 13 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
-        "pubdate": "Fri, 12 Jul 2024 16:00:00 +0200"
       }
     ]
   ]
