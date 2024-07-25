@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "25-07-2024 , 21:39:23",
+  "lastUpdate": "25-07-2024 , 21:48:38",
   "data": [
-    [
-      {
-        "title": "Brand Konstanz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brand%20Konstanz",
-        "pubdate": "Thu, 25 Jul 2024 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Kerber",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Olympische Spiele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olympische%20Spiele",
-        "pubdate": "Thu, 25 Jul 2024 04:00:00 +0200"
+        "title": "Brand Konstanz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brand%20Konstanz",
+        "pubdate": "Thu, 25 Jul 2024 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "IT-Ausfall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#IT-Ausfall",
         "pubdate": "Fri, 19 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Präsident",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pr%C3%A4sident",
+        "pubdate": "Fri, 19 Jul 2024 23:00:00 +0200"
       }
     ]
   ]
