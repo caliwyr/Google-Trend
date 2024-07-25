@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "25-07-2024 , 19:41:56",
+  "lastUpdate": "25-07-2024 , 19:51:16",
   "data": [
-    [
-      {
-        "title": "Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rugby",
-        "pubdate": "Thu, 25 Jul 2024 17:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Fallout: London",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rugby",
+        "pubdate": "Thu, 25 Jul 2024 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Arsenal – Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Bournemouth",
         "pubdate": "Thu, 25 Jul 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Doha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Doha",
+        "pubdate": "Thu, 25 Jul 2024 22:00:00 +0300"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla%20stock",
-        "pubdate": "Wed, 24 Jul 2024 08:00:00 +0300"
+        "title": "Ava Tyson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ava%20Tyson",
+        "pubdate": "Wed, 24 Jul 2024 18:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Ava Tyson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ava%20Tyson",
-        "pubdate": "Wed, 24 Jul 2024 18:00:00 +0300"
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla%20stock",
+        "pubdate": "Wed, 24 Jul 2024 08:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Blake Lively",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Blake%20Lively",
         "pubdate": "Wed, 24 Jul 2024 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harris",
-        "pubdate": "Wed, 24 Jul 2024 01:00:00 +0300"
       }
     ]
   ]
