@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-07-2024 , 17:40:04",
+  "lastUpdate": "25-07-2024 , 17:49:33",
   "data": [
+    [
+      {
+        "title": "Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rugby",
+        "pubdate": "Thu, 25 Jul 2024 17:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Arsenal – Bournemouth",
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rugby",
-        "pubdate": "Thu, 25 Jul 2024 17:00:00 +0300"
+        "title": "Hugh Jackman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hugh%20Jackman",
+        "pubdate": "Thu, 25 Jul 2024 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Fallout: London",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fallout:%20London",
+        "pubdate": "Thu, 25 Jul 2024 20:00:00 +0300"
       }
     ],
     [
@@ -38,9 +52,9 @@
     ],
     [
       {
-        "title": "Hugh Jackman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hugh%20Jackman",
-        "pubdate": "Thu, 25 Jul 2024 14:00:00 +0300"
+        "title": "Jennifer Lopez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jennifer%20Lopez",
+        "pubdate": "Thu, 25 Jul 2024 17:00:00 +0300"
       }
     ],
     [
@@ -48,13 +62,6 @@
         "title": "S&P500",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#S%26P500",
         "pubdate": "Thu, 25 Jul 2024 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Jennifer Lopez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jennifer%20Lopez",
-        "pubdate": "Thu, 25 Jul 2024 17:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harris",
         "pubdate": "Wed, 24 Jul 2024 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Aretha Franklin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aretha%20Franklin",
-        "pubdate": "Tue, 23 Jul 2024 22:00:00 +0300"
       }
     ]
   ]
