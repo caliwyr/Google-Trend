@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "26-07-2024 , 01:25:20",
+  "lastUpdate": "26-07-2024 , 02:20:29",
   "data": [
     [
       {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Thu, 25 Jul 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Olympische Spelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Olympische%20Spelen",
-        "pubdate": "Thu, 25 Jul 2024 11:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Olympische Spelen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Olympische%20Spelen",
+        "pubdate": "Thu, 25 Jul 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Karin Bloemen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Karin%20Bloemen",
         "pubdate": "Thu, 25 Jul 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Watertekort Griekse eilanden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Watertekort%20Griekse%20eilanden",
+        "pubdate": "Thu, 25 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Donald%20Trump",
         "pubdate": "Sun, 14 Jul 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Pogacar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pogacar",
-        "pubdate": "Sat, 13 Jul 2024 18:00:00 +0200"
       }
     ]
   ]
