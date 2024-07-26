@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-07-2024 , 05:39:58",
+  "lastUpdate": "26-07-2024 , 05:49:13",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil",
+        "pubdate": "Thu, 25 Jul 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ceara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ceara",
         "pubdate": "Thu, 25 Jul 2024 17:00:00 -0500"
@@ -27,13 +34,6 @@
         "title": "Goias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Goias",
         "pubdate": "Thu, 25 Jul 2024 20:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Handebol olimpiadas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Handebol%20olimpiadas",
-        "pubdate": "Thu, 25 Jul 2024 09:00:00 -0500"
       }
     ],
     [
@@ -55,13 +55,6 @@
         "title": "Sao cristovao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20cristovao",
         "pubdate": "Thu, 25 Jul 2024 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Luciano Hang Havan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luciano%20Hang%20Havan",
-        "pubdate": "Thu, 25 Jul 2024 09:00:00 -0500"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Mega-Sena 2753",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202753",
-        "pubdate": "Thu, 25 Jul 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Cuiabá Esporte Clube",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cuiab%C3%A1%20Esporte%20Clube",
         "pubdate": "Thu, 25 Jul 2024 10:00:00 -0500"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Serna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serna",
-        "pubdate": "Thu, 25 Jul 2024 00:00:00 -0500"
+        "title": "Raquel Cattani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Raquel%20Cattani",
+        "pubdate": "Thu, 25 Jul 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bateria de litio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bateria%20de%20litio",
+        "pubdate": "Thu, 25 Jul 2024 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Luciano Hang arquiteto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Luciano%20Hang%20arquiteto",
+        "pubdate": "Thu, 25 Jul 2024 09:00:00 -0500"
       }
     ]
   ]
