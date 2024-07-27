@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "27-07-2024 , 16:42:03",
+  "lastUpdate": "27-07-2024 , 16:51:19",
   "data": [
-    [
-      {
-        "title": "CSD Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CSD%20Berlin",
-        "pubdate": "Sat, 27 Jul 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "CSD",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#USA",
-        "pubdate": "Sat, 27 Jul 2024 15:00:00 +0200"
+        "title": "CSD Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CSD%20Berlin",
+        "pubdate": "Sat, 27 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Schwerin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schwerin",
+        "pubdate": "Sat, 27 Jul 2024 18:00:00 +0200"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Olympia heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olympia%20heute",
-        "pubdate": "Fri, 26 Jul 2024 13:00:00 +0200"
+        "title": "Ralf Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ralf%20Schumacher",
+        "pubdate": "Fri, 26 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -48,6 +48,13 @@
         "title": "Memmingen Explosion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Memmingen%20Explosion",
         "pubdate": "Fri, 26 Jul 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Esther Sedlaczek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Esther%20Sedlaczek",
+        "pubdate": "Fri, 26 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Varta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Varta",
         "pubdate": "Mon, 22 Jul 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kamala%20Harris",
-        "pubdate": "Sun, 21 Jul 2024 21:00:00 +0200"
       }
     ]
   ]
