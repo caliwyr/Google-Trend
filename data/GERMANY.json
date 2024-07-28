@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "28-07-2024 , 10:47:05",
+  "lastUpdate": "28-07-2024 , 10:56:24",
   "data": [
     [
       {
         "title": "Lukas Märtens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20M%C3%A4rtens",
         "pubdate": "Sat, 27 Jul 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Olympia live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olympia%20live",
+        "pubdate": "Sat, 27 Jul 2024 01:00:00 +0200"
       }
     ],
     [
@@ -38,16 +45,9 @@
     ],
     [
       {
-        "title": "USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#USA",
-        "pubdate": "Sat, 27 Jul 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Katie Ledecky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Katie%20Ledecky",
-        "pubdate": "Sat, 27 Jul 2024 22:00:00 +0200"
+        "title": "Juri Knorr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Juri%20Knorr",
+        "pubdate": "Sat, 27 Jul 2024 20:00:00 +0200"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Ralf Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ralf%20Schumacher",
-        "pubdate": "Fri, 26 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Frankreich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich",
         "pubdate": "Fri, 26 Jul 2024 13:00:00 +0200"
@@ -94,9 +87,9 @@
     ],
     [
       {
-        "title": "Paris Olympia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Paris%20Olympia",
-        "pubdate": "Fri, 26 Jul 2024 18:00:00 +0200"
+        "title": "ARD Olympia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ARD%20Olympia",
+        "pubdate": "Fri, 26 Jul 2024 21:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bosch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bosch",
         "pubdate": "Tue, 23 Jul 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SAP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#SAP",
+        "pubdate": "Tue, 23 Jul 2024 11:00:00 +0200"
       }
     ]
   ]
