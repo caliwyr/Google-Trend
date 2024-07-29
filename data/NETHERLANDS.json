@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-07-2024 , 02:55:29",
+  "lastUpdate": "29-07-2024 , 03:15:46",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Russell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Russell",
-        "pubdate": "Sun, 28 Jul 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hezbollah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hezbollah",
         "pubdate": "Sun, 28 Jul 2024 21:00:00 +0200"
@@ -45,9 +38,16 @@
     ],
     [
       {
-        "title": "Olympische Spelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Olympische%20Spelen",
-        "pubdate": "Sat, 27 Jul 2024 11:00:00 +0200"
+        "title": "Russell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Russell",
+        "pubdate": "Sun, 28 Jul 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hockey Olympische Spelen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hockey%20Olympische%20Spelen",
+        "pubdate": "Sat, 27 Jul 2024 13:00:00 +0200"
       }
     ],
     [
