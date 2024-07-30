@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2024 , 06:28:42",
+  "lastUpdate": "30-07-2024 , 06:42:22",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Sport Lisboa e Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
+        "pubdate": "Mon, 29 Jul 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Atlético-MG x Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico-MG%20x%20Corinthians",
         "pubdate": "Mon, 29 Jul 2024 00:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "LeBron James",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#LeBron%20James",
         "pubdate": "Mon, 29 Jul 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Michael Polansky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Michael%20Polansky",
-        "pubdate": "Mon, 29 Jul 2024 12:00:00 +0100"
       }
     ]
   ]
