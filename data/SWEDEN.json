@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-07-2024 , 22:44:24",
+  "lastUpdate": "30-07-2024 , 22:53:46",
   "data": [
+    [
+      {
+        "title": "Jon Olsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jon%20Olsson",
+        "pubdate": "Wed, 31 Jul 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sarah Sjöström OS",
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Annette Haga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Annette%20Haga",
-        "pubdate": "Tue, 30 Jul 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Estrella byter namn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Estrella%20byter%20namn",
         "pubdate": "Mon, 29 Jul 2024 19:00:00 +0200"
@@ -76,13 +76,6 @@
         "title": "Southport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Southport",
         "pubdate": "Mon, 29 Jul 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rickard Levin Andersson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rickard%20Levin%20Andersson",
-        "pubdate": "Mon, 29 Jul 2024 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hammarby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
         "pubdate": "Sun, 28 Jul 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Venezuela",
+        "pubdate": "Sun, 28 Jul 2024 10:00:00 +0200"
       }
     ]
   ]
