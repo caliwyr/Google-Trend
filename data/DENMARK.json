@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-07-2024 , 07:49:46",
+  "lastUpdate": "30-07-2024 , 07:59:15",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Tom Daley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Daley",
         "pubdate": "Mon, 29 Jul 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Thomas Arnoldsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Thomas%20Arnoldsen",
-        "pubdate": "Mon, 29 Jul 2024 23:00:00 +0200"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Nadia Comaneci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nadia%20Comaneci",
+        "pubdate": "Mon, 29 Jul 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Flag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Flag",
         "pubdate": "Mon, 29 Jul 2024 20:00:00 +0200"
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Vermithor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vermithor",
-        "pubdate": "Mon, 29 Jul 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tom Pidcock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Pidcock",
         "pubdate": "Mon, 29 Jul 2024 20:00:00 +0200"
@@ -122,16 +115,23 @@
     ],
     [
       {
-        "title": "Bob Ballard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bob%20Ballard",
-        "pubdate": "Mon, 29 Jul 2024 13:00:00 +0200"
+        "title": "Arnoldsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arnoldsen",
+        "pubdate": "Mon, 29 Jul 2024 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Elon%20Musk",
+        "title": "Vermithor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vermithor",
         "pubdate": "Mon, 29 Jul 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bob Ballard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bob%20Ballard",
+        "pubdate": "Mon, 29 Jul 2024 13:00:00 +0200"
       }
     ],
     [
