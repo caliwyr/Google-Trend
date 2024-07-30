@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "30-07-2024 , 02:51:27",
+  "lastUpdate": "30-07-2024 , 03:08:21",
   "data": [
     [
       {
         "title": "Hong Kong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hong%20Kong",
+        "pubdate": "Tue, 30 Jul 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Poeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Poeiras",
         "pubdate": "Tue, 30 Jul 2024 00:00:00 +0100"
       }
     ],
@@ -47,7 +54,7 @@
       {
         "title": "Tempo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tempo",
-        "pubdate": "Mon, 29 Jul 2024 09:00:00 +0100"
+        "pubdate": "Mon, 29 Jul 2024 08:00:00 +0100"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Medina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Medina",
+        "pubdate": "Mon, 29 Jul 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Atlético-MG x Corinthians",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico-MG%20x%20Corinthians",
         "pubdate": "Mon, 29 Jul 2024 00:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Michael Polansky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Michael%20Polansky",
         "pubdate": "Mon, 29 Jul 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Previsão do tempo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Previs%C3%A3o%20do%20tempo",
-        "pubdate": "Mon, 29 Jul 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tiroteio em Setúbal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tiroteio%20em%20Set%C3%BAbal",
-        "pubdate": "Mon, 29 Jul 2024 23:00:00 +0100"
       }
     ]
   ]
