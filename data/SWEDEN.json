@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-07-2024 , 16:50:07",
+  "lastUpdate": "30-07-2024 , 16:59:27",
   "data": [
+    [
+      {
+        "title": "Estrella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Estrella",
+        "pubdate": "Tue, 30 Jul 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Ludvig Åberg",
@@ -20,13 +27,6 @@
         "title": "Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nadal",
         "pubdate": "Mon, 29 Jul 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Estrella byter namn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Estrella%20byter%20namn",
-        "pubdate": "Mon, 29 Jul 2024 19:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
-        "pubdate": "Sun, 28 Jul 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Venezuela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Venezuela",
         "pubdate": "Sun, 28 Jul 2024 10:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
         "pubdate": "Sun, 28 Jul 2024 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Samuel Dahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Samuel%20Dahl",
+        "pubdate": "Sun, 28 Jul 2024 14:00:00 +0200"
       }
     ]
   ]
