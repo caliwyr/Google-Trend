@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2024 , 18:48:13",
+  "lastUpdate": "31-07-2024 , 18:57:27",
   "data": [
     [
       {
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Donald%20Trump",
-        "pubdate": "Wed, 31 Jul 2024 03:00:00 +0800"
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Israel",
+        "pubdate": "Wed, 31 Jul 2024 11:00:00 +0800"
       }
     ],
     [
@@ -69,6 +69,20 @@
         "title": "MyKayla Skinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MyKayla%20Skinner",
         "pubdate": "Wed, 31 Jul 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Wayanad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wayanad",
+        "pubdate": "Wed, 31 Jul 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "FOMC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FOMC",
+        "pubdate": "Wed, 31 Jul 2024 23:00:00 +0800"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Beirut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Beirut",
-        "pubdate": "Wed, 31 Jul 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "BOJ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#BOJ",
         "pubdate": "Wed, 31 Jul 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "FOMC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FOMC",
-        "pubdate": "Wed, 31 Jul 2024 23:00:00 +0800"
       }
     ]
   ]
