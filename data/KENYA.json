@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2024 , 01:07:26",
+  "lastUpdate": "31-07-2024 , 01:51:32",
   "data": [
     [
       {
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Donald%20Trump",
-        "pubdate": "Mon, 29 Jul 2024 08:00:00 +0300"
+        "title": "Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Venezuela",
+        "pubdate": "Mon, 29 Jul 2024 17:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Venezuela",
-        "pubdate": "Mon, 29 Jul 2024 17:00:00 +0300"
+        "title": "President Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#President%20Donald%20Trump",
+        "pubdate": "Mon, 29 Jul 2024 08:00:00 +0300"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Mazraoui",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mazraoui",
         "pubdate": "Mon, 29 Jul 2024 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Usain Bolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Usain%20Bolt",
-        "pubdate": "Mon, 29 Jul 2024 09:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Man City vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Milan",
         "pubdate": "Sun, 28 Jul 2024 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#LeBron%20James",
+        "pubdate": "Sun, 28 Jul 2024 20:00:00 +0300"
       }
     ]
   ]
