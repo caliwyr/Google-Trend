@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2024 , 04:52:25",
+  "lastUpdate": "31-07-2024 , 05:07:43",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Donald%20Trump",
         "pubdate": "Wed, 31 Jul 2024 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Ismail Haniyeh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ismail%20Haniyeh",
+        "pubdate": "Wed, 31 Jul 2024 12:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jonathan Tan swimmer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jonathan%20Tan%20swimmer",
         "pubdate": "Tue, 30 Jul 2024 18:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Rachel Reeves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rachel%20Reeves",
-        "pubdate": "Tue, 30 Jul 2024 12:00:00 +0800"
       }
     ]
   ]
