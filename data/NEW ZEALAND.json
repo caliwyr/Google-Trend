@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-07-2024 , 11:45:15",
+  "lastUpdate": "31-07-2024 , 11:54:45",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Stout",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Stout",
-        "pubdate": "Wed, 31 Jul 2024 11:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Ismail Haniyeh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ismail%20Haniyeh",
         "pubdate": "Wed, 31 Jul 2024 17:00:00 +1200"
@@ -55,6 +48,13 @@
         "title": "Stephen Nedoroscik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Stephen%20Nedoroscik",
         "pubdate": "Wed, 31 Jul 2024 09:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Live nation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Live%20nation",
+        "pubdate": "Wed, 31 Jul 2024 21:00:00 +1200"
       }
     ],
     [
@@ -87,6 +87,20 @@
     ],
     [
       {
+        "title": "AWS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#AWS",
+        "pubdate": "Wed, 31 Jul 2024 15:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Daniel Wiffen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Daniel%20Wiffen",
+        "pubdate": "Wed, 31 Jul 2024 22:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Tyla King",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tyla%20King",
         "pubdate": "Wed, 31 Jul 2024 21:00:00 +1200"
@@ -97,6 +111,13 @@
         "title": "Cameron Gray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cameron%20Gray",
         "pubdate": "Wed, 31 Jul 2024 11:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Auckland FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20FC",
+        "pubdate": "Wed, 31 Jul 2024 23:00:00 +1200"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Road closures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Road%20closures",
-        "pubdate": "Wed, 31 Jul 2024 03:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Daniel Wiffen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Daniel%20Wiffen",
-        "pubdate": "Wed, 31 Jul 2024 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Nz Olympic medals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nz%20Olympic%20medals",
-        "pubdate": "Tue, 30 Jul 2024 23:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Triathlon olympics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Triathlon%20olympics",
-        "pubdate": "Tue, 30 Jul 2024 17:00:00 +1200"
+        "title": "DoorDash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#DoorDash",
+        "pubdate": "Wed, 31 Jul 2024 23:00:00 +1200"
       }
     ]
   ]
