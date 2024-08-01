@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2024 , 08:48:50",
+  "lastUpdate": "01-08-2024 , 08:58:04",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Kerala Wayanad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kerala%20Wayanad",
+        "pubdate": "Thu, 01 Aug 2024 09:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Cricket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
         "pubdate": "Wed, 31 Jul 2024 05:30:00 +0530"
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "HS Prannoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#HS%20Prannoy",
-        "pubdate": "Wed, 31 Jul 2024 22:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
         "pubdate": "Wed, 31 Jul 2024 05:30:00 +0530"
@@ -122,16 +122,9 @@
     ],
     [
       {
-        "title": "SEBI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#SEBI",
-        "pubdate": "Wed, 31 Jul 2024 09:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Preeti Sudan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Preeti%20Sudan",
-        "pubdate": "Wed, 31 Jul 2024 12:30:00 +0530"
+        "title": "PV Sindhu Olympics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#PV%20Sindhu%20Olympics",
+        "pubdate": "Wed, 31 Jul 2024 14:30:00 +0530"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nothing Phone 2a Plus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nothing%20Phone%202a%20Plus",
         "pubdate": "Wed, 31 Jul 2024 18:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "SEBI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#SEBI",
+        "pubdate": "Wed, 31 Jul 2024 09:30:00 +0530"
       }
     ]
   ]
