@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2024 , 20:47:40",
+  "lastUpdate": "01-08-2024 , 20:57:02",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Djokovic",
+        "pubdate": "Thu, 01 Aug 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Yusuf Dikec",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yusuf%20Dikec",
         "pubdate": "Thu, 01 Aug 2024 11:00:00 +0200"
@@ -66,9 +73,23 @@
     ],
     [
       {
+        "title": "Sunisa Lee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sunisa%20Lee",
+        "pubdate": "Thu, 01 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Meta stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Meta%20stock",
         "pubdate": "Thu, 01 Aug 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Summer McIntosh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Summer%20McIntosh",
+        "pubdate": "Thu, 01 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Djokovic",
-        "pubdate": "Thu, 01 Aug 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Outdoor gear",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Outdoor%20gear",
         "pubdate": "Thu, 01 Aug 2024 05:00:00 +0200"
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Nadal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nadal",
-        "pubdate": "Thu, 01 Aug 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Champions%20League",
-        "pubdate": "Thu, 01 Aug 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Trump rally",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump%20rally",
-        "pubdate": "Thu, 01 Aug 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kat",
         "pubdate": "Thu, 01 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nadal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nadal",
+        "pubdate": "Thu, 01 Aug 2024 19:00:00 +0200"
       }
     ]
   ]

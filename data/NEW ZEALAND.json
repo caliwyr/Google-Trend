@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-08-2024 , 20:47:45",
+  "lastUpdate": "01-08-2024 , 20:57:08",
   "data": [
     [
       {
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Olympic golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Olympic%20golf",
+        "title": "Olympic Golf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Olympic%20Golf",
         "pubdate": "Thu, 01 Aug 2024 21:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Imane Khelif",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Imane%20Khelif",
+        "pubdate": "Thu, 01 Aug 2024 12:00:00 +1200"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Lucy Spoors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lucy%20Spoors",
         "pubdate": "Thu, 01 Aug 2024 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Imane Khelif",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Imane%20Khelif",
-        "pubdate": "Thu, 01 Aug 2024 12:00:00 +1200"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Rowing Olympics 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rowing%20Olympics%202024",
+        "pubdate": "Thu, 01 Aug 2024 22:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Leon Marchand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Leon%20Marchand",
         "pubdate": "Thu, 01 Aug 2024 14:00:00 +1200"
@@ -132,13 +139,6 @@
         "title": "Real Madrid vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid%20vs%20Milan",
         "pubdate": "Thu, 01 Aug 2024 15:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid",
-        "pubdate": "Thu, 01 Aug 2024 14:00:00 +1200"
       }
     ]
   ]
