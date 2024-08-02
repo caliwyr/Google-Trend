@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-08-2024 , 09:45:28",
+  "lastUpdate": "02-08-2024 , 09:54:43",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Santiago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santiago",
+        "pubdate": "Fri, 02 Aug 2024 05:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Maria Eugenia rios",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maria%20Eugenia%20rios",
         "pubdate": "Fri, 02 Aug 2024 02:00:00 -0400"
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "SAE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#SAE",
-        "pubdate": "Thu, 01 Aug 2024 21:00:00 -0400"
+        "title": "Noticias de hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Noticias%20de%20hoy",
+        "pubdate": "Fri, 02 Aug 2024 04:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Ley Karin Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ley%20Karin%20Chile",
-        "pubdate": "Thu, 01 Aug 2024 09:00:00 -0400"
+        "title": "SAE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#SAE",
+        "pubdate": "Thu, 01 Aug 2024 21:00:00 -0400"
       }
     ],
     [
@@ -54,7 +61,7 @@
       {
         "title": "Viento Santiago",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Viento%20Santiago",
-        "pubdate": "Thu, 01 Aug 2024 18:00:00 -0400"
+        "pubdate": "Thu, 01 Aug 2024 15:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Curanilahue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Curanilahue",
         "pubdate": "Thu, 01 Aug 2024 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Patagonia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Patagonia",
-        "pubdate": "Thu, 01 Aug 2024 11:00:00 -0400"
       }
     ]
   ]
