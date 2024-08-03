@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-08-2024 , 08:50:50",
+  "lastUpdate": "03-08-2024 , 09:00:01",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Nürburgring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#N%C3%BCrburgring",
         "pubdate": "Fri, 02 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "2. Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#2.%20Liga",
+        "pubdate": "Fri, 02 Aug 2024 15:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Southport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Southport",
         "pubdate": "Mon, 29 Jul 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Erdogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
-        "pubdate": "Mon, 29 Jul 2024 00:00:00 +0200"
       }
     ]
   ]
