@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-08-2024 , 10:46:25",
+  "lastUpdate": "03-08-2024 , 10:55:47",
   "data": [
+    [
+      {
+        "title": "Iran Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Iran%20Israel",
+        "pubdate": "Sat, 03 Aug 2024 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Köln – HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%B6ln%20%E2%80%93%20HSV",
-        "pubdate": "Fri, 02 Aug 2024 19:00:00 +0200"
+        "pubdate": "Fri, 02 Aug 2024 18:00:00 +0200"
       }
     ],
     [
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Zehnkampf Olympia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zehnkampf%20Olympia",
+        "pubdate": "Fri, 02 Aug 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nürburgring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#N%C3%BCrburgring",
         "pubdate": "Fri, 02 Aug 2024 22:00:00 +0200"
@@ -24,23 +38,9 @@
     ],
     [
       {
-        "title": "2. Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#2.%20Liga",
-        "pubdate": "Fri, 02 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Börse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%B6rse",
         "pubdate": "Fri, 02 Aug 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Neugebauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neugebauer",
-        "pubdate": "Fri, 02 Aug 2024 15:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Oliver Zeidler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oliver%20Zeidler",
+        "pubdate": "Thu, 01 Aug 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gefangenenaustausch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gefangenenaustausch",
         "pubdate": "Thu, 01 Aug 2024 20:00:00 +0200"
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
-        "pubdate": "Thu, 01 Aug 2024 09:00:00 +0200"
+        "title": "Füllkrug",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F%C3%BCllkrug",
+        "pubdate": "Thu, 01 Aug 2024 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Füllkrug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#F%C3%BCllkrug",
-        "pubdate": "Thu, 01 Aug 2024 16:00:00 +0200"
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Djokovic",
+        "pubdate": "Thu, 01 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Erdogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Erdogan",
         "pubdate": "Mon, 29 Jul 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Freibad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Freibad",
-        "pubdate": "Mon, 29 Jul 2024 19:00:00 +0200"
       }
     ]
   ]
