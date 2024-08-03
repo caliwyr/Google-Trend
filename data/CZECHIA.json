@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "03-08-2024 , 18:51:53",
+  "lastUpdate": "03-08-2024 , 19:03:37",
   "data": [
-    [
-      {
-        "title": "Jablonec – Plzeň",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jablonec%20%E2%80%93%20Plze%C5%88",
-        "pubdate": "Sat, 03 Aug 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Slovácko – Bohemians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slov%C3%A1cko%20%E2%80%93%20Bohemians",
-        "pubdate": "Sat, 03 Aug 2024 15:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Jan Železný",
@@ -24,9 +10,9 @@
     ],
     [
       {
-        "title": "Vultures 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vultures%202",
-        "pubdate": "Sat, 03 Aug 2024 15:00:00 +0200"
+        "title": "Aerosmith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aerosmith",
+        "pubdate": "Sat, 03 Aug 2024 20:00:00 +0200"
       }
     ],
     [
@@ -34,6 +20,13 @@
         "title": "Rebel Moon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rebel%20Moon",
         "pubdate": "Sat, 03 Aug 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vultures 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vultures%202",
+        "pubdate": "Sat, 03 Aug 2024 15:00:00 +0200"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Tomas machac",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tomas%20machac",
+        "pubdate": "Fri, 02 Aug 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sparta – Dukla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20%E2%80%93%20Dukla",
         "pubdate": "Fri, 02 Aug 2024 20:00:00 +0200"
@@ -66,20 +66,6 @@
     ],
     [
       {
-        "title": "Liberec – Slavia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liberec%20%E2%80%93%20Slavia",
-        "pubdate": "Fri, 02 Aug 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tomas machac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tomas%20machac",
-        "pubdate": "Fri, 02 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Krpalek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krpalek",
         "pubdate": "Fri, 02 Aug 2024 11:00:00 +0200"
@@ -87,9 +73,9 @@
     ],
     [
       {
-        "title": "Karolina manasova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karolina%20manasova",
-        "pubdate": "Fri, 02 Aug 2024 17:00:00 +0200"
+        "title": "Slavia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
+        "pubdate": "Fri, 02 Aug 2024 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Jakub Tomeček",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Tome%C4%8Dek",
         "pubdate": "Fri, 02 Aug 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Intel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Intel",
+        "pubdate": "Fri, 02 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Libanon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Libanon",
+        "pubdate": "Fri, 02 Aug 2024 00:00:00 +0200"
       }
     ]
   ]

@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-08-2024 , 18:51:56",
+  "lastUpdate": "03-08-2024 , 19:03:40",
   "data": [
+    [
+      {
+        "title": "Anna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Anna",
+        "pubdate": "Sun, 04 Aug 2024 00:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Inter",
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Arema vs Borneo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arema%20vs%20Borneo",
+        "title": "Arema Vs Borneo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Arema%20Vs%20Borneo",
         "pubdate": "Sat, 03 Aug 2024 06:00:00 +0700"
       }
     ],
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "Wordpress",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Wordpress",
+        "title": "WordPress",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#WordPress",
         "pubdate": "Sat, 03 Aug 2024 22:00:00 +0700"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Venezia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Venezia",
         "pubdate": "Fri, 02 Aug 2024 03:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Man on Fire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Man%20on%20Fire",
-        "pubdate": "Fri, 02 Aug 2024 22:00:00 +0700"
       }
     ]
   ]
