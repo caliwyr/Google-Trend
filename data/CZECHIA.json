@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-08-2024 , 03:55:00",
+  "lastUpdate": "03-08-2024 , 04:15:21",
   "data": [
-    [
-      {
-        "title": "Krpalek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krpalek",
-        "pubdate": "Fri, 02 Aug 2024 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Sparta – Dukla",
@@ -24,9 +17,23 @@
     ],
     [
       {
-        "title": "Jiří Beran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Beran",
-        "pubdate": "Fri, 02 Aug 2024 17:00:00 +0200"
+        "title": "Krpalek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krpalek",
+        "pubdate": "Fri, 02 Aug 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jakub Jurka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20Jurka",
+        "pubdate": "Fri, 02 Aug 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vadim Krasikov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vadim%20Krasikov",
+        "pubdate": "Fri, 02 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Marilyn Manson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marilyn%20Manson",
         "pubdate": "Fri, 02 Aug 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Evan Gershkovich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Evan%20Gershkovich",
-        "pubdate": "Fri, 02 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -73,23 +73,9 @@
     ],
     [
       {
-        "title": "Prague Pride",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prague%20Pride",
-        "pubdate": "Fri, 02 Aug 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Intel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Intel",
         "pubdate": "Fri, 02 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fortuna Clash of the Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fortuna%20Clash%20of%20the%20Stars",
-        "pubdate": "Fri, 02 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Silné bouřky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Siln%C3%A9%20bou%C5%99ky",
         "pubdate": "Thu, 01 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
+        "pubdate": "Thu, 01 Aug 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jiří Přívratský",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20P%C5%99%C3%ADvratsk%C3%BD",
+        "pubdate": "Thu, 01 Aug 2024 11:00:00 +0200"
       }
     ]
   ]
