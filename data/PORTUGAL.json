@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "03-08-2024 , 02:40:29",
+  "lastUpdate": "03-08-2024 , 02:52:10",
   "data": [
-    [
-      {
-        "title": "Mirandela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mirandela",
-        "pubdate": "Sat, 03 Aug 2024 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Amistosos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Amistosos",
         "pubdate": "Sat, 03 Aug 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mirandela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mirandela",
+        "pubdate": "Sat, 03 Aug 2024 01:00:00 +0100"
       }
     ],
     [
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Travis Scott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Travis%20Scott",
-        "pubdate": "Fri, 02 Aug 2024 14:00:00 +0100"
+        "title": "Benfica Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20Fulham",
+        "pubdate": "Fri, 02 Aug 2024 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Benfica vs Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20vs%20Fulham",
-        "pubdate": "Fri, 02 Aug 2024 19:00:00 +0100"
+        "title": "Simone Biles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Simone%20Biles",
+        "pubdate": "Fri, 02 Aug 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Travis Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Travis%20Scott",
+        "pubdate": "Fri, 02 Aug 2024 14:00:00 +0100"
       }
     ],
     [
@@ -66,16 +73,9 @@
     ],
     [
       {
-        "title": "TVI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#TVI",
-        "pubdate": "Fri, 02 Aug 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Matilde Reymão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Matilde%20Reym%C3%A3o",
-        "pubdate": "Fri, 02 Aug 2024 17:00:00 +0100"
+        "title": "Vela Olimpíadas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vela%20Olimp%C3%ADadas",
+        "pubdate": "Fri, 02 Aug 2024 08:00:00 +0100"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Rochele Nunes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rochele%20Nunes",
         "pubdate": "Fri, 02 Aug 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Isaac Nader",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Isaac%20Nader",
+        "pubdate": "Fri, 02 Aug 2024 11:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Nadia Comaneci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nadia%20Comaneci",
-        "pubdate": "Fri, 02 Aug 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Irina Rodrigues",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Irina%20Rodrigues",
         "pubdate": "Fri, 02 Aug 2024 20:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Vitoria SC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vitoria%20SC",
-        "pubdate": "Fri, 02 Aug 2024 20:00:00 +0100"
+        "title": "Nadia Comaneci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nadia%20Comaneci",
+        "pubdate": "Fri, 02 Aug 2024 11:00:00 +0100"
       }
     ]
   ]
