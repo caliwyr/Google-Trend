@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-08-2024 , 14:47:37",
+  "lastUpdate": "03-08-2024 , 14:56:53",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Gece ve Gündüz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gece%20ve%20G%C3%BCnd%C3%BCz",
-        "pubdate": "Sat, 03 Aug 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Opera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Opera",
         "pubdate": "Sat, 03 Aug 2024 01:00:00 +0300"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Mikail Bayram",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mikail%20Bayram",
-        "pubdate": "Sat, 03 Aug 2024 01:00:00 +0300"
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#BBC",
+        "pubdate": "Sat, 03 Aug 2024 03:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Simone Biles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Simone%20Biles",
         "pubdate": "Fri, 02 Aug 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Fındık fiyatı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#F%C4%B1nd%C4%B1k%20fiyat%C4%B1",
+        "pubdate": "Fri, 02 Aug 2024 15:00:00 +0300"
       }
     ]
   ]
