@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "03-08-2024 , 01:12:02",
+  "lastUpdate": "03-08-2024 , 02:09:40",
   "data": [
     [
       {
         "title": "2. Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#2.%20Bundesliga",
         "pubdate": "Fri, 02 Aug 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Adele",
-        "pubdate": "Fri, 02 Aug 2024 17:00:00 +0200"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Börse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%B6rse",
-        "pubdate": "Fri, 02 Aug 2024 13:00:00 +0200"
+        "title": "Adele-Konzert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Adele-Konzert",
+        "pubdate": "Fri, 02 Aug 2024 17:00:00 +0200"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Nürburgring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#N%C3%BCrburgring",
         "pubdate": "Fri, 02 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Börse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#B%C3%B6rse",
+        "pubdate": "Fri, 02 Aug 2024 13:00:00 +0200"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "Intel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Intel",
         "pubdate": "Fri, 02 Aug 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Instagram Türkei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Instagram%20T%C3%BCrkei",
-        "pubdate": "Fri, 02 Aug 2024 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Triathlon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Triathlon",
         "pubdate": "Tue, 30 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Southport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Southport",
+        "pubdate": "Mon, 29 Jul 2024 21:00:00 +0200"
       }
     ]
   ]
