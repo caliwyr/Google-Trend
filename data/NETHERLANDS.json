@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "04-08-2024 , 17:47:24",
+  "lastUpdate": "04-08-2024 , 17:56:33",
   "data": [
-    [
-      {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Djokovic",
-        "pubdate": "Sun, 04 Aug 2024 15:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Marianne Vos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marianne%20Vos",
         "pubdate": "Sun, 04 Aug 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Djokovic",
+        "pubdate": "Sun, 04 Aug 2024 15:00:00 +0200"
       }
     ],
     [
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Anthony Ammirati",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anthony%20Ammirati",
-        "pubdate": "Sun, 04 Aug 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Usain Bolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Usain%20Bolt",
         "pubdate": "Sun, 04 Aug 2024 10:00:00 +0200"
@@ -38,8 +31,8 @@
     ],
     [
       {
-        "title": "Johan Cruijff Schaal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johan%20Cruijff%20Schaal",
+        "title": "PSV-Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV-Feyenoord",
         "pubdate": "Sat, 03 Aug 2024 09:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Pfas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pfas",
         "pubdate": "Wed, 24 Jul 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "De slimste mens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20slimste%20mens",
+        "pubdate": "Tue, 23 Jul 2024 00:00:00 +0200"
       }
     ]
   ]
