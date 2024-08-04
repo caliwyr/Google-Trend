@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-08-2024 , 11:45:39",
+  "lastUpdate": "04-08-2024 , 11:54:58",
   "data": [
+    [
+      {
+        "title": "Simone Biles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Simone%20Biles",
+        "pubdate": "Sun, 04 Aug 2024 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Liban",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Liban",
-        "pubdate": "Sun, 04 Aug 2024 10:00:00 +0200"
+        "title": "Djokovic Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Djokovic%20Alcaraz",
+        "pubdate": "Sun, 04 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Djokovic Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Djokovic%20Alcaraz",
-        "pubdate": "Sun, 04 Aug 2024 09:00:00 +0200"
+        "title": "Sasha Zhoya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sasha%20Zhoya",
+        "pubdate": "Sun, 04 Aug 2024 13:00:00 +0200"
       }
     ],
     [
@@ -48,13 +55,6 @@
         "title": "Joan-Benjamin Gaba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joan-Benjamin%20Gaba",
         "pubdate": "Sun, 04 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carolina Marin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Carolina%20Marin",
-        "pubdate": "Sun, 04 Aug 2024 12:00:00 +0200"
       }
     ],
     [
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Cyclisme sur route JO 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cyclisme%20sur%20route%20JO%202024",
+        "pubdate": "Sat, 03 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lisa Barbelin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lisa%20Barbelin",
         "pubdate": "Sat, 03 Aug 2024 14:00:00 +0200"
@@ -87,22 +94,8 @@
     ],
     [
       {
-        "title": "Tableau des medailles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tableau%20des%20medailles",
-        "pubdate": "Sat, 03 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Julien Alfred",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Julien%20Alfred",
-        "pubdate": "Sat, 03 Aug 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Katie Ledecky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Katie%20Ledecky",
         "pubdate": "Sat, 03 Aug 2024 22:00:00 +0200"
       }
     ],
@@ -115,6 +108,13 @@
     ],
     [
       {
+        "title": "Katie Ledecky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Katie%20Ledecky",
+        "pubdate": "Sat, 03 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Camille Jedrzejewski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Camille%20Jedrzejewski",
         "pubdate": "Sat, 03 Aug 2024 11:00:00 +0200"
@@ -122,8 +122,8 @@
     ],
     [
       {
-        "title": "Tir a l'arc JO-2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tir%20a%20l'arc%20JO-2024",
+        "title": "Tir a l'arc JO 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tir%20a%20l'arc%20JO%202024",
         "pubdate": "Sat, 03 Aug 2024 20:00:00 +0200"
       }
     ],
