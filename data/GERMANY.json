@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2024 , 08:48:02",
+  "lastUpdate": "04-08-2024 , 08:57:23",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "KSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KSC",
-        "pubdate": "Sat, 03 Aug 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Barbara Schöneberger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barbara%20Sch%C3%B6neberger",
         "pubdate": "Sat, 03 Aug 2024 21:00:00 +0200"
@@ -34,13 +27,6 @@
         "title": "Rot-Weiss Essen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rot-Weiss%20Essen",
         "pubdate": "Sat, 03 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zehnkampf Olympia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zehnkampf%20Olympia",
-        "pubdate": "Fri, 02 Aug 2024 12:00:00 +0200"
       }
     ],
     [
@@ -62,6 +48,13 @@
         "title": "Nürburgring",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#N%C3%BCrburgring",
         "pubdate": "Fri, 02 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Neugebauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neugebauer",
+        "pubdate": "Fri, 02 Aug 2024 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Triathlon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Triathlon",
         "pubdate": "Tue, 30 Jul 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Southport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Southport",
+        "pubdate": "Mon, 29 Jul 2024 21:00:00 +0200"
       }
     ]
   ]
