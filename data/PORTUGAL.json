@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "04-08-2024 , 02:46:55",
+  "lastUpdate": "04-08-2024 , 02:56:12",
   "data": [
     [
       {
         "title": "Real Madrid  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid%20%20Barcelona",
-        "pubdate": "Sun, 04 Aug 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Atlético de Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico%20de%20Madrid",
         "pubdate": "Sun, 04 Aug 2024 00:00:00 +0100"
       }
     ],
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Atlético de Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico%20de%20Madrid",
+        "pubdate": "Sun, 04 Aug 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nuno Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Nuno%20Santos",
         "pubdate": "Sun, 04 Aug 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pau víctor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pau%20v%C3%ADctor",
+        "pubdate": "Sun, 04 Aug 2024 03:00:00 +0100"
       }
     ],
     [
@@ -45,16 +52,9 @@
     ],
     [
       {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto",
-        "pubdate": "Sat, 03 Aug 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "RTP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#RTP",
-        "pubdate": "Sat, 03 Aug 2024 22:00:00 +0100"
+        "title": "Atlético-GO  Botafogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico-GO%20%20Botafogo",
+        "pubdate": "Sun, 04 Aug 2024 03:00:00 +0100"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Kovacevic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kovacevic",
+        "pubdate": "Sat, 03 Aug 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rosinha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rosinha",
         "pubdate": "Sat, 03 Aug 2024 15:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Mondim de Basto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mondim%20de%20Basto",
         "pubdate": "Sat, 03 Aug 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sport Lisboa e Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
-        "pubdate": "Sat, 03 Aug 2024 07:00:00 +0100"
       }
     ]
   ]

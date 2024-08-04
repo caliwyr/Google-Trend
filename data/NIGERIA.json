@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-08-2024 , 02:46:54",
+  "lastUpdate": "04-08-2024 , 02:56:11",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle",
-        "pubdate": "Sat, 03 Aug 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rebel Moon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rebel%20Moon",
         "pubdate": "Sat, 03 Aug 2024 15:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Cat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cat",
         "pubdate": "Fri, 02 Aug 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wike",
+        "pubdate": "Fri, 02 Aug 2024 12:00:00 +0100"
       }
     ]
   ]
