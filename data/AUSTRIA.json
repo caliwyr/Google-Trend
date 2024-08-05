@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-08-2024 , 14:49:54",
+  "lastUpdate": "05-08-2024 , 14:59:10",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Bitcoin Kurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bitcoin%20Kurs",
+        "title": "Bitcoin-Kurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bitcoin-Kurs",
+        "pubdate": "Mon, 05 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Börse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%B6rse",
         "pubdate": "Mon, 05 Aug 2024 09:00:00 +0200"
       }
     ],
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Nikkei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nikkei",
-        "pubdate": "Mon, 05 Aug 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Apple-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Apple-Aktie",
         "pubdate": "Mon, 05 Aug 2024 00:00:00 +0200"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Börse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%B6rse",
-        "pubdate": "Mon, 05 Aug 2024 09:00:00 +0200"
+        "title": "Dax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dax",
+        "pubdate": "Mon, 05 Aug 2024 10:00:00 +0200"
       }
     ],
     [
@@ -48,6 +48,13 @@
         "title": "ATX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ATX",
         "pubdate": "Mon, 05 Aug 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Helene Fischer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Helene%20Fischer",
+        "pubdate": "Mon, 05 Aug 2024 16:00:00 +0200"
       }
     ],
     [
@@ -62,6 +69,20 @@
         "title": "Jakob Schubert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jakob%20Schubert",
         "pubdate": "Mon, 05 Aug 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "S&P 500",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%26P%20500",
+        "pubdate": "Mon, 05 Aug 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NASDAQ 100",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NASDAQ%20100",
+        "pubdate": "Mon, 05 Aug 2024 11:00:00 +0200"
       }
     ],
     [
@@ -87,23 +108,16 @@
     ],
     [
       {
+        "title": "Tommy Robinson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tommy%20Robinson",
+        "pubdate": "Mon, 05 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sheikh Hasina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sheikh%20Hasina",
         "pubdate": "Mon, 05 Aug 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Susanne Gogl-Walli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Susanne%20Gogl-Walli",
-        "pubdate": "Mon, 05 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Reto Bale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Reto%20Bale",
-        "pubdate": "Mon, 05 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Nicolas Cage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nicolas%20Cage",
-        "pubdate": "Mon, 05 Aug 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Florida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Florida",
+        "title": "Susanne Gogl-Walli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Susanne%20Gogl-Walli",
         "pubdate": "Mon, 05 Aug 2024 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Rapid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
-        "pubdate": "Sun, 04 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid – Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Real%20Madrid%20%E2%80%93%20Barcelona",
-        "pubdate": "Sun, 04 Aug 2024 01:00:00 +0200"
+        "title": "Nicolas Cage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nicolas%20Cage",
+        "pubdate": "Mon, 05 Aug 2024 01:00:00 +0200"
       }
     ]
   ]
