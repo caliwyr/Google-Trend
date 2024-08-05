@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-08-2024 , 02:47:42",
+  "lastUpdate": "05-08-2024 , 02:56:56",
   "data": [
     [
       {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Djokovic",
         "pubdate": "Sun, 04 Aug 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sagvan Tofi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sagvan%20Tofi",
+        "pubdate": "Sun, 04 Aug 2024 18:00:00 +0200"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Opava – Sparta Praha B",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Opava%20%E2%80%93%20Sparta%20Praha%20B",
         "pubdate": "Sun, 04 Aug 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kamarád do deště",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kamar%C3%A1d%20do%20de%C5%A1t%C4%9B",
-        "pubdate": "Sun, 04 Aug 2024 19:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Slovácko – Bohemians",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slov%C3%A1cko%20%E2%80%93%20Bohemians",
-        "pubdate": "Sat, 03 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Zemětřesení v itálii",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zem%C4%9Bt%C5%99esen%C3%AD%20v%20it%C3%A1lii",
         "pubdate": "Sat, 03 Aug 2024 09:00:00 +0200"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Dominika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominika",
-        "pubdate": "Sat, 03 Aug 2024 22:00:00 +0200"
+        "title": "Jan Železný",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20%C5%BDelezn%C3%BD",
+        "pubdate": "Sat, 03 Aug 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jan Železný",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20%C5%BDelezn%C3%BD",
-        "pubdate": "Sat, 03 Aug 2024 14:00:00 +0200"
+        "title": "Bakeshop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bakeshop",
+        "pubdate": "Sat, 03 Aug 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ivan Bartoš",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivan%20Barto%C5%A1",
+        "pubdate": "Sat, 03 Aug 2024 16:00:00 +0200"
       }
     ]
   ]
