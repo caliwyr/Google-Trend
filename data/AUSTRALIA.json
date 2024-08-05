@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-08-2024 , 18:52:32",
+  "lastUpdate": "05-08-2024 , 19:08:22",
   "data": [
     [
       {
@@ -12,6 +12,20 @@
       {
         "title": "Rebeca Andrade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rebeca%20Andrade",
+        "pubdate": "Tue, 06 Aug 2024 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nvidia",
+        "pubdate": "Tue, 06 Aug 2024 02:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Apple stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Apple%20stock",
         "pubdate": "Tue, 06 Aug 2024 00:00:00 +1000"
       }
     ],
@@ -31,6 +45,13 @@
     ],
     [
       {
+        "title": "Dow Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dow%20Jones",
+        "pubdate": "Mon, 05 Aug 2024 15:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Bitcoin price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bitcoin%20price",
         "pubdate": "Mon, 05 Aug 2024 14:00:00 +1000"
@@ -45,23 +66,9 @@
     ],
     [
       {
-        "title": "Stock market",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stock%20market",
-        "pubdate": "Mon, 05 Aug 2024 15:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Nicola Olyslagers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nicola%20Olyslagers",
         "pubdate": "Mon, 05 Aug 2024 07:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Dow Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dow%20Jones",
-        "pubdate": "Mon, 05 Aug 2024 16:00:00 +1000"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Graham Thorpe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Graham%20Thorpe",
         "pubdate": "Mon, 05 Aug 2024 18:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Nikkei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nikkei",
+        "pubdate": "Mon, 05 Aug 2024 16:00:00 +1000"
       }
     ],
     [
@@ -115,8 +129,8 @@
     ],
     [
       {
-        "title": "House of the Dragon season 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#House%20of%20the%20Dragon%20season%202",
+        "title": "House of the Dragon Season 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#House%20of%20the%20Dragon%20Season%202",
         "pubdate": "Mon, 05 Aug 2024 22:00:00 +1000"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Opals basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Opals%20basketball",
         "pubdate": "Mon, 05 Aug 2024 07:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Nvidia Stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nvidia%20Stock",
-        "pubdate": "Mon, 05 Aug 2024 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Gold price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20price",
-        "pubdate": "Mon, 05 Aug 2024 17:00:00 +1000"
       }
     ]
   ]

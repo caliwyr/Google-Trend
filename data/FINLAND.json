@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-08-2024 , 18:52:35",
+  "lastUpdate": "05-08-2024 , 19:08:25",
   "data": [
     [
       {
         "title": "Vero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vero",
         "pubdate": "Mon, 05 Aug 2024 07:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Artistic swimming Olympics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Artistic%20swimming%20Olympics",
+        "pubdate": "Mon, 05 Aug 2024 03:00:00 +0300"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Artistic swimming olympics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Artistic%20swimming%20olympics",
-        "pubdate": "Mon, 05 Aug 2024 03:00:00 +0300"
+        "title": "Wilma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Wilma",
+        "pubdate": "Mon, 05 Aug 2024 13:00:00 +0300"
       }
     ],
     [
@@ -59,9 +66,16 @@
     ],
     [
       {
-        "title": "Nvidia stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nvidia%20stock",
+        "title": "Nvidia Stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nvidia%20Stock",
         "pubdate": "Mon, 05 Aug 2024 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Nasdaq",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nasdaq",
+        "pubdate": "Mon, 05 Aug 2024 17:00:00 +0300"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Sp500",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sp500",
         "pubdate": "Mon, 05 Aug 2024 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Nasdaq",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nasdaq",
-        "pubdate": "Mon, 05 Aug 2024 17:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Triathlon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Triathlon",
         "pubdate": "Mon, 05 Aug 2024 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "VIX Index",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#VIX%20Index",
-        "pubdate": "Mon, 05 Aug 2024 18:00:00 +0300"
       }
     ]
   ]
