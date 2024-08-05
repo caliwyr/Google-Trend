@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-08-2024 , 16:49:38",
+  "lastUpdate": "05-08-2024 , 16:58:53",
   "data": [
-    [
-      {
-        "title": "Nifty 50",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nifty%2050",
-        "pubdate": "Mon, 05 Aug 2024 07:30:00 +0530"
-      }
-    ],
     [
       {
         "title": "Sheikh Hasina",
@@ -17,16 +10,23 @@
     ],
     [
       {
-        "title": "Global market",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Global%20market",
+        "title": "Nifty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nifty",
+        "pubdate": "Mon, 05 Aug 2024 11:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Dow Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dow%20Jones",
         "pubdate": "Mon, 05 Aug 2024 08:30:00 +0530"
       }
     ],
     [
       {
-        "title": "IND vs SL ODI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20vs%20SL%20ODI",
-        "pubdate": "Mon, 05 Aug 2024 06:30:00 +0530"
+        "title": "Nikkei index",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nikkei%20index",
+        "pubdate": "Mon, 05 Aug 2024 08:30:00 +0530"
       }
     ],
     [
@@ -38,8 +38,22 @@
     ],
     [
       {
-        "title": "Dow Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dow%20Jones",
+        "title": "Iran Israel war",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Iran%20Israel%20war",
+        "pubdate": "Mon, 05 Aug 2024 08:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Manika Batra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Manika%20Batra",
+        "pubdate": "Mon, 05 Aug 2024 17:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Ola Electric IPO GMP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ola%20Electric%20IPO%20GMP",
         "pubdate": "Mon, 05 Aug 2024 16:30:00 +0530"
       }
     ],
@@ -52,16 +66,9 @@
     ],
     [
       {
-        "title": "Israel Iran war",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Israel%20Iran%20war",
-        "pubdate": "Mon, 05 Aug 2024 12:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Ceigall IPO GMP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ceigall%20IPO%20GMP",
-        "pubdate": "Mon, 05 Aug 2024 12:30:00 +0530"
+        "title": "Graham Thorpe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Graham%20Thorpe",
+        "pubdate": "Mon, 05 Aug 2024 14:30:00 +0530"
       }
     ],
     [
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "Graham Thorpe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Graham%20Thorpe",
-        "pubdate": "Mon, 05 Aug 2024 14:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Ola Electric IPO GMP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ola%20Electric%20IPO%20GMP",
-        "pubdate": "Mon, 05 Aug 2024 16:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Iran Israel war",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Iran%20Israel%20war",
-        "pubdate": "Mon, 05 Aug 2024 08:30:00 +0530"
+        "title": "Ceigall IPO GMP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ceigall%20IPO%20GMP",
+        "pubdate": "Mon, 05 Aug 2024 12:30:00 +0530"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "SL vs IND",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#SL%20vs%20IND",
-        "pubdate": "Sun, 04 Aug 2024 17:30:00 +0530"
+        "title": "Japanese yen Carry trade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Japanese%20yen%20Carry%20trade",
+        "pubdate": "Mon, 05 Aug 2024 21:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Cbse.nic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cbse.nic",
+        "pubdate": "Mon, 05 Aug 2024 21:30:00 +0530"
       }
     ]
   ]
