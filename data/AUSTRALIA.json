@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-08-2024 , 05:50:35",
+  "lastUpdate": "05-08-2024 , 05:59:52",
   "data": [
+    [
+      {
+        "title": "ASX 200",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ASX%20200",
+        "pubdate": "Mon, 05 Aug 2024 13:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Golf Olympics 2024",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "ASX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ASX",
-        "pubdate": "Mon, 05 Aug 2024 13:00:00 +1000"
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bitcoin",
+        "pubdate": "Mon, 05 Aug 2024 14:00:00 +1000"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Essendon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Essendon",
-        "pubdate": "Mon, 05 Aug 2024 00:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "ASIO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ASIO",
         "pubdate": "Mon, 05 Aug 2024 13:00:00 +1000"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Lakshya Sen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakshya%20Sen",
-        "pubdate": "Mon, 05 Aug 2024 11:00:00 +1000"
+        "title": "Essendon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Essendon",
+        "pubdate": "Mon, 05 Aug 2024 00:00:00 +1000"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Lakshya Sen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lakshya%20Sen",
+        "pubdate": "Mon, 05 Aug 2024 11:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Jon Rahm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jon%20Rahm",
         "pubdate": "Mon, 05 Aug 2024 01:00:00 +1000"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "BTC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BTC",
-        "pubdate": "Mon, 05 Aug 2024 14:00:00 +1000"
+        "title": "ASX today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ASX%20today",
+        "pubdate": "Mon, 05 Aug 2024 12:00:00 +1000"
       }
     ],
     [
@@ -69,13 +76,6 @@
         "title": "FREMANTLE Dockers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#FREMANTLE%20Dockers",
         "pubdate": "Mon, 05 Aug 2024 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "ASX today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ASX%20today",
-        "pubdate": "Mon, 05 Aug 2024 12:00:00 +1000"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Tom Kim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tom%20Kim",
-        "pubdate": "Mon, 05 Aug 2024 11:00:00 +1000"
+        "title": "Stock market",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stock%20market",
+        "pubdate": "Mon, 05 Aug 2024 15:00:00 +1000"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Water polo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Water%20polo",
         "pubdate": "Mon, 05 Aug 2024 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Women's road race Olympics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Women's%20road%20race%20Olympics",
-        "pubdate": "Mon, 05 Aug 2024 12:00:00 +1000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Shelly-Ann Fraser",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Shelly-Ann%20Fraser",
         "pubdate": "Sun, 04 Aug 2024 06:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Torrie Lewis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Torrie%20Lewis",
+        "pubdate": "Sun, 04 Aug 2024 20:00:00 +1000"
       }
     ]
   ]
