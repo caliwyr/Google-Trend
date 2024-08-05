@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-08-2024 , 21:50:14",
+  "lastUpdate": "05-08-2024 , 21:59:24",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "VIX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#VIX",
+        "pubdate": "Tue, 06 Aug 2024 07:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Artistic swimming olympics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Artistic%20swimming%20olympics",
         "pubdate": "Mon, 05 Aug 2024 01:00:00 +1000"
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "ASX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ASX",
-        "pubdate": "Mon, 05 Aug 2024 12:00:00 +1000"
+        "title": "Dow Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dow%20Jones",
+        "pubdate": "Mon, 05 Aug 2024 15:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Dow Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dow%20Jones",
-        "pubdate": "Mon, 05 Aug 2024 15:00:00 +1000"
+        "title": "ASX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ASX",
+        "pubdate": "Mon, 05 Aug 2024 12:00:00 +1000"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Bangladesh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bangladesh",
-        "pubdate": "Mon, 05 Aug 2024 11:00:00 +1000"
+        "title": "Graham Thorpe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Graham%20Thorpe",
+        "pubdate": "Mon, 05 Aug 2024 18:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Graham Thorpe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Graham%20Thorpe",
-        "pubdate": "Mon, 05 Aug 2024 18:00:00 +1000"
+        "title": "Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bangladesh",
+        "pubdate": "Mon, 05 Aug 2024 11:00:00 +1000"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Melissa Wu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melissa%20Wu",
-        "pubdate": "Mon, 05 Aug 2024 19:00:00 +1000"
+        "title": "Nikkei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nikkei",
+        "pubdate": "Mon, 05 Aug 2024 16:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Nikkei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nikkei",
-        "pubdate": "Mon, 05 Aug 2024 16:00:00 +1000"
+        "title": "Melissa Wu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Melissa%20Wu",
+        "pubdate": "Mon, 05 Aug 2024 19:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "House of the Dragon season 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#House%20of%20the%20Dragon%20season%202",
         "pubdate": "Mon, 05 Aug 2024 22:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Hockey Olympics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hockey%20Olympics",
-        "pubdate": "Mon, 05 Aug 2024 14:00:00 +1000"
       }
     ]
   ]
