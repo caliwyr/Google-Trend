@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-08-2024 , 16:52:48",
+  "lastUpdate": "06-08-2024 , 17:09:23",
   "data": [
+    [
+      {
+        "title": "GeoNet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
+        "pubdate": "Tue, 06 Aug 2024 00:00:00 +1200"
+      }
+    ],
     [
       {
         "title": "Earthquake Wellington",
@@ -13,13 +20,6 @@
         "title": "Eliza McCartney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Eliza%20McCartney",
         "pubdate": "Tue, 06 Aug 2024 11:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "GeoNet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
-        "pubdate": "Tue, 06 Aug 2024 00:00:00 +1200"
       }
     ],
     [
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "New Zealand 2024 Olympics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealand%202024%20Olympics",
+        "title": "New Zealand 2024 olympics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Zealand%202024%20olympics",
         "pubdate": "Tue, 06 Aug 2024 15:00:00 +1200"
       }
     ],
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Medal table 2024 Olympics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Medal%20table%202024%20Olympics",
-        "pubdate": "Tue, 06 Aug 2024 08:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Tim Walz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tim%20Walz",
         "pubdate": "Tue, 06 Aug 2024 16:00:00 +1200"
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "NZX",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZX",
-        "pubdate": "Tue, 06 Aug 2024 10:00:00 +1200"
+        "title": "Medal table 2024 Olympics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Medal%20table%202024%20Olympics",
+        "pubdate": "Tue, 06 Aug 2024 08:00:00 +1200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Luuka Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Luuka%20Jones",
-        "pubdate": "Tue, 06 Aug 2024 15:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "E. coli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#E.%20coli",
         "pubdate": "Tue, 06 Aug 2024 18:00:00 +1200"
@@ -139,6 +125,20 @@
         "title": "Franklins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Franklins",
         "pubdate": "Tue, 06 Aug 2024 00:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Olympic football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Olympic%20football",
+        "pubdate": "Tue, 06 Aug 2024 22:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nvidia",
+        "pubdate": "Tue, 06 Aug 2024 19:00:00 +1200"
       }
     ]
   ]
