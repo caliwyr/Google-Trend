@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-08-2024 , 03:52:41",
+  "lastUpdate": "06-08-2024 , 04:11:50",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Nikkei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nikkei",
+        "pubdate": "Tue, 06 Aug 2024 08:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "NZX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZX",
         "pubdate": "Tue, 06 Aug 2024 10:00:00 +1200"
@@ -59,20 +66,6 @@
     ],
     [
       {
-        "title": "Nikkei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nikkei",
-        "pubdate": "Tue, 06 Aug 2024 08:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Nikkei 225",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nikkei%20225",
-        "pubdate": "Tue, 06 Aug 2024 09:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Franklins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Franklins",
         "pubdate": "Tue, 06 Aug 2024 00:00:00 +1200"
@@ -83,6 +76,13 @@
         "title": "Rebeca Andrade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rebeca%20Andrade",
         "pubdate": "Tue, 06 Aug 2024 14:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Keely Hodgkinson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Keely%20Hodgkinson",
+        "pubdate": "Tue, 06 Aug 2024 15:00:00 +1200"
       }
     ],
     [

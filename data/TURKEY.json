@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-08-2024 , 03:52:44",
+  "lastUpdate": "06-08-2024 , 04:11:53",
   "data": [
     [
       {
@@ -52,16 +52,9 @@
     ],
     [
       {
-        "title": "Enflasyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Enflasyon",
+        "title": "Temmuz ayı enflasyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Temmuz%20ay%C4%B1%20enflasyon",
         "pubdate": "Mon, 05 Aug 2024 11:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bitcoin",
-        "pubdate": "Mon, 05 Aug 2024 10:00:00 +0300"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "Faruk Sabancı",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Faruk%20Sabanc%C4%B1",
         "pubdate": "Mon, 05 Aug 2024 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bitcoin",
+        "pubdate": "Mon, 05 Aug 2024 11:00:00 +0300"
       }
     ],
     [
