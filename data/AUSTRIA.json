@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-08-2024 , 18:48:22",
+  "lastUpdate": "06-08-2024 , 18:57:37",
   "data": [
     [
       {
-        "title": "Tim Walz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tim%20Walz",
-        "pubdate": "Tue, 06 Aug 2024 00:00:00 +0200"
+        "title": "Red Bull Salzburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Red%20Bull%20Salzburg",
+        "pubdate": "Tue, 06 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Basketball Olympia 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Basketball%20Olympia%202024",
+        "pubdate": "Tue, 06 Aug 2024 18:00:00 +0200"
       }
     ],
     [
@@ -13,13 +20,6 @@
         "title": "Letzte Generation",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Letzte%20Generation",
         "pubdate": "Tue, 06 Aug 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RB Salzburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RB%20Salzburg",
-        "pubdate": "Tue, 06 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "Til Schweiger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Til%20Schweiger",
         "pubdate": "Tue, 06 Aug 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Olympia Basketball 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Olympia%20Basketball%202024",
-        "pubdate": "Tue, 06 Aug 2024 16:00:00 +0200"
       }
     ],
     [
@@ -94,6 +87,20 @@
     ],
     [
       {
+        "title": "Alfred Bauhaus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alfred%20Bauhaus",
+        "pubdate": "Tue, 06 Aug 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NASDAQ Index",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NASDAQ%20Index",
+        "pubdate": "Tue, 06 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Armand Duplantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Armand%20Duplantis",
         "pubdate": "Mon, 05 Aug 2024 21:00:00 +0200"
@@ -108,9 +115,16 @@
     ],
     [
       {
-        "title": "Börse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#B%C3%B6rse",
+        "title": "Dax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dax",
         "pubdate": "Mon, 05 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tim Walz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tim%20Walz",
+        "pubdate": "Mon, 05 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "NVIDIA-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NVIDIA-Aktie",
-        "pubdate": "Mon, 05 Aug 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Apple-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Apple-Aktie",
-        "pubdate": "Mon, 05 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dax",
         "pubdate": "Mon, 05 Aug 2024 10:00:00 +0200"
       }
     ]
