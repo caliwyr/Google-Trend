@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-08-2024 , 22:50:26",
+  "lastUpdate": "06-08-2024 , 22:59:40",
   "data": [
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Atletico%20Madrid",
+        "pubdate": "Wed, 07 Aug 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Marius Borg Høiby",
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Håndball ol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball%20ol",
+        "title": "Håndball OL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball%20OL",
         "pubdate": "Tue, 06 Aug 2024 22:00:00 +0200"
       }
     ],
@@ -73,16 +80,23 @@
     ],
     [
       {
-        "title": "Gabrielle Thomas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gabrielle%20Thomas",
-        "pubdate": "Tue, 06 Aug 2024 22:00:00 +0200"
+        "title": "Jannecke Weeden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jannecke%20Weeden",
+        "pubdate": "Tue, 06 Aug 2024 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Drake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Drake",
-        "pubdate": "Tue, 06 Aug 2024 11:00:00 +0200"
+        "title": "Aksel Lund Svindal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aksel%20Lund%20Svindal",
+        "pubdate": "Tue, 06 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gabrielle Thomas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gabrielle%20Thomas",
+        "pubdate": "Tue, 06 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Line Flem Høst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Line%20Flem%20H%C3%B8st",
-        "pubdate": "Tue, 06 Aug 2024 00:00:00 +0200"
+        "title": "Drake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Drake",
+        "pubdate": "Tue, 06 Aug 2024 11:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Jakob Ingebrigtsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jakob%20Ingebrigtsen",
-        "pubdate": "Mon, 05 Aug 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tim Walz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tim%20Walz",
         "pubdate": "Mon, 05 Aug 2024 19:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Karoline Bjerkeli Grøvdal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Karoline%20Bjerkeli%20Gr%C3%B8vdal",
-        "pubdate": "Mon, 05 Aug 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sondre Guttormsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sondre%20Guttormsen",
-        "pubdate": "Mon, 05 Aug 2024 20:00:00 +0200"
+        "title": "Jakob Ingebrigtsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jakob%20Ingebrigtsen",
+        "pubdate": "Mon, 05 Aug 2024 07:00:00 +0200"
       }
     ]
   ]
