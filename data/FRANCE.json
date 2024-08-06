@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-08-2024 , 00:28:50",
+  "lastUpdate": "06-08-2024 , 01:47:12",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Warren Buffett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Warren%20Buffett",
+        "title": "S&P 500",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#S%26P%20500",
         "pubdate": "Tue, 06 Aug 2024 00:00:00 +0200"
       }
     ],
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Natation synchronisée Jeux olympiques",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Natation%20synchronis%C3%A9e%20Jeux%20olympiques",
-        "pubdate": "Mon, 05 Aug 2024 01:00:00 +0200"
+        "title": "Warren Buffett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Warren%20Buffett",
+        "pubdate": "Tue, 06 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Jazz et Laurent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jazz%20et%20Laurent",
-        "pubdate": "Mon, 05 Aug 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Volley JO 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Volley%20JO%202024",
         "pubdate": "Mon, 05 Aug 2024 20:00:00 +0200"
@@ -90,6 +83,13 @@
         "title": "Escalade JO 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Escalade%20JO%202024",
         "pubdate": "Mon, 05 Aug 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jazz et Laurent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jazz%20et%20Laurent",
+        "pubdate": "Mon, 05 Aug 2024 14:00:00 +0200"
       }
     ],
     [
@@ -115,16 +115,9 @@
     ],
     [
       {
-        "title": "NASDAQ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#NASDAQ",
-        "pubdate": "Mon, 05 Aug 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Joao Neves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joao%20Neves",
-        "pubdate": "Mon, 05 Aug 2024 17:00:00 +0200"
+        "title": "Mont Blanc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mont%20Blanc",
+        "pubdate": "Mon, 05 Aug 2024 15:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Mont Blanc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mont%20Blanc",
-        "pubdate": "Mon, 05 Aug 2024 15:00:00 +0200"
+        "title": "Ngapeth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ngapeth",
+        "pubdate": "Mon, 05 Aug 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Variole du singe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Variole%20du%20singe",
+        "pubdate": "Mon, 05 Aug 2024 08:00:00 +0200"
       }
     ]
   ]

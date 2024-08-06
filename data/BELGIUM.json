@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-08-2024 , 00:28:48",
+  "lastUpdate": "06-08-2024 , 01:47:10",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bitcoin",
-        "pubdate": "Mon, 05 Aug 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Standard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard",
         "pubdate": "Mon, 05 Aug 2024 15:00:00 +0200"
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "Nasdaq",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nasdaq",
-        "pubdate": "Mon, 05 Aug 2024 13:00:00 +0200"
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bitcoin",
+        "pubdate": "Mon, 05 Aug 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "France-Egypte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France-Egypte",
+        "pubdate": "Mon, 05 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "France-Egypte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#France-Egypte",
-        "pubdate": "Mon, 05 Aug 2024 22:00:00 +0200"
+        "title": "Nasdaq",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nasdaq",
+        "pubdate": "Mon, 05 Aug 2024 13:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Sellpy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sellpy",
+        "pubdate": "Mon, 05 Aug 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Front 242",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Front%20242",
         "pubdate": "Mon, 05 Aug 2024 00:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Sifan Hassan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sifan%20Hassan",
         "pubdate": "Mon, 05 Aug 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Standard Luik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20Luik",
-        "pubdate": "Mon, 05 Aug 2024 14:00:00 +0200"
       }
     ]
   ]
