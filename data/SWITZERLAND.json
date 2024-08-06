@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "06-08-2024 , 02:58:44",
+  "lastUpdate": "06-08-2024 , 03:22:18",
   "data": [
     [
       {
-        "title": "France Egypte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#France%20Egypte",
+        "title": "France-Egypte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#France-Egypte",
         "pubdate": "Tue, 06 Aug 2024 00:00:00 +0200"
       }
     ],
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "SMI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SMI",
-        "pubdate": "Mon, 05 Aug 2024 10:00:00 +0200"
+        "title": "Dow Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dow%20Jones",
+        "pubdate": "Mon, 05 Aug 2024 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Dow Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dow%20Jones",
-        "pubdate": "Mon, 05 Aug 2024 08:00:00 +0200"
+        "title": "SMI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SMI",
+        "pubdate": "Mon, 05 Aug 2024 10:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Dax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dax",
-        "pubdate": "Mon, 05 Aug 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "NASDAQ 100",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NASDAQ%20100",
         "pubdate": "Mon, 05 Aug 2024 12:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Ethereum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ethereum",
         "pubdate": "Mon, 05 Aug 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Luana Alonso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luana%20Alonso",
+        "pubdate": "Mon, 05 Aug 2024 17:00:00 +0200"
       }
     ]
   ]
