@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-08-2024 , 11:46:34",
+  "lastUpdate": "07-08-2024 , 11:55:50",
   "data": [
-    [
-      {
-        "title": "Vanenburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vanenburg",
-        "pubdate": "Wed, 07 Aug 2024 08:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "FC Twente",
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Helene Hendriks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Helene%20Hendriks",
+        "pubdate": "Tue, 06 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Maikel van der Vleuten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maikel%20van%20der%20Vleuten",
         "pubdate": "Tue, 06 Aug 2024 12:00:00 +0200"
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Stefan Nillessen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stefan%20Nillessen",
+        "title": "Niels Laros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Niels%20Laros",
         "pubdate": "Tue, 06 Aug 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Amalia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amalia",
-        "pubdate": "Tue, 06 Aug 2024 16:00:00 +0200"
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nvidia",
+        "pubdate": "Tue, 06 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Iran",
         "pubdate": "Mon, 05 Aug 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hassan olympische spelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hassan%20olympische%20spelen",
-        "pubdate": "Mon, 05 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nadal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nadal",
         "pubdate": "Mon, 29 Jul 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Djokovic",
+        "pubdate": "Mon, 29 Jul 2024 15:00:00 +0200"
       }
     ]
   ]
