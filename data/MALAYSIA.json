@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-08-2024 , 09:45:33",
+  "lastUpdate": "07-08-2024 , 09:54:57",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chelsea",
+        "pubdate": "Wed, 07 Aug 2024 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Mark Cheng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mark%20Cheng",
         "pubdate": "Wed, 07 Aug 2024 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Real%20Madrid",
+        "pubdate": "Wed, 07 Aug 2024 17:00:00 +0800"
       }
     ],
     [
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "Yahya Sinwar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Yahya%20Sinwar",
-        "pubdate": "Tue, 06 Aug 2024 04:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Tim Walz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tim%20Walz",
         "pubdate": "Tue, 06 Aug 2024 22:00:00 +0800"
@@ -76,6 +83,13 @@
         "title": "Armand Duplantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Armand%20Duplantis",
         "pubdate": "Tue, 06 Aug 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Bursa Malaysia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bursa%20Malaysia",
+        "pubdate": "Tue, 06 Aug 2024 02:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Zhou Yaqin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Zhou%20Yaqin",
         "pubdate": "Tue, 06 Aug 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nvidia",
-        "pubdate": "Tue, 06 Aug 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Los Angeles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Los%20Angeles",
-        "pubdate": "Tue, 06 Aug 2024 09:00:00 +0800"
       }
     ]
   ]
