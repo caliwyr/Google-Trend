@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-08-2024 , 06:45:16",
+  "lastUpdate": "08-08-2024 , 06:54:47",
   "data": [
-    [
-      {
-        "title": "Anne Hidalgo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anne%20Hidalgo",
-        "pubdate": "Thu, 08 Aug 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Taylor Swift",
@@ -17,8 +10,29 @@
     ],
     [
       {
+        "title": "Anne Hidalgo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Anne%20Hidalgo",
+        "pubdate": "Thu, 08 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lamecha Girma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lamecha%20Girma",
+        "pubdate": "Thu, 08 Aug 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Clement Ducos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clement%20Ducos",
+        "pubdate": "Thu, 08 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arsenal",
         "pubdate": "Thu, 08 Aug 2024 01:00:00 +0200"
       }
     ],
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Marine Johannès",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Johann%C3%A8s",
-        "pubdate": "Wed, 07 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Billal Bennama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Billal%20Bennama",
         "pubdate": "Wed, 07 Aug 2024 10:00:00 +0200"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Celine Boutier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Celine%20Boutier",
-        "pubdate": "Wed, 07 Aug 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mehdi Narjissi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mehdi%20Narjissi",
         "pubdate": "Wed, 07 Aug 2024 21:00:00 +0200"
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Banksy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Banksy",
-        "pubdate": "Wed, 07 Aug 2024 14:00:00 +0200"
+        "title": "Celine Boutier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Celine%20Boutier",
+        "pubdate": "Wed, 07 Aug 2024 17:00:00 +0200"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "Soufiane El Bakkali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Soufiane%20El%20Bakkali",
-        "pubdate": "Wed, 07 Aug 2024 18:00:00 +0200"
+        "title": "Banksy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Banksy",
+        "pubdate": "Wed, 07 Aug 2024 14:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Alysha Newman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alysha%20Newman",
+        "pubdate": "Wed, 07 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Borderlands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Borderlands",
         "pubdate": "Wed, 07 Aug 2024 16:00:00 +0200"
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elon%20Musk",
-        "pubdate": "Wed, 07 Aug 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Djamili-Dini Aboudou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Djamili-Dini%20Aboudou",
+        "title": "Soufiane El Bakkali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Soufiane%20El%20Bakkali",
         "pubdate": "Wed, 07 Aug 2024 23:00:00 +0200"
       }
     ]
