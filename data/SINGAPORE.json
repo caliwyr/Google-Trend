@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2024 , 21:49:08",
+  "lastUpdate": "08-08-2024 , 21:58:21",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Gold",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold",
         "pubdate": "Fri, 09 Aug 2024 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "USA vs Serbia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#USA%20vs%20Serbia",
+        "pubdate": "Fri, 09 Aug 2024 05:00:00 +0800"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Angelman syndrome",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Angelman%20syndrome",
-        "pubdate": "Thu, 08 Aug 2024 13:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "David Yong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#David%20Yong",
         "pubdate": "Thu, 08 Aug 2024 21:00:00 +0800"
@@ -94,9 +94,16 @@
     ],
     [
       {
-        "title": "JD Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#JD%20Vance",
-        "pubdate": "Thu, 08 Aug 2024 06:00:00 +0800"
+        "title": "Angelman syndrome",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Angelman%20syndrome",
+        "pubdate": "Thu, 08 Aug 2024 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "International Cat Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#International%20Cat%20Day",
+        "pubdate": "Thu, 08 Aug 2024 19:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kim Lim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kim%20Lim",
         "pubdate": "Wed, 07 Aug 2024 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "COE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#COE",
-        "pubdate": "Wed, 07 Aug 2024 17:00:00 +0800"
       }
     ]
   ]
