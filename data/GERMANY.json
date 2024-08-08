@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-08-2024 , 12:36:25",
+  "lastUpdate": "08-08-2024 , 12:58:44",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Handball Olympia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball%20Olympia",
-        "pubdate": "Wed, 07 Aug 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Timo Boll",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Timo%20Boll",
         "pubdate": "Wed, 07 Aug 2024 20:00:00 +0200"
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "Handball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball",
+        "pubdate": "Wed, 07 Aug 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Patti Yasutake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Patti%20Yasutake",
         "pubdate": "Wed, 07 Aug 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wolke Hegenbarth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wolke%20Hegenbarth",
+        "pubdate": "Wed, 07 Aug 2024 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Laura Ludwig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Laura%20Ludwig",
         "pubdate": "Sat, 03 Aug 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hertha BSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
-        "pubdate": "Sat, 03 Aug 2024 14:00:00 +0200"
       }
     ]
   ]
