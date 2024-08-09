@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-08-2024 , 19:45:56",
+  "lastUpdate": "09-08-2024 , 19:55:07",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Parent Portal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Parent%20Portal",
+        "pubdate": "Fri, 09 Aug 2024 21:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Chari Hawkins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chari%20Hawkins",
         "pubdate": "Fri, 09 Aug 2024 12:00:00 +1200"
@@ -132,13 +139,6 @@
         "title": "Sobhita Dhulipala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sobhita%20Dhulipala",
         "pubdate": "Fri, 09 Aug 2024 18:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Japan earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Japan%20earthquake",
-        "pubdate": "Thu, 08 Aug 2024 21:00:00 +1200"
       }
     ]
   ]
