@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "09-08-2024 , 20:47:55",
+  "lastUpdate": "09-08-2024 , 20:57:12",
   "data": [
-    [
-      {
-        "title": "Lavreysen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lavreysen",
-        "pubdate": "Fri, 09 Aug 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
-        "pubdate": "Fri, 09 Aug 2024 20:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Eredivisie",
@@ -52,6 +38,13 @@
     ],
     [
       {
+        "title": "Cao metaal en techniek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cao%20metaal%20en%20techniek",
+        "pubdate": "Fri, 09 Aug 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Banksy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Banksy",
         "pubdate": "Fri, 09 Aug 2024 08:00:00 +0200"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Cao metaal en techniek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cao%20metaal%20en%20techniek",
-        "pubdate": "Fri, 09 Aug 2024 20:00:00 +0200"
+        "title": "Hoogland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hoogland",
+        "pubdate": "Fri, 09 Aug 2024 21:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Lisa van Belle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lisa%20van%20Belle",
-        "pubdate": "Fri, 09 Aug 2024 20:00:00 +0200"
+        "title": "Cambuur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
+        "pubdate": "Fri, 09 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Jeffrey Hoogland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jeffrey%20Hoogland",
+        "pubdate": "Thu, 08 Aug 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Sharon van Rouwendaal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sharon%20van%20Rouwendaal",
         "pubdate": "Thu, 08 Aug 2024 05:00:00 +0200"
@@ -104,13 +104,6 @@
         "title": "Laurentien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Laurentien",
         "pubdate": "Thu, 08 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Van Rouwendaal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Rouwendaal",
-        "pubdate": "Thu, 08 Aug 2024 10:00:00 +0200"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Annelous Lammerts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Annelous%20Lammerts",
-        "pubdate": "Thu, 08 Aug 2024 18:00:00 +0200"
+        "title": "Japan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Japan",
+        "pubdate": "Thu, 08 Aug 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Japan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Japan",
-        "pubdate": "Thu, 08 Aug 2024 21:00:00 +0200"
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Tue, 06 Aug 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sifan Hassan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sifan%20Hassan",
+        "pubdate": "Mon, 05 Aug 2024 22:00:00 +0200"
       }
     ]
   ]
