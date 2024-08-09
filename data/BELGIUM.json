@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-08-2024 , 04:51:31",
+  "lastUpdate": "09-08-2024 , 05:07:27",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Tuur Dens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tuur%20Dens",
+        "pubdate": "Fri, 09 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Elodie Ouedraogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elodie%20Ouedraogo",
         "pubdate": "Fri, 09 Aug 2024 00:00:00 +0200"
@@ -26,13 +33,6 @@
       {
         "title": "Jack Karlson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jack%20Karlson",
-        "pubdate": "Fri, 09 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tuur Dens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tuur%20Dens",
         "pubdate": "Fri, 09 Aug 2024 00:00:00 +0200"
       }
     ],
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "LeBron James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LeBron%20James",
-        "pubdate": "Thu, 08 Aug 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Femke Bol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Femke%20Bol",
         "pubdate": "Thu, 08 Aug 2024 21:00:00 +0200"
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "W-Festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#W-Festival",
-        "pubdate": "Thu, 08 Aug 2024 12:00:00 +0200"
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LeBron%20James",
+        "pubdate": "Thu, 08 Aug 2024 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hockey JO 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hockey%20JO%202024",
         "pubdate": "Thu, 08 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "W-Festival 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#W-Festival%202024",
+        "pubdate": "Thu, 08 Aug 2024 16:00:00 +0200"
       }
     ]
   ]
