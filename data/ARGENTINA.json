@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-08-2024 , 20:47:20",
+  "lastUpdate": "10-08-2024 , 20:56:42",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Los Pumas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Los%20Pumas",
-        "pubdate": "Sat, 10 Aug 2024 01:00:00 -0300"
+        "title": "River",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#River",
+        "pubdate": "Sat, 10 Aug 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Boca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca",
+        "pubdate": "Sat, 10 Aug 2024 14:00:00 -0300"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "San Lorenzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo",
         "pubdate": "Sat, 10 Aug 2024 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Los Pumas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Los%20Pumas",
+        "pubdate": "Sat, 10 Aug 2024 01:00:00 -0300"
       }
     ],
     [
@@ -33,20 +47,6 @@
       {
         "title": "Tottenham  Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tottenham%20%20Bayern",
-        "pubdate": "Sat, 10 Aug 2024 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "River vs huracan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#River%20vs%20huracan",
-        "pubdate": "Sat, 10 Aug 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Boca vs Independiente Rivadavia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20vs%20Independiente%20Rivadavia",
         "pubdate": "Sat, 10 Aug 2024 14:00:00 -0300"
       }
     ],
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Avion Brasil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Avion%20Brasil",
+        "title": "Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brasil",
         "pubdate": "Fri, 09 Aug 2024 17:00:00 -0300"
       }
     ]
