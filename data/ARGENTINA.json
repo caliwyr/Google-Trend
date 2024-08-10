@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-08-2024 , 22:48:31",
+  "lastUpdate": "10-08-2024 , 22:57:48",
   "data": [
+    [
+      {
+        "title": "Boca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca",
+        "pubdate": "Sat, 10 Aug 2024 14:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Manchester City  Manchester United",
@@ -12,13 +19,6 @@
       {
         "title": "River",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#River",
-        "pubdate": "Sat, 10 Aug 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Boca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca",
         "pubdate": "Sat, 10 Aug 2024 14:00:00 -0300"
       }
     ],
@@ -41,13 +41,6 @@
         "title": "San Lorenzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo",
         "pubdate": "Sat, 10 Aug 2024 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Boca Juniors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Boca%20Juniors",
-        "pubdate": "Sat, 10 Aug 2024 18:00:00 -0300"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "USA vs Francia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#USA%20vs%20Francia",
-        "pubdate": "Sat, 10 Aug 2024 18:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Futbol femenino Juegos olimpicos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Futbol%20femenino%20Juegos%20olimpicos",
         "pubdate": "Sat, 10 Aug 2024 15:00:00 -0300"
@@ -139,6 +125,20 @@
         "title": "Belgrano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Belgrano",
         "pubdate": "Fri, 09 Aug 2024 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Las Leonas hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Las%20Leonas%20hoy",
+        "pubdate": "Fri, 09 Aug 2024 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Deportivo Riestra  Lanús",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Deportivo%20Riestra%20%20Lan%C3%BAs",
+        "pubdate": "Fri, 09 Aug 2024 15:00:00 -0300"
       }
     ]
   ]

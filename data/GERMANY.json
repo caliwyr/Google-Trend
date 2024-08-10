@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "10-08-2024 , 22:48:36",
+  "lastUpdate": "10-08-2024 , 22:57:52",
   "data": [
+    [
+      {
+        "title": "Basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Basketball",
+        "pubdate": "Sun, 11 Aug 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Dortmund – Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20%E2%80%93%20Aston%20Villa",
         "pubdate": "Sat, 10 Aug 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Sat, 10 Aug 2024 21:00:00 +0200"
       }
     ],
     [
@@ -17,9 +31,9 @@
     ],
     [
       {
-        "title": "HSV – Hertha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV%20%E2%80%93%20Hertha",
-        "pubdate": "Sat, 10 Aug 2024 21:00:00 +0200"
+        "title": "Nils Ehlers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nils%20Ehlers",
+        "pubdate": "Sat, 10 Aug 2024 23:00:00 +0200"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Beachvolleyball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Beachvolleyball",
-        "pubdate": "Sat, 10 Aug 2024 23:00:00 +0200"
+        "title": "Jimmy Fallon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Jimmy%20Fallon",
+        "pubdate": "Sat, 10 Aug 2024 20:00:00 +0200"
       }
     ],
     [
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "ATR-72",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ATR-72",
-        "pubdate": "Fri, 09 Aug 2024 22:00:00 +0200"
+        "title": "Perseiden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Perseiden",
+        "pubdate": "Fri, 09 Aug 2024 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Perseiden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Perseiden",
-        "pubdate": "Fri, 09 Aug 2024 17:00:00 +0200"
+        "title": "ATR-72",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ATR-72",
+        "pubdate": "Fri, 09 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Göring-Eckardt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%B6ring-Eckardt",
-        "pubdate": "Fri, 09 Aug 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Thomas Bach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Bach",
-        "pubdate": "Fri, 09 Aug 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Darja Varfolomeev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darja%20Varfolomeev",
-        "pubdate": "Thu, 08 Aug 2024 12:00:00 +0200"
+        "title": "Travis Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Travis%20Scott",
+        "pubdate": "Fri, 09 Aug 2024 23:00:00 +0200"
       }
     ]
   ]
