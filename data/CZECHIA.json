@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-08-2024 , 08:48:04",
+  "lastUpdate": "11-08-2024 , 08:57:30",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Sparta Praha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20Praha",
         "pubdate": "Sun, 11 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nový Zéland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nov%C3%BD%20Z%C3%A9land",
+        "pubdate": "Sun, 11 Aug 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ogrodníková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ogrodn%C3%ADkov%C3%A1",
+        "pubdate": "Sat, 10 Aug 2024 12:00:00 +0200"
       }
     ],
     [
@@ -41,13 +55,6 @@
         "title": "Prague Pride",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prague%20Pride",
         "pubdate": "Sat, 10 Aug 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ogrodnikova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ogrodnikova",
-        "pubdate": "Sat, 10 Aug 2024 21:00:00 +0200"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Maraton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maraton",
+        "pubdate": "Sat, 10 Aug 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ben Cristovao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ben%20Cristovao",
         "pubdate": "Sat, 10 Aug 2024 21:00:00 +0200"
@@ -103,13 +117,6 @@
       {
         "title": "Kauza Kramný",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kauza%20Kramn%C3%BD",
-        "pubdate": "Sat, 10 Aug 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hlinka Gretzky Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hlinka%20Gretzky%20Cup",
         "pubdate": "Sat, 10 Aug 2024 09:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Petr Spálený",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Sp%C3%A1len%C3%BD",
         "pubdate": "Sat, 10 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Martin Fuksa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Fuksa",
-        "pubdate": "Fri, 09 Aug 2024 12:00:00 +0200"
       }
     ]
   ]
