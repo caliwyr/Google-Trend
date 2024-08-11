@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "11-08-2024 , 10:50:27",
+  "lastUpdate": "11-08-2024 , 11:00:05",
   "data": [
+    [
+      {
+        "title": "Olympics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Olympics",
+        "pubdate": "Sun, 11 Aug 2024 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Wembanyama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wembanyama",
         "pubdate": "Sun, 11 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Omnium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Omnium",
+        "pubdate": "Sun, 11 Aug 2024 12:00:00 +0200"
       }
     ],
     [
@@ -31,8 +45,8 @@
     ],
     [
       {
-        "title": "Marathon ol 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Marathon%20ol%202024",
+        "title": "Marathon Ol 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Marathon%20Ol%202024",
         "pubdate": "Sat, 10 Aug 2024 10:00:00 +0200"
       }
     ],
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Tamberi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tamberi",
-        "pubdate": "Sat, 10 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jordan Chiles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jordan%20Chiles",
         "pubdate": "Sat, 10 Aug 2024 23:00:00 +0200"
@@ -94,16 +101,23 @@
     ],
     [
       {
-        "title": "Handball olympics 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Handball%20olympics%202024",
-        "pubdate": "Sat, 10 Aug 2024 11:00:00 +0200"
+        "title": "Hunter Woodhall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hunter%20Woodhall",
+        "pubdate": "Sat, 10 Aug 2024 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hunter Woodhall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hunter%20Woodhall",
-        "pubdate": "Sat, 10 Aug 2024 23:00:00 +0200"
+        "title": "Tamberi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tamberi",
+        "pubdate": "Sat, 10 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Handball olympics 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Handball%20olympics%202024",
+        "pubdate": "Sat, 10 Aug 2024 11:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Joel Embiid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joel%20Embiid",
         "pubdate": "Sat, 10 Aug 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brandie Wilkerson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brandie%20Wilkerson",
-        "pubdate": "Sat, 10 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Snoop Dogg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snoop%20Dogg",
-        "pubdate": "Sat, 10 Aug 2024 10:00:00 +0200"
       }
     ]
   ]
