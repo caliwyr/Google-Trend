@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-08-2024 , 14:47:58",
+  "lastUpdate": "11-08-2024 , 14:57:11",
   "data": [
+    [
+      {
+        "title": "LeBron James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LeBron%20James",
+        "pubdate": "Sun, 11 Aug 2024 10:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Ethan Katzberg",
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "USA vs France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#USA%20vs%20France",
+        "pubdate": "Sat, 10 Aug 2024 05:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Nevin Harrison",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nevin%20Harrison",
         "pubdate": "Sat, 10 Aug 2024 09:00:00 -0400"
@@ -83,6 +97,13 @@
         "title": "Hlinka Gretzky Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hlinka%20Gretzky%20Cup",
         "pubdate": "Sat, 10 Aug 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Sifan Hassan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sifan%20Hassan",
+        "pubdate": "Sat, 10 Aug 2024 17:00:00 -0400"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Snow White",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Snow%20White",
-        "pubdate": "Sat, 10 Aug 2024 14:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Toy Story 5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toy%20Story%205",
-        "pubdate": "Sat, 10 Aug 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Buffalo Bills",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Buffalo%20Bills",
-        "pubdate": "Sat, 10 Aug 2024 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Moana 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Moana%202",
-        "pubdate": "Sat, 10 Aug 2024 16:00:00 -0400"
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20utd",
+        "pubdate": "Sat, 10 Aug 2024 12:00:00 -0400"
       }
     ]
   ]
