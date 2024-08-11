@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "11-08-2024 , 21:49:24",
+  "lastUpdate": "11-08-2024 , 21:58:36",
   "data": [
     [
       {
         "title": "Olympics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Olympics",
         "pubdate": "Sun, 11 Aug 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Arsenal",
-        "pubdate": "Sun, 11 Aug 2024 14:00:00 +0100"
       }
     ],
     [
@@ -31,9 +24,30 @@
     ],
     [
       {
+        "title": "Arsenal vs Lyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Arsenal%20vs%20Lyon",
+        "pubdate": "Sun, 11 Aug 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Arsenal",
+        "pubdate": "Sun, 11 Aug 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Chelsea vs Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chelsea%20vs%20Inter",
         "pubdate": "Sun, 11 Aug 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sifan Hassan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sifan%20Hassan",
+        "pubdate": "Sun, 11 Aug 2024 10:00:00 +0100"
       }
     ],
     [
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Sifan Hassan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sifan%20Hassan",
-        "pubdate": "Sun, 11 Aug 2024 10:00:00 +0100"
+        "title": "Meteor shower",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Meteor%20shower",
+        "pubdate": "Sun, 11 Aug 2024 21:00:00 +0100"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "USA vs France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#USA%20vs%20France",
-        "pubdate": "Sun, 11 Aug 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Victor Wembanyama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Victor%20Wembanyama",
         "pubdate": "Sun, 11 Aug 2024 00:00:00 +0100"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "Meteor shower",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Meteor%20shower",
-        "pubdate": "Sun, 11 Aug 2024 21:00:00 +0100"
+        "title": "Seb Coe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Seb%20Coe",
+        "pubdate": "Sun, 11 Aug 2024 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Georgia Bell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Georgia%20Bell",
         "pubdate": "Sat, 10 Aug 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sheffield Wednesday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sheffield%20Wednesday",
-        "pubdate": "Sat, 10 Aug 2024 19:00:00 +0100"
       }
     ]
   ]
