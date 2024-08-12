@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-08-2024 , 18:41:21",
+  "lastUpdate": "12-08-2024 , 18:50:34",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool",
+        "pubdate": "Mon, 12 Aug 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea",
         "pubdate": "Mon, 12 Aug 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona vs Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20vs%20Monaco",
+        "pubdate": "Mon, 12 Aug 2024 20:00:00 +0200"
       }
     ],
     [
@@ -31,15 +45,15 @@
     ],
     [
       {
-        "title": "Fantasy Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fantasy%20Premier%20League",
+        "title": "Demure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Demure",
         "pubdate": "Mon, 12 Aug 2024 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Demure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Demure",
+        "title": "Fantasy Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fantasy%20Premier%20League",
         "pubdate": "Mon, 12 Aug 2024 18:00:00 +0200"
       }
     ],
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal",
-        "pubdate": "Sun, 11 Aug 2024 16:00:00 +0200"
+        "title": "Australian breakdancer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australian%20breakdancer",
+        "pubdate": "Sun, 11 Aug 2024 10:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Australian breakdancer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australian%20breakdancer",
-        "pubdate": "Sun, 11 Aug 2024 10:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal",
+        "pubdate": "Sun, 11 Aug 2024 16:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Jordan Chiles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Jordan%20Chiles",
         "pubdate": "Sun, 11 Aug 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LeBron James",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#LeBron%20James",
-        "pubdate": "Sun, 11 Aug 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Benfica",
-        "pubdate": "Sun, 11 Aug 2024 21:00:00 +0200"
       }
     ]
   ]

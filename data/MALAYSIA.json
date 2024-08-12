@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-08-2024 , 18:41:18",
+  "lastUpdate": "12-08-2024 , 18:50:32",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Sara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sara",
         "pubdate": "Mon, 12 Aug 2024 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Billie Eilish",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Billie%20Eilish",
+        "pubdate": "Mon, 12 Aug 2024 17:00:00 +0800"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Tom Cruise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tom%20Cruise",
+        "pubdate": "Sun, 11 Aug 2024 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Raygun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Raygun",
         "pubdate": "Sun, 11 Aug 2024 14:00:00 +0800"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "John Beasley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#John%20Beasley",
-        "pubdate": "Sun, 11 Aug 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Sifan Hassan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sifan%20Hassan",
         "pubdate": "Sun, 11 Aug 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Premier%20League",
-        "pubdate": "Sun, 11 Aug 2024 01:00:00 +0800"
       }
     ]
   ]
