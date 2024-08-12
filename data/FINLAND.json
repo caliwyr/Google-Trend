@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-08-2024 , 05:50:06",
+  "lastUpdate": "12-08-2024 , 05:59:23",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "LeBron James",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LeBron%20James",
         "pubdate": "Sun, 11 Aug 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Olympics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olympics",
-        "pubdate": "Sun, 11 Aug 2024 05:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Durant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Durant",
         "pubdate": "Sun, 11 Aug 2024 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Olympics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Olympics",
+        "pubdate": "Sat, 10 Aug 2024 21:00:00 +0300"
       }
     ]
   ]
