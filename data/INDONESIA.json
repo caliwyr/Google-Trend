@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "12-08-2024 , 20:47:30",
+  "lastUpdate": "12-08-2024 , 20:56:59",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Barcelona",
         "pubdate": "Tue, 13 Aug 2024 02:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#FC%20Barcelona",
+        "pubdate": "Tue, 13 Aug 2024 03:00:00 +0700"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Chelsea",
-        "pubdate": "Mon, 12 Aug 2024 07:00:00 +0700"
+        "title": "Borneo FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Borneo%20FC",
+        "pubdate": "Mon, 12 Aug 2024 19:00:00 +0700"
       }
     ],
     [
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Venezia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Venezia",
-        "pubdate": "Mon, 12 Aug 2024 00:00:00 +0700"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Chelsea",
+        "pubdate": "Mon, 12 Aug 2024 07:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Borneo FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Borneo%20FC",
-        "pubdate": "Mon, 12 Aug 2024 19:00:00 +0700"
+        "title": "Venezia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Venezia",
+        "pubdate": "Mon, 12 Aug 2024 00:00:00 +0700"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Sifan Hassan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sifan%20Hassan",
-        "pubdate": "Mon, 12 Aug 2024 09:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Metro TV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Metro%20TV",
-        "pubdate": "Mon, 12 Aug 2024 10:00:00 +0700"
+        "title": "Joao Felix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Joao%20Felix",
+        "pubdate": "Mon, 12 Aug 2024 13:00:00 +0700"
       }
     ]
   ]
