@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-08-2024 , 10:44:02",
+  "lastUpdate": "12-08-2024 , 10:53:16",
   "data": [
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Liverpool",
-        "pubdate": "Mon, 12 Aug 2024 08:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Liverpool FC",
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Weather warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Weather%20warning",
-        "pubdate": "Mon, 12 Aug 2024 02:00:00 +0100"
+        "title": "Wyndham Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wyndham%20Championship",
+        "pubdate": "Mon, 12 Aug 2024 11:00:00 +0100"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Weather warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Weather%20warning",
+        "pubdate": "Mon, 12 Aug 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Yseult",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Yseult",
         "pubdate": "Mon, 12 Aug 2024 01:00:00 +0100"
@@ -66,9 +66,30 @@
     ],
     [
       {
-        "title": "Olympics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Olympics",
-        "pubdate": "Sun, 11 Aug 2024 11:00:00 +0100"
+        "title": "Olympic homecoming Dublin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Olympic%20homecoming%20Dublin",
+        "pubdate": "Mon, 12 Aug 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Power outage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Power%20outage",
+        "pubdate": "Mon, 12 Aug 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Joao Felix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Joao%20Felix",
+        "pubdate": "Mon, 12 Aug 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Olympics Closing Ceremony",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Olympics%20Closing%20Ceremony",
+        "pubdate": "Sun, 11 Aug 2024 12:00:00 +0100"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Ashling Thompson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ashling%20Thompson",
-        "pubdate": "Sun, 11 Aug 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Arsenal",
         "pubdate": "Sun, 11 Aug 2024 15:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Fire Dublin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fire%20Dublin",
         "pubdate": "Sun, 11 Aug 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lara Gillespie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Lara%20Gillespie",
-        "pubdate": "Sun, 11 Aug 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paralympics 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Paralympics%202024",
-        "pubdate": "Sun, 11 Aug 2024 20:00:00 +0100"
       }
     ]
   ]
