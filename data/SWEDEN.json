@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-08-2024 , 07:43:29",
+  "lastUpdate": "12-08-2024 , 07:53:05",
   "data": [
+    [
+      {
+        "title": "Snoop Dogg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Snoop%20Dogg",
+        "pubdate": "Mon, 12 Aug 2024 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Chelsea",
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Medaljligan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Medaljligan",
-        "pubdate": "Sun, 11 Aug 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Elfsborg Gais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg%20Gais",
         "pubdate": "Sun, 11 Aug 2024 19:00:00 +0200"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Filharmonikerna i det gröna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Filharmonikerna%20i%20det%20gr%C3%B6na",
-        "pubdate": "Sun, 11 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "LeBron James",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#LeBron%20James",
         "pubdate": "Sat, 10 Aug 2024 23:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tom%20Cruise",
         "pubdate": "Sat, 10 Aug 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marta",
+        "pubdate": "Sat, 10 Aug 2024 18:00:00 +0200"
       }
     ]
   ]
