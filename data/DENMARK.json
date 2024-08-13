@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "13-08-2024 , 20:38:02",
+  "lastUpdate": "13-08-2024 , 20:47:36",
   "data": [
-    [
-      {
-        "title": "ABC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ABC",
-        "pubdate": "Tue, 13 Aug 2024 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Marie Antoinette",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Duolingo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Duolingo",
-        "pubdate": "Tue, 13 Aug 2024 09:00:00 +0200"
+        "title": "ABC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#ABC",
+        "pubdate": "Tue, 13 Aug 2024 10:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Whitney Houston",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Whitney%20Houston",
         "pubdate": "Tue, 13 Aug 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Duolingo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Duolingo",
+        "pubdate": "Tue, 13 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "Slope",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slope",
         "pubdate": "Mon, 12 Aug 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Teams",
-        "pubdate": "Mon, 12 Aug 2024 11:00:00 +0200"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Microsoft 365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Microsoft%20365",
-        "pubdate": "Mon, 12 Aug 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Banksy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Banksy",
         "pubdate": "Mon, 12 Aug 2024 08:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Rachael Lillis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rachael%20Lillis",
         "pubdate": "Mon, 12 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leon Marchand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leon%20Marchand",
+        "pubdate": "Mon, 12 Aug 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Office",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Office",
+        "pubdate": "Mon, 12 Aug 2024 12:00:00 +0200"
       }
     ]
   ]
