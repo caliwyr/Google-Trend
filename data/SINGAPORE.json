@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-08-2024 , 07:53:13",
+  "lastUpdate": "13-08-2024 , 08:12:35",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Snoop dogg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Snoop%20dogg",
+        "pubdate": "Mon, 12 Aug 2024 21:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Stars",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Stars",
         "pubdate": "Mon, 12 Aug 2024 17:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Man utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20utd",
         "pubdate": "Sat, 10 Aug 2024 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Brazil plane crash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brazil%20plane%20crash",
-        "pubdate": "Sat, 10 Aug 2024 08:00:00 +0800"
       }
     ]
   ]
