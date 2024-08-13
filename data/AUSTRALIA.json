@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-08-2024 , 18:41:57",
+  "lastUpdate": "13-08-2024 , 18:51:15",
   "data": [
     [
       {
         "title": "Athens fires",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Athens%20fires",
         "pubdate": "Wed, 14 Aug 2024 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Porter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Porter",
+        "pubdate": "Tue, 13 Aug 2024 08:00:00 +1000"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Almanac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Almanac",
-        "pubdate": "Tue, 13 Aug 2024 10:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Kyle Flanagan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kyle%20Flanagan",
         "pubdate": "Tue, 13 Aug 2024 20:00:00 +1000"
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "AURORA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AURORA",
+        "title": "Aurora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aurora",
         "pubdate": "Tue, 13 Aug 2024 00:00:00 +1000"
       }
     ],
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona",
+        "pubdate": "Tue, 13 Aug 2024 11:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Jimmy Fallon Raygun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jimmy%20Fallon%20Raygun",
         "pubdate": "Tue, 13 Aug 2024 22:00:00 +1000"
@@ -103,6 +110,13 @@
       {
         "title": "Earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Earthquake",
+        "pubdate": "Tue, 13 Aug 2024 21:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "London stabbing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#London%20stabbing",
         "pubdate": "Tue, 13 Aug 2024 21:00:00 +1000"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Skiff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Skiff",
         "pubdate": "Mon, 12 Aug 2024 06:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Latrell Mitchell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Latrell%20Mitchell",
-        "pubdate": "Mon, 12 Aug 2024 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Nick Cave",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nick%20Cave",
-        "pubdate": "Mon, 12 Aug 2024 21:00:00 +1000"
       }
     ]
   ]
