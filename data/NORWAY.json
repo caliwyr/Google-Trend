@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-08-2024 , 03:48:56",
+  "lastUpdate": "13-08-2024 , 03:58:25",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Alice Campello",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alice%20Campello",
-        "pubdate": "Mon, 12 Aug 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Drive",
         "pubdate": "Mon, 12 Aug 2024 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "OL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#OL",
         "pubdate": "Sun, 11 Aug 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "KFUM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#KFUM",
+        "pubdate": "Sun, 11 Aug 2024 18:00:00 +0200"
       }
     ]
   ]
