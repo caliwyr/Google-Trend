@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2024 , 16:39:31",
+  "lastUpdate": "14-08-2024 , 16:49:43",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Aurora forecast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aurora%20forecast",
-        "pubdate": "Wed, 14 Aug 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Raid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Raid",
         "pubdate": "Tue, 13 Aug 2024 22:00:00 +0300"
@@ -55,6 +48,13 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elon%20Musk",
         "pubdate": "Tue, 13 Aug 2024 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Northern lights",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Northern%20lights",
+        "pubdate": "Tue, 13 Aug 2024 16:00:00 +0300"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Moniker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Moniker",
         "pubdate": "Tue, 13 Aug 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Northern Lights",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Northern%20Lights",
-        "pubdate": "Tue, 13 Aug 2024 16:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Docs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Docs",
         "pubdate": "Mon, 12 Aug 2024 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Phoenix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Phoenix",
+        "pubdate": "Mon, 12 Aug 2024 01:00:00 +0300"
       }
     ]
   ]
