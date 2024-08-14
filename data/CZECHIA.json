@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2024 , 17:39:06",
+  "lastUpdate": "14-08-2024 , 17:48:34",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Letni letna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Letni%20letna",
+        "title": "Letní Letná",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Letn%C3%AD%20Letn%C3%A1",
         "pubdate": "Wed, 14 Aug 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lille",
+        "pubdate": "Wed, 14 Aug 2024 08:00:00 +0200"
       }
     ],
     [
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Polar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Polar",
+        "title": "POLAR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#POLAR",
         "pubdate": "Wed, 14 Aug 2024 13:00:00 +0200"
       }
     ],
@@ -54,7 +61,7 @@
       {
         "title": "FCSB – Sparta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#FCSB%20%E2%80%93%20Sparta",
-        "pubdate": "Tue, 13 Aug 2024 14:00:00 +0200"
+        "pubdate": "Tue, 13 Aug 2024 20:00:00 +0200"
       }
     ],
     [
@@ -68,13 +75,6 @@
       {
         "title": "Slavia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
-        "pubdate": "Tue, 13 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sebastian Navrátil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sebastian%20Navr%C3%A1til",
         "pubdate": "Tue, 13 Aug 2024 21:00:00 +0200"
       }
     ],
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Slavia praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20praha",
-        "pubdate": "Tue, 13 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "airBaltic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#airBaltic",
         "pubdate": "Tue, 13 Aug 2024 17:00:00 +0200"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Vetrelec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vetrelec",
-        "pubdate": "Tue, 13 Aug 2024 07:00:00 +0200"
+        "title": "Slavia Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
+        "pubdate": "Tue, 13 Aug 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sebastian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sebastian",
-        "pubdate": "Tue, 13 Aug 2024 20:00:00 +0200"
+        "title": "Počasí Radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Po%C4%8Das%C3%AD%20Radar",
+        "pubdate": "Tue, 13 Aug 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vetrelec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vetrelec",
+        "pubdate": "Tue, 13 Aug 2024 07:00:00 +0200"
       }
     ]
   ]
