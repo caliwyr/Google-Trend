@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "14-08-2024 , 11:38:28",
+  "lastUpdate": "14-08-2024 , 11:47:54",
   "data": [
-    [
-      {
-        "title": "Camavinga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Camavinga",
-        "pubdate": "Wed, 14 Aug 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Variole du singe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Variole%20du%20singe",
         "pubdate": "Wed, 14 Aug 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Camavinga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Camavinga",
+        "pubdate": "Wed, 14 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Livarot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Livarot",
-        "pubdate": "Wed, 14 Aug 2024 00:00:00 +0200"
+        "title": "Le Roman de Jim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Roman%20de%20Jim",
+        "pubdate": "Wed, 14 Aug 2024 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Fenerbahçe – Lille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fenerbah%C3%A7e%20%E2%80%93%20Lille",
-        "pubdate": "Tue, 13 Aug 2024 19:00:00 +0200"
+        "title": "Fenerbahce Lille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Fenerbahce%20Lille",
+        "pubdate": "Tue, 13 Aug 2024 20:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Paul Watson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paul%20Watson",
+        "pubdate": "Tue, 13 Aug 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pixel 9",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pixel%209",
         "pubdate": "Tue, 13 Aug 2024 22:00:00 +0200"
@@ -66,16 +73,9 @@
     ],
     [
       {
-        "title": "Patrick Drahi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patrick%20Drahi",
-        "pubdate": "Tue, 13 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Annick de Souzenelle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Annick%20de%20Souzenelle",
-        "pubdate": "Tue, 13 Aug 2024 22:00:00 +0200"
+        "title": "Nekfeu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nekfeu",
+        "pubdate": "Tue, 13 Aug 2024 13:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "AS Monaco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#AS%20Monaco",
-        "pubdate": "Tue, 13 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "AC/DC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#AC/DC",
         "pubdate": "Tue, 13 Aug 2024 20:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Grece",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grece",
         "pubdate": "Mon, 12 Aug 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Florent Pagny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Florent%20Pagny",
+        "pubdate": "Mon, 12 Aug 2024 22:00:00 +0200"
       }
     ]
   ]
