@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-08-2024 , 10:54:07",
+  "lastUpdate": "15-08-2024 , 11:09:31",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Emily in Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Emily%20in%20Paris",
         "pubdate": "Thu, 15 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lamine Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lamine%20Yamal",
+        "pubdate": "Thu, 15 Aug 2024 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Duolingo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Duolingo",
         "pubdate": "Tue, 13 Aug 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Slope",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slope",
-        "pubdate": "Mon, 12 Aug 2024 09:00:00 +0200"
       }
     ]
   ]
