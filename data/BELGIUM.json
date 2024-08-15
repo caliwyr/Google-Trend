@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-08-2024 , 23:59:53",
+  "lastUpdate": "15-08-2024 , 01:32:30",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Supercup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Supercup",
-        "pubdate": "Wed, 14 Aug 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pixel 9",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pixel%209",
         "pubdate": "Wed, 14 Aug 2024 09:00:00 +0200"
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Supercup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Supercup",
+        "pubdate": "Wed, 14 Aug 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Emily in Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emily%20in%20Paris",
         "pubdate": "Wed, 14 Aug 2024 19:00:00 +0200"
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Tour of Leuven",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tour%20of%20Leuven",
+        "title": "Onze-Lieve-Vrouw Hemelvaart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Onze-Lieve-Vrouw%20Hemelvaart",
         "pubdate": "Wed, 14 Aug 2024 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Onze-Lieve-Vrouw Hemelvaart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Onze-Lieve-Vrouw%20Hemelvaart",
+        "title": "Tour of Leuven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tour%20of%20Leuven",
         "pubdate": "Wed, 14 Aug 2024 23:00:00 +0200"
       }
     ]
