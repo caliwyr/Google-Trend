@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-08-2024 , 06:40:47",
+  "lastUpdate": "15-08-2024 , 06:50:01",
   "data": [
+    [
+      {
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leeds%20United",
+        "pubdate": "Thu, 15 Aug 2024 00:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Jordan Chiles",
@@ -45,16 +52,23 @@
     ],
     [
       {
-        "title": "Raila Odinga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Raila%20Odinga",
-        "pubdate": "Wed, 14 Aug 2024 08:00:00 +0300"
+        "title": "EPRA fuel prices",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EPRA%20fuel%20prices",
+        "pubdate": "Wed, 14 Aug 2024 21:00:00 +0300"
       }
     ],
     [
       {
-        "title": "EPRA Fuel prices",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#EPRA%20Fuel%20prices",
-        "pubdate": "Wed, 14 Aug 2024 21:00:00 +0300"
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Al-Nassr",
+        "pubdate": "Wed, 14 Aug 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Raila Odinga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Raila%20Odinga",
+        "pubdate": "Wed, 14 Aug 2024 08:00:00 +0300"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Nottingham Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nottingham%20Forest",
-        "pubdate": "Wed, 14 Aug 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20Miami",
         "pubdate": "Wed, 14 Aug 2024 11:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "PSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSC",
         "pubdate": "Tue, 13 Aug 2024 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Road accident",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Road%20accident",
-        "pubdate": "Tue, 13 Aug 2024 23:00:00 +0300"
       }
     ]
   ]
