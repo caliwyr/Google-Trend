@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-08-2024 , 22:41:33",
+  "lastUpdate": "15-08-2024 , 22:50:48",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Berget",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Berget",
-        "pubdate": "Thu, 15 Aug 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Elfsborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
         "pubdate": "Thu, 15 Aug 2024 20:00:00 +0200"
@@ -41,6 +34,13 @@
         "title": "Emily in Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emily%20in%20Paris",
         "pubdate": "Thu, 15 Aug 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Petter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Petter",
+        "pubdate": "Thu, 15 Aug 2024 08:00:00 +0200"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Grok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Grok",
-        "pubdate": "Thu, 15 Aug 2024 14:00:00 +0200"
+        "title": "Isherwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Isherwood",
+        "pubdate": "Thu, 15 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Isherwood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Isherwood",
-        "pubdate": "Thu, 15 Aug 2024 22:00:00 +0200"
+        "title": "Grok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Grok",
+        "pubdate": "Thu, 15 Aug 2024 14:00:00 +0200"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Steve Angello",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Steve%20Angello",
-        "pubdate": "Wed, 14 Aug 2024 17:00:00 +0200"
+        "title": "Stockholm kulturfestival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stockholm%20kulturfestival",
+        "pubdate": "Wed, 14 Aug 2024 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Stockholm kulturfestival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stockholm%20kulturfestival",
-        "pubdate": "Wed, 14 Aug 2024 12:00:00 +0200"
+        "title": "VLT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#VLT",
+        "pubdate": "Wed, 14 Aug 2024 19:00:00 +0200"
       }
     ]
   ]
