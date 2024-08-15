@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-08-2024 , 11:41:34",
+  "lastUpdate": "15-08-2024 , 11:51:05",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Penarol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Penarol",
-        "pubdate": "Wed, 14 Aug 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "LDU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#LDU",
         "pubdate": "Wed, 14 Aug 2024 13:00:00 -0500"
@@ -73,9 +66,23 @@
     ],
     [
       {
+        "title": "Penarol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Penarol",
+        "pubdate": "Wed, 14 Aug 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Max",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Max",
         "pubdate": "Wed, 14 Aug 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Boulos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boulos",
+        "pubdate": "Wed, 14 Aug 2024 12:00:00 -0500"
       }
     ],
     [
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "Gil Rugai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gil%20Rugai",
-        "pubdate": "Wed, 14 Aug 2024 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Lamine Yamal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lamine%20Yamal",
         "pubdate": "Wed, 14 Aug 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Boulos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boulos",
-        "pubdate": "Wed, 14 Aug 2024 13:00:00 -0500"
       }
     ],
     [
@@ -122,23 +115,30 @@
     ],
     [
       {
-        "title": "Debate Prefeitura sp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Debate%20Prefeitura%20sp",
-        "pubdate": "Wed, 14 Aug 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Hector hernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Hector%20hernandez",
-        "pubdate": "Wed, 14 Aug 2024 19:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Fortaleza Esporte Clube",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20Esporte%20Clube",
         "pubdate": "Wed, 14 Aug 2024 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ideb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ideb",
+        "pubdate": "Wed, 14 Aug 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Guido Carrillo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guido%20Carrillo",
+        "pubdate": "Wed, 14 Aug 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Gena Rowlands",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gena%20Rowlands",
+        "pubdate": "Wed, 14 Aug 2024 22:00:00 -0500"
       }
     ]
   ]
