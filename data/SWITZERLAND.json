@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2024 , 17:46:52",
+  "lastUpdate": "16-08-2024 , 17:56:14",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Premier%20League",
+        "pubdate": "Fri, 16 Aug 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Europa%20League",
         "pubdate": "Fri, 16 Aug 2024 14:00:00 +0200"
       }
     ],
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Dschungelcamp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dschungelcamp",
+        "pubdate": "Fri, 16 Aug 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ketamin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ketamin",
         "pubdate": "Fri, 16 Aug 2024 00:00:00 +0200"
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "St.Gallen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.Gallen",
-        "pubdate": "Fri, 16 Aug 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vilebrequin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vilebrequin",
         "pubdate": "Fri, 16 Aug 2024 10:00:00 +0200"
@@ -73,9 +80,23 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ajax",
-        "pubdate": "Fri, 16 Aug 2024 00:00:00 +0200"
+        "title": "St.Gallen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#St.Gallen",
+        "pubdate": "Fri, 16 Aug 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DFB-Pokal",
+        "pubdate": "Fri, 16 Aug 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
+        "pubdate": "Fri, 16 Aug 2024 17:00:00 +0200"
       }
     ],
     [
@@ -87,9 +108,9 @@
     ],
     [
       {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#MotoGP",
-        "pubdate": "Fri, 16 Aug 2024 17:00:00 +0200"
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ajax",
+        "pubdate": "Fri, 16 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DFB-Pokal",
-        "pubdate": "Fri, 16 Aug 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jordan Chiles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jordan%20Chiles",
         "pubdate": "Fri, 16 Aug 2024 11:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Em Bebbi sy Jazz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Em%20Bebbi%20sy%20Jazz",
-        "pubdate": "Fri, 16 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Afghanistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Afghanistan",
-        "pubdate": "Fri, 16 Aug 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Schweizer Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweizer%20Cup",
-        "pubdate": "Fri, 16 Aug 2024 15:00:00 +0200"
+        "title": "Santa Clara -  Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Santa%20Clara%20-%20%20Porto",
+        "pubdate": "Fri, 16 Aug 2024 19:00:00 +0200"
       }
     ]
   ]
