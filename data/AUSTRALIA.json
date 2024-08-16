@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2024 , 02:44:30",
+  "lastUpdate": "16-08-2024 , 02:54:22",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "PGA tour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA%20tour",
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#La%20Liga",
+        "pubdate": "Fri, 16 Aug 2024 03:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "PGA TOUR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA%20TOUR",
         "pubdate": "Fri, 16 Aug 2024 11:00:00 +1000"
       }
     ],
@@ -59,16 +66,9 @@
     ],
     [
       {
-        "title": "NRL Hall of Fame",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRL%20Hall%20of%20Fame",
-        "pubdate": "Thu, 15 Aug 2024 01:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Penrith Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Penrith%20Panthers",
-        "pubdate": "Thu, 15 Aug 2024 21:00:00 +1000"
+        "title": "Raygun petition",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Raygun%20petition",
+        "pubdate": "Thu, 15 Aug 2024 14:00:00 +1000"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Les Boyd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Les%20Boyd",
+        "pubdate": "Thu, 15 Aug 2024 01:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Bunnings rave",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bunnings%20rave",
         "pubdate": "Thu, 15 Aug 2024 08:00:00 +1000"
@@ -87,9 +94,16 @@
     ],
     [
       {
-        "title": "Raygun petition",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Raygun%20petition",
-        "pubdate": "Thu, 15 Aug 2024 14:00:00 +1000"
+        "title": "Stree 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Stree%202",
+        "pubdate": "Thu, 15 Aug 2024 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Penrith Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Penrith%20Panthers",
+        "pubdate": "Thu, 15 Aug 2024 21:00:00 +1000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Grok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Grok",
         "pubdate": "Thu, 15 Aug 2024 14:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Mpox symptoms",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mpox%20symptoms",
-        "pubdate": "Thu, 15 Aug 2024 20:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Tyran wishart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tyran%20wishart",
-        "pubdate": "Thu, 15 Aug 2024 22:00:00 +1000"
       }
     ]
   ]
