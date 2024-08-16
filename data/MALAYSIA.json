@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "16-08-2024 , 19:42:25",
+  "lastUpdate": "16-08-2024 , 19:51:48",
   "data": [
-    [
-      {
-        "title": "SSPA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#SSPA",
-        "pubdate": "Fri, 16 Aug 2024 11:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Premier%20League",
         "pubdate": "Fri, 16 Aug 2024 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "SSPA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#SSPA",
+        "pubdate": "Fri, 16 Aug 2024 11:00:00 +0800"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Paetongtarn Shinawatra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Paetongtarn%20Shinawatra",
-        "pubdate": "Thu, 15 Aug 2024 08:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Saudi Crown Prince Mohammed bin Salman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Saudi%20Crown%20Prince%20Mohammed%20bin%20Salman",
         "pubdate": "Thu, 15 Aug 2024 15:00:00 +0800"
@@ -104,6 +97,13 @@
         "title": "Alien: Romulus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Alien:%20Romulus",
         "pubdate": "Thu, 15 Aug 2024 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Paetongtarn Shinawatra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Paetongtarn%20Shinawatra",
+        "pubdate": "Thu, 15 Aug 2024 08:00:00 +0800"
       }
     ],
     [
