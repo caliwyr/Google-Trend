@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2024 , 14:42:12",
+  "lastUpdate": "16-08-2024 , 14:51:44",
   "data": [
     [
       {
@@ -26,6 +26,13 @@
       {
         "title": "Mallorca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mallorca",
+        "pubdate": "Fri, 16 Aug 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mpox-virus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mpox-virus",
         "pubdate": "Fri, 16 Aug 2024 01:00:00 +0200"
       }
     ],
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Kurt Claeys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kurt%20Claeys",
-        "pubdate": "Fri, 16 Aug 2024 15:00:00 +0200"
+        "title": "Ligue 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ligue%201",
+        "pubdate": "Fri, 16 Aug 2024 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Cercle  Molde",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20%20Molde",
         "pubdate": "Thu, 15 Aug 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Paul Watson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paul%20Watson",
-        "pubdate": "Thu, 15 Aug 2024 15:00:00 +0200"
       }
     ]
   ]
