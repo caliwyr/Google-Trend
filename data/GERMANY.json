@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-08-2024 , 22:47:53",
+  "lastUpdate": "17-08-2024 , 22:57:11",
   "data": [
+    [
+      {
+        "title": "Highfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Highfield",
+        "pubdate": "Sun, 18 Aug 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Supercup",
@@ -20,13 +27,6 @@
         "title": "Greifswalder FC – Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Greifswalder%20FC%20%E2%80%93%20Union%20Berlin",
         "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Phönix Lübeck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ph%C3%B6nix%20L%C3%BCbeck",
-        "pubdate": "Sat, 17 Aug 2024 12:00:00 +0200"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Izmir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Izmir",
-        "pubdate": "Sat, 17 Aug 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nusantara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nusantara",
         "pubdate": "Sat, 17 Aug 2024 14:00:00 +0200"
@@ -87,6 +80,20 @@
     ],
     [
       {
+        "title": "Somerset House",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Somerset%20House",
+        "pubdate": "Sat, 17 Aug 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Fri, 16 Aug 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
         "pubdate": "Fri, 16 Aug 2024 10:00:00 +0200"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "FC Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
-        "pubdate": "Fri, 16 Aug 2024 22:00:00 +0200"
+        "title": "Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pokal",
+        "pubdate": "Fri, 16 Aug 2024 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Emily in Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Emily%20in%20Paris",
         "pubdate": "Thu, 15 Aug 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Unwetter Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter%20Mallorca",
-        "pubdate": "Thu, 15 Aug 2024 08:00:00 +0200"
       }
     ]
   ]
