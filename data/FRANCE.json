@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-08-2024 , 23:58:27",
+  "lastUpdate": "17-08-2024 , 01:23:57",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "National 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#National%202",
+        "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Amiens – Red Star",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Amiens%20%E2%80%93%20Red%20Star",
         "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
@@ -33,6 +40,13 @@
       {
         "title": "Le Havre – paris-sg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Havre%20%E2%80%93%20paris-sg",
+        "pubdate": "Fri, 16 Aug 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ligue 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ligue%201",
         "pubdate": "Fri, 16 Aug 2024 20:00:00 +0200"
       }
     ],
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Epic Games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Epic%20Games",
-        "pubdate": "Fri, 16 Aug 2024 14:00:00 +0200"
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Carlos%20Alcaraz",
+        "pubdate": "Fri, 16 Aug 2024 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "DAZN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#DAZN",
-        "pubdate": "Fri, 16 Aug 2024 23:00:00 +0200"
+        "title": "Epic Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Epic%20Games",
+        "pubdate": "Fri, 16 Aug 2024 14:00:00 +0200"
       }
     ],
     [
@@ -80,22 +94,8 @@
     ],
     [
       {
-        "title": "Gaël Monfils",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ga%C3%ABl%20Monfils",
-        "pubdate": "Fri, 16 Aug 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cedrine Kerbaol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cedrine%20Kerbaol",
-        "pubdate": "Fri, 16 Aug 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bassem Braïki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bassem%20Bra%C3%AFki",
         "pubdate": "Fri, 16 Aug 2024 17:00:00 +0200"
       }
     ],
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Isabelle Ithurburu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isabelle%20Ithurburu",
-        "pubdate": "Fri, 16 Aug 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Girondins de Bordeaux",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Girondins%20de%20Bordeaux",
         "pubdate": "Fri, 16 Aug 2024 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Berck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Berck",
         "pubdate": "Fri, 16 Aug 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Duralex",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Duralex",
+        "pubdate": "Fri, 16 Aug 2024 14:00:00 +0200"
       }
     ]
   ]
