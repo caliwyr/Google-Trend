@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-08-2024 , 17:46:21",
+  "lastUpdate": "17-08-2024 , 17:55:44",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal",
+        "title": "Arsenal - Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal%20-%20Wolves",
+        "pubdate": "Sat, 17 Aug 2024 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Everton - Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Everton%20-%20Brighton",
         "pubdate": "Sat, 17 Aug 2024 12:00:00 -0300"
       }
     ],
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Everton - Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Everton%20-%20Brighton",
-        "pubdate": "Sat, 17 Aug 2024 12:00:00 -0300"
+        "title": "West Ham - Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#West%20Ham%20-%20Aston%20Villa",
+        "pubdate": "Sat, 17 Aug 2024 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barcelona",
+        "pubdate": "Sat, 17 Aug 2024 14:00:00 -0300"
       }
     ],
     [
@@ -38,9 +52,23 @@
     ],
     [
       {
-        "title": "Celeste Cid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Celeste%20Cid",
-        "pubdate": "Sat, 17 Aug 2024 01:00:00 -0300"
+        "title": "Genoa - Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Genoa%20-%20Inter",
+        "pubdate": "Sat, 17 Aug 2024 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newcastle",
+        "pubdate": "Sat, 17 Aug 2024 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Al%20Nassr",
+        "pubdate": "Sat, 17 Aug 2024 13:00:00 -0300"
       }
     ],
     [
@@ -52,9 +80,9 @@
     ],
     [
       {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Serie%20a",
-        "pubdate": "Sat, 17 Aug 2024 12:00:00 -0300"
+        "title": "Nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nottingham%20Forest",
+        "pubdate": "Sat, 17 Aug 2024 14:00:00 -0300"
       }
     ],
     [
@@ -62,13 +90,6 @@
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#MotoGP",
         "pubdate": "Sat, 17 Aug 2024 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Newell's  Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newell's%20%20Racing",
-        "pubdate": "Fri, 16 Aug 2024 19:00:00 -0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "San Roque",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Roque",
         "pubdate": "Fri, 16 Aug 2024 02:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Premier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Premier",
-        "pubdate": "Fri, 16 Aug 2024 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Chris Martin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chris%20Martin",
-        "pubdate": "Fri, 16 Aug 2024 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Martegani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Martegani",
-        "pubdate": "Fri, 16 Aug 2024 00:00:00 -0300"
       }
     ]
   ]

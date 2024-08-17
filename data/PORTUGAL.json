@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-08-2024 , 17:46:29",
+  "lastUpdate": "17-08-2024 , 17:55:51",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
         "pubdate": "Sat, 17 Aug 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Nassr",
+        "pubdate": "Sat, 17 Aug 2024 17:00:00 +0100"
       }
     ],
     [
@@ -31,16 +38,9 @@
     ],
     [
       {
-        "title": "Al-Nassr  Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Nassr%20%20Al-Hilal",
-        "pubdate": "Sat, 17 Aug 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Álvaro Monjardino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#%C3%81lvaro%20Monjardino",
-        "pubdate": "Sat, 17 Aug 2024 09:00:00 +0100"
+        "title": "Benfica Hoje",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20Hoje",
+        "pubdate": "Sat, 17 Aug 2024 18:00:00 +0100"
       }
     ],
     [
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Poliomielite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Poliomielite",
-        "pubdate": "Sat, 17 Aug 2024 01:00:00 +0100"
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC",
+        "pubdate": "Sat, 17 Aug 2024 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC",
-        "pubdate": "Sat, 17 Aug 2024 17:00:00 +0100"
+        "title": "Poliomielite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Poliomielite",
+        "pubdate": "Sat, 17 Aug 2024 01:00:00 +0100"
       }
     ],
     [
@@ -87,16 +87,23 @@
     ],
     [
       {
-        "title": "UFC 305",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC%20305",
+        "title": "Liga 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%203",
+        "pubdate": "Sat, 17 Aug 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Incendio Penafiel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Incendio%20Penafiel",
         "pubdate": "Sat, 17 Aug 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Liga 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%203",
-        "pubdate": "Sat, 17 Aug 2024 02:00:00 +0100"
+        "title": "UFC 305",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#UFC%20305",
+        "pubdate": "Sat, 17 Aug 2024 00:00:00 +0100"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Keanu Reeves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Keanu%20Reeves",
-        "pubdate": "Sat, 17 Aug 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Catarina Furtado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Catarina%20Furtado",
         "pubdate": "Sat, 17 Aug 2024 01:00:00 +0100"
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Diogo Piçarra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Diogo%20Pi%C3%A7arra",
-        "pubdate": "Sat, 17 Aug 2024 02:00:00 +0100"
+        "title": "Bridgerton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bridgerton",
+        "pubdate": "Sat, 17 Aug 2024 18:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Bruno Mars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bruno%20Mars",
-        "pubdate": "Sat, 17 Aug 2024 01:00:00 +0100"
+        "title": "Keanu Reeves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Keanu%20Reeves",
+        "pubdate": "Sat, 17 Aug 2024 14:00:00 +0100"
       }
     ]
   ]
