@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-08-2024 , 05:47:58",
+  "lastUpdate": "17-08-2024 , 05:57:13",
   "data": [
     [
       {
@@ -31,6 +31,20 @@
     ],
     [
       {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Fri, 16 Aug 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Grafenrheinfeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Grafenrheinfeld",
+        "pubdate": "Fri, 16 Aug 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mechernich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mechernich",
         "pubdate": "Fri, 16 Aug 2024 00:00:00 +0200"
@@ -45,23 +59,16 @@
     ],
     [
       {
-        "title": "Hallescher vs St. Pauli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hallescher%20vs%20St.%20Pauli",
-        "pubdate": "Fri, 16 Aug 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AKW Grafenrheinfeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AKW%20Grafenrheinfeld",
-        "pubdate": "Fri, 16 Aug 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Stefan Raab",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stefan%20Raab",
         "pubdate": "Fri, 16 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
+        "pubdate": "Fri, 16 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -87,15 +94,8 @@
     ],
     [
       {
-        "title": "Mpox was ist Das",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mpox%20was%20ist%20Das",
-        "pubdate": "Thu, 15 Aug 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mallorca Unwetter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mallorca%20Unwetter",
+        "title": "Mpox was ist das",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mpox%20was%20ist%20das",
         "pubdate": "Thu, 15 Aug 2024 08:00:00 +0200"
       }
     ],
@@ -108,8 +108,15 @@
     ],
     [
       {
-        "title": "Kim Dotcom Auslieferung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kim%20Dotcom%20Auslieferung",
+        "title": "Unwetter Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Unwetter%20Mallorca",
+        "pubdate": "Thu, 15 Aug 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kim Dotcom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kim%20Dotcom",
         "pubdate": "Thu, 15 Aug 2024 17:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Compact",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Compact",
         "pubdate": "Wed, 14 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bruchsal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bruchsal",
-        "pubdate": "Wed, 14 Aug 2024 08:00:00 +0200"
       }
     ]
   ]
