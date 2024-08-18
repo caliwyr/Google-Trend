@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-08-2024 , 05:48:27",
+  "lastUpdate": "18-08-2024 , 05:57:39",
   "data": [
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UFC",
+        "pubdate": "Sun, 18 Aug 2024 02:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Die Hard",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "UFC 305",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UFC%20305",
-        "pubdate": "Sun, 18 Aug 2024 02:00:00 +0300"
+        "title": "Leverkusen – VfB Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leverkusen%20%E2%80%93%20VfB%20Stuttgart",
+        "pubdate": "Sun, 18 Aug 2024 07:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "VENOM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#VENOM",
         "pubdate": "Fri, 16 Aug 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#La%20Liga",
-        "pubdate": "Fri, 16 Aug 2024 10:00:00 +0300"
       }
     ]
   ]

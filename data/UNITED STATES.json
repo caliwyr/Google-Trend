@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "18-08-2024 , 05:48:24",
+  "lastUpdate": "18-08-2024 , 05:57:35",
   "data": [
     [
       {
-        "title": "Texans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texans",
+        "title": "Severe thunderstorm warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Severe%20thunderstorm%20warning",
+        "pubdate": "Sat, 17 Aug 2024 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Daniel Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniel%20Jones",
         "pubdate": "Sat, 17 Aug 2024 13:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Steelers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers",
+        "pubdate": "Sat, 17 Aug 2024 19:00:00 -0700"
       }
     ],
     [
@@ -17,6 +31,13 @@
     ],
     [
       {
+        "title": "Leagues Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Leagues%20Cup",
+        "pubdate": "Sat, 17 Aug 2024 22:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
         "pubdate": "Sat, 17 Aug 2024 07:00:00 -0700"
@@ -24,8 +45,8 @@
     ],
     [
       {
-        "title": "Dallas Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dallas%20Cowboys",
+        "title": "Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
         "pubdate": "Sat, 17 Aug 2024 20:00:00 -0700"
       }
     ],
@@ -34,27 +55,6 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
         "pubdate": "Sat, 17 Aug 2024 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Pittsburgh Steelers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pittsburgh%20Steelers",
-        "pubdate": "Sat, 17 Aug 2024 20:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Daniel Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniel%20Jones",
-        "pubdate": "Sat, 17 Aug 2024 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
-        "pubdate": "Sat, 17 Aug 2024 20:00:00 -0700"
       }
     ],
     [
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Tai Tuivasa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tai%20Tuivasa",
+        "pubdate": "Sat, 17 Aug 2024 20:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#FC%20Barcelona",
         "pubdate": "Sat, 17 Aug 2024 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Ravens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ravens",
+        "pubdate": "Sat, 17 Aug 2024 21:00:00 -0700"
       }
     ],
     [
@@ -101,23 +115,9 @@
     ],
     [
       {
-        "title": "Falcons vs Ravens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Falcons%20vs%20Ravens",
-        "pubdate": "Sat, 17 Aug 2024 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Bills vs Steelers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bills%20vs%20Steelers",
-        "pubdate": "Sat, 17 Aug 2024 19:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "George Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#George%20Santos",
-        "pubdate": "Sat, 17 Aug 2024 16:00:00 -0700"
+        "title": "Russell Wilson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Russell%20Wilson",
+        "pubdate": "Sat, 17 Aug 2024 20:00:00 -0700"
       }
     ],
     [
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Colts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colts",
-        "pubdate": "Sat, 17 Aug 2024 19:00:00 -0700"
+        "title": "George Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#George%20Santos",
+        "pubdate": "Sat, 17 Aug 2024 16:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barca",
+        "title": "Colts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colts",
         "pubdate": "Sat, 17 Aug 2024 19:00:00 -0700"
       }
     ]
