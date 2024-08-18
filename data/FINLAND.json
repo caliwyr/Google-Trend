@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-08-2024 , 23:50:11",
+  "lastUpdate": "18-08-2024 , 23:59:23",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Forrest Gump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Forrest%20Gump",
+        "pubdate": "Sat, 17 Aug 2024 19:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serie%20A",
         "pubdate": "Sat, 17 Aug 2024 22:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Chris Martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chris%20Martin",
         "pubdate": "Fri, 16 Aug 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Mark Wahlberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mark%20Wahlberg",
-        "pubdate": "Fri, 16 Aug 2024 23:00:00 +0300"
       }
     ]
   ]
