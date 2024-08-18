@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "18-08-2024 , 06:48:19",
+  "lastUpdate": "18-08-2024 , 06:57:28",
   "data": [
     [
       {
-        "title": "Highfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Highfield",
+        "title": "Highfield-Festival",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Highfield-Festival",
         "pubdate": "Sun, 18 Aug 2024 00:00:00 +0200"
       }
     ],
@@ -12,7 +12,7 @@
       {
         "title": "Supercup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Supercup",
-        "pubdate": "Sat, 17 Aug 2024 00:00:00 +0200"
+        "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Somerset House",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Somerset%20House",
         "pubdate": "Sat, 17 Aug 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Fri, 16 Aug 2024 11:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bruchsal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bruchsal",
         "pubdate": "Wed, 14 Aug 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Das Haus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Das%20Haus",
+        "pubdate": "Wed, 14 Aug 2024 21:00:00 +0200"
       }
     ]
   ]
