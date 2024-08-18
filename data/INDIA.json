@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-08-2024 , 04:55:31",
+  "lastUpdate": "18-08-2024 , 05:13:49",
   "data": [
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
-        "pubdate": "Sun, 18 Aug 2024 02:30:00 +0530"
-      }
-    ],
     [
       {
         "title": "UFC",
@@ -20,13 +13,6 @@
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barca",
         "pubdate": "Sun, 18 Aug 2024 02:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Goat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Goat",
-        "pubdate": "Sun, 18 Aug 2024 00:30:00 +0530"
       }
     ],
     [
@@ -52,6 +38,13 @@
     ],
     [
       {
+        "title": "Sabarmati Express",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sabarmati%20Express",
+        "pubdate": "Sat, 17 Aug 2024 12:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arsenal",
         "pubdate": "Sat, 17 Aug 2024 19:30:00 +0530"
@@ -66,9 +59,9 @@
     ],
     [
       {
-        "title": "Siddaramaiah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Siddaramaiah",
-        "pubdate": "Sat, 17 Aug 2024 22:30:00 +0530"
+        "title": "Delhi Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Delhi%20Premier%20League",
+        "pubdate": "Sat, 17 Aug 2024 21:30:00 +0530"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "Foxconn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Foxconn",
         "pubdate": "Sat, 17 Aug 2024 11:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Siddaramaiah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Siddaramaiah",
+        "pubdate": "Sat, 17 Aug 2024 22:30:00 +0530"
       }
     ],
     [
@@ -122,9 +122,16 @@
     ],
     [
       {
-        "title": "IMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IMA",
-        "pubdate": "Fri, 16 Aug 2024 12:30:00 +0530"
+        "title": "Udaipur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Udaipur",
+        "pubdate": "Fri, 16 Aug 2024 20:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "UP Police",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UP%20Police",
+        "pubdate": "Fri, 16 Aug 2024 20:30:00 +0530"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Mob",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mob",
         "pubdate": "Fri, 16 Aug 2024 00:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "National Film Awards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#National%20Film%20Awards",
-        "pubdate": "Fri, 16 Aug 2024 22:30:00 +0530"
       }
     ]
   ]
