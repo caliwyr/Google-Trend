@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-08-2024 , 22:50:18",
+  "lastUpdate": "18-08-2024 , 22:59:31",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Sigma Olomouc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sigma%20Olomouc",
         "pubdate": "Sun, 18 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Schumacher",
-        "pubdate": "Sun, 18 Aug 2024 03:00:00 +0200"
       }
     ],
     [
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Schumacher",
+        "pubdate": "Sun, 18 Aug 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fotbal.cz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fotbal.cz",
         "pubdate": "Sun, 18 Aug 2024 12:00:00 +0200"
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Hradec Králové – Dukla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hradec%20Kr%C3%A1lov%C3%A9%20%E2%80%93%20Dukla",
-        "pubdate": "Sat, 17 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Silné bouřky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Siln%C3%A9%20bou%C5%99ky",
         "pubdate": "Sat, 17 Aug 2024 09:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC",
         "pubdate": "Sat, 17 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UFC 305",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC%20305",
+        "pubdate": "Sat, 17 Aug 2024 12:00:00 +0200"
       }
     ]
   ]
