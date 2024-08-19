@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "19-08-2024 , 18:47:11",
+  "lastUpdate": "19-08-2024 , 18:56:21",
   "data": [
-    [
-      {
-        "title": "Bjørnholt vgs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bj%C3%B8rnholt%20vgs",
-        "pubdate": "Mon, 19 Aug 2024 15:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Tore Ylvisaker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tore%20Ylvisaker",
         "pubdate": "Mon, 19 Aug 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bjørnholt vgs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bj%C3%B8rnholt%20vgs",
+        "pubdate": "Mon, 19 Aug 2024 15:00:00 +0200"
       }
     ],
     [
@@ -27,13 +27,6 @@
         "title": "Campus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Campus",
         "pubdate": "Mon, 19 Aug 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gullfaks C",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gullfaks%20C",
-        "pubdate": "Mon, 19 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bebe Rexha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bebe%20Rexha",
         "pubdate": "Sun, 18 Aug 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sarpsborg 08",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarpsborg%2008",
+        "pubdate": "Sun, 18 Aug 2024 19:00:00 +0200"
       }
     ]
   ]
