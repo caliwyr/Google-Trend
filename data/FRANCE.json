@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-08-2024 , 03:48:06",
+  "lastUpdate": "19-08-2024 , 03:57:20",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Lookman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lookman",
-        "pubdate": "Sun, 18 Aug 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Noisy-le-Sec",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Noisy-le-Sec",
         "pubdate": "Sun, 18 Aug 2024 12:00:00 +0200"
@@ -104,13 +97,6 @@
         "title": "Tais-toi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tais-toi",
         "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Drucker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Drucker",
-        "pubdate": "Sun, 18 Aug 2024 17:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Claude Nougaro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Claude%20Nougaro",
         "pubdate": "Sun, 18 Aug 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "OM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OM",
+        "pubdate": "Sat, 17 Aug 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "LOSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
+        "pubdate": "Sat, 17 Aug 2024 20:00:00 +0200"
       }
     ]
   ]

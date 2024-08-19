@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-08-2024 , 03:48:06",
+  "lastUpdate": "19-08-2024 , 03:57:20",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Pride 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pride%202024",
-        "pubdate": "Sat, 17 Aug 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
         "pubdate": "Sat, 17 Aug 2024 16:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Celine%20Dion",
+        "pubdate": "Sat, 17 Aug 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pride",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pride",
         "pubdate": "Sat, 17 Aug 2024 10:00:00 +0200"
       }
     ]
