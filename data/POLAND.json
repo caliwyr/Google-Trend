@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "19-08-2024 , 04:43:28",
+  "lastUpdate": "19-08-2024 , 04:53:02",
   "data": [
     [
       {
         "title": "US Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#US%20Open",
         "pubdate": "Mon, 19 Aug 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AS Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#AS%20Roma",
-        "pubdate": "Mon, 19 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Alain Delon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alain%20Delon",
-        "pubdate": "Sun, 18 Aug 2024 09:00:00 +0200"
+        "title": "AS Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#AS%20Roma",
+        "pubdate": "Mon, 19 Aug 2024 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Real Madryt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Real%20Madryt",
-        "pubdate": "Sun, 18 Aug 2024 19:00:00 +0200"
+        "title": "Alain Delon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Alain%20Delon",
+        "pubdate": "Sun, 18 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -62,6 +55,20 @@
         "title": "Śląsk Wrocław – Korona Kielce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Al%C4%85sk%20Wroc%C5%82aw%20%E2%80%93%20Korona%20Kielce",
         "pubdate": "Sun, 18 Aug 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Real",
+        "pubdate": "Sun, 18 Aug 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Justyna Burska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Justyna%20Burska",
+        "pubdate": "Sun, 18 Aug 2024 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Robert De Niro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Robert%20De%20Niro",
         "pubdate": "Sun, 18 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nord Stream",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nord%20Stream",
-        "pubdate": "Sun, 18 Aug 2024 13:00:00 +0200"
       }
     ]
   ]
