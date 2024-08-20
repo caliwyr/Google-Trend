@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2024 , 16:42:41",
+  "lastUpdate": "20-08-2024 , 16:51:57",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Paula Abdul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Paula%20Abdul",
+        "pubdate": "Tue, 20 Aug 2024 12:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "ASTS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#ASTS",
         "pubdate": "Tue, 20 Aug 2024 07:00:00 -0400"
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "DNC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#DNC",
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Joe%20Biden",
         "pubdate": "Mon, 19 Aug 2024 10:00:00 -0400"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Couche-Tard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Couche-Tard",
         "pubdate": "Mon, 19 Aug 2024 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Jason Isbell",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jason%20Isbell",
-        "pubdate": "Mon, 19 Aug 2024 21:00:00 -0400"
       }
     ]
   ]
