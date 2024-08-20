@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-08-2024 , 01:48:22",
+  "lastUpdate": "20-08-2024 , 02:28:52",
   "data": [
-    [
-      {
-        "title": "Prima Plus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prima%20Plus",
-        "pubdate": "Mon, 19 Aug 2024 17:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "John Aprea",
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "Kuffa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kuffa",
-        "pubdate": "Mon, 19 Aug 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kalousek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kalousek",
         "pubdate": "Mon, 19 Aug 2024 19:00:00 +0200"
@@ -69,13 +55,6 @@
         "title": "Romy Schneider",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Romy%20Schneider",
         "pubdate": "Sun, 18 Aug 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rebelové",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rebelov%C3%A9",
-        "pubdate": "Sun, 18 Aug 2024 16:00:00 +0200"
       }
     ],
     [
@@ -115,6 +94,20 @@
     ],
     [
       {
+        "title": "Rebelove",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rebelove",
+        "pubdate": "Sun, 18 Aug 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mathias Vacek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mathias%20Vacek",
+        "pubdate": "Sun, 18 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
         "pubdate": "Sun, 18 Aug 2024 22:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "Patrik Eliáš",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrik%20Eli%C3%A1%C5%A1",
+        "pubdate": "Sun, 18 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dominik Stříteský",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dominik%20St%C5%99%C3%ADtesk%C3%BD",
         "pubdate": "Sun, 18 Aug 2024 21:00:00 +0200"
       }
     ]
