@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-08-2024 , 00:31:40",
+  "lastUpdate": "20-08-2024 , 01:48:20",
   "data": [
     [
       {
@@ -59,8 +59,8 @@
     ],
     [
       {
-        "title": "Sydney Metro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Metro",
+        "title": "Sydney metro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20metro",
         "pubdate": "Mon, 19 Aug 2024 07:00:00 +1000"
       }
     ],
@@ -76,6 +76,13 @@
         "title": "The Weeknd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Weeknd",
         "pubdate": "Mon, 19 Aug 2024 10:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Blue moon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Blue%20moon",
+        "pubdate": "Mon, 19 Aug 2024 14:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ivan Toney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ivan%20Toney",
         "pubdate": "Mon, 19 Aug 2024 00:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Christian Petracca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Christian%20Petracca",
-        "pubdate": "Mon, 19 Aug 2024 16:00:00 +1000"
       }
     ]
   ]
