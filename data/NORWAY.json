@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-08-2024 , 15:46:08",
+  "lastUpdate": "21-08-2024 , 15:55:16",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Hello Magazine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hello%20Magazine",
+        "title": "Hello! Magazine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hello!%20Magazine",
         "pubdate": "Wed, 21 Aug 2024 14:00:00 +0200"
       }
     ],
@@ -55,6 +55,20 @@
         "title": "Johan Harstad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Johan%20Harstad",
         "pubdate": "Wed, 21 Aug 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Made it",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Made%20it",
+        "pubdate": "Wed, 21 Aug 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gummistøvler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gummist%C3%B8vler",
+        "pubdate": "Wed, 21 Aug 2024 07:00:00 +0200"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "45",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#45",
+        "pubdate": "Tue, 20 Aug 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vikersund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vikersund",
         "pubdate": "Tue, 20 Aug 2024 16:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "The Acolyte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Acolyte",
         "pubdate": "Tue, 20 Aug 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Harry Hole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Harry%20Hole",
-        "pubdate": "Tue, 20 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bodø/Glimt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
-        "pubdate": "Mon, 19 Aug 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tore Ylvisaker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tore%20Ylvisaker",
-        "pubdate": "Mon, 19 Aug 2024 16:00:00 +0200"
       }
     ]
   ]
