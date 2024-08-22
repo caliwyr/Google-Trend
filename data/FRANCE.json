@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-08-2024 , 21:43:16",
+  "lastUpdate": "22-08-2024 , 21:52:40",
   "data": [
+    [
+      {
+        "title": "Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lens",
+        "pubdate": "Thu, 22 Aug 2024 19:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Mike Lynch",
@@ -20,13 +27,6 @@
         "title": "Francois Alu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Francois%20Alu",
         "pubdate": "Thu, 22 Aug 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lens",
-        "pubdate": "Thu, 22 Aug 2024 19:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Camping",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Camping",
-        "pubdate": "Wed, 21 Aug 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Monseigneur Di Falco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Monseigneur%20Di%20Falco",
         "pubdate": "Wed, 21 Aug 2024 14:00:00 +0200"
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Prince Andrew",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Prince%20Andrew",
-        "pubdate": "Wed, 21 Aug 2024 12:00:00 +0200"
+        "title": "Camping",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Camping",
+        "pubdate": "Wed, 21 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Black Myth : Wukong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Black%20Myth%20:%20Wukong",
         "pubdate": "Tue, 20 Aug 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jacques Audiard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jacques%20Audiard",
+        "pubdate": "Tue, 20 Aug 2024 17:00:00 +0200"
       }
     ]
   ]
