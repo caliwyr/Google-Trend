@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-08-2024 , 14:41:51",
+  "lastUpdate": "22-08-2024 , 14:50:27",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Donald%20Trump",
         "pubdate": "Thu, 22 Aug 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Kennedy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kennedy",
+        "pubdate": "Thu, 22 Aug 2024 17:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Training day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Training%20day",
         "pubdate": "Tue, 20 Aug 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Montreal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Montreal",
-        "pubdate": "Tue, 20 Aug 2024 18:00:00 +0300"
       }
     ]
   ]
