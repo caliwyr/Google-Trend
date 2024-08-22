@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-08-2024 , 06:32:55",
+  "lastUpdate": "22-08-2024 , 06:45:47",
   "data": [
     [
       {
@@ -59,23 +59,9 @@
     ],
     [
       {
-        "title": "George Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#George%20Santos",
-        "pubdate": "Wed, 21 Aug 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Inacio Miguel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inacio%20Miguel",
         "pubdate": "Wed, 21 Aug 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Raymond Zondo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Raymond%20Zondo",
-        "pubdate": "Wed, 21 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -87,15 +73,22 @@
     ],
     [
       {
-        "title": "Andrew Tate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Andrew%20Tate",
-        "pubdate": "Wed, 21 Aug 2024 23:00:00 +0200"
+        "title": "George Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#George%20Santos",
+        "pubdate": "Wed, 21 Aug 2024 01:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Young Boys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Young%20Boys",
+        "title": "Raymond Zondo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Raymond%20Zondo",
+        "pubdate": "Wed, 21 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Andrew Tate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Andrew%20Tate",
         "pubdate": "Wed, 21 Aug 2024 23:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Joao Felix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Joao%20Felix",
         "pubdate": "Tue, 20 Aug 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Al Ahly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Ahly",
+        "pubdate": "Tue, 20 Aug 2024 22:00:00 +0200"
       }
     ]
   ]
