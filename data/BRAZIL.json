@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "22-08-2024 , 10:44:54",
+  "lastUpdate": "22-08-2024 , 10:54:09",
   "data": [
+    [
+      {
+        "title": "Bill Clinton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bill%20Clinton",
+        "pubdate": "Thu, 22 Aug 2024 03:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Palmeiras x Botafogo",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Fortaleza x Rosario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Rosario",
-        "pubdate": "Wed, 21 Aug 2024 15:00:00 -0500"
+        "title": "Guarani x Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani%20x%20Santos",
+        "pubdate": "Wed, 21 Aug 2024 00:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Guarani x Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani%20x%20Santos",
-        "pubdate": "Wed, 21 Aug 2024 00:00:00 -0500"
+        "title": "Fortaleza x Rosario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Rosario",
+        "pubdate": "Wed, 21 Aug 2024 15:00:00 -0500"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Ben Affleck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ben%20Affleck",
-        "pubdate": "Wed, 21 Aug 2024 05:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Joao Fonseca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Joao%20Fonseca",
         "pubdate": "Wed, 21 Aug 2024 20:00:00 -0500"
@@ -122,9 +122,9 @@
     ],
     [
       {
-        "title": "Cantora Diana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cantora%20Diana",
-        "pubdate": "Wed, 21 Aug 2024 21:00:00 -0500"
+        "title": "Ben Affleck",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ben%20Affleck",
+        "pubdate": "Wed, 21 Aug 2024 05:00:00 -0500"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Bolívar x Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bol%C3%ADvar%20x%20Flamengo",
-        "pubdate": "Wed, 21 Aug 2024 14:00:00 -0500"
+        "title": "Sao Paulo x Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo%20x%20Nacional",
+        "pubdate": "Wed, 21 Aug 2024 18:00:00 -0500"
       }
     ]
   ]
