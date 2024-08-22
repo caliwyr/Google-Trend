@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "22-08-2024 , 04:40:37",
+  "lastUpdate": "22-08-2024 , 04:50:02",
   "data": [
-    [
-      {
-        "title": "Good Things 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Good%20Things%202024",
-        "pubdate": "Thu, 22 Aug 2024 09:00:00 +1000"
-      }
-    ],
     [
       {
         "title": "Powerball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Powerball",
         "pubdate": "Thu, 22 Aug 2024 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Good Things",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Good%20Things",
+        "pubdate": "Thu, 22 Aug 2024 11:00:00 +1000"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Mark Bickley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mark%20Bickley",
+        "pubdate": "Wed, 21 Aug 2024 09:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Hawaiian Islands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hawaiian%20Islands",
         "pubdate": "Wed, 21 Aug 2024 15:00:00 +1000"
@@ -132,13 +139,6 @@
         "title": "Ian McKellen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ian%20McKellen",
         "pubdate": "Wed, 21 Aug 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Alicia Silverstone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alicia%20Silverstone",
-        "pubdate": "Wed, 21 Aug 2024 02:00:00 +1000"
       }
     ]
   ]
