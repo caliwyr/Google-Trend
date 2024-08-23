@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2024 , 17:37:36",
+  "lastUpdate": "23-08-2024 , 17:46:55",
   "data": [
     [
       {
@@ -26,13 +26,6 @@
       {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chelsea",
-        "pubdate": "Fri, 23 Aug 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Festas do Mar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Festas%20do%20Mar",
         "pubdate": "Fri, 23 Aug 2024 00:00:00 +0100"
       }
     ],
@@ -73,6 +66,20 @@
     ],
     [
       {
+        "title": "Fabio Vieira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fabio%20Vieira",
+        "pubdate": "Fri, 23 Aug 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Farense-Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Farense-Sporting",
+        "pubdate": "Fri, 23 Aug 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Catherine Ribeiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Catherine%20Ribeiro",
         "pubdate": "Fri, 23 Aug 2024 16:00:00 +0100"
@@ -87,22 +94,8 @@
     ],
     [
       {
-        "title": "Juan Izquierdo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Juan%20Izquierdo",
-        "pubdate": "Fri, 23 Aug 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jack Doohan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jack%20Doohan",
-        "pubdate": "Fri, 23 Aug 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Farense-Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Farense-Sporting",
         "pubdate": "Fri, 23 Aug 2024 12:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Grandola",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Grandola",
         "pubdate": "Fri, 23 Aug 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Formula%201",
+        "pubdate": "Fri, 23 Aug 2024 17:00:00 +0100"
       }
     ]
   ]
