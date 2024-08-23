@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-08-2024 , 03:44:26",
+  "lastUpdate": "23-08-2024 , 03:53:37",
   "data": [
+    [
+      {
+        "title": "Kennedy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kennedy",
+        "pubdate": "Fri, 23 Aug 2024 04:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Plzeň – Hearts",
@@ -55,6 +62,13 @@
         "title": "Ivan Bartoš",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivan%20Barto%C5%A1",
         "pubdate": "Thu, 22 Aug 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leoš Mareš",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leo%C5%A1%20Mare%C5%A1",
+        "pubdate": "Thu, 22 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Obama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Obama",
         "pubdate": "Wed, 21 Aug 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "inZOI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#inZOI",
-        "pubdate": "Wed, 21 Aug 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Platy státních zaměstnanců",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Platy%20st%C3%A1tn%C3%ADch%20zam%C4%9Bstnanc%C5%AF",
-        "pubdate": "Wed, 21 Aug 2024 19:00:00 +0200"
       }
     ]
   ]
