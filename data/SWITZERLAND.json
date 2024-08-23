@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-08-2024 , 05:38:12",
+  "lastUpdate": "23-08-2024 , 05:47:38",
   "data": [
     [
       {
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Bill Clinton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bill%20Clinton",
-        "pubdate": "Thu, 22 Aug 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kennedy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kennedy",
         "pubdate": "Thu, 22 Aug 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luchs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luchs",
-        "pubdate": "Thu, 22 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -59,6 +45,13 @@
     ],
     [
       {
+        "title": "Luchs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luchs",
+        "pubdate": "Thu, 22 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Francois Alu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Francois%20Alu",
         "pubdate": "Thu, 22 Aug 2024 16:00:00 +0200"
@@ -66,9 +59,23 @@
     ],
     [
       {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Donald%20Trump",
+        "pubdate": "Thu, 22 Aug 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "America's Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#America's%20Cup",
         "pubdate": "Thu, 22 Aug 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eric Stauffer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eric%20Stauffer",
+        "pubdate": "Thu, 22 Aug 2024 03:00:00 +0200"
       }
     ],
     [
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Diamond League Lausanne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Diamond%20League%20Lausanne",
-        "pubdate": "Thu, 22 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "FCL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCL",
         "pubdate": "Thu, 22 Aug 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mats Hummels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mats%20Hummels",
-        "pubdate": "Thu, 22 Aug 2024 23:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Chateau petrus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chateau%20petrus",
-        "pubdate": "Thu, 22 Aug 2024 09:00:00 +0200"
+        "title": "Mats Hummels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mats%20Hummels",
+        "pubdate": "Thu, 22 Aug 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Swiss Re",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss%20Re",
+        "pubdate": "Thu, 22 Aug 2024 17:00:00 +0200"
       }
     ]
   ]

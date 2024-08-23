@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-08-2024 , 05:38:03",
+  "lastUpdate": "23-08-2024 , 05:47:30",
   "data": [
-    [
-      {
-        "title": "Kennedy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kennedy",
-        "pubdate": "Fri, 23 Aug 2024 04:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Plzeň – Hearts",
@@ -115,6 +108,13 @@
     ],
     [
       {
+        "title": "Obama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Obama",
+        "pubdate": "Wed, 21 Aug 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pavel Bittner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Bittner",
         "pubdate": "Wed, 21 Aug 2024 20:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Obama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Obama",
-        "pubdate": "Wed, 21 Aug 2024 23:00:00 +0200"
+        "title": "inZOI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#inZOI",
+        "pubdate": "Wed, 21 Aug 2024 17:00:00 +0200"
       }
     ]
   ]
