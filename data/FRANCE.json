@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2024 , 09:40:18",
+  "lastUpdate": "24-08-2024 , 09:49:40",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Justin Bieber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Justin%20Bieber",
-        "pubdate": "Sat, 24 Aug 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bellingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bellingham",
         "pubdate": "Sat, 24 Aug 2024 09:00:00 +0200"
@@ -41,6 +34,13 @@
         "title": "Chauve-souris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chauve-souris",
         "pubdate": "Sat, 24 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "La Grande-Motte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Grande-Motte",
+        "pubdate": "Sat, 24 Aug 2024 11:00:00 +0200"
       }
     ],
     [
@@ -59,23 +59,9 @@
     ],
     [
       {
-        "title": "Patrice Laffont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patrice%20Laffont",
-        "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vladimir Poutine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vladimir%20Poutine",
         "pubdate": "Fri, 23 Aug 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chantal Ladesou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chantal%20Ladesou",
-        "pubdate": "Fri, 23 Aug 2024 22:00:00 +0200"
       }
     ],
     [
@@ -104,6 +90,13 @@
         "title": "Naps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Naps",
         "pubdate": "Fri, 23 Aug 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mathis Lambourde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mathis%20Lambourde",
+        "pubdate": "Fri, 23 Aug 2024 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Pauline deroulede",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pauline%20deroulede",
         "pubdate": "Fri, 23 Aug 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Islande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Islande",
+        "pubdate": "Fri, 23 Aug 2024 23:00:00 +0200"
       }
     ]
   ]
