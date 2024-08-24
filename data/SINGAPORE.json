@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-08-2024 , 15:47:38",
+  "lastUpdate": "24-08-2024 , 15:56:59",
   "data": [
     [
       {
         "title": "Brighton vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton%20vs%20Man%20United",
         "pubdate": "Sat, 24 Aug 2024 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Man City vs Ipswich Town",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City%20vs%20Ipswich%20Town",
+        "pubdate": "Sat, 24 Aug 2024 22:00:00 +0800"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Justin Bieber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Justin%20Bieber",
-        "pubdate": "Sat, 24 Aug 2024 15:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "RFK Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#RFK%20Jr",
         "pubdate": "Sat, 24 Aug 2024 12:00:00 +0800"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Man City vs Ipswich Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City%20vs%20Ipswich%20Town",
-        "pubdate": "Sat, 24 Aug 2024 22:00:00 +0800"
+        "title": "Justin Bieber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Justin%20Bieber",
+        "pubdate": "Sat, 24 Aug 2024 15:00:00 +0800"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Jermaine Jenas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jermaine%20Jenas",
-        "pubdate": "Fri, 23 Aug 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Gundogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gundogan",
         "pubdate": "Thu, 22 Aug 2024 14:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Morgan Stanley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Morgan%20Stanley",
         "pubdate": "Wed, 21 Aug 2024 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Black Myth: Wukong",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Black%20Myth:%20Wukong",
+        "pubdate": "Tue, 20 Aug 2024 11:00:00 +0800"
       }
     ]
   ]
