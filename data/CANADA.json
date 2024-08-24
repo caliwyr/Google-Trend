@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-08-2024 , 21:46:03",
+  "lastUpdate": "24-08-2024 , 21:55:23",
   "data": [
     [
       {
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "College football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#College%20football",
+        "title": "College Football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#College%20Football",
         "pubdate": "Sat, 24 Aug 2024 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Formula%201",
+        "pubdate": "Sat, 24 Aug 2024 02:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "RFK Jr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#RFK%20Jr",
         "pubdate": "Fri, 23 Aug 2024 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#F1",
-        "pubdate": "Fri, 23 Aug 2024 21:00:00 -0400"
       }
     ]
   ]
