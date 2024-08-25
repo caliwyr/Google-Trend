@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-08-2024 , 23:40:03",
+  "lastUpdate": "25-08-2024 , 23:49:16",
   "data": [
+    [
+      {
+        "title": "US Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#US%20Open",
+        "pubdate": "Mon, 26 Aug 2024 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
@@ -132,13 +139,6 @@
         "title": "Barcelona  Athletic Bilbao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Athletic%20Bilbao",
         "pubdate": "Sat, 24 Aug 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tottenham",
-        "pubdate": "Sat, 24 Aug 2024 17:00:00 +0200"
       }
     ]
   ]
