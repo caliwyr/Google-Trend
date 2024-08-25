@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-08-2024 , 05:39:59",
+  "lastUpdate": "25-08-2024 , 05:49:18",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Solingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Solingen",
         "pubdate": "Sat, 24 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ludvig Åberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ludvig%20%C3%85berg",
+        "pubdate": "Sat, 24 Aug 2024 21:00:00 +0200"
       }
     ],
     [
@@ -59,20 +66,6 @@
     ],
     [
       {
-        "title": "Marie Serneholt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marie%20Serneholt",
-        "pubdate": "Sat, 24 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "David Hellenius",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#David%20Hellenius",
-        "pubdate": "Sat, 24 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brighton",
         "pubdate": "Sat, 24 Aug 2024 16:00:00 +0200"
@@ -83,13 +76,6 @@
         "title": "Kennedy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kennedy",
         "pubdate": "Sat, 24 Aug 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Crystal Palace mot West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Crystal%20Palace%20mot%20West%20Ham",
-        "pubdate": "Sat, 24 Aug 2024 19:00:00 +0200"
       }
     ],
     [
@@ -138,6 +124,20 @@
       {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bundesliga",
+        "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Allan Edwall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allan%20Edwall",
+        "pubdate": "Fri, 23 Aug 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stormen Lilian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stormen%20Lilian",
         "pubdate": "Fri, 23 Aug 2024 21:00:00 +0200"
       }
     ]
