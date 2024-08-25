@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "25-08-2024 , 18:43:34",
+  "lastUpdate": "25-08-2024 , 18:53:00",
   "data": [
-    [
-      {
-        "title": "Bournemouth vs Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bournemouth%20vs%20Newcastle",
-        "pubdate": "Mon, 26 Aug 2024 00:00:00 +1000"
-      }
-    ],
     [
       {
         "title": "Liverpool vs Brentford",
@@ -17,8 +10,22 @@
     ],
     [
       {
+        "title": "Bournemouth vs Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bournemouth%20vs%20Newcastle",
+        "pubdate": "Mon, 26 Aug 2024 00:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bayern%20Munich",
+        "pubdate": "Mon, 26 Aug 2024 01:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Freo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Freo",
         "pubdate": "Mon, 26 Aug 2024 01:00:00 +1000"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Dutch GP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dutch%20GP",
         "pubdate": "Sun, 25 Aug 2024 15:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Justice League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Justice%20League",
-        "pubdate": "Sun, 25 Aug 2024 21:00:00 +1000"
       }
     ]
   ]
