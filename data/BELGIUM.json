@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-08-2024 , 08:42:19",
+  "lastUpdate": "25-08-2024 , 08:51:33",
   "data": [
+    [
+      {
+        "title": "Pavel Durov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pavel%20Durov",
+        "pubdate": "Sun, 25 Aug 2024 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Anthony Delon",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Pavel Durov",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pavel%20Durov",
-        "pubdate": "Sun, 25 Aug 2024 01:00:00 +0200"
+        "title": "Christoph Daum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Christoph%20Daum",
+        "pubdate": "Sun, 25 Aug 2024 08:00:00 +0200"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Antwerp  Mechelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp%20%20Mechelen",
-        "pubdate": "Sat, 24 Aug 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Solingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Solingen",
         "pubdate": "Sat, 24 Aug 2024 00:00:00 +0200"
@@ -69,6 +69,13 @@
         "title": "Barcelone – Ath Bilbao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelone%20%E2%80%93%20Ath%20Bilbao",
         "pubdate": "Sat, 24 Aug 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Antwerp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
+        "pubdate": "Sat, 24 Aug 2024 21:00:00 +0200"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-        "pubdate": "Sat, 24 Aug 2024 20:00:00 +0200"
+        "title": "Eva De Bleeker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eva%20De%20Bleeker",
+        "pubdate": "Sat, 24 Aug 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Eva De Bleeker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eva%20De%20Bleeker",
-        "pubdate": "Sat, 24 Aug 2024 14:00:00 +0200"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
+        "pubdate": "Sat, 24 Aug 2024 20:00:00 +0200"
       }
     ],
     [
@@ -110,13 +117,6 @@
       {
         "title": "Aston Villa – Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aston%20Villa%20%E2%80%93%20Arsenal",
-        "pubdate": "Sat, 24 Aug 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "24H Zolder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#24H%20Zolder",
         "pubdate": "Sat, 24 Aug 2024 20:00:00 +0200"
       }
     ],
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Almere-PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Almere-PSV",
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
         "pubdate": "Sat, 24 Aug 2024 22:00:00 +0200"
       }
     ]
