@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-08-2024 , 19:48:06",
+  "lastUpdate": "25-08-2024 , 19:57:18",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Real%20Madrid",
+        "pubdate": "Sun, 25 Aug 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Bayern München",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern%20M%C3%BCnchen",
         "pubdate": "Sun, 25 Aug 2024 17:00:00 +0200"
@@ -34,6 +41,13 @@
         "title": "Schalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
         "pubdate": "Sun, 25 Aug 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Israel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
+        "pubdate": "Sun, 25 Aug 2024 21:00:00 +0200"
       }
     ],
     [
@@ -59,16 +73,23 @@
     ],
     [
       {
-        "title": "Wespen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wespen",
-        "pubdate": "Sun, 25 Aug 2024 09:00:00 +0200"
+        "title": "Friedrich Merz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Friedrich%20Merz",
+        "pubdate": "Sun, 25 Aug 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Groß-Gerau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gro%C3%9F-Gerau",
-        "pubdate": "Sun, 25 Aug 2024 14:00:00 +0200"
+        "title": "Söder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#S%C3%B6der",
+        "pubdate": "Sun, 25 Aug 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wespen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wespen",
+        "pubdate": "Sun, 25 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -80,13 +101,6 @@
     ],
     [
       {
-        "title": "Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
-        "pubdate": "Sat, 24 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Sat, 24 Aug 2024 15:00:00 +0200"
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "1. fc köln",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1.%20fc%20k%C3%B6ln",
+        "title": "Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
         "pubdate": "Sat, 24 Aug 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hertha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
-        "pubdate": "Sat, 24 Aug 2024 15:00:00 +0200"
+        "title": "1. fc köln",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1.%20fc%20k%C3%B6ln",
+        "pubdate": "Sat, 24 Aug 2024 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
         "pubdate": "Fri, 23 Aug 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Laternenfest Halle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Laternenfest%20Halle",
-        "pubdate": "Fri, 23 Aug 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayer 04 Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayer%2004%20Leverkusen",
-        "pubdate": "Fri, 23 Aug 2024 22:00:00 +0200"
       }
     ]
   ]
