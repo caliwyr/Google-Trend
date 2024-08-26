@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "26-08-2024 , 02:28:44",
+  "lastUpdate": "26-08-2024 , 02:50:32",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
-        "pubdate": "Mon, 26 Aug 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
         "pubdate": "Mon, 26 Aug 2024 00:00:00 +0800"
       }
     ],
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
+        "pubdate": "Mon, 26 Aug 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Newcastle",
         "pubdate": "Mon, 26 Aug 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Oasis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Oasis",
+        "pubdate": "Mon, 26 Aug 2024 10:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kamala Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Kamala%20Harris",
         "pubdate": "Fri, 23 Aug 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Sinkhole",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sinkhole",
-        "pubdate": "Fri, 23 Aug 2024 23:00:00 +0800"
       }
     ]
   ]
