@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-08-2024 , 07:44:29",
+  "lastUpdate": "26-08-2024 , 07:54:03",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
-        "pubdate": "Sun, 25 Aug 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
         "pubdate": "Sun, 25 Aug 2024 08:00:00 -0500"
@@ -62,6 +55,13 @@
         "title": "Xuxa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Xuxa",
         "pubdate": "Sun, 25 Aug 2024 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
+        "pubdate": "Sun, 25 Aug 2024 11:00:00 -0500"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Encceja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Encceja",
+        "pubdate": "Sun, 25 Aug 2024 04:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "BYD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BYD",
         "pubdate": "Sun, 25 Aug 2024 20:00:00 -0500"
@@ -132,13 +139,6 @@
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atalanta",
         "pubdate": "Sun, 25 Aug 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Mariah Carey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mariah%20Carey",
-        "pubdate": "Sun, 25 Aug 2024 22:00:00 -0500"
       }
     ]
   ]

@@ -1,24 +1,10 @@
 {
-  "lastUpdate": "26-08-2024 , 07:44:36",
+  "lastUpdate": "26-08-2024 , 07:54:10",
   "data": [
     [
       {
         "title": "IPMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#IPMA",
-        "pubdate": "Mon, 26 Aug 2024 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "CNN Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CNN%20Portugal",
-        "pubdate": "Mon, 26 Aug 2024 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sismos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sismos",
         "pubdate": "Mon, 26 Aug 2024 06:00:00 +0100"
       }
     ],
@@ -38,9 +24,9 @@
     ],
     [
       {
-        "title": "Flamengo  Bragantino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo%20%20Bragantino",
-        "pubdate": "Mon, 26 Aug 2024 00:00:00 +0100"
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#CNN",
+        "pubdate": "Mon, 26 Aug 2024 06:00:00 +0100"
       }
     ],
     [
@@ -52,16 +38,16 @@
     ],
     [
       {
-        "title": "David Carmo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Carmo",
-        "pubdate": "Mon, 26 Aug 2024 04:00:00 +0100"
+        "title": "Flamengo  Bragantino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Flamengo%20%20Bragantino",
+        "pubdate": "Mon, 26 Aug 2024 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "TREMOR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#TREMOR",
-        "pubdate": "Mon, 26 Aug 2024 06:00:00 +0100"
+        "title": "David Carmo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#David%20Carmo",
+        "pubdate": "Mon, 26 Aug 2024 04:00:00 +0100"
       }
     ],
     [
@@ -73,16 +59,9 @@
     ],
     [
       {
-        "title": "Replicas sismo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Replicas%20sismo",
-        "pubdate": "Mon, 26 Aug 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Raquel Sampaio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Raquel%20Sampaio",
-        "pubdate": "Mon, 26 Aug 2024 00:00:00 +0100"
+        "title": "Ultima hora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ultima%20hora",
+        "pubdate": "Mon, 26 Aug 2024 06:00:00 +0100"
       }
     ],
     [
@@ -97,6 +76,13 @@
         "title": "Gremio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Gremio",
         "pubdate": "Mon, 26 Aug 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Replicas de sismos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Replicas%20de%20sismos",
+        "pubdate": "Mon, 26 Aug 2024 08:00:00 +0100"
       }
     ],
     [
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Colocações Ensino Superior 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coloca%C3%A7%C3%B5es%20Ensino%20Superior%202024",
-        "pubdate": "Sun, 25 Aug 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Braga Moreirense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga%20Moreirense",
         "pubdate": "Sun, 25 Aug 2024 20:00:00 +0100"
@@ -139,6 +118,27 @@
         "title": "Formula 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Formula%201",
         "pubdate": "Sun, 25 Aug 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
+        "pubdate": "Sun, 25 Aug 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Atlético Madrid  Girona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico%20Madrid%20%20Girona",
+        "pubdate": "Sun, 25 Aug 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
+        "pubdate": "Sun, 25 Aug 2024 22:00:00 +0100"
       }
     ]
   ]

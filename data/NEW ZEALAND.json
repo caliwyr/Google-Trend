@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-08-2024 , 07:44:35",
+  "lastUpdate": "26-08-2024 , 07:54:09",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Formula%201",
+        "pubdate": "Sun, 25 Aug 2024 15:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Aston Villa vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aston%20Villa%20vs%20Arsenal",
         "pubdate": "Sun, 25 Aug 2024 08:00:00 +1200"
@@ -132,13 +139,6 @@
         "title": "Caio Borralho",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Caio%20Borralho",
         "pubdate": "Sun, 25 Aug 2024 18:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1",
-        "pubdate": "Sat, 24 Aug 2024 03:00:00 +1200"
       }
     ]
   ]
