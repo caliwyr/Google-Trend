@@ -1,18 +1,32 @@
 {
-  "lastUpdate": "26-08-2024 , 12:52:03",
+  "lastUpdate": "26-08-2024 , 13:15:20",
   "data": [
-    [
-      {
-        "title": "Temperatura São Paulo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Temperatura%20S%C3%A3o%20Paulo",
-        "pubdate": "Mon, 26 Aug 2024 02:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Terremoto Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Terremoto%20Portugal",
         "pubdate": "Mon, 26 Aug 2024 05:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Temperatura Curitiba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Temperatura%20Curitiba",
+        "pubdate": "Mon, 26 Aug 2024 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Anomalia nos polos Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Anomalia%20nos%20polos%20Brasil",
+        "pubdate": "Mon, 26 Aug 2024 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bia Miranda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bia%20Miranda",
+        "pubdate": "Mon, 26 Aug 2024 04:00:00 -0500"
       }
     ],
     [
@@ -24,16 +38,16 @@
     ],
     [
       {
-        "title": "Criciúma x Grêmio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crici%C3%BAma%20x%20Gr%C3%AAmio",
-        "pubdate": "Sun, 25 Aug 2024 12:00:00 -0500"
+        "title": "Internacional x Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional%20x%20Cruzeiro",
+        "pubdate": "Sun, 25 Aug 2024 11:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Internacional x Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional%20x%20Cruzeiro",
-        "pubdate": "Sun, 25 Aug 2024 11:00:00 -0500"
+        "title": "Criciúma x Grêmio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Crici%C3%BAma%20x%20Gr%C3%AAmio",
+        "pubdate": "Sun, 25 Aug 2024 12:00:00 -0500"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Chapecoense x CRB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chapecoense%20x%20CRB",
-        "pubdate": "Sun, 25 Aug 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Galo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Galo",
         "pubdate": "Sun, 25 Aug 2024 16:00:00 -0500"
@@ -104,6 +111,13 @@
         "title": "Atletico de Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
         "pubdate": "Sun, 25 Aug 2024 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Chapecoense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chapecoense",
+        "pubdate": "Sun, 25 Aug 2024 19:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Vitor Roque",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitor%20Roque",
         "pubdate": "Sun, 25 Aug 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Cidade de Deus serie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cidade%20de%20Deus%20serie",
-        "pubdate": "Sun, 25 Aug 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Israel",
-        "pubdate": "Sun, 25 Aug 2024 18:00:00 -0500"
       }
     ]
   ]
