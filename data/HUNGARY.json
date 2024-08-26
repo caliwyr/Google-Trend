@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-08-2024 , 08:55:15",
+  "lastUpdate": "26-08-2024 , 09:14:39",
   "data": [
     [
       {
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Keleti pályaudvar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keleti%20p%C3%A1lyaudvar",
-        "pubdate": "Sun, 25 Aug 2024 21:00:00 +0200"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
+        "pubdate": "Sun, 25 Aug 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
-        "pubdate": "Sun, 25 Aug 2024 20:00:00 +0200"
+        "title": "Wolfsburg–bayern München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wolfsburg%E2%80%93bayern%20M%C3%BCnchen",
+        "pubdate": "Sun, 25 Aug 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Keleti pályaudvar baleset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keleti%20p%C3%A1lyaudvar%20baleset",
+        "pubdate": "Sun, 25 Aug 2024 21:00:00 +0200"
       }
     ],
     [
@@ -108,20 +115,6 @@
     ],
     [
       {
-        "title": "Max Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Max%20Verstappen",
-        "pubdate": "Sun, 25 Aug 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bayern%20M%C3%BCnchen",
-        "pubdate": "Sun, 25 Aug 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Duplantis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Duplantis",
         "pubdate": "Sun, 25 Aug 2024 22:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Roma–Empoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Roma%E2%80%93Empoli",
         "pubdate": "Sun, 25 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Majka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Majka",
+        "pubdate": "Sun, 25 Aug 2024 02:00:00 +0200"
       }
     ]
   ]
