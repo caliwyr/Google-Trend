@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-08-2024 , 17:48:09",
+  "lastUpdate": "26-08-2024 , 17:59:24",
   "data": [
-    [
-      {
-        "title": "Sismo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sismo",
-        "pubdate": "Mon, 26 Aug 2024 03:00:00 -0400"
-      }
-    ],
     [
       {
         "title": "Temblor",
@@ -20,6 +13,13 @@
         "title": "US Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#US%20Open",
         "pubdate": "Mon, 26 Aug 2024 10:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Temblor hoy Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy%20Chile",
+        "pubdate": "Mon, 26 Aug 2024 03:00:00 -0400"
       }
     ],
     [
@@ -45,22 +45,22 @@
     ],
     [
       {
-        "title": "US Open 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#US%20Open%202024",
-        "pubdate": "Mon, 26 Aug 2024 12:00:00 -0400"
+        "title": "Flor Regidor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Flor%20Regidor",
+        "pubdate": "Mon, 26 Aug 2024 08:00:00 -0400"
       }
     ],
     [
       {
         "title": "Colo Colo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo",
-        "pubdate": "Sun, 25 Aug 2024 16:00:00 -0400"
+        "pubdate": "Sun, 25 Aug 2024 15:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Real Madrid  Valladolid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid%20%20Valladolid",
+        "title": "Real Madrid - Valladolid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid%20-%20Valladolid",
         "pubdate": "Sun, 25 Aug 2024 11:00:00 -0400"
       }
     ],
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Palestino  Cobresal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Palestino%20%20Cobresal",
+        "pubdate": "Sun, 25 Aug 2024 13:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
         "pubdate": "Sun, 25 Aug 2024 12:00:00 -0400"
@@ -132,13 +139,6 @@
         "title": "Cambio de hora en Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cambio%20de%20hora%20en%20Chile",
         "pubdate": "Sun, 25 Aug 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Teatro caupolican",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Teatro%20caupolican",
-        "pubdate": "Sun, 25 Aug 2024 10:00:00 -0400"
       }
     ]
   ]
