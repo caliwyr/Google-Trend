@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-08-2024 , 11:44:33",
+  "lastUpdate": "26-08-2024 , 11:53:55",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "Oasis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Oasis",
+        "pubdate": "Mon, 26 Aug 2024 11:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Wade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wade",
         "pubdate": "Mon, 26 Aug 2024 11:00:00 +1200"
       }
     ],
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "US Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#US%20Open",
+        "pubdate": "Mon, 26 Aug 2024 23:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid vs Valladolid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid%20vs%20Valladolid",
         "pubdate": "Mon, 26 Aug 2024 09:00:00 +1200"
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "Wellington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington",
-        "pubdate": "Mon, 26 Aug 2024 20:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Wellington flooding",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20flooding",
         "pubdate": "Mon, 26 Aug 2024 15:00:00 +1200"
@@ -83,6 +90,13 @@
         "title": "Tonga earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tonga%20earthquake",
         "pubdate": "Mon, 26 Aug 2024 17:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Israel Folau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Israel%20Folau",
+        "pubdate": "Mon, 26 Aug 2024 14:00:00 +1200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Formula 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Formula%201",
         "pubdate": "Sun, 25 Aug 2024 15:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Aston%20Villa%20vs%20Arsenal",
-        "pubdate": "Sun, 25 Aug 2024 08:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20utd",
-        "pubdate": "Sun, 25 Aug 2024 11:00:00 +1200"
       }
     ]
   ]
