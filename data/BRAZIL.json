@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-08-2024 , 10:42:00",
+  "lastUpdate": "27-08-2024 , 10:51:22",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Jogo do vasco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20vasco",
+        "pubdate": "Mon, 26 Aug 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "US Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#US%20Open",
         "pubdate": "Mon, 26 Aug 2024 09:00:00 -0500"
@@ -38,23 +45,16 @@
     ],
     [
       {
-        "title": "Jogo do Vasco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Vasco",
-        "pubdate": "Mon, 26 Aug 2024 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Metastase",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Metastase",
-        "pubdate": "Mon, 26 Aug 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Alex Sandro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alex%20Sandro",
         "pubdate": "Mon, 26 Aug 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Verona x Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Verona%20x%20Juventus",
+        "pubdate": "Mon, 26 Aug 2024 14:00:00 -0500"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Star Wars Outlaws",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Star%20Wars%20Outlaws",
-        "pubdate": "Mon, 26 Aug 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Djokovic",
         "pubdate": "Mon, 26 Aug 2024 21:00:00 -0500"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Cagliari x Como",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cagliari%20x%20Como",
-        "pubdate": "Mon, 26 Aug 2024 12:00:00 -0500"
+        "title": "Dia do psicologo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20psicologo",
+        "pubdate": "Mon, 26 Aug 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Star Wars Outlaws",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Star%20Wars%20Outlaws",
+        "pubdate": "Mon, 26 Aug 2024 11:00:00 -0500"
       }
     ]
   ]

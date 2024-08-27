@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-08-2024 , 10:42:05",
+  "lastUpdate": "27-08-2024 , 10:51:27",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
-        "pubdate": "Sun, 25 Aug 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Anne Frank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anne%20Frank",
         "pubdate": "Sun, 25 Aug 2024 11:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Solingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Solingen",
         "pubdate": "Sat, 24 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Sat, 24 Aug 2024 19:00:00 +0200"
       }
     ]
   ]
