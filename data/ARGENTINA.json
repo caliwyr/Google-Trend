@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-08-2024 , 23:58:38",
+  "lastUpdate": "27-08-2024 , 01:36:45",
   "data": [
-    [
-      {
-        "title": "Barracas Central  Vélez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barracas%20Central%20%20V%C3%A9lez",
-        "pubdate": "Mon, 26 Aug 2024 16:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Rosario Central  Atlético Tucumán",
@@ -17,23 +10,23 @@
     ],
     [
       {
+        "title": "Barracas Central  Vélez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Barracas%20Central%20%20V%C3%A9lez",
+        "pubdate": "Mon, 26 Aug 2024 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "US Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#US%20Open",
-        "pubdate": "Mon, 26 Aug 2024 09:00:00 -0300"
+        "pubdate": "Mon, 26 Aug 2024 11:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Belgrano  Gimnasia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Belgrano%20%20Gimnasia",
+        "title": "Belgrano-Gimnasia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Belgrano-Gimnasia",
         "pubdate": "Mon, 26 Aug 2024 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Central Córdoba  Banfield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Central%20C%C3%B3rdoba%20%20Banfield",
-        "pubdate": "Mon, 26 Aug 2024 16:00:00 -0300"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Nueva Chicago  Colón",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nueva%20Chicago%20%20Col%C3%B3n",
         "pubdate": "Mon, 26 Aug 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Banfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banfield",
+        "pubdate": "Mon, 26 Aug 2024 16:00:00 -0300"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "US Open 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#US%20Open%202024",
+        "pubdate": "Mon, 26 Aug 2024 09:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Como salio River",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Como%20salio%20River",
         "pubdate": "Mon, 26 Aug 2024 01:00:00 -0300"
@@ -80,23 +87,9 @@
     ],
     [
       {
-        "title": "Schwartzman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Schwartzman",
-        "pubdate": "Mon, 26 Aug 2024 19:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Soledad Pastorutti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Soledad%20Pastorutti",
         "pubdate": "Mon, 26 Aug 2024 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Ikea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ikea",
-        "pubdate": "Mon, 26 Aug 2024 11:00:00 -0300"
       }
     ],
     [
@@ -108,9 +101,30 @@
     ],
     [
       {
+        "title": "Ikea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ikea",
+        "pubdate": "Mon, 26 Aug 2024 11:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Aliendro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aliendro",
         "pubdate": "Mon, 26 Aug 2024 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ceferino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Ceferino",
+        "pubdate": "Mon, 26 Aug 2024 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Cerundolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cerundolo",
+        "pubdate": "Mon, 26 Aug 2024 20:00:00 -0300"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "MODO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#MODO",
-        "pubdate": "Mon, 26 Aug 2024 19:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Mateyko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mateyko",
-        "pubdate": "Mon, 26 Aug 2024 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Comesaña",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Comesa%C3%B1a",
         "pubdate": "Mon, 26 Aug 2024 19:00:00 -0300"
       }
     ]
