@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "27-08-2024 , 18:46:41",
+  "lastUpdate": "27-08-2024 , 18:56:04",
   "data": [
+    [
+      {
+        "title": "Oasis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oasis",
+        "pubdate": "Tue, 27 Aug 2024 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Mariah Carey",
@@ -10,23 +17,16 @@
     ],
     [
       {
-        "title": "Tamedia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tamedia",
-        "pubdate": "Tue, 27 Aug 2024 07:00:00 +0200"
+        "title": "Stromausfall Bern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stromausfall%20Bern",
+        "pubdate": "Tue, 27 Aug 2024 13:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Tulsi Gabbard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tulsi%20Gabbard",
-        "pubdate": "Tue, 27 Aug 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dominic Thiem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dominic%20Thiem",
-        "pubdate": "Tue, 27 Aug 2024 08:00:00 +0200"
+        "title": "Franco Colapinto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Franco%20Colapinto",
+        "pubdate": "Tue, 27 Aug 2024 19:00:00 +0200"
       }
     ],
     [
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Dominic Thiem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dominic%20Thiem",
+        "pubdate": "Tue, 27 Aug 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Villarreal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Villarreal",
         "pubdate": "Tue, 27 Aug 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Koopmeiners",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Koopmeiners",
+        "pubdate": "Tue, 27 Aug 2024 13:00:00 +0200"
       }
     ],
     [
@@ -59,44 +73,9 @@
     ],
     [
       {
-        "title": "Koopmeiners",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Koopmeiners",
-        "pubdate": "Tue, 27 Aug 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Franco Colapinto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Franco%20Colapinto",
-        "pubdate": "Tue, 27 Aug 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Julien Arnaud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Julien%20Arnaud",
         "pubdate": "Tue, 27 Aug 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Apple iPhone 16",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Apple%20iPhone%2016",
-        "pubdate": "Tue, 27 Aug 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tama Vakeesan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tama%20Vakeesan",
-        "pubdate": "Tue, 27 Aug 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Szczesny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Szczesny",
-        "pubdate": "Tue, 27 Aug 2024 18:00:00 +0200"
       }
     ],
     [
@@ -108,9 +87,37 @@
     ],
     [
       {
-        "title": "Hart aber fair",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hart%20aber%20fair",
-        "pubdate": "Tue, 27 Aug 2024 11:00:00 +0200"
+        "title": "Apple iPhone 16",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Apple%20iPhone%2016",
+        "pubdate": "Tue, 27 Aug 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Szczesny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Szczesny",
+        "pubdate": "Tue, 27 Aug 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tama Vakeesan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tama%20Vakeesan",
+        "pubdate": "Tue, 27 Aug 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Capri-Sun Plastikstrohhalm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Capri-Sun%20Plastikstrohhalm",
+        "pubdate": "Tue, 27 Aug 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cédric Flaction",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#C%C3%A9dric%20Flaction",
+        "pubdate": "Tue, 27 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Gerard Darmon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gerard%20Darmon",
+        "title": "Hart aber fair",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hart%20aber%20fair",
         "pubdate": "Tue, 27 Aug 2024 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Olaf Scholz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Olaf%20Scholz",
-        "pubdate": "Tue, 27 Aug 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Badosa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Badosa",
-        "pubdate": "Tue, 27 Aug 2024 12:00:00 +0200"
+        "title": "Gerard Darmon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gerard%20Darmon",
+        "pubdate": "Tue, 27 Aug 2024 11:00:00 +0200"
       }
     ]
   ]
