@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "27-08-2024 , 11:47:55",
+  "lastUpdate": "27-08-2024 , 11:57:21",
   "data": [
-    [
-      {
-        "title": "US Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20Open",
-        "pubdate": "Tue, 27 Aug 2024 04:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "PDD",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "Australian employees",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Australian%20employees",
-        "pubdate": "Tue, 27 Aug 2024 08:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Star Wars Outlaws",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Wars%20Outlaws",
         "pubdate": "Tue, 27 Aug 2024 10:00:00 +0800"
@@ -45,15 +31,22 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Novak%20Djokovic",
-        "pubdate": "Tue, 27 Aug 2024 14:00:00 +0800"
+        "title": "Sinkhole Kuala Lumpur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sinkhole%20Kuala%20Lumpur",
+        "pubdate": "Tue, 27 Aug 2024 11:00:00 +0800"
       }
     ],
     [
       {
         "title": "Tulsi Gabbard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tulsi%20Gabbard",
+        "pubdate": "Tue, 27 Aug 2024 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Novak%20Djokovic",
         "pubdate": "Tue, 27 Aug 2024 14:00:00 +0800"
       }
     ],
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Ticketmaster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ticketmaster",
-        "pubdate": "Mon, 26 Aug 2024 11:00:00 +0800"
+        "title": "US Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20Open",
+        "pubdate": "Mon, 26 Aug 2024 22:00:00 +0800"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Ticketmaster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ticketmaster",
+        "pubdate": "Mon, 26 Aug 2024 11:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Ugarte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ugarte",
         "pubdate": "Mon, 26 Aug 2024 22:00:00 +0800"
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "Sinkhole kl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sinkhole%20kl",
-        "pubdate": "Mon, 26 Aug 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "CIMB Singapore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CIMB%20Singapore",
         "pubdate": "Mon, 26 Aug 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "US Open 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20Open%202024",
-        "pubdate": "Mon, 26 Aug 2024 22:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Lando Norris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lando%20Norris",
         "pubdate": "Mon, 26 Aug 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Amy Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Amy%20Jackson",
+        "pubdate": "Mon, 26 Aug 2024 20:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1",
+        "pubdate": "Sun, 25 Aug 2024 02:00:00 +0800"
       }
     ]
   ]
