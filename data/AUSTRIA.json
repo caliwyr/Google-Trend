@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-08-2024 , 23:40:44",
+  "lastUpdate": "28-08-2024 , 23:50:09",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Austria Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Wien",
+        "pubdate": "Wed, 28 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "GAK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK",
         "pubdate": "Wed, 28 Aug 2024 19:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Kirchenwirt Klagenfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Kirchenwirt%20Klagenfurt",
+        "pubdate": "Wed, 28 Aug 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mark Zuckerberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mark%20Zuckerberg",
         "pubdate": "Wed, 28 Aug 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marc Bernal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Marc%20Bernal",
-        "pubdate": "Wed, 28 Aug 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "SK Sturm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SK%20Sturm",
-        "pubdate": "Wed, 28 Aug 2024 21:00:00 +0200"
       }
     ]
   ]
