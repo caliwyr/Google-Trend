@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-08-2024 , 00:52:29",
+  "lastUpdate": "28-08-2024 , 02:03:07",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Franco Colapinto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Franco%20Colapinto",
-        "pubdate": "Tue, 27 Aug 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Oasis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Oasis",
         "pubdate": "Mon, 26 Aug 2024 15:00:00 +0200"
@@ -80,8 +73,8 @@
     ],
     [
       {
-        "title": "US Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US%20Open",
+        "title": "US-Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US-Open",
         "pubdate": "Mon, 26 Aug 2024 18:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Discover Airlines",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Discover%20Airlines",
         "pubdate": "Sun, 25 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heidi Kabel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidi%20Kabel",
+        "pubdate": "Sun, 25 Aug 2024 11:00:00 +0200"
       }
     ]
   ]
