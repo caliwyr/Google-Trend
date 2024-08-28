@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "28-08-2024 , 07:45:02",
+  "lastUpdate": "28-08-2024 , 07:54:19",
   "data": [
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona",
-        "pubdate": "Wed, 28 Aug 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Paralympics",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Mariah Carey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mariah%20Carey",
-        "pubdate": "Tue, 27 Aug 2024 07:00:00 +0200"
+        "title": "Juan Izquierdo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Juan%20Izquierdo",
+        "pubdate": "Wed, 28 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "Rayo  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rayo%20%20Barcelona",
         "pubdate": "Tue, 27 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mariah Carey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mariah%20Carey",
+        "pubdate": "Tue, 27 Aug 2024 07:00:00 +0200"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Vuelta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vuelta",
+        "pubdate": "Tue, 27 Aug 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chappell Roan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chappell%20Roan",
         "pubdate": "Tue, 27 Aug 2024 02:00:00 +0200"
@@ -111,13 +118,6 @@
         "title": "Sid Vicious",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sid%20Vicious",
         "pubdate": "Tue, 27 Aug 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vuelta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Vuelta",
-        "pubdate": "Tue, 27 Aug 2024 18:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Oasis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Oasis",
-        "pubdate": "Mon, 26 Aug 2024 18:00:00 +0200"
+        "title": "Only Murders in the Building",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Only%20Murders%20in%20the%20Building",
+        "pubdate": "Tue, 27 Aug 2024 22:00:00 +0200"
       }
     ]
   ]
