@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-08-2024 , 06:43:58",
+  "lastUpdate": "29-08-2024 , 06:53:23",
   "data": [
+    [
+      {
+        "title": "Votaciones Casa de los Famosos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Votaciones%20Casa%20de%20los%20Famosos",
+        "pubdate": "Thu, 29 Aug 2024 00:00:00 -0600"
+      }
+    ],
     [
       {
         "title": "Juegos Paralímpicos 2024",
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Clima Monterrey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20Monterrey",
-        "pubdate": "Wed, 28 Aug 2024 09:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Philadelphia . Columbus Crew",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Philadelphia%20.%20Columbus%20Crew",
         "pubdate": "Wed, 28 Aug 2024 18:00:00 -0600"
@@ -73,8 +73,15 @@
     ],
     [
       {
-        "title": "Cuando es dia del Abuelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Cuando%20es%20dia%20del%20Abuelo",
+        "title": "Clima Monterrey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Clima%20Monterrey",
+        "pubdate": "Wed, 28 Aug 2024 09:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Diablos Rojos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Diablos%20Rojos",
         "pubdate": "Wed, 28 Aug 2024 09:00:00 -0600"
       }
     ],
@@ -108,20 +115,6 @@
     ],
     [
       {
-        "title": "Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Sociedad",
-        "pubdate": "Wed, 28 Aug 2024 15:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Diablos Rojos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Diablos%20Rojos",
-        "pubdate": "Wed, 28 Aug 2024 09:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Lucas Ocampos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lucas%20Ocampos",
         "pubdate": "Wed, 28 Aug 2024 16:00:00 -0600"
@@ -139,6 +132,13 @@
         "title": "Linkin Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Linkin%20Park",
         "pubdate": "Wed, 28 Aug 2024 06:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "San Judas Tadeo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#San%20Judas%20Tadeo",
+        "pubdate": "Wed, 28 Aug 2024 18:00:00 -0600"
       }
     ]
   ]
