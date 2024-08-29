@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-08-2024 , 17:39:09",
+  "lastUpdate": "29-08-2024 , 17:48:41",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Champions%20League",
+        "pubdate": "Thu, 29 Aug 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Typhon Japon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Typhon%20Japon",
         "pubdate": "Thu, 29 Aug 2024 09:00:00 +0200"
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Lille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille",
-        "pubdate": "Thu, 29 Aug 2024 02:00:00 +0200"
+        "title": "JO 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#JO%202024",
+        "pubdate": "Thu, 29 Aug 2024 16:00:00 +0200"
       }
     ],
     [
       {
-        "title": "JO 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#JO%202024",
-        "pubdate": "Thu, 29 Aug 2024 16:00:00 +0200"
+        "title": "Lille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille",
+        "pubdate": "Thu, 29 Aug 2024 02:00:00 +0200"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Ryadh Sallem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ryadh%20Sallem",
-        "pubdate": "Thu, 29 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Julien Doré",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Julien%20Dor%C3%A9",
         "pubdate": "Thu, 29 Aug 2024 01:00:00 +0200"
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Tirage Ligue des champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tirage%20Ligue%20des%20champions",
-        "pubdate": "Wed, 28 Aug 2024 21:00:00 +0200"
+        "title": "Rugby fauteuil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rugby%20fauteuil",
+        "pubdate": "Thu, 29 Aug 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Slavia Prague – Lille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Slavia%20Prague%20%E2%80%93%20Lille",
+        "title": "Tirage Ligue des champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tirage%20Ligue%20des%20champions",
         "pubdate": "Wed, 28 Aug 2024 21:00:00 +0200"
       }
     ]
