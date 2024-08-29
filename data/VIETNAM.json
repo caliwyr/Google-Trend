@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-08-2024 , 11:36:45",
+  "lastUpdate": "29-08-2024 , 11:46:03",
   "data": [
     [
       {
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atletico%20Madrid",
         "pubdate": "Thu, 29 Aug 2024 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Chiesa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Chiesa",
+        "pubdate": "Thu, 29 Aug 2024 18:00:00 +0700"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Nguyễn Hòa Bình",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nguy%E1%BB%85n%20H%C3%B2a%20B%C3%ACnh",
-        "pubdate": "Thu, 29 Aug 2024 09:00:00 +0700"
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nvidia",
+        "pubdate": "Thu, 29 Aug 2024 01:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nvidia",
-        "pubdate": "Thu, 29 Aug 2024 01:00:00 +0700"
+        "title": "Nguyễn Hòa Bình",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nguy%E1%BB%85n%20H%C3%B2a%20B%C3%ACnh",
+        "pubdate": "Thu, 29 Aug 2024 09:00:00 +0700"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Đinh Thanh Trung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90inh%20Thanh%20Trung",
+        "pubdate": "Wed, 28 Aug 2024 00:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Jo Bo Ah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Jo%20Bo%20Ah",
         "pubdate": "Wed, 28 Aug 2024 14:00:00 +0700"
@@ -125,20 +139,6 @@
         "title": "DIG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#DIG",
         "pubdate": "Wed, 28 Aug 2024 15:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "US Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#US%20Open",
-        "pubdate": "Wed, 28 Aug 2024 03:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Deepfake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Deepfake",
-        "pubdate": "Wed, 28 Aug 2024 19:00:00 +0700"
       }
     ]
   ]
