@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-08-2024 , 08:44:52",
+  "lastUpdate": "29-08-2024 , 08:54:22",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Juan Izquierdo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juan%20Izquierdo",
-        "pubdate": "Wed, 28 Aug 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ricky Martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ricky%20Martin",
         "pubdate": "Wed, 28 Aug 2024 14:00:00 +0200"
@@ -80,16 +73,23 @@
     ],
     [
       {
-        "title": "Pető brúnó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pet%C5%91%20br%C3%BAn%C3%B3",
+        "title": "Hobo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hobo",
+        "pubdate": "Wed, 28 Aug 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pető Brúnó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pet%C5%91%20Br%C3%BAn%C3%B3",
         "pubdate": "Wed, 28 Aug 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hobo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Hobo",
-        "pubdate": "Wed, 28 Aug 2024 06:00:00 +0200"
+        "title": "M100 autópálya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M100%20aut%C3%B3p%C3%A1lya",
+        "pubdate": "Wed, 28 Aug 2024 19:00:00 +0200"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Margot Robbie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Margot%20Robbie",
-        "pubdate": "Wed, 28 Aug 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vadai Ágnes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Vadai%20%C3%81gnes",
         "pubdate": "Wed, 28 Aug 2024 21:00:00 +0200"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Dancs Annamari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dancs%20Annamari",
-        "pubdate": "Wed, 28 Aug 2024 01:00:00 +0200"
+        "title": "Margot Robbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Margot%20Robbie",
+        "pubdate": "Wed, 28 Aug 2024 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Állatkertek Éjszakája",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%81llatkertek%20%C3%89jszak%C3%A1ja",
         "pubdate": "Wed, 28 Aug 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dancs Annamari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dancs%20Annamari",
+        "pubdate": "Wed, 28 Aug 2024 01:00:00 +0200"
       }
     ]
   ]
