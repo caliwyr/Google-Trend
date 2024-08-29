@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-08-2024 , 07:44:34",
+  "lastUpdate": "29-08-2024 , 07:53:42",
   "data": [
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
+        "pubdate": "Thu, 29 Aug 2024 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Atlético Madrid – Espanyol",
@@ -101,20 +108,6 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
-        "pubdate": "Wed, 28 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Starlink",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Starlink",
-        "pubdate": "Wed, 28 Aug 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Peter Maffay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Peter%20Maffay",
         "pubdate": "Wed, 28 Aug 2024 13:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Beetlejuice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Beetlejuice",
         "pubdate": "Wed, 28 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Cristiano%20Ronaldo",
+        "pubdate": "Wed, 28 Aug 2024 08:00:00 +0200"
       }
     ]
   ]
