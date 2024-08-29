@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "29-08-2024 , 09:40:04",
+  "lastUpdate": "29-08-2024 , 09:49:41",
   "data": [
-    [
-      {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Europa%20League",
-        "pubdate": "Thu, 29 Aug 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Casper Ruud",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Casper%20Ruud",
         "pubdate": "Thu, 29 Aug 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Europa%20League",
+        "pubdate": "Thu, 29 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Sparebanken Vest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sparebanken%20Vest",
+        "pubdate": "Wed, 28 Aug 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bodø glimt kamp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8%20glimt%20kamp",
         "pubdate": "Wed, 28 Aug 2024 21:00:00 +0200"
@@ -94,23 +101,9 @@
     ],
     [
       {
-        "title": "PelleK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PelleK",
-        "pubdate": "Wed, 28 Aug 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Foot Locker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Foot%20Locker",
         "pubdate": "Wed, 28 Aug 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Morten Viskum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Morten%20Viskum",
-        "pubdate": "Wed, 28 Aug 2024 11:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bodø/Glimt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
         "pubdate": "Tue, 27 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Martin Ødegaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Martin%20%C3%98degaard",
+        "pubdate": "Tue, 27 Aug 2024 21:00:00 +0200"
       }
     ]
   ]
