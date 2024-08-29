@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "29-08-2024 , 22:41:42",
+  "lastUpdate": "29-08-2024 , 22:51:00",
   "data": [
-    [
-      {
-        "title": "Brasileirao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileirao",
-        "pubdate": "Thu, 29 Aug 2024 04:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Las Palmas x Real Madrid",
@@ -17,8 +10,22 @@
     ],
     [
       {
+        "title": "Brasileirao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileirao",
+        "pubdate": "Thu, 29 Aug 2024 04:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Campeonato Brasileiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Brasileiro",
+        "pubdate": "Thu, 29 Aug 2024 05:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Elon%20Musk",
         "pubdate": "Thu, 29 Aug 2024 06:00:00 -0500"
       }
     ],
@@ -26,13 +33,6 @@
       {
         "title": "Serie a",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Serie%20a",
-        "pubdate": "Thu, 29 Aug 2024 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Alexandre de Moraes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alexandre%20de%20Moraes",
         "pubdate": "Thu, 29 Aug 2024 06:00:00 -0500"
       }
     ],
@@ -59,23 +59,9 @@
     ],
     [
       {
-        "title": "Rodolfo Sancho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rodolfo%20Sancho",
-        "pubdate": "Thu, 29 Aug 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Djokovic",
         "pubdate": "Thu, 29 Aug 2024 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vasco x",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco%20x",
-        "pubdate": "Thu, 29 Aug 2024 14:00:00 -0500"
       }
     ],
     [
@@ -87,16 +73,9 @@
     ],
     [
       {
-        "title": "AZUL4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#AZUL4",
-        "pubdate": "Thu, 29 Aug 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bluesky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bluesky",
-        "pubdate": "Thu, 29 Aug 2024 05:00:00 -0500"
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ajax",
+        "pubdate": "Thu, 29 Aug 2024 14:00:00 -0500"
       }
     ],
     [
@@ -104,6 +83,13 @@
         "title": "Michael Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Michael%20Jackson",
         "pubdate": "Thu, 29 Aug 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Al-Ittihad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Ittihad",
+        "pubdate": "Thu, 29 Aug 2024 14:00:00 -0500"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Dia do Gamer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20do%20Gamer",
         "pubdate": "Thu, 29 Aug 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Real madrid club de fútbol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Real%20madrid%20club%20de%20f%C3%BAtbol",
+        "pubdate": "Thu, 29 Aug 2024 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Odilon Wagner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Odilon%20Wagner",
+        "pubdate": "Thu, 29 Aug 2024 16:00:00 -0500"
       }
     ]
   ]
