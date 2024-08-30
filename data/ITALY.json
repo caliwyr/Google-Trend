@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "30-08-2024 , 07:37:11",
+  "lastUpdate": "30-08-2024 , 07:46:19",
   "data": [
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alcaraz",
-        "pubdate": "Fri, 30 Aug 2024 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Djalo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Djalo",
         "pubdate": "Fri, 30 Aug 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chiusura calciomercato",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chiusura%20calciomercato",
-        "pubdate": "Fri, 30 Aug 2024 07:00:00 +0200"
       }
     ],
     [
@@ -31,16 +17,16 @@
     ],
     [
       {
-        "title": "Cocciaretto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cocciaretto",
-        "pubdate": "Fri, 30 Aug 2024 00:00:00 +0200"
+        "title": "Chiusura calciomercato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chiusura%20calciomercato",
+        "pubdate": "Fri, 30 Aug 2024 07:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Scott McTominay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scott%20McTominay",
-        "pubdate": "Fri, 30 Aug 2024 01:00:00 +0200"
+        "title": "Cocciaretto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cocciaretto",
+        "pubdate": "Fri, 30 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -52,9 +38,23 @@
     ],
     [
       {
+        "title": "Scott McTominay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scott%20McTominay",
+        "pubdate": "Fri, 30 Aug 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bologna fc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bologna%20fc",
         "pubdate": "Fri, 30 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Leonardo Bertulazzi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leonardo%20Bertulazzi",
+        "pubdate": "Fri, 30 Aug 2024 01:00:00 +0200"
       }
     ],
     [
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "Danso Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Danso%20Roma",
+        "title": "Martina Oppelli Trieste",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Martina%20Oppelli%20Trieste",
         "pubdate": "Fri, 30 Aug 2024 08:00:00 +0200"
       }
     ],
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Errani oggi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Errani%20oggi",
-        "pubdate": "Fri, 30 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Miriam Leone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Miriam%20Leone",
         "pubdate": "Fri, 30 Aug 2024 08:00:00 +0200"
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Roberto Inglese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Roberto%20Inglese",
-        "pubdate": "Fri, 30 Aug 2024 08:00:00 +0200"
+        "title": "Naomi Campbell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Naomi%20Campbell",
+        "pubdate": "Fri, 30 Aug 2024 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Champions%20League",
-        "pubdate": "Thu, 29 Aug 2024 00:00:00 +0200"
+        "title": "Francesco Bettella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francesco%20Bettella",
+        "pubdate": "Fri, 30 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Puskás Academy-Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pusk%C3%A1s%20Academy-Fiorentina",
+        "pubdate": "Thu, 29 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Las Palmas  Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Las%20Palmas%20%20Real%20Madrid",
         "pubdate": "Thu, 29 Aug 2024 21:00:00 +0200"
       }
     ]
