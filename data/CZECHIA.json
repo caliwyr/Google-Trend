@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-08-2024 , 20:41:25",
+  "lastUpdate": "30-08-2024 , 20:50:48",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Nick Cave",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nick%20Cave",
+        "pubdate": "Fri, 30 Aug 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vrana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vrana",
         "pubdate": "Fri, 30 Aug 2024 01:00:00 +0200"
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "Nick Cave",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nick%20Cave",
+        "title": "Kuchta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kuchta",
         "pubdate": "Fri, 30 Aug 2024 20:00:00 +0200"
       }
     ],
@@ -76,20 +83,6 @@
         "title": "Tomáš Šebek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20%C5%A0ebek",
         "pubdate": "Fri, 30 Aug 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "David Kratochvíl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#David%20Kratochv%C3%ADl",
-        "pubdate": "Fri, 30 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kuchta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kuchta",
-        "pubdate": "Fri, 30 Aug 2024 20:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Radar Počasí",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radar%20Po%C4%8Das%C3%AD",
         "pubdate": "Thu, 29 Aug 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Silné bouřky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Siln%C3%A9%20bou%C5%99ky",
+        "pubdate": "Thu, 29 Aug 2024 09:00:00 +0200"
       }
     ]
   ]
