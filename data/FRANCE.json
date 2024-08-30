@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "30-08-2024 , 13:42:21",
+  "lastUpdate": "30-08-2024 , 13:51:42",
   "data": [
-    [
-      {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alcaraz",
-        "pubdate": "Fri, 30 Aug 2024 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Flora Vautier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Flora%20Vautier",
         "pubdate": "Fri, 30 Aug 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alcaraz",
+        "pubdate": "Fri, 30 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Marie Patouillet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marie%20Patouillet",
-        "pubdate": "Thu, 29 Aug 2024 11:00:00 +0200"
+        "title": "Richard Millet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Richard%20Millet",
+        "pubdate": "Fri, 30 Aug 2024 15:00:00 +0200"
       }
     ],
     [
@@ -94,20 +94,6 @@
     ],
     [
       {
-        "title": "Salah Abdeslam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Salah%20Abdeslam",
-        "pubdate": "Thu, 29 Aug 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "LOSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
-        "pubdate": "Thu, 29 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rappeur Zola",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rappeur%20Zola",
         "pubdate": "Thu, 29 Aug 2024 13:00:00 +0200"
@@ -115,9 +101,16 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Europa%20League",
-        "pubdate": "Thu, 29 Aug 2024 20:00:00 +0200"
+        "title": "Salah Abdeslam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Salah%20Abdeslam",
+        "pubdate": "Thu, 29 Aug 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Medailles paralympiques",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Medailles%20paralympiques",
+        "pubdate": "Thu, 29 Aug 2024 00:00:00 +0200"
       }
     ],
     [
@@ -132,6 +125,13 @@
         "title": "Abbé Pierre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Abb%C3%A9%20Pierre",
         "pubdate": "Thu, 29 Aug 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Europa%20League",
+        "pubdate": "Thu, 29 Aug 2024 20:00:00 +0200"
       }
     ],
     [
