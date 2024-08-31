@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "31-08-2024 , 08:44:59",
+  "lastUpdate": "31-08-2024 , 08:54:15",
   "data": [
     [
       {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Serie%20A",
         "pubdate": "Sat, 31 Aug 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Siegen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Siegen",
+        "pubdate": "Sat, 31 Aug 2024 09:00:00 +0200"
       }
     ],
     [
@@ -55,6 +62,13 @@
         "title": "Van de Zandschulp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20de%20Zandschulp",
         "pubdate": "Fri, 30 Aug 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kimi Antonelli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kimi%20Antonelli",
+        "pubdate": "Fri, 30 Aug 2024 23:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Sun, 25 Aug 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anne Frank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anne%20Frank",
-        "pubdate": "Sun, 25 Aug 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
-        "pubdate": "Sun, 25 Aug 2024 17:00:00 +0200"
       }
     ]
   ]
