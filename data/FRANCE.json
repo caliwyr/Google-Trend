@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-09-2024 , 09:42:25",
+  "lastUpdate": "01-09-2024 , 09:51:53",
   "data": [
-    [
-      {
-        "title": "UDR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UDR",
-        "pubdate": "Sun, 01 Sep 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Sol Bamba",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Kamala Harris Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kamala%20Harris%20Donald%20Trump",
-        "pubdate": "Sun, 01 Sep 2024 01:00:00 +0200"
+        "title": "UDR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UDR",
+        "pubdate": "Sun, 01 Sep 2024 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Castelmoron-d'Albret",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Castelmoron-d'Albret",
         "pubdate": "Sat, 31 Aug 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Les freres Scott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Les%20freres%20Scott",
+        "pubdate": "Sat, 31 Aug 2024 15:00:00 +0200"
       }
     ]
   ]
