@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-09-2024 , 21:47:18",
+  "lastUpdate": "01-09-2024 , 21:56:47",
   "data": [
-    [
-      {
-        "title": "Project KV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Project%20KV",
-        "pubdate": "Mon, 02 Sep 2024 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "莫斯科",
@@ -31,13 +24,6 @@
     ],
     [
       {
-        "title": "鬼門關夜市",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AC%BC%E9%96%80%E9%97%9C%E5%A4%9C%E5%B8%82",
-        "pubdate": "Sun, 01 Sep 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "地震",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%B0%E9%9C%87",
         "pubdate": "Sun, 01 Sep 2024 03:00:00 +0800"
@@ -48,6 +34,13 @@
         "title": "吳怡萱",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%90%B3%E6%80%A1%E8%90%B1",
         "pubdate": "Sun, 01 Sep 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "鬼門關",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AC%BC%E9%96%80%E9%97%9C",
+        "pubdate": "Sun, 01 Sep 2024 14:00:00 +0800"
       }
     ],
     [
@@ -66,16 +59,16 @@
     ],
     [
       {
-        "title": "國泰航空",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%8B%E6%B3%B0%E8%88%AA%E7%A9%BA",
-        "pubdate": "Sun, 01 Sep 2024 07:00:00 +0800"
+        "title": "金門",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%87%91%E9%96%80",
+        "pubdate": "Sun, 01 Sep 2024 18:00:00 +0800"
       }
     ],
     [
       {
-        "title": "金門",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%87%91%E9%96%80",
-        "pubdate": "Sun, 01 Sep 2024 18:00:00 +0800"
+        "title": "國泰航空",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%8B%E6%B3%B0%E8%88%AA%E7%A9%BA",
+        "pubdate": "Sun, 01 Sep 2024 07:00:00 +0800"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "新竹客運",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%B0%E7%AB%B9%E5%AE%A2%E9%81%8B",
-        "pubdate": "Sun, 01 Sep 2024 01:00:00 +0800"
+        "title": "矢板明夫",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%9F%A2%E6%9D%BF%E6%98%8E%E5%A4%AB",
+        "pubdate": "Sun, 01 Sep 2024 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Laufey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Laufey",
+        "pubdate": "Sun, 01 Sep 2024 02:00:00 +0800"
       }
     ]
   ]
