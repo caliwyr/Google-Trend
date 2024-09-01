@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-09-2024 , 17:46:40",
+  "lastUpdate": "01-09-2024 , 17:55:53",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bologna",
+        "pubdate": "Sun, 01 Sep 2024 00:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Carlos Sainz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Carlos%20Sainz",
         "pubdate": "Sun, 01 Sep 2024 18:00:00 +0700"
@@ -132,13 +139,6 @@
         "title": "Nizam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Nizam",
         "pubdate": "Sun, 01 Sep 2024 17:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Gunung Lawu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gunung%20Lawu",
-        "pubdate": "Sun, 01 Sep 2024 22:00:00 +0700"
       }
     ]
   ]

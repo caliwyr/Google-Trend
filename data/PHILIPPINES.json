@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-09-2024 , 17:46:43",
+  "lastUpdate": "01-09-2024 , 17:55:56",
   "data": [
     [
       {
         "title": "Sydney Sweeney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Sydney%20Sweeney",
         "pubdate": "Mon, 02 Sep 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Monza GP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Monza%20GP",
+        "pubdate": "Mon, 02 Sep 2024 01:00:00 +0800"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Weather update",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Weather%20update",
-        "pubdate": "Sun, 01 Sep 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Father's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Father's%20Day",
         "pubdate": "Sun, 01 Sep 2024 09:00:00 +0800"
@@ -55,6 +55,13 @@
         "title": "Ukraine air force",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Ukraine%20air%20force",
         "pubdate": "Sun, 01 Sep 2024 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Weather update Today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Weather%20update%20Today",
+        "pubdate": "Sun, 01 Sep 2024 12:00:00 +0800"
       }
     ],
     [
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Indian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Indian",
-        "pubdate": "Sun, 01 Sep 2024 14:00:00 +0800"
+        "title": "Typhoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Typhoon",
+        "pubdate": "Sun, 01 Sep 2024 19:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Typhoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Typhoon",
-        "pubdate": "Sun, 01 Sep 2024 19:00:00 +0800"
+        "title": "Indian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Indian",
+        "pubdate": "Sun, 01 Sep 2024 14:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Pag-asa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Pag-asa",
         "pubdate": "Sun, 01 Sep 2024 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Princess Diana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Princess%20Diana",
-        "pubdate": "Sun, 01 Sep 2024 03:00:00 +0800"
       }
     ]
   ]
