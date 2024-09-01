@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-09-2024 , 12:24:50",
+  "lastUpdate": "01-09-2024 , 12:54:10",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Bash in Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bash%20in%20Berlin",
-        "pubdate": "Sun, 01 Sep 2024 04:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "SANFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#SANFL",
         "pubdate": "Sun, 01 Sep 2024 19:00:00 +1000"
@@ -52,9 +45,9 @@
     ],
     [
       {
-        "title": "Jannik Sinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jannik%20Sinner",
-        "pubdate": "Sun, 01 Sep 2024 09:00:00 +1000"
+        "title": "Bash in Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bash%20in%20Berlin",
+        "pubdate": "Sun, 01 Sep 2024 04:00:00 +1000"
       }
     ],
     [
@@ -66,15 +59,15 @@
     ],
     [
       {
-        "title": "Knights vs Titans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Knights%20vs%20Titans",
-        "pubdate": "Sun, 01 Sep 2024 15:00:00 +1000"
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jannik%20Sinner",
+        "pubdate": "Sun, 01 Sep 2024 09:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Dad jokes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dad%20jokes",
+        "title": "Knights vs Titans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Knights%20vs%20Titans",
         "pubdate": "Sun, 01 Sep 2024 15:00:00 +1000"
       }
     ],
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Dad jokes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dad%20jokes",
+        "pubdate": "Sun, 01 Sep 2024 15:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Brisbane Broncos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brisbane%20Broncos",
         "pubdate": "Sun, 01 Sep 2024 00:00:00 +1000"
@@ -94,9 +94,23 @@
     ],
     [
       {
+        "title": "Sam Walker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Walker",
+        "pubdate": "Sun, 01 Sep 2024 19:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Kathleen Folbigg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Kathleen%20Folbigg",
         "pubdate": "Sun, 01 Sep 2024 12:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea vs Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea%20vs%20Crystal%20Palace",
+        "pubdate": "Sun, 01 Sep 2024 22:00:00 +1000"
       }
     ],
     [
@@ -115,16 +129,9 @@
     ],
     [
       {
-        "title": "Sam Walker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Walker",
-        "pubdate": "Sun, 01 Sep 2024 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Medvedev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Medvedev",
-        "pubdate": "Sun, 01 Sep 2024 14:00:00 +1000"
+        "title": "Newcastle vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Newcastle%20vs%20Tottenham",
+        "pubdate": "Sun, 01 Sep 2024 22:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "BBL draft",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#BBL%20draft",
         "pubdate": "Sun, 01 Sep 2024 19:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Joe Root",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Root",
-        "pubdate": "Sun, 01 Sep 2024 14:00:00 +1000"
       }
     ]
   ]
