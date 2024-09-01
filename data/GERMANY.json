@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-09-2024 , 18:45:32",
+  "lastUpdate": "01-09-2024 , 18:54:41",
   "data": [
     [
       {
@@ -31,20 +31,6 @@
     ],
     [
       {
-        "title": "FCK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FCK",
-        "pubdate": "Sun, 01 Sep 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Charles Leclerc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Charles%20Leclerc",
-        "pubdate": "Sun, 01 Sep 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Höcke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#H%C3%B6cke",
         "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
@@ -59,16 +45,30 @@
     ],
     [
       {
-        "title": "Istaf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Istaf",
-        "pubdate": "Sun, 01 Sep 2024 17:00:00 +0200"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20United",
+        "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Manchester%20United",
+        "title": "Dino Toppmöller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dino%20Toppm%C3%B6ller",
+        "pubdate": "Sun, 01 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kretschmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kretschmer",
         "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Formel-1 Monza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel-1%20Monza",
+        "pubdate": "Sun, 01 Sep 2024 16:00:00 +0200"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Lutz van der Horst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lutz%20van%20der%20Horst",
-        "pubdate": "Sat, 31 Aug 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vance",
         "pubdate": "Sat, 31 Aug 2024 14:00:00 +0200"
@@ -111,13 +104,6 @@
         "title": "Messerangriff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Messerangriff",
         "pubdate": "Sat, 31 Aug 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bodo Ramelow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bodo%20Ramelow",
-        "pubdate": "Sat, 31 Aug 2024 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MotoGP",
         "pubdate": "Fri, 30 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Märtha Louise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%A4rtha%20Louise",
+        "pubdate": "Fri, 30 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Abschiebung Afghanistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Abschiebung%20Afghanistan",
+        "pubdate": "Fri, 30 Aug 2024 16:00:00 +0200"
       }
     ]
   ]
