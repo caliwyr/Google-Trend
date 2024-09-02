@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-09-2024 , 10:52:40",
+  "lastUpdate": "02-09-2024 , 11:07:59",
   "data": [
+    [
+      {
+        "title": "Labor Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Labor%20Day",
+        "pubdate": "Sun, 01 Sep 2024 22:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Fever vs Wings",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "What is Labor Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#What%20is%20Labor%20Day",
-        "pubdate": "Sun, 01 Sep 2024 22:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Chelsea vs Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea%20vs%20Crystal%20Palace",
         "pubdate": "Sun, 01 Sep 2024 07:00:00 -0700"
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Frances Tiafoe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Frances%20Tiafoe",
-        "pubdate": "Sun, 01 Sep 2024 19:00:00 -0700"
+        "title": "Adele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adele",
+        "pubdate": "Sun, 01 Sep 2024 17:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Adele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Adele",
-        "pubdate": "Sun, 01 Sep 2024 17:00:00 -0700"
+        "title": "Frances Tiafoe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Frances%20Tiafoe",
+        "pubdate": "Sun, 01 Sep 2024 19:00:00 -0700"
       }
     ],
     [
@@ -122,16 +122,9 @@
     ],
     [
       {
-        "title": "Ricky Pearsall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ricky%20Pearsall",
+        "title": "Pearsall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pearsall",
         "pubdate": "Sat, 31 Aug 2024 18:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Penn State football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Penn%20State%20football",
-        "pubdate": "Sat, 31 Aug 2024 06:00:00 -0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Georgia football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Georgia%20football",
         "pubdate": "Sat, 31 Aug 2024 07:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Penn State football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Penn%20State%20football",
+        "pubdate": "Sat, 31 Aug 2024 06:00:00 -0700"
       }
     ]
   ]
