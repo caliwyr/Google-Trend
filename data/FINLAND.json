@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-09-2024 , 09:53:01",
+  "lastUpdate": "02-09-2024 , 10:10:46",
   "data": [
     [
       {
         "title": "Vero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vero",
         "pubdate": "Mon, 02 Sep 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Lavrov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lavrov",
+        "pubdate": "Mon, 02 Sep 2024 12:00:00 +0300"
       }
     ],
     [
@@ -27,6 +34,13 @@
         "title": "Manu – Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manu%20%E2%80%93%20Liverpool",
         "pubdate": "Sun, 01 Sep 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "BESS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BESS",
+        "pubdate": "Sun, 01 Sep 2024 21:00:00 +0300"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Lady Gaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lady%20Gaga",
-        "pubdate": "Sat, 31 Aug 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Fatman Scoop",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fatman%20Scoop",
         "pubdate": "Sat, 31 Aug 2024 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Durek Verrett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Durek%20Verrett",
-        "pubdate": "Sat, 31 Aug 2024 17:00:00 +0300"
       }
     ]
   ]
