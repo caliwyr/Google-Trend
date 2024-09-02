@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2024 , 03:45:24",
+  "lastUpdate": "02-09-2024 , 03:54:36",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "FCK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FCK",
+        "pubdate": "Sun, 01 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ramelow",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ramelow",
         "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
@@ -59,9 +66,16 @@
     ],
     [
       {
-        "title": "Charles Leclerc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Charles%20Leclerc",
-        "pubdate": "Sun, 01 Sep 2024 17:00:00 +0200"
+        "title": "Michael Kretschmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20Kretschmer",
+        "pubdate": "Sun, 01 Sep 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MDR SACHSEN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR%20SACHSEN",
+        "pubdate": "Sun, 01 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MotoGP",
         "pubdate": "Fri, 30 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Märtha Louise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%A4rtha%20Louise",
-        "pubdate": "Fri, 30 Aug 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Abschiebung Afghanistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Abschiebung%20Afghanistan",
-        "pubdate": "Fri, 30 Aug 2024 16:00:00 +0200"
       }
     ]
   ]
