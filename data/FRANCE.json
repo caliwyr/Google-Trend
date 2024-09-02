@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-09-2024 , 21:47:55",
+  "lastUpdate": "02-09-2024 , 21:57:05",
   "data": [
-    [
-      {
-        "title": "Thierry Beaudet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thierry%20Beaudet",
-        "pubdate": "Mon, 02 Sep 2024 13:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Boccia",
@@ -27,13 +20,6 @@
         "title": "Kamilya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Kamilya",
         "pubdate": "Mon, 02 Sep 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Macif",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Macif",
-        "pubdate": "Mon, 02 Sep 2024 22:00:00 +0200"
       }
     ],
     [
@@ -59,6 +45,20 @@
     ],
     [
       {
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Teams",
+        "pubdate": "Mon, 02 Sep 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arcom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arcom",
+        "pubdate": "Mon, 02 Sep 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bonne Rentrée",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bonne%20Rentr%C3%A9e",
         "pubdate": "Mon, 02 Sep 2024 07:00:00 +0200"
@@ -69,6 +69,13 @@
         "title": "Ile des Embiez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ile%20des%20Embiez",
         "pubdate": "Mon, 02 Sep 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "2 Guns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#2%20Guns",
+        "pubdate": "Mon, 02 Sep 2024 22:00:00 +0200"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Petaouchnok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Petaouchnok",
-        "pubdate": "Mon, 02 Sep 2024 00:00:00 +0200"
+        "title": "Alain Duhamel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alain%20Duhamel",
+        "pubdate": "Mon, 02 Sep 2024 20:00:00 +0200"
       }
     ],
     [
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Rentrée scolaire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rentr%C3%A9e%20scolaire",
-        "pubdate": "Mon, 02 Sep 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mazan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mazan",
         "pubdate": "Mon, 02 Sep 2024 16:00:00 +0200"
@@ -115,16 +115,9 @@
     ],
     [
       {
-        "title": "2 Guns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#2%20Guns",
-        "pubdate": "Mon, 02 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arcom",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arcom",
-        "pubdate": "Mon, 02 Sep 2024 22:00:00 +0200"
+        "title": "Rentrée scolaire",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rentr%C3%A9e%20scolaire",
+        "pubdate": "Mon, 02 Sep 2024 07:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Bernard Cazeneuve",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bernard%20Cazeneuve",
-        "pubdate": "Sun, 01 Sep 2024 14:00:00 +0200"
+        "title": "Les Cinquantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Les%20Cinquantes",
+        "pubdate": "Mon, 02 Sep 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Eclat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Eclat",
+        "pubdate": "Mon, 02 Sep 2024 23:00:00 +0200"
       }
     ]
   ]
