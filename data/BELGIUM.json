@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-09-2024 , 06:46:09",
+  "lastUpdate": "02-09-2024 , 06:55:31",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AfD",
+        "pubdate": "Mon, 02 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gemeenteraadsverkiezingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gemeenteraadsverkiezingen",
         "pubdate": "Mon, 02 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tijgerslak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tijgerslak",
+        "pubdate": "Mon, 02 Sep 2024 08:00:00 +0200"
       }
     ],
     [
@@ -48,6 +62,13 @@
         "title": "Antwerp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
         "pubdate": "Sun, 01 Sep 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Union  Anderlecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20%20Anderlecht",
+        "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
         "pubdate": "Sun, 01 Sep 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AA Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
-        "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leander Dendoncker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leander%20Dendoncker",
-        "pubdate": "Sun, 01 Sep 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "OHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OHL",
-        "pubdate": "Sun, 01 Sep 2024 08:00:00 +0200"
       }
     ]
   ]
