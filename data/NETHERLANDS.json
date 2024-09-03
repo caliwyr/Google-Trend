@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "03-09-2024 , 09:49:25",
+  "lastUpdate": "03-09-2024 , 09:58:51",
   "data": [
-    [
-      {
-        "title": "Schalkhaar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schalkhaar",
-        "pubdate": "Tue, 03 Sep 2024 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bergwijn",
@@ -139,6 +132,13 @@
         "title": "Paralympische Spelen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paralympische%20Spelen",
         "pubdate": "Wed, 28 Aug 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paralympics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paralympics",
+        "pubdate": "Wed, 28 Aug 2024 02:00:00 +0200"
       }
     ]
   ]
