@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-09-2024 , 08:46:28",
+  "lastUpdate": "03-09-2024 , 08:55:59",
   "data": [
     [
       {
@@ -52,16 +52,9 @@
     ],
     [
       {
-        "title": "Wahlen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahlen",
-        "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sahra Wagenknecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sahra%20Wagenknecht",
-        "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
+        "title": "Sachsen-Wahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sachsen-Wahl",
+        "pubdate": "Sun, 01 Sep 2024 12:00:00 +0200"
       }
     ],
     [
@@ -73,16 +66,16 @@
     ],
     [
       {
-        "title": "MDR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
-        "pubdate": "Sun, 01 Sep 2024 18:00:00 +0200"
+        "title": "BSW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BSW",
+        "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kretschmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kretschmer",
-        "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
+        "title": "MDR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
+        "pubdate": "Sun, 01 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MotoGP",
+        "pubdate": "Fri, 30 Aug 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Märtha Louise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#M%C3%A4rtha%20Louise",
         "pubdate": "Fri, 30 Aug 2024 21:00:00 +0200"
       }
     ]
