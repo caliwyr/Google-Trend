@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2024 , 09:40:28",
+  "lastUpdate": "04-09-2024 , 09:49:52",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "American national parks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#American%20national%20parks",
+        "title": "American National Parks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#American%20National%20Parks",
         "pubdate": "Wed, 04 Sep 2024 10:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Brace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brace",
+        "pubdate": "Wed, 04 Sep 2024 12:00:00 +1200"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nvidia",
+        "pubdate": "Wed, 04 Sep 2024 21:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Wheelchair tennis paralympics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wheelchair%20tennis%20paralympics",
         "pubdate": "Tue, 03 Sep 2024 01:00:00 +1200"
@@ -55,13 +69,6 @@
         "title": "Fore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fore",
         "pubdate": "Tue, 03 Sep 2024 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Yen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Yen",
-        "pubdate": "Tue, 03 Sep 2024 11:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Newcastle vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Newcastle%20vs%20Tottenham",
         "pubdate": "Mon, 02 Sep 2024 06:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid vs Real Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real%20Madrid%20vs%20Real%20Betis",
-        "pubdate": "Mon, 02 Sep 2024 10:00:00 +1200"
       }
     ]
   ]
