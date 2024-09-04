@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2024 , 01:18:23",
+  "lastUpdate": "04-09-2024 , 02:24:59",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Concord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Concord",
+        "pubdate": "Wed, 04 Sep 2024 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Shaun Chen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shaun%20Chen",
         "pubdate": "Wed, 04 Sep 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Malayan Council",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Malayan%20Council",
+        "pubdate": "Wed, 04 Sep 2024 09:00:00 +0800"
       }
     ],
     [
@@ -41,6 +55,13 @@
         "title": "Osimhen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Osimhen",
         "pubdate": "Tue, 03 Sep 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "CICT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CICT",
+        "pubdate": "Tue, 03 Sep 2024 17:00:00 +0800"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Boccia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Boccia",
         "pubdate": "Sun, 01 Sep 2024 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Sol Bamba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sol%20Bamba",
-        "pubdate": "Sun, 01 Sep 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Fatman Scoop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fatman%20Scoop",
-        "pubdate": "Sun, 01 Sep 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Conan Gray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Conan%20Gray",
-        "pubdate": "Sun, 01 Sep 2024 18:00:00 +0800"
       }
     ]
   ]
