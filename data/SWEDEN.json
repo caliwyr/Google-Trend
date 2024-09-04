@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "04-09-2024 , 11:35:31",
+  "lastUpdate": "04-09-2024 , 11:44:52",
   "data": [
     [
       {
-        "title": "Trångsund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tr%C3%A5ngsund",
+        "title": "Trångsundsskolan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tr%C3%A5ngsundsskolan",
         "pubdate": "Wed, 04 Sep 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Yasin Ayari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Yasin%20Ayari",
-        "pubdate": "Wed, 04 Sep 2024 08:00:00 +0200"
       }
     ],
     [
@@ -20,6 +13,13 @@
         "title": "Anna Beck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anna%20Beck",
         "pubdate": "Wed, 04 Sep 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Yasin Ayari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Yasin%20Ayari",
+        "pubdate": "Wed, 04 Sep 2024 08:00:00 +0200"
       }
     ],
     [
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Concord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Concord",
+        "pubdate": "Tue, 03 Sep 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Över Atlanten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96ver%20Atlanten",
         "pubdate": "Tue, 03 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Riddermark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Riddermark",
+        "pubdate": "Tue, 03 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Flygskatt Sverige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Flygskatt%20Sverige",
-        "pubdate": "Tue, 03 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Think Pink",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Think%20Pink",
         "pubdate": "Mon, 02 Sep 2024 13:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
         "pubdate": "Mon, 02 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brad Pitt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Brad%20Pitt",
-        "pubdate": "Mon, 02 Sep 2024 09:00:00 +0200"
       }
     ]
   ]
