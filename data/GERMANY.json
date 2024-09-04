@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2024 , 05:44:29",
+  "lastUpdate": "04-09-2024 , 05:53:46",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Titanic",
         "pubdate": "Tue, 03 Sep 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elon%20Musk",
-        "pubdate": "Tue, 03 Sep 2024 22:00:00 +0200"
       }
     ],
     [
@@ -75,7 +68,7 @@
       {
         "title": "VW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VW",
-        "pubdate": "Mon, 02 Sep 2024 17:00:00 +0200"
+        "pubdate": "Mon, 02 Sep 2024 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "MDR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
         "pubdate": "Sun, 01 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kretschmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kretschmer",
+        "pubdate": "Sun, 01 Sep 2024 19:00:00 +0200"
       }
     ]
   ]
