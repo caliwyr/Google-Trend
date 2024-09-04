@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-09-2024 , 19:39:10",
+  "lastUpdate": "04-09-2024 , 19:48:33",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Hugo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hugo",
+        "pubdate": "Wed, 04 Sep 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Qatar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Qatar",
         "pubdate": "Wed, 04 Sep 2024 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Adele",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Adele",
+        "pubdate": "Wed, 04 Sep 2024 15:00:00 +0300"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "True Grit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#True%20Grit",
-        "pubdate": "Tue, 03 Sep 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Slow Horses",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Slow%20Horses",
         "pubdate": "Tue, 03 Sep 2024 22:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Brad Pitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brad%20Pitt",
         "pubdate": "Mon, 02 Sep 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sean Higgins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sean%20Higgins",
-        "pubdate": "Mon, 02 Sep 2024 14:00:00 +0300"
       }
     ]
   ]
