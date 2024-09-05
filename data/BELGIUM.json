@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-09-2024 , 17:39:21",
+  "lastUpdate": "05-09-2024 , 17:48:48",
   "data": [
     [
       {
@@ -38,20 +38,6 @@
     ],
     [
       {
-        "title": "Lady Gaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lady%20Gaga",
-        "pubdate": "Thu, 05 Sep 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luc Bertrand",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luc%20Bertrand",
-        "pubdate": "Thu, 05 Sep 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "The Perfect Couple",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Perfect%20Couple",
         "pubdate": "Thu, 05 Sep 2024 16:00:00 +0200"
@@ -59,9 +45,23 @@
     ],
     [
       {
+        "title": "Lady Gaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lady%20Gaga",
+        "pubdate": "Thu, 05 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Gisele pelicot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gisele%20pelicot",
         "pubdate": "Thu, 05 Sep 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Luc Bertrand",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Luc%20Bertrand",
+        "pubdate": "Thu, 05 Sep 2024 08:00:00 +0200"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Izegem Koers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Izegem%20Koers",
+        "pubdate": "Thu, 05 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tennis fauteuil aux Jeux paralympiques",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tennis%20fauteuil%20aux%20Jeux%20paralympiques",
         "pubdate": "Wed, 04 Sep 2024 01:00:00 +0200"
@@ -131,13 +138,6 @@
       {
         "title": "Monk, le retour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Monk,%20le%20retour",
-        "pubdate": "Wed, 04 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jan Leyers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jan%20Leyers",
         "pubdate": "Wed, 04 Sep 2024 22:00:00 +0200"
       }
     ]
