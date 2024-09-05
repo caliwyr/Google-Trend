@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-09-2024 , 07:36:05",
+  "lastUpdate": "05-09-2024 , 07:45:34",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Anna Delvey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anna%20Delvey",
+        "pubdate": "Thu, 05 Sep 2024 18:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Raygun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Raygun",
         "pubdate": "Thu, 05 Sep 2024 10:00:00 +1200"
@@ -73,9 +80,16 @@
     ],
     [
       {
-        "title": "Anna Delvey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Anna%20Delvey",
-        "pubdate": "Thu, 05 Sep 2024 18:00:00 +1200"
+        "title": "PUMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PUMA",
+        "pubdate": "Thu, 05 Sep 2024 10:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Brian May",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brian%20May",
+        "pubdate": "Thu, 05 Sep 2024 19:00:00 +1200"
       }
     ],
     [
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "Puma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Puma",
-        "pubdate": "Thu, 05 Sep 2024 10:00:00 +1200"
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jannik%20Sinner",
+        "pubdate": "Thu, 05 Sep 2024 19:00:00 +1200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Nvidia stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nvidia%20stock",
         "pubdate": "Wed, 04 Sep 2024 21:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "John Travolta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#John%20Travolta",
-        "pubdate": "Wed, 04 Sep 2024 22:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Brace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Brace",
-        "pubdate": "Wed, 04 Sep 2024 12:00:00 +1200"
       }
     ]
   ]
