@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-09-2024 , 12:31:53",
+  "lastUpdate": "06-09-2024 , 12:58:24",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "NFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NFL",
         "pubdate": "Fri, 06 Sep 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Messi",
+        "pubdate": "Fri, 06 Sep 2024 15:00:00 +0300"
       }
     ],
     [
@@ -108,8 +115,8 @@
     ],
     [
       {
-        "title": "Japan Vs China",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Japan%20Vs%20China",
+        "title": "Japan vs China",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Japan%20vs%20China",
         "pubdate": "Thu, 05 Sep 2024 17:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Ballon d'Or 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ballon%20d'Or%202024",
         "pubdate": "Wed, 04 Sep 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Japanese Man sleeps 30 minutes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Japanese%20Man%20sleeps%2030%20minutes",
-        "pubdate": "Wed, 04 Sep 2024 18:00:00 +0300"
       }
     ]
   ]
