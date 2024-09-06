@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-09-2024 , 06:34:17",
+  "lastUpdate": "06-09-2024 , 06:46:33",
   "data": [
+    [
+      {
+        "title": "Linkin Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Linkin%20Park",
+        "pubdate": "Fri, 06 Sep 2024 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "San Marino",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Ekler Luca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ekler%20Luca",
-        "pubdate": "Thu, 05 Sep 2024 13:00:00 +0200"
+        "title": "KC-390",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#KC-390",
+        "pubdate": "Fri, 06 Sep 2024 08:00:00 +0200"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Csönge tűz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cs%C3%B6nge%20t%C5%B1z",
-        "pubdate": "Thu, 05 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Növényi Norbert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C3%B6v%C3%A9nyi%20Norbert",
         "pubdate": "Thu, 05 Sep 2024 07:00:00 +0200"
@@ -73,23 +73,9 @@
     ],
     [
       {
-        "title": "Parndorf Outlet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Parndorf%20Outlet",
-        "pubdate": "Thu, 05 Sep 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kiss Ádám",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kiss%20%C3%81d%C3%A1m",
-        "pubdate": "Thu, 05 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Megyeri Csilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megyeri%20Csilla",
-        "pubdate": "Thu, 05 Sep 2024 20:00:00 +0200"
+        "title": "Csönge tűz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cs%C3%B6nge%20t%C5%B1z",
+        "pubdate": "Thu, 05 Sep 2024 19:00:00 +0200"
       }
     ],
     [
@@ -97,6 +83,13 @@
         "title": "Rich Homie Quan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rich%20Homie%20Quan",
         "pubdate": "Thu, 05 Sep 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Megyeri Csilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Megyeri%20Csilla",
+        "pubdate": "Thu, 05 Sep 2024 20:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Pokol Béla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pokol%20B%C3%A9la",
-        "pubdate": "Thu, 05 Sep 2024 06:00:00 +0200"
+        "title": "Parndorf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Parndorf",
+        "pubdate": "Thu, 05 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Varga Mihály nyugdíjemelés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Mih%C3%A1ly%20nyugd%C3%ADjemel%C3%A9s",
+        "pubdate": "Thu, 05 Sep 2024 21:00:00 +0200"
       }
     ]
   ]

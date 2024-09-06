@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-09-2024 , 06:34:22",
+  "lastUpdate": "06-09-2024 , 06:46:38",
   "data": [
     [
       {
@@ -52,15 +52,8 @@
     ],
     [
       {
-        "title": "GOAT movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#GOAT%20movie",
-        "pubdate": "Thu, 05 Sep 2024 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Hong Kong typhoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hong%20Kong%20typhoon",
+        "title": "Hong Kong Typhoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hong%20Kong%20Typhoon",
         "pubdate": "Thu, 05 Sep 2024 09:00:00 +0800"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Mpox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mpox",
         "pubdate": "Wed, 04 Sep 2024 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Mpox Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mpox%20Singapore",
+        "pubdate": "Wed, 04 Sep 2024 22:00:00 +0800"
       }
     ]
   ]
