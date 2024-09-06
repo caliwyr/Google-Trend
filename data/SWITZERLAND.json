@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-09-2024 , 01:43:23",
+  "lastUpdate": "06-09-2024 , 02:34:38",
   "data": [
     [
       {
@@ -10,8 +10,29 @@
     ],
     [
       {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NFL",
+        "pubdate": "Fri, 06 Sep 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "San Marino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#San%20Marino",
+        "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fußball heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fu%C3%9Fball%20heute",
+        "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pegula",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pegula",
         "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
       }
     ],
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Serbie – Espagne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Serbie%20%E2%80%93%20Espagne",
-        "pubdate": "Thu, 05 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Paul Watson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paul%20Watson",
         "pubdate": "Thu, 05 Sep 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Minecraft Movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Minecraft%20Movie",
-        "pubdate": "Thu, 05 Sep 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dodo Hug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dodo%20Hug",
-        "pubdate": "Thu, 05 Sep 2024 20:00:00 +0200"
       }
     ]
   ]
