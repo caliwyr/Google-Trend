@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-09-2024 , 17:38:55",
+  "lastUpdate": "07-09-2024 , 17:48:13",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "周天成",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%91%A8%E5%A4%A9%E6%88%90",
-        "pubdate": "Sat, 07 Sep 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Energy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Energy",
         "pubdate": "Sat, 07 Sep 2024 20:00:00 +0800"
@@ -38,9 +31,23 @@
     ],
     [
       {
-        "title": "Block B",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Block%20B",
-        "pubdate": "Sat, 07 Sep 2024 15:00:00 +0800"
+        "title": "周天成",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%91%A8%E5%A4%A9%E6%88%90",
+        "pubdate": "Sat, 07 Sep 2024 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "鳥貴族",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%B3%A5%E8%B2%B4%E6%97%8F",
+        "pubdate": "Sat, 07 Sep 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "品安",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%93%81%E5%AE%89",
+        "pubdate": "Sat, 07 Sep 2024 00:00:00 +0800"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "子瑜",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%90%E7%91%9C",
-        "pubdate": "Fri, 06 Sep 2024 13:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Linkin Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Linkin%20Park",
         "pubdate": "Fri, 06 Sep 2024 12:00:00 +0800"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "高國豪",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AB%98%E5%9C%8B%E8%B1%AA",
-        "pubdate": "Fri, 06 Sep 2024 02:00:00 +0800"
+        "title": "子瑜",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AD%90%E7%91%9C",
+        "pubdate": "Fri, 06 Sep 2024 13:00:00 +0800"
       }
     ]
   ]
