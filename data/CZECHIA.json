@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-09-2024 , 07:48:28",
+  "lastUpdate": "07-09-2024 , 07:57:49",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Clash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Clash",
+        "pubdate": "Sat, 07 Sep 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Linkin Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Linkin%20Park",
         "pubdate": "Fri, 06 Sep 2024 09:00:00 +0200"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Clash of the Stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Clash%20of%20the%20Stars",
-        "pubdate": "Fri, 06 Sep 2024 18:00:00 +0200"
+        "title": "Prabos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prabos",
+        "pubdate": "Fri, 06 Sep 2024 10:00:00 +0200"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Jana Štěpánková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20%C5%A0t%C4%9Bp%C3%A1nkov%C3%A1",
         "pubdate": "Fri, 06 Sep 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Argentina – Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Argentina%20%E2%80%93%20Chile",
-        "pubdate": "Fri, 06 Sep 2024 07:00:00 +0200"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Lucie Borhyová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lucie%20Borhyov%C3%A1",
-        "pubdate": "Fri, 06 Sep 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cerna voda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cerna%20voda",
         "pubdate": "Thu, 05 Sep 2024 20:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Freddie Mercury",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Freddie%20Mercury",
         "pubdate": "Thu, 05 Sep 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liga národů",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20n%C3%A1rod%C5%AF",
+        "pubdate": "Thu, 05 Sep 2024 22:00:00 +0200"
       }
     ]
   ]
