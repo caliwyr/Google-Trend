@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-09-2024 , 12:26:41",
+  "lastUpdate": "07-09-2024 , 12:52:51",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Linkin Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Linkin%20Park",
         "pubdate": "Fri, 06 Sep 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "My home",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#My%20home",
+        "pubdate": "Fri, 06 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rich Homie Quan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rich%20Homie%20Quan",
         "pubdate": "Thu, 05 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "It Ends With Us",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#It%20Ends%20With%20Us",
-        "pubdate": "Thu, 05 Sep 2024 09:00:00 +0200"
       }
     ]
   ]
