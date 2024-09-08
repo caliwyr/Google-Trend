@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-09-2024 , 11:45:48",
+  "lastUpdate": "08-09-2024 , 11:55:07",
   "data": [
-    [
-      {
-        "title": "Paralympics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Paralympics",
-        "pubdate": "Sun, 08 Sep 2024 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Hugo Larsson",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Paralympics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Paralympics",
+        "pubdate": "Sat, 07 Sep 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nikocado Avocado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nikocado%20Avocado",
         "pubdate": "Sat, 07 Sep 2024 15:00:00 +0200"
@@ -55,13 +55,6 @@
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sabalenka",
         "pubdate": "Sat, 07 Sep 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hunter Woodhall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hunter%20Woodhall",
-        "pubdate": "Sat, 07 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "NFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NFL",
         "pubdate": "Fri, 06 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vladimir%20Putin",
+        "pubdate": "Fri, 06 Sep 2024 22:00:00 +0200"
       }
     ]
   ]
