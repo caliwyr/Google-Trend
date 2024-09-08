@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-09-2024 , 14:48:58",
+  "lastUpdate": "08-09-2024 , 14:58:04",
   "data": [
-    [
-      {
-        "title": "Paralympics",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Paralympics",
-        "pubdate": "Sun, 08 Sep 2024 01:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Nairobi City Marathon",
@@ -27,6 +20,13 @@
         "title": "Netherlands",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Netherlands",
         "pubdate": "Sun, 08 Sep 2024 09:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Portugal vs Scotland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Portugal%20vs%20Scotland",
+        "pubdate": "Sun, 08 Sep 2024 15:00:00 +0300"
       }
     ],
     [
@@ -73,16 +73,16 @@
     ],
     [
       {
-        "title": "France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#France",
-        "pubdate": "Sat, 07 Sep 2024 00:00:00 +0300"
+        "title": "Museveni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Museveni",
+        "pubdate": "Sat, 07 Sep 2024 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Museveni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Museveni",
-        "pubdate": "Sat, 07 Sep 2024 22:00:00 +0300"
+        "title": "France",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#France",
+        "pubdate": "Sat, 07 Sep 2024 00:00:00 +0300"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Selena Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Selena%20Gomez",
         "pubdate": "Sat, 07 Sep 2024 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Detroit City FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Detroit%20City%20FC",
-        "pubdate": "Sat, 07 Sep 2024 18:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Rebel Ridge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rebel%20Ridge",
         "pubdate": "Fri, 06 Sep 2024 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "San Marino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#San%20Marino",
+        "pubdate": "Fri, 06 Sep 2024 01:00:00 +0300"
       }
     ]
   ]
