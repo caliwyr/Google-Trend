@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2024 , 12:29:44",
+  "lastUpdate": "09-09-2024 , 12:59:21",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Tina Turner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tina%20Turner",
-        "pubdate": "Sat, 07 Sep 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Harry Potter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Potter",
         "pubdate": "Sat, 07 Sep 2024 21:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Hunter Woodhall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hunter%20Woodhall",
         "pubdate": "Sat, 07 Sep 2024 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Linkin Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Linkin%20Park",
+        "pubdate": "Fri, 06 Sep 2024 05:00:00 +0300"
       }
     ]
   ]

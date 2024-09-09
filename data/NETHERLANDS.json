@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-09-2024 , 12:29:48",
+  "lastUpdate": "09-09-2024 , 12:59:25",
   "data": [
+    [
+      {
+        "title": "Apple",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Apple",
+        "pubdate": "Mon, 09 Sep 2024 13:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "NFL",
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Imagine Dragons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Imagine%20Dragons",
+        "pubdate": "Mon, 09 Sep 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Britt Dekker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Britt%20Dekker",
         "pubdate": "Sun, 08 Sep 2024 00:00:00 +0200"
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "Weghorst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Weghorst",
+        "title": "Wout Weghorst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wout%20Weghorst",
         "pubdate": "Sun, 08 Sep 2024 16:00:00 +0200"
       }
     ],
@@ -59,9 +73,9 @@
     ],
     [
       {
-        "title": "Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Portugal",
-        "pubdate": "Sun, 08 Sep 2024 22:00:00 +0200"
+        "title": "Telstar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Telstar",
+        "pubdate": "Sun, 08 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sinner",
         "pubdate": "Sat, 07 Sep 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Raymond Thiry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Raymond%20Thiry",
-        "pubdate": "Sat, 07 Sep 2024 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
         "pubdate": "Sun, 01 Sep 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AfD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AfD",
-        "pubdate": "Sun, 01 Sep 2024 21:00:00 +0200"
       }
     ]
   ]
