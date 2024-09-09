@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-09-2024 , 21:48:52",
+  "lastUpdate": "09-09-2024 , 21:58:15",
   "data": [
+    [
+      {
+        "title": "Gmail",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gmail",
+        "pubdate": "Mon, 09 Sep 2024 14:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "Google Docs",
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Drive",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Drive",
-        "pubdate": "Mon, 09 Sep 2024 09:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Games",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Games",
         "pubdate": "Mon, 09 Sep 2024 11:00:00 -0700"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Dictionary",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dictionary",
-        "pubdate": "Mon, 09 Sep 2024 10:00:00 -0700"
+        "title": "iOS 18 release date",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#iOS%2018%20release%20date",
+        "pubdate": "Mon, 09 Sep 2024 12:00:00 -0700"
       }
     ],
     [
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "iOS 18 release date",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#iOS%2018%20release%20date",
-        "pubdate": "Mon, 09 Sep 2024 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "CNBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CNBC",
-        "pubdate": "Mon, 09 Sep 2024 07:00:00 -0700"
+        "title": "France vs Belgium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#France%20vs%20Belgium",
+        "pubdate": "Mon, 09 Sep 2024 13:00:00 -0700"
       }
     ],
     [
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Jim Harbaugh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jim%20Harbaugh",
-        "pubdate": "Mon, 09 Sep 2024 12:00:00 -0700"
+        "title": "Kate Middleton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kate%20Middleton",
+        "pubdate": "Mon, 09 Sep 2024 11:00:00 -0700"
       }
     ],
     [
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Kate Middleton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kate%20Middleton",
-        "pubdate": "Mon, 09 Sep 2024 11:00:00 -0700"
+        "title": "Jim Harbaugh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jim%20Harbaugh",
+        "pubdate": "Mon, 09 Sep 2024 12:00:00 -0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Music",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Music",
         "pubdate": "Mon, 09 Sep 2024 12:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Aspen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aspen",
+        "pubdate": "Mon, 09 Sep 2024 11:00:00 -0700"
       }
     ]
   ]
