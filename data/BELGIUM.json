@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-09-2024 , 16:45:48",
+  "lastUpdate": "09-09-2024 , 16:55:05",
   "data": [
+    [
+      {
+        "title": "Apple",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Apple",
+        "pubdate": "Mon, 09 Sep 2024 12:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sinner",
@@ -13,13 +20,6 @@
         "title": "ZEvent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ZEvent",
         "pubdate": "Mon, 09 Sep 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Apple",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Apple",
-        "pubdate": "Mon, 09 Sep 2024 12:00:00 +0200"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
+        "pubdate": "Mon, 09 Sep 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alexandre Jollien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alexandre%20Jollien",
         "pubdate": "Mon, 09 Sep 2024 02:00:00 +0200"
@@ -59,16 +66,9 @@
     ],
     [
       {
-        "title": "Roglic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Roglic",
+        "title": "Primoz Roglic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Primoz%20Roglic",
         "pubdate": "Mon, 09 Sep 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Belgie Frankrijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Belgie%20Frankrijk",
-        "pubdate": "Mon, 09 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -80,9 +80,9 @@
     ],
     [
       {
-        "title": "Marie Lecocq",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marie%20Lecocq",
-        "pubdate": "Mon, 09 Sep 2024 09:00:00 +0200"
+        "title": "Theo Curin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Theo%20Curin",
+        "pubdate": "Mon, 09 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Marie Lecocq",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marie%20Lecocq",
+        "pubdate": "Mon, 09 Sep 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Grenoble",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grenoble",
         "pubdate": "Mon, 09 Sep 2024 09:00:00 +0200"
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Theo Curin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Theo%20Curin",
+        "title": "Sanija Ameti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sanija%20Ameti",
         "pubdate": "Mon, 09 Sep 2024 17:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Paralympics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paralympics",
         "pubdate": "Sun, 08 Sep 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Open Monumentendag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Open%20Monumentendag",
-        "pubdate": "Sun, 08 Sep 2024 19:00:00 +0200"
       }
     ]
   ]

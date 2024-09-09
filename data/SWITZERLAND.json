@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "09-09-2024 , 16:45:58",
+  "lastUpdate": "09-09-2024 , 16:55:14",
   "data": [
     [
       {
-        "title": "Apple Event",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Apple%20Event",
+        "title": "iPhone 16",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#iPhone%2016",
+        "pubdate": "Mon, 09 Sep 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ligue des nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20nations",
         "pubdate": "Mon, 09 Sep 2024 08:00:00 +0200"
       }
     ],
@@ -13,6 +20,13 @@
         "title": "ZEvent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZEvent",
         "pubdate": "Mon, 09 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Imagine Dragons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Imagine%20Dragons",
+        "pubdate": "Mon, 09 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -27,13 +41,6 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Taylor%20Swift",
         "pubdate": "Mon, 09 Sep 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Imagine Dragons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Imagine%20Dragons",
-        "pubdate": "Mon, 09 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -59,23 +66,9 @@
     ],
     [
       {
-        "title": "Hörnlihütte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#H%C3%B6rnlih%C3%BCtte",
-        "pubdate": "Mon, 09 Sep 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Disparition Lina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Disparition%20Lina",
         "pubdate": "Mon, 09 Sep 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jürgen Klopp BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#J%C3%BCrgen%20Klopp%20BVB",
-        "pubdate": "Mon, 09 Sep 2024 10:00:00 +0200"
       }
     ],
     [
@@ -101,6 +94,20 @@
     ],
     [
       {
+        "title": "Gala dei Castelli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gala%20dei%20Castelli",
+        "pubdate": "Mon, 09 Sep 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Oberrieden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oberrieden",
+        "pubdate": "Mon, 09 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Grenoble",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grenoble",
         "pubdate": "Mon, 09 Sep 2024 10:00:00 +0200"
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Gala dei Castelli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gala%20dei%20Castelli",
-        "pubdate": "Mon, 09 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Maria Furtwängler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maria%20Furtw%C3%A4ngler",
-        "pubdate": "Mon, 09 Sep 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Kroatien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kroatien",
         "pubdate": "Mon, 09 Sep 2024 15:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Matt Damon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Matt%20Damon",
         "pubdate": "Mon, 09 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Maria Furtwängler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Maria%20Furtw%C3%A4ngler",
+        "pubdate": "Mon, 09 Sep 2024 00:00:00 +0200"
       }
     ]
   ]
