@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2024 , 07:38:10",
+  "lastUpdate": "09-09-2024 , 07:47:44",
   "data": [
     [
       {
@@ -17,23 +17,16 @@
     ],
     [
       {
-        "title": "Daft Punk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Daft%20Punk",
-        "pubdate": "Mon, 09 Sep 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Thomas Jolly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Thomas%20Jolly",
-        "pubdate": "Mon, 09 Sep 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "RCV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#RCV",
         "pubdate": "Mon, 09 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hugo Auradou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hugo%20Auradou",
+        "pubdate": "Mon, 09 Sep 2024 01:00:00 +0200"
       }
     ],
     [
@@ -59,8 +52,8 @@
     ],
     [
       {
-        "title": "Vannes Toulouse Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vannes%20Toulouse%20Rugby",
+        "title": "Vannes Toulouse rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vannes%20Toulouse%20rugby",
         "pubdate": "Sun, 08 Sep 2024 21:00:00 +0200"
       }
     ],
@@ -122,8 +115,8 @@
     ],
     [
       {
-        "title": "France-Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France-Belgique",
+        "title": "France Belgique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Belgique",
         "pubdate": "Sun, 08 Sep 2024 22:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Election algerie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Election%20algerie",
         "pubdate": "Sun, 08 Sep 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Trombe marine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trombe%20marine",
+        "pubdate": "Sun, 08 Sep 2024 10:00:00 +0200"
       }
     ]
   ]
