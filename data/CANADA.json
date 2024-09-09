@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-09-2024 , 02:07:59",
+  "lastUpdate": "09-09-2024 , 02:52:48",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Jeux paralympiques",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jeux%20paralympiques",
-        "pubdate": "Sun, 08 Sep 2024 02:00:00 -0400"
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NFL",
+        "pubdate": "Sun, 08 Sep 2024 10:00:00 -0400"
       }
     ],
     [
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Jeux paralympiques",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jeux%20paralympiques",
+        "pubdate": "Sun, 08 Sep 2024 02:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Buffalo Bills",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Buffalo%20Bills",
         "pubdate": "Sun, 08 Sep 2024 13:00:00 -0400"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Dak Prescott",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dak%20Prescott",
-        "pubdate": "Sun, 08 Sep 2024 13:00:00 -0400"
+        "title": "Cowboys vs Browns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cowboys%20vs%20Browns",
+        "pubdate": "Sun, 08 Sep 2024 15:00:00 -0400"
       }
     ],
     [
@@ -48,13 +55,6 @@
         "title": "Seahawks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Seahawks",
         "pubdate": "Sun, 08 Sep 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Miami Dolphins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Miami%20Dolphins",
-        "pubdate": "Sun, 08 Sep 2024 14:00:00 -0400"
       }
     ],
     [
@@ -87,27 +87,6 @@
     ],
     [
       {
-        "title": "Vikings vs Giants",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vikings%20vs%20Giants",
-        "pubdate": "Sun, 08 Sep 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "NFL games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NFL%20games",
-        "pubdate": "Sun, 08 Sep 2024 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Raiders vs Chargers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raiders%20vs%20Chargers",
-        "pubdate": "Sun, 08 Sep 2024 19:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Steelers vs Falcons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Steelers%20vs%20Falcons",
         "pubdate": "Sun, 08 Sep 2024 15:00:00 -0400"
@@ -115,16 +94,16 @@
     ],
     [
       {
-        "title": "NFL fantasy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NFL%20fantasy",
-        "pubdate": "Sun, 08 Sep 2024 19:00:00 -0400"
+        "title": "Vikings vs Giants",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vikings%20vs%20Giants",
+        "pubdate": "Sun, 08 Sep 2024 15:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Panthers vs Saints",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Panthers%20vs%20Saints",
-        "pubdate": "Sun, 08 Sep 2024 15:00:00 -0400"
+        "title": "Dak Prescott",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dak%20Prescott",
+        "pubdate": "Sun, 08 Sep 2024 13:00:00 -0400"
       }
     ],
     [
@@ -136,9 +115,30 @@
     ],
     [
       {
-        "title": "Tom Brady",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tom%20Brady",
-        "pubdate": "Sun, 08 Sep 2024 10:00:00 -0400"
+        "title": "NFL games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NFL%20games",
+        "pubdate": "Sun, 08 Sep 2024 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Raiders vs Chargers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raiders%20vs%20Chargers",
+        "pubdate": "Sun, 08 Sep 2024 19:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Jaguars vs Dolphins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jaguars%20vs%20Dolphins",
+        "pubdate": "Sun, 08 Sep 2024 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "NFL fantasy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NFL%20fantasy",
+        "pubdate": "Sun, 08 Sep 2024 19:00:00 -0400"
       }
     ]
   ]
