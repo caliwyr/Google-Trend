@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-09-2024 , 05:40:58",
+  "lastUpdate": "10-09-2024 , 05:50:14",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Paralympics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Paralympics",
+        "pubdate": "Sun, 08 Sep 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rebecca Horn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rebecca%20Horn",
         "pubdate": "Sun, 08 Sep 2024 15:00:00 +0200"
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Kamala Harris Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kamala%20Harris%20Donald%20Trump",
-        "pubdate": "Sun, 08 Sep 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tag des offenen Denkmals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tag%20des%20offenen%20Denkmals",
         "pubdate": "Sun, 08 Sep 2024 10:00:00 +0200"
@@ -108,6 +108,20 @@
     ],
     [
       {
+        "title": "Donald Trump Kamala Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump%20Kamala%20Harris",
+        "pubdate": "Sun, 08 Sep 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kamala Harris Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kamala%20Harris%20Donald%20Trump",
+        "pubdate": "Sun, 08 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Kendrick Lamar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kendrick%20Lamar",
         "pubdate": "Sun, 08 Sep 2024 21:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Luke Mockridge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luke%20Mockridge",
         "pubdate": "Sat, 07 Sep 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luke Mockridge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luke%20Mockridge",
-        "pubdate": "Sat, 07 Sep 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Deutschland",
-        "pubdate": "Sat, 07 Sep 2024 21:00:00 +0200"
       }
     ]
   ]
