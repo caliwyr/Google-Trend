@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-09-2024 , 08:47:30",
+  "lastUpdate": "10-09-2024 , 08:57:03",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Antena 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Antena%201",
+        "pubdate": "Tue, 10 Sep 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Grupa romania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Grupa%20romania",
         "pubdate": "Tue, 10 Sep 2024 00:00:00 +0300"
       }
     ],
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Letonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Letonia",
+        "pubdate": "Tue, 10 Sep 2024 01:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Luka modrić",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Luka%20modri%C4%87",
         "pubdate": "Tue, 10 Sep 2024 10:00:00 +0300"
@@ -45,8 +59,8 @@
     ],
     [
       {
-        "title": "Romania Lituania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20Lituania",
+        "title": "Romania lituania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Romania%20lituania",
         "pubdate": "Mon, 09 Sep 2024 00:00:00 +0300"
       }
     ],
@@ -73,8 +87,8 @@
     ],
     [
       {
-        "title": "Franța  Belgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fran%C8%9Ba%20%20Belgia",
+        "title": "Franța - Belgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fran%C8%9Ba%20-%20Belgia",
         "pubdate": "Mon, 09 Sep 2024 21:00:00 +0300"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Kate Middleton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kate%20Middleton",
         "pubdate": "Mon, 09 Sep 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Miercurea Ciuc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Miercurea%20Ciuc",
-        "pubdate": "Mon, 09 Sep 2024 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "CRBL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CRBL",
-        "pubdate": "Mon, 09 Sep 2024 17:00:00 +0300"
       }
     ]
   ]
