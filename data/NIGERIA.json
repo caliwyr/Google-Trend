@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "11-09-2024 , 03:51:29",
+  "lastUpdate": "11-09-2024 , 04:10:07",
   "data": [
-    [
-      {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Argentina",
-        "pubdate": "Wed, 11 Sep 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Paraguay vs Brazil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Paraguay%20vs%20Brazil",
         "pubdate": "Wed, 11 Sep 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Argentina",
+        "pubdate": "Wed, 11 Sep 2024 00:00:00 +0100"
       }
     ],
     [
@@ -33,6 +33,13 @@
       {
         "title": "Netherlands vs Germany",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Netherlands%20vs%20Germany",
+        "pubdate": "Tue, 10 Sep 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nigeria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nigeria",
         "pubdate": "Tue, 10 Sep 2024 17:00:00 +0100"
       }
     ],
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Norway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Norway",
-        "pubdate": "Tue, 10 Sep 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Angel Gomes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Angel%20Gomes",
         "pubdate": "Tue, 10 Sep 2024 21:00:00 +0100"
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Norway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Norway",
+        "pubdate": "Tue, 10 Sep 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Aisha Yesufu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aisha%20Yesufu",
         "pubdate": "Tue, 10 Sep 2024 17:00:00 +0100"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Odegaard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Odegaard",
+        "pubdate": "Tue, 10 Sep 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nigeria Football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nigeria%20Football",
         "pubdate": "Tue, 10 Sep 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Italy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Italy",
-        "pubdate": "Tue, 10 Sep 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cartoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Cartoon",
-        "pubdate": "Tue, 10 Sep 2024 21:00:00 +0100"
       }
     ]
   ]
