@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "11-09-2024 , 18:52:41",
+  "lastUpdate": "11-09-2024 , 19:06:52",
   "data": [
     [
       {
         "title": "Dresden Carolabrücke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dresden%20Carolabr%C3%BCcke",
         "pubdate": "Wed, 11 Sep 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Valente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Valente",
-        "pubdate": "Wed, 11 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Valente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Valente",
+        "pubdate": "Wed, 11 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "MDR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
         "pubdate": "Wed, 11 Sep 2024 17:00:00 +0200"
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "Niederlande – Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Niederlande%20%E2%80%93%20Deutschland",
-        "pubdate": "Tue, 10 Sep 2024 14:00:00 +0200"
+        "title": "11. September",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#11.%20September",
+        "pubdate": "Wed, 11 Sep 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nations%20League",
+        "pubdate": "Tue, 10 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -108,20 +115,6 @@
     ],
     [
       {
-        "title": "DFB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB",
-        "pubdate": "Tue, 10 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Undav",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Undav",
-        "pubdate": "Tue, 10 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Apple Watch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Apple%20Watch",
         "pubdate": "Tue, 10 Sep 2024 11:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "AirPods",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AirPods",
-        "pubdate": "Tue, 10 Sep 2024 00:00:00 +0200"
+        "title": "Duisburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Duisburg",
+        "pubdate": "Tue, 10 Sep 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ter Stegen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ter%20Stegen",
+        "pubdate": "Tue, 10 Sep 2024 22:00:00 +0200"
       }
     ]
   ]
