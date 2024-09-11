@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2024 , 08:49:07",
+  "lastUpdate": "11-09-2024 , 08:58:31",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Otter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Otter",
+        "pubdate": "Wed, 11 Sep 2024 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Argentina",
         "pubdate": "Wed, 11 Sep 2024 07:00:00 +0800"
@@ -73,9 +80,16 @@
     ],
     [
       {
-        "title": "Otter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Otter",
-        "pubdate": "Wed, 11 Sep 2024 13:00:00 +0800"
+        "title": "9/11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#9/11",
+        "pubdate": "Wed, 11 Sep 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "911",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#911",
+        "pubdate": "Wed, 11 Sep 2024 11:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "PS5 Pro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PS5%20Pro",
         "pubdate": "Tue, 10 Sep 2024 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Goonies sequel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Goonies%20sequel",
-        "pubdate": "Tue, 10 Sep 2024 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "iOS 18 release date",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#iOS%2018%20release%20date",
-        "pubdate": "Tue, 10 Sep 2024 03:00:00 +0800"
       }
     ]
   ]
