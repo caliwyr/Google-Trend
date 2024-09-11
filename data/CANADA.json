@@ -1,6 +1,34 @@
 {
-  "lastUpdate": "11-09-2024 , 04:46:34",
+  "lastUpdate": "11-09-2024 , 04:55:51",
   "data": [
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Taylor%20Swift",
+        "pubdate": "Wed, 11 Sep 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Fox news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Fox%20news",
+        "pubdate": "Wed, 11 Sep 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "NBC News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NBC%20News",
+        "pubdate": "Wed, 11 Sep 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Viktor orban",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Viktor%20orban",
+        "pubdate": "Wed, 11 Sep 2024 00:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Dave Grohl",
@@ -31,16 +59,16 @@
     ],
     [
       {
-        "title": "AF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AF",
-        "pubdate": "Tue, 10 Sep 2024 08:00:00 -0400"
+        "title": "Germany borders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Germany%20borders",
+        "pubdate": "Tue, 10 Sep 2024 00:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Germany borders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Germany%20borders",
-        "pubdate": "Tue, 10 Sep 2024 00:00:00 -0400"
+        "title": "AF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AF",
+        "pubdate": "Tue, 10 Sep 2024 08:00:00 -0400"
       }
     ],
     [
@@ -52,8 +80,22 @@
     ],
     [
       {
+        "title": "Mexico vs Canada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mexico%20vs%20Canada",
+        "pubdate": "Tue, 10 Sep 2024 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Project 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Project%202025",
+        "pubdate": "Tue, 10 Sep 2024 22:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Springfield, Ohio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Springfield,%20Ohio",
         "pubdate": "Tue, 10 Sep 2024 22:00:00 -0400"
       }
     ],
@@ -80,13 +122,6 @@
     ],
     [
       {
-        "title": "Prostate cancer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Prostate%20cancer",
-        "pubdate": "Tue, 10 Sep 2024 00:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "England vs Finland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#England%20vs%20Finland",
         "pubdate": "Tue, 10 Sep 2024 16:00:00 -0400"
@@ -94,51 +129,16 @@
     ],
     [
       {
-        "title": "Nick Robertson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nick%20Robertson",
-        "pubdate": "Tue, 10 Sep 2024 12:00:00 -0400"
+        "title": "Prostate cancer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Prostate%20cancer",
+        "pubdate": "Tue, 10 Sep 2024 00:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Demi Moore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Demi%20Moore",
-        "pubdate": "Tue, 10 Sep 2024 08:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Adrian Newey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Adrian%20Newey",
-        "pubdate": "Tue, 10 Sep 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Springfield, Ohio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Springfield,%20Ohio",
-        "pubdate": "Tue, 10 Sep 2024 22:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Amazing Race Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Amazing%20Race%20Canada",
-        "pubdate": "Tue, 10 Sep 2024 21:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Megan Moroney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Megan%20Moroney",
-        "pubdate": "Tue, 10 Sep 2024 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Hurricane Francine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Hurricane%20Francine",
-        "pubdate": "Tue, 10 Sep 2024 19:00:00 -0400"
+        "title": "Huawei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Huawei",
+        "pubdate": "Tue, 10 Sep 2024 23:00:00 -0400"
       }
     ]
   ]
