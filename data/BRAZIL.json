@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-09-2024 , 23:58:28",
+  "lastUpdate": "11-09-2024 , 01:38:29",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Cesgranrio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cesgranrio",
+        "pubdate": "Tue, 10 Sep 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Alerta vermelho onda de calor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alerta%20vermelho%20onda%20de%20calor",
         "pubdate": "Tue, 10 Sep 2024 09:00:00 -0500"
@@ -45,16 +52,9 @@
     ],
     [
       {
-        "title": "CNU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CNU",
-        "pubdate": "Tue, 10 Sep 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Inglaterra Fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inglaterra%20Fc",
-        "pubdate": "Tue, 10 Sep 2024 10:00:00 -0500"
+        "title": "Chile x Bolívia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chile%20x%20Bol%C3%ADvia",
+        "pubdate": "Tue, 10 Sep 2024 16:00:00 -0500"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Trilhas do Futuro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Trilhas%20do%20Futuro",
         "pubdate": "Tue, 10 Sep 2024 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Chile x Bolívia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chile%20x%20Bol%C3%ADvia",
-        "pubdate": "Tue, 10 Sep 2024 16:00:00 -0500"
       }
     ],
     [
@@ -101,20 +94,6 @@
     ],
     [
       {
-        "title": "IPCA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IPCA",
-        "pubdate": "Tue, 10 Sep 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Bella Campos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bella%20Campos",
-        "pubdate": "Tue, 10 Sep 2024 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Debate Trump Kamala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Debate%20Trump%20Kamala",
         "pubdate": "Tue, 10 Sep 2024 14:00:00 -0500"
@@ -122,9 +101,9 @@
     ],
     [
       {
-        "title": "Coreia do Sul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coreia%20do%20Sul",
-        "pubdate": "Tue, 10 Sep 2024 11:00:00 -0500"
+        "title": "IPCA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IPCA",
+        "pubdate": "Tue, 10 Sep 2024 14:00:00 -0500"
       }
     ],
     [
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Bella Campos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bella%20Campos",
+        "pubdate": "Tue, 10 Sep 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Coreia do Sul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Coreia%20do%20Sul",
+        "pubdate": "Tue, 10 Sep 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Irlanda x Grécia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Irlanda%20x%20Gr%C3%A9cia",
         "pubdate": "Tue, 10 Sep 2024 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Gabz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gabz",
+        "pubdate": "Tue, 10 Sep 2024 08:00:00 -0500"
       }
     ]
   ]

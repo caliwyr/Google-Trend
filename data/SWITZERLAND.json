@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-09-2024 , 23:58:35",
+  "lastUpdate": "11-09-2024 , 01:38:38",
   "data": [
+    [
+      {
+        "title": "Dave Grohl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dave%20Grohl",
+        "pubdate": "Wed, 11 Sep 2024 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "James Earl Jones",
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Mont Blanc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mont%20Blanc",
+        "title": "Mont-Blanc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Mont-Blanc",
         "pubdate": "Tue, 10 Sep 2024 22:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Botulisme",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Botulisme",
         "pubdate": "Tue, 10 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adrian Newey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Adrian%20Newey",
-        "pubdate": "Tue, 10 Sep 2024 15:00:00 +0200"
       }
     ]
   ]
