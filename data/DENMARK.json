@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2024 , 19:48:04",
+  "lastUpdate": "11-09-2024 , 19:57:20",
   "data": [
     [
       {
@@ -10,9 +10,30 @@
     ],
     [
       {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
+        "pubdate": "Wed, 11 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taylor%20Swift",
+        "pubdate": "Wed, 11 Sep 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dave Grohl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dave%20Grohl",
         "pubdate": "Wed, 11 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mormon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mormon",
+        "pubdate": "Wed, 11 Sep 2024 14:00:00 +0200"
       }
     ],
     [
@@ -59,6 +80,13 @@
     ],
     [
       {
+        "title": "Kernel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kernel",
+        "pubdate": "Wed, 11 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Margrethe Vestager",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Margrethe%20Vestager",
         "pubdate": "Wed, 11 Sep 2024 09:00:00 +0200"
@@ -87,13 +115,6 @@
     ],
     [
       {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Taylor%20Swift",
-        "pubdate": "Tue, 10 Sep 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Birgitte Bonnesen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Birgitte%20Bonnesen",
         "pubdate": "Tue, 10 Sep 2024 16:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "AF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AF",
         "pubdate": "Tue, 10 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Harvey Weinstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Harvey%20Weinstein",
-        "pubdate": "Tue, 10 Sep 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adrian Newey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Adrian%20Newey",
-        "pubdate": "Tue, 10 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NHL",
-        "pubdate": "Tue, 10 Sep 2024 16:00:00 +0200"
       }
     ]
   ]
