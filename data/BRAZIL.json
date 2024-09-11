@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-09-2024 , 16:49:45",
+  "lastUpdate": "11-09-2024 , 16:59:14",
   "data": [
     [
       {
@@ -10,8 +10,22 @@
     ],
     [
       {
+        "title": "11 de setembro de 2001",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#11%20de%20setembro%20de%202001",
+        "pubdate": "Wed, 11 Sep 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Taylor%20Swift",
+        "pubdate": "Wed, 11 Sep 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "VMA 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#VMA%202024",
         "pubdate": "Wed, 11 Sep 2024 09:00:00 -0500"
       }
     ],
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Athletico-PR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR",
-        "pubdate": "Wed, 11 Sep 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Internacional x Fortaleza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Internacional%20x%20Fortaleza",
         "pubdate": "Wed, 11 Sep 2024 09:00:00 -0500"
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "VMA 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#VMA%202024",
-        "pubdate": "Wed, 11 Sep 2024 09:00:00 -0500"
+        "title": "Athletico-PR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico-PR",
+        "pubdate": "Wed, 11 Sep 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Chuva preta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chuva%20preta",
+        "pubdate": "Wed, 11 Sep 2024 10:00:00 -0500"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Sydney Sweeney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sydney%20Sweeney",
         "pubdate": "Wed, 11 Sep 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Chuva preta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chuva%20preta",
-        "pubdate": "Wed, 11 Sep 2024 10:00:00 -0500"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Argentina",
-        "pubdate": "Tue, 10 Sep 2024 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Venezuela x Uruguai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Venezuela%20x%20Uruguai",
-        "pubdate": "Tue, 10 Sep 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Debate Trump Kamala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Debate%20Trump%20Kamala",
         "pubdate": "Tue, 10 Sep 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Argentina",
+        "pubdate": "Tue, 10 Sep 2024 16:00:00 -0500"
       }
     ]
   ]
