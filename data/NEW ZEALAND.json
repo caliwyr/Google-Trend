@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2024 , 17:39:47",
+  "lastUpdate": "12-09-2024 , 17:49:01",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CNN",
-        "pubdate": "Wed, 11 Sep 2024 16:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Fox news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fox%20news",
         "pubdate": "Wed, 11 Sep 2024 15:00:00 +1200"
@@ -139,6 +132,13 @@
         "title": "Navajo Stirling",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Navajo%20Stirling",
         "pubdate": "Wed, 11 Sep 2024 15:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "All Whites",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#All%20Whites",
+        "pubdate": "Wed, 11 Sep 2024 12:00:00 +1200"
       }
     ]
   ]
