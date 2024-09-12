@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-09-2024 , 19:39:33",
+  "lastUpdate": "12-09-2024 , 19:48:59",
   "data": [
-    [
-      {
-        "title": "EZB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#EZB",
-        "pubdate": "Thu, 12 Sep 2024 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Freizeitticket Tirol",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Businesslauf Salzburg 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Businesslauf%20Salzburg%202024",
-        "pubdate": "Thu, 12 Sep 2024 07:00:00 +0200"
+        "title": "Leitzinsen EZB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leitzinsen%20EZB",
+        "pubdate": "Thu, 12 Sep 2024 14:00:00 +0200"
       }
     ],
     [
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "Businesslauf Salzburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Businesslauf%20Salzburg",
+        "pubdate": "Thu, 12 Sep 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alberto Fujimori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alberto%20Fujimori",
         "pubdate": "Thu, 12 Sep 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Herbert Föttinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Herbert%20F%C3%B6ttinger",
+        "pubdate": "Thu, 12 Sep 2024 19:00:00 +0200"
       }
     ],
     [
@@ -59,20 +66,6 @@
     ],
     [
       {
-        "title": "Bombendrohung Linz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bombendrohung%20Linz",
-        "pubdate": "Thu, 12 Sep 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Herbert Föttinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Herbert%20F%C3%B6ttinger",
-        "pubdate": "Thu, 12 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Biden",
         "pubdate": "Thu, 12 Sep 2024 19:00:00 +0200"
@@ -80,9 +73,23 @@
     ],
     [
       {
+        "title": "Emily in Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Emily%20in%20Paris",
+        "pubdate": "Thu, 12 Sep 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mühlviertler Kernland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#M%C3%BChlviertler%20Kernland",
         "pubdate": "Thu, 12 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SpaceX",
+        "pubdate": "Thu, 12 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -101,9 +108,16 @@
     ],
     [
       {
-        "title": "Ricarda Lang",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ricarda%20Lang",
-        "pubdate": "Thu, 12 Sep 2024 11:00:00 +0200"
+        "title": "Bombendrohung Linz-Urfahr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bombendrohung%20Linz-Urfahr",
+        "pubdate": "Thu, 12 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Georg Koch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Georg%20Koch",
+        "pubdate": "Thu, 12 Sep 2024 19:00:00 +0200"
       }
     ],
     [
@@ -115,16 +129,9 @@
     ],
     [
       {
-        "title": "Roy Black",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Roy%20Black",
-        "pubdate": "Thu, 12 Sep 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Davis-Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Davis-Cup",
-        "pubdate": "Thu, 12 Sep 2024 17:00:00 +0200"
+        "title": "Ricarda Lang",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ricarda%20Lang",
+        "pubdate": "Thu, 12 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Roncalli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Roncalli",
         "pubdate": "Thu, 12 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Felbertauern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Felbertauern",
-        "pubdate": "Thu, 12 Sep 2024 18:00:00 +0200"
       }
     ]
   ]
