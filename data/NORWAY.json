@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2024 , 01:43:52",
+  "lastUpdate": "12-09-2024 , 02:35:47",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Platanias",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Platanias",
         "pubdate": "Wed, 11 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ABC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ABC%20news",
+        "pubdate": "Wed, 11 Sep 2024 08:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "AFP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#AFP",
         "pubdate": "Tue, 10 Sep 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
-        "pubdate": "Tue, 10 Sep 2024 18:00:00 +0200"
       }
     ]
   ]
