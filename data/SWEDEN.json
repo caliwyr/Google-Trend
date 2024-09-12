@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2024 , 02:35:49",
+  "lastUpdate": "12-09-2024 , 02:57:31",
   "data": [
     [
       {
@@ -24,20 +24,6 @@
     ],
     [
       {
-        "title": "11 september USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#11%20september%20USA",
-        "pubdate": "Wed, 11 Sep 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Patrik Johäll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Patrik%20Joh%C3%A4ll",
-        "pubdate": "Wed, 11 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "11 september",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#11%20september",
         "pubdate": "Wed, 11 Sep 2024 10:00:00 +0200"
@@ -48,6 +34,13 @@
         "title": "Anel Ahmedhodzic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anel%20Ahmedhodzic",
         "pubdate": "Wed, 11 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jönssonligan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#J%C3%B6nssonligan",
+        "pubdate": "Wed, 11 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Ulf Brunnberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ulf%20Brunnberg",
-        "pubdate": "Tue, 10 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tre",
         "pubdate": "Tue, 10 Sep 2024 10:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Chefer dricker mest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chefer%20dricker%20mest",
-        "pubdate": "Tue, 10 Sep 2024 23:00:00 +0200"
+        "title": "Suicidpreventiva dagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Suicidpreventiva%20dagen",
+        "pubdate": "Tue, 10 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ulf Kristersson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ulf%20Kristersson",
+        "pubdate": "Tue, 10 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Iphone 16",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Iphone%2016",
+        "pubdate": "Mon, 09 Sep 2024 15:00:00 +0200"
       }
     ]
   ]
