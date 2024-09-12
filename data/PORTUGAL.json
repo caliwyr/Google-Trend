@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2024 , 05:41:28",
+  "lastUpdate": "12-09-2024 , 05:51:00",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Vasco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco",
-        "pubdate": "Thu, 12 Sep 2024 00:00:00 +0100"
+        "title": "Corinthians x Juventude",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians%20x%20Juventude",
+        "pubdate": "Thu, 12 Sep 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Katy Perry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Katy%20Perry",
+        "pubdate": "Thu, 12 Sep 2024 03:00:00 +0100"
       }
     ],
     [
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Vmas 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vmas%202024",
+        "title": "VMAs 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#VMAs%202024",
         "pubdate": "Wed, 11 Sep 2024 02:00:00 +0100"
       }
     ],
@@ -101,13 +108,6 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Trump",
-        "pubdate": "Wed, 11 Sep 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Felipe Prior",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Felipe%20Prior",
         "pubdate": "Wed, 11 Sep 2024 09:00:00 +0100"
@@ -115,15 +115,8 @@
     ],
     [
       {
-        "title": "Lucília Gago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luc%C3%ADlia%20Gago",
-        "pubdate": "Wed, 11 Sep 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SIC notícias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC%20not%C3%ADcias",
+        "title": "SIC Notícias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SIC%20Not%C3%ADcias",
         "pubdate": "Wed, 11 Sep 2024 16:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Fracking",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fracking",
         "pubdate": "Wed, 11 Sep 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jorge Sampaio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jorge%20Sampaio",
+        "pubdate": "Wed, 11 Sep 2024 00:00:00 +0100"
       }
     ]
   ]
