@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2024 , 00:00:22",
+  "lastUpdate": "12-09-2024 , 01:43:54",
   "data": [
     [
       {
@@ -33,7 +33,14 @@
       {
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#CNN",
-        "pubdate": "Wed, 11 Sep 2024 10:00:00 +0200"
+        "pubdate": "Wed, 11 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "9/11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#9/11",
+        "pubdate": "Wed, 11 Sep 2024 06:00:00 +0200"
       }
     ],
     [
@@ -52,27 +59,6 @@
     ],
     [
       {
-        "title": "11. September",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#11.%20September",
-        "pubdate": "Wed, 11 Sep 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "9/11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#9/11",
-        "pubdate": "Wed, 11 Sep 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oliver Kahn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oliver%20Kahn",
-        "pubdate": "Wed, 11 Sep 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dave Grohl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dave%20Grohl",
         "pubdate": "Wed, 11 Sep 2024 02:00:00 +0200"
@@ -82,6 +68,13 @@
       {
         "title": "11 septembre 2001",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#11%20septembre%202001",
+        "pubdate": "Wed, 11 Sep 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "11. September",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#11.%20September",
         "pubdate": "Wed, 11 Sep 2024 10:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Celine Dion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Celine%20Dion",
         "pubdate": "Wed, 11 Sep 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Kolumbien – Argentinien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kolumbien%20%E2%80%93%20Argentinien",
+        "pubdate": "Wed, 11 Sep 2024 07:00:00 +0200"
       }
     ]
   ]
