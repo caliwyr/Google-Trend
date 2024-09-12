@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2024 , 14:46:26",
+  "lastUpdate": "12-09-2024 , 14:56:03",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "한선화",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%9C%EC%84%A0%ED%99%94",
-        "pubdate": "Thu, 12 Sep 2024 15:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "뉴진스",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%89%B4%EC%A7%84%EC%8A%A4",
         "pubdate": "Wed, 11 Sep 2024 20:00:00 +0900"
@@ -62,6 +55,13 @@
         "title": "해리스",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%B4%EB%A6%AC%EC%8A%A4",
         "pubdate": "Wed, 11 Sep 2024 12:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "메가박스",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A9%94%EA%B0%80%EB%B0%95%EC%8A%A4",
+        "pubdate": "Wed, 11 Sep 2024 15:00:00 +0900"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "문교원",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AC%B8%EA%B5%90%EC%9B%90",
-        "pubdate": "Wed, 11 Sep 2024 19:00:00 +0900"
+        "title": "박용우",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%95%EC%9A%A9%EC%9A%B0",
+        "pubdate": "Wed, 11 Sep 2024 01:00:00 +0900"
       }
     ]
   ]

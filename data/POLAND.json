@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-09-2024 , 14:46:24",
+  "lastUpdate": "12-09-2024 , 14:56:01",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Windy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Windy",
+        "pubdate": "Thu, 12 Sep 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Radar pogodowy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Radar%20pogodowy",
         "pubdate": "Thu, 12 Sep 2024 12:00:00 +0200"
       }
     ],
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Ostrów Wielkopolski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ostr%C3%B3w%20Wielkopolski",
-        "pubdate": "Thu, 12 Sep 2024 14:00:00 +0200"
+        "title": "Kwiatkowskiego Szczecin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kwiatkowskiego%20Szczecin",
+        "pubdate": "Thu, 12 Sep 2024 09:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Amanda Bynes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Amanda%20Bynes",
         "pubdate": "Thu, 12 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ostrów Wielkopolski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ostr%C3%B3w%20Wielkopolski",
+        "pubdate": "Thu, 12 Sep 2024 14:00:00 +0200"
       }
     ],
     [
@@ -69,6 +83,13 @@
         "title": "Antony Blinken",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Antony%20Blinken",
         "pubdate": "Thu, 12 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Beata Szydło",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Beata%20Szyd%C5%82o",
+        "pubdate": "Thu, 12 Sep 2024 08:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Peretti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Peretti",
         "pubdate": "Wed, 11 Sep 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wtc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Wtc",
-        "pubdate": "Wed, 11 Sep 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Oskar Cyms",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Oskar%20Cyms",
-        "pubdate": "Wed, 11 Sep 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dave Grohl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dave%20Grohl",
-        "pubdate": "Wed, 11 Sep 2024 07:00:00 +0200"
       }
     ]
   ]
