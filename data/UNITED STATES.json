@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-09-2024 , 14:40:09",
+  "lastUpdate": "13-09-2024 , 14:49:21",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Tua Tagovailoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tua%20Tagovailoa",
-        "pubdate": "Thu, 12 Sep 2024 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Bills vs Dolphins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bills%20vs%20Dolphins",
         "pubdate": "Thu, 12 Sep 2024 07:00:00 -0700"
@@ -31,8 +24,15 @@
     ],
     [
       {
-        "title": "Earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Earthquake",
+        "title": "Tua Tagovailoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tua%20Tagovailoa",
+        "pubdate": "Thu, 12 Sep 2024 18:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Earthquake Los Angeles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Earthquake%20Los%20Angeles",
         "pubdate": "Thu, 12 Sep 2024 08:00:00 -0700"
       }
     ],
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Friday the 13th",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Friday%20the%2013th",
+        "pubdate": "Thu, 12 Sep 2024 16:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Josh Allen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Josh%20Allen",
         "pubdate": "Thu, 12 Sep 2024 16:00:00 -0700"
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Friday the 13th",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Friday%20the%2013th",
-        "pubdate": "Thu, 12 Sep 2024 16:00:00 -0700"
+        "title": "Jared Isaacman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jared%20Isaacman",
+        "pubdate": "Thu, 12 Sep 2024 08:00:00 -0700"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Curry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Curry",
-        "pubdate": "Thu, 12 Sep 2024 08:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Steve McQueen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steve%20McQueen",
         "pubdate": "Thu, 12 Sep 2024 20:00:00 -0700"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Pepsi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pepsi",
-        "pubdate": "Thu, 12 Sep 2024 09:00:00 -0700"
+        "title": "Curry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Curry",
+        "pubdate": "Thu, 12 Sep 2024 08:00:00 -0700"
       }
     ]
   ]
