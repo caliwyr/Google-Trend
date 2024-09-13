@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-09-2024 , 23:45:42",
+  "lastUpdate": "13-09-2024 , 23:55:09",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Chappell Roan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chappell%20Roan",
-        "pubdate": "Thu, 12 Sep 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "VMAs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#VMAs",
         "pubdate": "Thu, 12 Sep 2024 14:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elon%20Musk",
         "pubdate": "Thu, 12 Sep 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Pope Francis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pope%20Francis",
+        "pubdate": "Wed, 11 Sep 2024 13:00:00 +0800"
       }
     ]
   ]
