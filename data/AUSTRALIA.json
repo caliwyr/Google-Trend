@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-09-2024 , 08:37:57",
+  "lastUpdate": "13-09-2024 , 08:47:37",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Jared Isaacman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jared%20Isaacman",
-        "pubdate": "Fri, 13 Sep 2024 07:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Dua Lipa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dua%20Lipa",
         "pubdate": "Fri, 13 Sep 2024 09:00:00 +1000"
@@ -38,9 +31,9 @@
     ],
     [
       {
-        "title": "Inside Out 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inside%20Out%202",
-        "pubdate": "Fri, 13 Sep 2024 10:00:00 +1000"
+        "title": "Jared Isaacman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jared%20Isaacman",
+        "pubdate": "Fri, 13 Sep 2024 07:00:00 +1000"
       }
     ],
     [
@@ -52,9 +45,9 @@
     ],
     [
       {
-        "title": "Graham McNeice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Graham%20McNeice",
-        "pubdate": "Fri, 13 Sep 2024 06:00:00 +1000"
+        "title": "Inside Out 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Inside%20Out%202",
+        "pubdate": "Fri, 13 Sep 2024 10:00:00 +1000"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Tate McRae",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tate%20McRae",
         "pubdate": "Fri, 13 Sep 2024 01:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Graham McNeice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Graham%20McNeice",
+        "pubdate": "Fri, 13 Sep 2024 06:00:00 +1000"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Adam Peaty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adam%20Peaty",
-        "pubdate": "Fri, 13 Sep 2024 09:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Where to vote",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Where%20to%20vote",
         "pubdate": "Fri, 13 Sep 2024 15:00:00 +1000"
@@ -101,8 +94,22 @@
     ],
     [
       {
-        "title": "PGA Tour",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA%20Tour",
+        "title": "Adam Peaty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adam%20Peaty",
+        "pubdate": "Fri, 13 Sep 2024 09:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Volt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Volt",
+        "pubdate": "Fri, 13 Sep 2024 14:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "PGA tour",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#PGA%20tour",
         "pubdate": "Fri, 13 Sep 2024 12:00:00 +1000"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Australia vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20vs%20England",
         "pubdate": "Thu, 12 Sep 2024 05:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Chappell Roan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chappell%20Roan",
-        "pubdate": "Thu, 12 Sep 2024 15:00:00 +1000"
       }
     ]
   ]
