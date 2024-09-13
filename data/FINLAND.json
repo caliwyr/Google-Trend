@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-09-2024 , 16:38:13",
+  "lastUpdate": "13-09-2024 , 16:47:41",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Tampere",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tampere",
         "pubdate": "Fri, 13 Sep 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Weather tomorrow",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Weather%20tomorrow",
+        "pubdate": "Fri, 13 Sep 2024 01:00:00 +0300"
       }
     ],
     [
@@ -62,6 +69,20 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
         "pubdate": "Fri, 13 Sep 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "KSS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#KSS",
+        "pubdate": "Fri, 13 Sep 2024 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "DSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#DSV",
+        "pubdate": "Fri, 13 Sep 2024 19:00:00 +0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Chappell Roan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chappell%20Roan",
         "pubdate": "Thu, 12 Sep 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Glow up",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Glow%20up",
-        "pubdate": "Thu, 12 Sep 2024 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Miriam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Miriam",
-        "pubdate": "Thu, 12 Sep 2024 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Fujimori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fujimori",
-        "pubdate": "Thu, 12 Sep 2024 21:00:00 +0300"
       }
     ]
   ]
