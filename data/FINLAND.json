@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "13-09-2024 , 00:41:41",
+  "lastUpdate": "13-09-2024 , 02:03:04",
   "data": [
     [
       {
         "title": "Kristina Joksimovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kristina%20Joksimovic",
         "pubdate": "Fri, 13 Sep 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Disney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Disney",
+        "pubdate": "Fri, 13 Sep 2024 04:00:00 +0300"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Shannon Sharpe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shannon%20Sharpe",
-        "pubdate": "Thu, 12 Sep 2024 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Chappell Roan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chappell%20Roan",
         "pubdate": "Thu, 12 Sep 2024 22:00:00 +0300"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Miriam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Miriam",
-        "pubdate": "Thu, 12 Sep 2024 15:00:00 +0300"
+        "title": "Shannon Sharpe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shannon%20Sharpe",
+        "pubdate": "Thu, 12 Sep 2024 20:00:00 +0300"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Fox News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fox%20News",
-        "pubdate": "Wed, 11 Sep 2024 09:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Gilmore Girls",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gilmore%20Girls",
         "pubdate": "Wed, 11 Sep 2024 15:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Neste",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Neste",
         "pubdate": "Wed, 11 Sep 2024 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UEFA%20Nations%20League",
+        "pubdate": "Wed, 11 Sep 2024 00:00:00 +0300"
       }
     ]
   ]

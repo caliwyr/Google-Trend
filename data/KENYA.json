@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-09-2024 , 00:41:44",
+  "lastUpdate": "13-09-2024 , 02:03:07",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "CNN news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#CNN%20news",
-        "pubdate": "Wed, 11 Sep 2024 16:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Argentina",
         "pubdate": "Wed, 11 Sep 2024 18:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Adani Group",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Adani%20Group",
         "pubdate": "Tue, 10 Sep 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Netherlands vs Germany",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Netherlands%20vs%20Germany",
+        "pubdate": "Tue, 10 Sep 2024 13:00:00 +0300"
       }
     ]
   ]
