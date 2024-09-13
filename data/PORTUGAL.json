@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-09-2024 , 15:37:32",
+  "lastUpdate": "13-09-2024 , 15:46:56",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Preço combustíveis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7o%20combust%C3%ADveis",
+        "pubdate": "Fri, 13 Sep 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lando Norris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lando%20Norris",
         "pubdate": "Fri, 13 Sep 2024 08:00:00 +0100"
@@ -73,30 +80,16 @@
     ],
     [
       {
+        "title": "Benfica Santa Clara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20Santa%20Clara",
+        "pubdate": "Fri, 13 Sep 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hugo Mallo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hugo%20Mallo",
         "pubdate": "Fri, 13 Sep 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benfica-Santa Clara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica-Santa%20Clara",
-        "pubdate": "Fri, 13 Sep 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Preço combustíveis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pre%C3%A7o%20combust%C3%ADveis",
-        "pubdate": "Fri, 13 Sep 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "La liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#La%20liga",
-        "pubdate": "Fri, 13 Sep 2024 15:00:00 +0100"
       }
     ],
     [
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Five Guys Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Five%20Guys%20Portugal",
-        "pubdate": "Thu, 12 Sep 2024 11:00:00 +0100"
+        "title": "La liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#La%20liga",
+        "pubdate": "Fri, 13 Sep 2024 15:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Jon Bon Jovi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jon%20Bon%20Jovi",
         "pubdate": "Thu, 12 Sep 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Corinthians",
+        "pubdate": "Thu, 12 Sep 2024 03:00:00 +0100"
       }
     ]
   ]
