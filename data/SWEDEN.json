@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-09-2024 , 22:43:23",
+  "lastUpdate": "14-09-2024 , 22:52:48",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Allsvenskan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Allsvenskan",
         "pubdate": "Sat, 14 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
+        "pubdate": "Sat, 14 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -31,15 +38,15 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
-        "pubdate": "Sat, 14 Sep 2024 21:00:00 +0200"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+        "pubdate": "Sat, 14 Sep 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1",
         "pubdate": "Sat, 14 Sep 2024 14:00:00 +0200"
       }
     ],
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Smith and Thell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Smith%20and%20Thell",
+        "pubdate": "Sat, 14 Sep 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Maximilian ibrahimović",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maximilian%20ibrahimovi%C4%87",
         "pubdate": "Sat, 14 Sep 2024 23:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Blåtunga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bl%C3%A5tunga",
-        "pubdate": "Fri, 13 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "La liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#La%20liga",
         "pubdate": "Fri, 13 Sep 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tre",
-        "pubdate": "Fri, 13 Sep 2024 21:00:00 +0200"
       }
     ]
   ]
