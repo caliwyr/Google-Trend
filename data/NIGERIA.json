@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-09-2024 , 09:37:23",
+  "lastUpdate": "14-09-2024 , 09:46:53",
   "data": [
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Premier%20League",
+        "pubdate": "Sat, 14 Sep 2024 10:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Inter Miami",
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#LaLiga",
-        "pubdate": "Fri, 13 Sep 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Binance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Binance",
         "pubdate": "Fri, 13 Sep 2024 19:00:00 +0100"
@@ -62,6 +62,13 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund",
         "pubdate": "Fri, 13 Sep 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#LaLiga",
+        "pubdate": "Fri, 13 Sep 2024 23:00:00 +0100"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Al Nassr Vs Al Ahli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al%20Nassr%20Vs%20Al%20Ahli",
+        "pubdate": "Fri, 13 Sep 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bundesliga",
         "pubdate": "Fri, 13 Sep 2024 21:00:00 +0100"
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "AlNassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#AlNassr",
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#La%20Liga",
         "pubdate": "Fri, 13 Sep 2024 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Shina Sanyaolu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Shina%20Sanyaolu",
-        "pubdate": "Fri, 13 Sep 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Public holiday in September",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Public%20holiday%20in%20September",
-        "pubdate": "Thu, 12 Sep 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Shannon Sharpe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Shannon%20Sharpe",
-        "pubdate": "Thu, 12 Sep 2024 07:00:00 +0100"
+        "title": "AlNassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#AlNassr",
+        "pubdate": "Fri, 13 Sep 2024 23:00:00 +0100"
       }
     ]
   ]
