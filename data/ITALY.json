@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-09-2024 , 23:55:06",
+  "lastUpdate": "14-09-2024 , 01:04:22",
   "data": [
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20A",
+        "pubdate": "Sat, 14 Sep 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Davis Cup",
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Campionato Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Campionato%20Serie%20A",
-        "pubdate": "Sat, 14 Sep 2024 00:00:00 +0200"
+        "title": "RAF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#RAF",
+        "pubdate": "Sat, 14 Sep 2024 01:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Fiorella Mannoia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fiorella%20Mannoia",
         "pubdate": "Sat, 14 Sep 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RAF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#RAF",
-        "pubdate": "Sat, 14 Sep 2024 01:00:00 +0200"
       }
     ],
     [
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Coppa Davis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Coppa%20Davis",
+        "title": "Cobolli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Cobolli",
         "pubdate": "Fri, 13 Sep 2024 15:00:00 +0200"
       }
     ],
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "La maledizione della prima luna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#La%20maledizione%20della%20prima%20luna",
-        "pubdate": "Fri, 13 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Borussia Dortmund-Heidenheim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Borussia%20Dortmund-Heidenheim",
         "pubdate": "Fri, 13 Sep 2024 20:00:00 +0200"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Endless Love",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Endless%20Love",
-        "pubdate": "Fri, 13 Sep 2024 00:00:00 +0200"
+        "title": "Toti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Toti",
+        "pubdate": "Fri, 13 Sep 2024 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Toti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Toti",
-        "pubdate": "Fri, 13 Sep 2024 17:00:00 +0200"
+        "title": "La maledizione della prima luna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#La%20maledizione%20della%20prima%20luna",
+        "pubdate": "Fri, 13 Sep 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Endless Love",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Endless%20Love",
+        "pubdate": "Fri, 13 Sep 2024 00:00:00 +0200"
       }
     ]
   ]

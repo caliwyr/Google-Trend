@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "13-09-2024 , 23:55:07",
+  "lastUpdate": "14-09-2024 , 01:04:23",
   "data": [
     [
       {
         "title": "Open Monumentendag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Open%20Monumentendag",
+        "pubdate": "Sat, 14 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rai Vloet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rai%20Vloet",
         "pubdate": "Sat, 14 Sep 2024 00:00:00 +0200"
       }
     ],
@@ -31,22 +38,15 @@
     ],
     [
       {
-        "title": "Dave Bautista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dave%20Bautista",
-        "pubdate": "Fri, 13 Sep 2024 18:00:00 +0200"
+        "title": "Den Bosch,  ADO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Den%20Bosch,%20%20ADO",
+        "pubdate": "Fri, 13 Sep 2024 21:00:00 +0200"
       }
     ],
     [
       {
         "title": "Vitesse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
-        "pubdate": "Fri, 13 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Den Bosch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Den%20Bosch",
         "pubdate": "Fri, 13 Sep 2024 22:00:00 +0200"
       }
     ],
@@ -76,13 +76,6 @@
         "title": "FC Emmen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
         "pubdate": "Fri, 13 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rob Kemps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rob%20Kemps",
-        "pubdate": "Fri, 13 Sep 2024 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Omtzigt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Omtzigt",
         "pubdate": "Wed, 11 Sep 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Debat Trump Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Debat%20Trump%20Harris",
+        "pubdate": "Tue, 10 Sep 2024 05:00:00 +0200"
       }
     ]
   ]
