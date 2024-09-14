@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-09-2024 , 05:42:39",
+  "lastUpdate": "14-09-2024 , 05:51:57",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20League",
         "pubdate": "Sat, 14 Sep 2024 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Accident Autostrada A3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Accident%20Autostrada%20A3",
+        "pubdate": "Sat, 14 Sep 2024 07:00:00 +0300"
       }
     ],
     [
@@ -31,27 +38,6 @@
     ],
     [
       {
-        "title": "Bilete FCSB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bilete%20FCSB",
-        "pubdate": "Fri, 13 Sep 2024 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Vocea romaniei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vocea%20romaniei",
-        "pubdate": "Fri, 13 Sep 2024 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#F1",
-        "pubdate": "Fri, 13 Sep 2024 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Ciclonul Boris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ciclonul%20Boris",
         "pubdate": "Fri, 13 Sep 2024 12:00:00 +0300"
@@ -59,16 +45,16 @@
     ],
     [
       {
-        "title": "ANM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#ANM",
-        "pubdate": "Fri, 13 Sep 2024 22:00:00 +0300"
+        "title": "Diana Dumitrescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Diana%20Dumitrescu",
+        "pubdate": "Fri, 13 Sep 2024 17:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Diana Dumitrescu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Diana%20Dumitrescu",
-        "pubdate": "Fri, 13 Sep 2024 17:00:00 +0300"
+        "title": "ANM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#ANM",
+        "pubdate": "Fri, 13 Sep 2024 22:00:00 +0300"
       }
     ],
     [
@@ -87,6 +73,20 @@
     ],
     [
       {
+        "title": "Vocea romaniei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vocea%20romaniei",
+        "pubdate": "Fri, 13 Sep 2024 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Papa Francisc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Papa%20Francisc",
+        "pubdate": "Fri, 13 Sep 2024 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Vocea romaniei 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vocea%20romaniei%202024",
         "pubdate": "Fri, 13 Sep 2024 17:00:00 +0300"
@@ -101,8 +101,15 @@
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#La%20Liga",
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#F1",
+        "pubdate": "Fri, 13 Sep 2024 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "La liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#La%20liga",
         "pubdate": "Fri, 13 Sep 2024 21:00:00 +0300"
       }
     ],
@@ -111,6 +118,13 @@
         "title": "Marian dragulescu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marian%20dragulescu",
         "pubdate": "Fri, 13 Sep 2024 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Irina Rimes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Irina%20Rimes",
+        "pubdate": "Fri, 13 Sep 2024 22:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Silviu Mircescu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Silviu%20Mircescu",
         "pubdate": "Fri, 13 Sep 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Sean Penn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sean%20Penn",
-        "pubdate": "Fri, 13 Sep 2024 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Lia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Lia",
-        "pubdate": "Fri, 13 Sep 2024 00:00:00 +0300"
       }
     ]
   ]
