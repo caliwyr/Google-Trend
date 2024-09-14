@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-09-2024 , 12:32:05",
+  "lastUpdate": "14-09-2024 , 12:57:10",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Blauzungenkrankheit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blauzungenkrankheit",
-        "pubdate": "Sat, 14 Sep 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Michaela DePrince",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Michaela%20DePrince",
         "pubdate": "Sat, 14 Sep 2024 01:00:00 +0200"
@@ -38,8 +31,15 @@
     ],
     [
       {
-        "title": "Davis Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Davis%20Cup",
+        "title": "Blauzungenkrankheit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blauzungenkrankheit",
+        "pubdate": "Sat, 14 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Davis-Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Davis-Cup",
         "pubdate": "Sat, 14 Sep 2024 09:00:00 +0200"
       }
     ],
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "Sonny Kittel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sonny%20Kittel",
+        "pubdate": "Sat, 14 Sep 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bundesliga",
         "pubdate": "Fri, 13 Sep 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Thun – Grasshoppers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun%20%E2%80%93%20Grasshoppers",
+        "pubdate": "Fri, 13 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -94,30 +108,9 @@
     ],
     [
       {
-        "title": "Schweizer Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schweizer%20Cup",
-        "pubdate": "Fri, 13 Sep 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Unwetter Österreich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Unwetter%20%C3%96sterreich",
         "pubdate": "Fri, 13 Sep 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
-        "pubdate": "Fri, 13 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Premier%20League",
-        "pubdate": "Fri, 13 Sep 2024 23:00:00 +0200"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Label Suisse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Label%20Suisse",
-        "pubdate": "Fri, 13 Sep 2024 11:00:00 +0200"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Premier%20League",
+        "pubdate": "Fri, 13 Sep 2024 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Grimselpass",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grimselpass",
-        "pubdate": "Fri, 13 Sep 2024 16:00:00 +0200"
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
+        "pubdate": "Fri, 13 Sep 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Label Suisse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Label%20Suisse",
+        "pubdate": "Fri, 13 Sep 2024 11:00:00 +0200"
       }
     ]
   ]
