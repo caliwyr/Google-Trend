@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "14-09-2024 , 17:50:00",
+  "lastUpdate": "14-09-2024 , 17:59:28",
   "data": [
     [
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool",
         "pubdate": "Sun, 15 Sep 2024 00:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Crystal Palace vs Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Crystal%20Palace%20vs%20Leicester%20City",
+        "pubdate": "Sun, 15 Sep 2024 03:00:00 +1000"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Southampton vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Southampton%20vs%20Man%20United",
-        "pubdate": "Sat, 14 Sep 2024 20:00:00 +1000"
+        "title": "Local council elections",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Local%20council%20elections",
+        "pubdate": "Sat, 14 Sep 2024 08:00:00 +1000"
       }
     ],
     [
       {
-        "title": "Local council elections",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Local%20council%20elections",
-        "pubdate": "Sat, 14 Sep 2024 08:00:00 +1000"
+        "title": "Southampton vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Southampton%20vs%20Man%20United",
+        "pubdate": "Sat, 14 Sep 2024 20:00:00 +1000"
       }
     ],
     [
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Cowboys Vs Knights",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cowboys%20Vs%20Knights",
+        "title": "Cowboys vs Knights",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cowboys%20vs%20Knights",
         "pubdate": "Sat, 14 Sep 2024 19:00:00 +1000"
       }
     ],
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Chris Fagan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chris%20Fagan",
-        "pubdate": "Sat, 14 Sep 2024 09:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Man City vs Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City%20vs%20Brentford",
         "pubdate": "Sat, 14 Sep 2024 19:00:00 +1000"
@@ -83,6 +83,13 @@
         "title": "Lex Marinos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lex%20Marinos",
         "pubdate": "Sat, 14 Sep 2024 19:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Where can i vote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Where%20can%20i%20vote",
+        "pubdate": "Sat, 14 Sep 2024 09:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Election results",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Election%20results",
         "pubdate": "Sat, 14 Sep 2024 22:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Voting locations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Voting%20locations",
-        "pubdate": "Sat, 14 Sep 2024 12:00:00 +1000"
       }
     ]
   ]
