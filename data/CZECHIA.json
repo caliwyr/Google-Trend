@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-09-2024 , 16:51:43",
+  "lastUpdate": "15-09-2024 , 17:06:08",
   "data": [
-    [
-      {
-        "title": "Tottenham – Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tottenham%20%E2%80%93%20Arsenal",
-        "pubdate": "Sun, 15 Sep 2024 15:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Zlin",
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Skalpel, prosím",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Skalpel,%20pros%C3%ADm",
+        "pubdate": "Sun, 15 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jaroslav Navrátil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jaroslav%20Navr%C3%A1til",
         "pubdate": "Sun, 15 Sep 2024 12:00:00 +0200"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Skalpel, prosím",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Skalpel,%20pros%C3%ADm",
-        "pubdate": "Sun, 15 Sep 2024 17:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
+        "pubdate": "Sun, 15 Sep 2024 16:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Veselí nad Moravou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vesel%C3%AD%20nad%20Moravou",
+        "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Patrick Swayze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrick%20Swayze",
         "pubdate": "Sun, 15 Sep 2024 01:00:00 +0200"
@@ -80,16 +87,23 @@
     ],
     [
       {
-        "title": "Opava",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Opava",
-        "pubdate": "Sat, 14 Sep 2024 10:00:00 +0200"
+        "title": "Vít Rakušan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%ADt%20Raku%C5%A1an",
+        "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Hanušovice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hanu%C5%A1ovice",
-        "pubdate": "Sat, 14 Sep 2024 15:00:00 +0200"
+        "title": "Usti nad Labem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Usti%20nad%20Labem",
+        "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Opava",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Opava",
+        "pubdate": "Sat, 14 Sep 2024 12:00:00 +0200"
       }
     ],
     [
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Petr Kotvald",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Kotvald",
-        "pubdate": "Sat, 14 Sep 2024 21:00:00 +0200"
+        "title": "Husinecká přehrada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Husineck%C3%A1%20p%C5%99ehrada",
+        "pubdate": "Sat, 14 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Husinecká přehrada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Husineck%C3%A1%20p%C5%99ehrada",
-        "pubdate": "Sat, 14 Sep 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#UFC",
-        "pubdate": "Sat, 14 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ostrava",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ostrava",
-        "pubdate": "Sat, 14 Sep 2024 15:00:00 +0200"
+        "title": "Petr Kotvald",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Kotvald",
+        "pubdate": "Sat, 14 Sep 2024 21:00:00 +0200"
       }
     ]
   ]
