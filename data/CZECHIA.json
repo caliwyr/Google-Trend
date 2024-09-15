@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "15-09-2024 , 17:53:47",
+  "lastUpdate": "15-09-2024 , 18:15:10",
   "data": [
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#F1",
+        "pubdate": "Sun, 15 Sep 2024 14:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Zlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlin",
         "pubdate": "Sun, 15 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dny NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dny%20NATO",
+        "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -20,6 +34,13 @@
         "title": "Skalpel, prosím",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Skalpel,%20pros%C3%ADm",
         "pubdate": "Sun, 15 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
+        "pubdate": "Sun, 15 Sep 2024 19:00:00 +0200"
       }
     ],
     [
@@ -59,13 +80,6 @@
     ],
     [
       {
-        "title": "Veselí nad Moravou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vesel%C3%AD%20nad%20Moravou",
-        "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Patrick Swayze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Patrick%20Swayze",
         "pubdate": "Sun, 15 Sep 2024 01:00:00 +0200"
@@ -87,6 +101,20 @@
     ],
     [
       {
+        "title": "Rapotín",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rapot%C3%ADn",
+        "pubdate": "Sun, 15 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Venezuela",
+        "pubdate": "Sun, 15 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vít Rakušan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%ADt%20Raku%C5%A1an",
         "pubdate": "Sun, 15 Sep 2024 18:00:00 +0200"
@@ -101,44 +129,16 @@
     ],
     [
       {
+        "title": "Frýdek-Místek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fr%C3%BDdek-M%C3%ADstek",
+        "pubdate": "Sun, 15 Sep 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Opava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Opava",
         "pubdate": "Sat, 14 Sep 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mapy.cz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mapy.cz",
-        "pubdate": "Sat, 14 Sep 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hoffenheim – Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hoffenheim%20%E2%80%93%20Leverkusen",
-        "pubdate": "Sat, 14 Sep 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Husinecká přehrada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Husineck%C3%A1%20p%C5%99ehrada",
-        "pubdate": "Sat, 14 Sep 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Premier%20League",
-        "pubdate": "Sat, 14 Sep 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Petr Kotvald",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petr%20Kotvald",
-        "pubdate": "Sat, 14 Sep 2024 21:00:00 +0200"
       }
     ]
   ]
