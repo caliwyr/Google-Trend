@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-09-2024 , 00:57:46",
+  "lastUpdate": "15-09-2024 , 02:20:59",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#UFC",
         "pubdate": "Sun, 15 Sep 2024 03:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Bayern",
+        "pubdate": "Sun, 15 Sep 2024 02:00:00 +0300"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Premier Lig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Premier%20Lig",
+        "pubdate": "Sat, 14 Sep 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Naci Görür",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Naci%20G%C3%B6r%C3%BCr",
         "pubdate": "Sat, 14 Sep 2024 19:00:00 +0300"
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "Salavat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Salavat",
-        "pubdate": "Sat, 14 Sep 2024 21:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Mevlid kandili namazı kaç rek'at",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mevlid%20kandili%20namaz%C4%B1%20ka%C3%A7%20rek'at",
         "pubdate": "Sat, 14 Sep 2024 22:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Elazığspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Elaz%C4%B1%C4%9Fspor",
         "pubdate": "Sat, 14 Sep 2024 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "TRT Spor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TRT%20Spor",
-        "pubdate": "Sat, 14 Sep 2024 23:00:00 +0300"
       }
     ]
   ]
