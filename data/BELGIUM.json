@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "15-09-2024 , 08:52:45",
+  "lastUpdate": "15-09-2024 , 09:09:14",
   "data": [
     [
       {
         "title": "RSCA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSCA",
+        "pubdate": "Sun, 15 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Voetbaluitslagen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Voetbaluitslagen",
         "pubdate": "Sun, 15 Sep 2024 00:00:00 +0200"
       }
     ],
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Anderlecht match",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20match",
+        "pubdate": "Sun, 15 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Anderlecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
         "pubdate": "Sat, 14 Sep 2024 21:00:00 +0200"
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "Cercle Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
+        "title": "KRC Genk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
         "pubdate": "Sat, 14 Sep 2024 16:00:00 +0200"
       }
     ],
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "KRC Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
-        "pubdate": "Sat, 14 Sep 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "OM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OM",
         "pubdate": "Sat, 14 Sep 2024 18:00:00 +0200"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Aston Villa – Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aston%20Villa%20%E2%80%93%20Everton",
-        "pubdate": "Sat, 14 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Empoli – Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Empoli%20%E2%80%93%20Juventus",
         "pubdate": "Sat, 14 Sep 2024 19:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
-        "pubdate": "Sat, 14 Sep 2024 19:00:00 +0200"
+        "title": "Eredivisie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eredivisie",
+        "pubdate": "Sat, 14 Sep 2024 18:00:00 +0200"
       }
     ]
   ]
