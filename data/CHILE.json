@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2024 , 01:00:31",
+  "lastUpdate": "16-09-2024 , 02:23:07",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Trump",
+        "pubdate": "Sun, 15 Sep 2024 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Barnechea  Magallanes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barnechea%20%20Magallanes",
         "pubdate": "Sun, 15 Sep 2024 18:00:00 -0300"
@@ -41,13 +48,6 @@
         "title": "Copa Davis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Davis",
         "pubdate": "Sun, 15 Sep 2024 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Claudio Iturra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Claudio%20Iturra",
-        "pubdate": "Sun, 15 Sep 2024 00:00:00 -0300"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Trump",
-        "pubdate": "Sun, 15 Sep 2024 19:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Yacare",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Yacare",
         "pubdate": "Sun, 15 Sep 2024 02:00:00 -0300"
@@ -101,16 +94,16 @@
     ],
     [
       {
-        "title": "Alberto Fujimori",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alberto%20Fujimori",
-        "pubdate": "Sun, 15 Sep 2024 13:00:00 -0300"
+        "title": "Rosario Central  Talleres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rosario%20Central%20%20Talleres",
+        "pubdate": "Sun, 15 Sep 2024 20:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Rosario Central  Talleres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rosario%20Central%20%20Talleres",
-        "pubdate": "Sun, 15 Sep 2024 20:00:00 -0300"
+        "title": "Alberto Fujimori",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alberto%20Fujimori",
+        "pubdate": "Sun, 15 Sep 2024 13:00:00 -0300"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Donald%20Trump",
-        "pubdate": "Sun, 15 Sep 2024 20:00:00 -0300"
+        "title": "Belgrano  Independiente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Belgrano%20%20Independiente",
+        "pubdate": "Sun, 15 Sep 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Alianza Atlético  Universitario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Atl%C3%A9tico%20%20Universitario",
+        "pubdate": "Sun, 15 Sep 2024 19:00:00 -0300"
       }
     ]
   ]
