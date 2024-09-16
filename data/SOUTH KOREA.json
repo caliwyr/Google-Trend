@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-09-2024 , 23:54:07",
+  "lastUpdate": "16-09-2024 , 01:00:40",
   "data": [
+    [
+      {
+        "title": "바르셀로나",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%94%EB%A5%B4%EC%85%80%EB%A1%9C%EB%82%98",
+        "pubdate": "Mon, 16 Sep 2024 00:00:00 +0900"
+      }
+    ],
     [
       {
         "title": "울버햄튼",
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "뮌헨",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AE%8C%ED%97%A8",
+        "pubdate": "Sun, 15 Sep 2024 12:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "EPL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#EPL",
         "pubdate": "Sat, 14 Sep 2024 22:00:00 +0900"
@@ -97,13 +111,6 @@
         "title": "맨유",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A8%EC%9C%A0",
         "pubdate": "Sat, 14 Sep 2024 21:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "리버풀",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A6%AC%EB%B2%84%ED%92%80",
-        "pubdate": "Sat, 14 Sep 2024 23:00:00 +0900"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "리버풀",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A6%AC%EB%B2%84%ED%92%80",
+        "pubdate": "Sat, 14 Sep 2024 23:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "니퍼트",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8B%88%ED%8D%BC%ED%8A%B8",
         "pubdate": "Sat, 14 Sep 2024 19:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "K리그",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#K%EB%A6%AC%EA%B7%B8",
-        "pubdate": "Sat, 14 Sep 2024 07:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "도경수",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8F%84%EA%B2%BD%EC%88%98",
-        "pubdate": "Sat, 14 Sep 2024 11:00:00 +0900"
       }
     ]
   ]

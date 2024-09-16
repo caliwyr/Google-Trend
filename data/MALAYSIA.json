@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "15-09-2024 , 23:54:04",
+  "lastUpdate": "16-09-2024 , 01:00:37",
   "data": [
+    [
+      {
+        "title": "Tottenham vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tottenham%20vs%20Arsenal",
+        "pubdate": "Sun, 15 Sep 2024 16:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Bournemouth vs Chelsea",
@@ -41,13 +48,6 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UFC",
         "pubdate": "Sun, 15 Sep 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Milan vs Venezia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Milan%20vs%20Venezia",
-        "pubdate": "Sun, 15 Sep 2024 04:00:00 +0800"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Empoli vs Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Empoli%20vs%20Juventus",
-        "pubdate": "Sun, 15 Sep 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Squid Game",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Squid%20Game",
         "pubdate": "Sun, 15 Sep 2024 21:00:00 +0800"
@@ -122,6 +115,20 @@
     ],
     [
       {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#AC%20Milan",
+        "pubdate": "Sun, 15 Sep 2024 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Shanghai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Shanghai",
+        "pubdate": "Sun, 15 Sep 2024 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Southampton vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Southampton%20vs%20Man%20United",
         "pubdate": "Sat, 14 Sep 2024 18:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Premier%20League",
         "pubdate": "Sat, 14 Sep 2024 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal",
-        "pubdate": "Sat, 14 Sep 2024 22:00:00 +0800"
       }
     ]
   ]

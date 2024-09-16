@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "15-09-2024 , 23:54:05",
+  "lastUpdate": "16-09-2024 , 01:00:37",
   "data": [
     [
       {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1",
+        "pubdate": "Mon, 16 Sep 2024 07:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump",
+        "pubdate": "Mon, 16 Sep 2024 10:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Te Wiki o te Reo maori 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Te%20Wiki%20o%20te%20Reo%20maori%202024",
         "pubdate": "Mon, 16 Sep 2024 07:00:00 +1200"
       }
     ],
@@ -17,9 +31,16 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump",
-        "pubdate": "Mon, 16 Sep 2024 10:00:00 +1200"
+        "title": "Iron Maiden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Iron%20Maiden",
+        "pubdate": "Mon, 16 Sep 2024 11:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "England vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#England%20vs%20Australia",
+        "pubdate": "Mon, 16 Sep 2024 11:00:00 +1200"
       }
     ],
     [
@@ -38,13 +59,6 @@
     ],
     [
       {
-        "title": "Southampton vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Southampton%20vs%20Man%20United",
-        "pubdate": "Sun, 15 Sep 2024 00:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Black Ferns",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Black%20Ferns",
         "pubdate": "Sun, 15 Sep 2024 03:00:00 +1200"
@@ -59,6 +73,20 @@
     ],
     [
       {
+        "title": "Southampton vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Southampton%20vs%20Man%20United",
+        "pubdate": "Sun, 15 Sep 2024 00:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
+        "pubdate": "Sun, 15 Sep 2024 08:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Canelo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Canelo",
         "pubdate": "Sun, 15 Sep 2024 17:00:00 +1200"
@@ -69,13 +97,6 @@
         "title": "Valentina Shevchenko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Valentina%20Shevchenko",
         "pubdate": "Sun, 15 Sep 2024 17:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
-        "pubdate": "Sun, 15 Sep 2024 08:00:00 +1200"
       }
     ],
     [
@@ -115,29 +136,8 @@
     ],
     [
       {
-        "title": "China retirement age",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#China%20retirement%20age",
-        "pubdate": "Sun, 15 Sep 2024 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool",
-        "pubdate": "Sun, 15 Sep 2024 04:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Bird of the Year",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bird%20of%20the%20Year",
-        "pubdate": "Sun, 15 Sep 2024 15:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Pygmy hippos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pygmy%20hippos",
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#La%20Liga",
         "pubdate": "Sun, 15 Sep 2024 10:00:00 +1200"
       }
     ]
