@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2024 , 08:58:25",
+  "lastUpdate": "16-09-2024 , 09:24:53",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs",
-        "pubdate": "Sun, 15 Sep 2024 08:00:00 -0700"
+        "title": "Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
+        "pubdate": "Sun, 15 Sep 2024 09:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys",
-        "pubdate": "Sun, 15 Sep 2024 09:00:00 -0700"
+        "title": "Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs",
+        "pubdate": "Sun, 15 Sep 2024 08:00:00 -0700"
       }
     ],
     [
@@ -66,22 +66,15 @@
     ],
     [
       {
-        "title": "49ers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#49ers",
-        "pubdate": "Sun, 15 Sep 2024 10:00:00 -0700"
+        "title": "Rams vs Cardinals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams%20vs%20Cardinals",
+        "pubdate": "Sun, 15 Sep 2024 14:00:00 -0700"
       }
     ],
     [
       {
         "title": "Steelers vs Broncos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers%20vs%20Broncos",
-        "pubdate": "Sun, 15 Sep 2024 14:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Rams vs Cardinals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams%20vs%20Cardinals",
         "pubdate": "Sun, 15 Sep 2024 14:00:00 -0700"
       }
     ],
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Giants vs Commanders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants%20vs%20Commanders",
-        "pubdate": "Sun, 15 Sep 2024 11:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Tito Jackson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tito%20Jackson",
         "pubdate": "Sun, 15 Sep 2024 22:00:00 -0700"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Giants vs Commanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants%20vs%20Commanders",
+        "pubdate": "Sun, 15 Sep 2024 11:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Eagles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles",
         "pubdate": "Sun, 15 Sep 2024 21:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
+        "pubdate": "Sun, 15 Sep 2024 06:00:00 -0700"
       }
     ]
   ]
