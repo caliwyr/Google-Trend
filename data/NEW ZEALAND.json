@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2024 , 21:46:22",
+  "lastUpdate": "16-09-2024 , 21:55:38",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Beaut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Beaut",
-        "pubdate": "Tue, 17 Sep 2024 08:00:00 +1200"
+        "title": "Peat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Peat",
+        "pubdate": "Tue, 17 Sep 2024 09:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Spark Arena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Spark%20Arena",
+        "pubdate": "Tue, 17 Sep 2024 00:00:00 +1200"
       }
     ],
     [
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1",
-        "pubdate": "Mon, 16 Sep 2024 07:00:00 +1200"
+        "title": "Shogun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shogun",
+        "pubdate": "Mon, 16 Sep 2024 15:00:00 +1200"
       }
     ],
     [
       {
-        "title": "Shogun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Shogun",
-        "pubdate": "Mon, 16 Sep 2024 15:00:00 +1200"
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1",
+        "pubdate": "Mon, 16 Sep 2024 07:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "IndyCar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#IndyCar",
         "pubdate": "Mon, 16 Sep 2024 14:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "The Deb",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Deb",
-        "pubdate": "Mon, 16 Sep 2024 22:00:00 +1200"
       }
     ]
   ]
