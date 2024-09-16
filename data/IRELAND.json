@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-09-2024 , 11:56:55",
+  "lastUpdate": "16-09-2024 , 12:36:19",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Chiefs",
-        "pubdate": "Mon, 16 Sep 2024 09:00:00 +0100"
+        "title": "Huw Edwards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Huw%20Edwards",
+        "pubdate": "Mon, 16 Sep 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Laytown races",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Laytown%20races",
+        "pubdate": "Mon, 16 Sep 2024 12:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Amgen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Amgen",
-        "pubdate": "Sun, 15 Sep 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Shogun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Shogun",
         "pubdate": "Sun, 15 Sep 2024 22:00:00 +0100"
@@ -90,6 +90,13 @@
         "title": "Solheim Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Solheim%20Cup",
         "pubdate": "Sun, 15 Sep 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Amgen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Amgen",
+        "pubdate": "Sun, 15 Sep 2024 12:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Weather Ireland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Weather%20Ireland",
         "pubdate": "Sun, 15 Sep 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kevin Dundon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Kevin%20Dundon",
-        "pubdate": "Sun, 15 Sep 2024 14:00:00 +0100"
       }
     ]
   ]
