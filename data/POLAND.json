@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "17-09-2024 , 08:48:40",
+  "lastUpdate": "17-09-2024 , 08:58:01",
   "data": [
     [
       {
         "title": "RMF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#RMF",
         "pubdate": "Tue, 17 Sep 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liga mistrzow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liga%20mistrzow",
-        "pubdate": "Tue, 17 Sep 2024 00:00:00 +0200"
       }
     ],
     [
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "GKS Tychy – Ruch Chorzów",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GKS%20Tychy%20%E2%80%93%20Ruch%20Chorz%C3%B3w",
-        "pubdate": "Mon, 16 Sep 2024 18:00:00 +0200"
+        "title": "Jelenia Góra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jelenia%20G%C3%B3ra",
+        "pubdate": "Mon, 16 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -45,16 +38,23 @@
     ],
     [
       {
-        "title": "iOS 18",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#iOS%2018",
-        "pubdate": "Mon, 16 Sep 2024 10:00:00 +0200"
+        "title": "GKS Tychy – Ruch Chorzów",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#GKS%20Tychy%20%E2%80%93%20Ruch%20Chorz%C3%B3w",
+        "pubdate": "Mon, 16 Sep 2024 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Pelnia wrzesien 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pelnia%20wrzesien%202024",
-        "pubdate": "Mon, 16 Sep 2024 21:00:00 +0200"
+        "title": "Liga Mistrzów",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liga%20Mistrz%C3%B3w",
+        "pubdate": "Mon, 16 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "iOS 18",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#iOS%2018",
+        "pubdate": "Mon, 16 Sep 2024 10:00:00 +0200"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Messi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Messi",
         "pubdate": "Mon, 16 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pełnia wrzesień 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pe%C5%82nia%20wrzesie%C5%84%202024",
+        "pubdate": "Mon, 16 Sep 2024 22:00:00 +0200"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Bartosz Żukowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bartosz%20%C5%BBukowski",
-        "pubdate": "Mon, 16 Sep 2024 12:00:00 +0200"
+        "title": "Powerbank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Powerbank",
+        "pubdate": "Mon, 16 Sep 2024 10:00:00 +0200"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Emmy 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Emmy%202024",
-        "pubdate": "Mon, 16 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tito Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tito%20Jackson",
-        "pubdate": "Mon, 16 Sep 2024 14:00:00 +0200"
+        "title": "COVID-19",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#COVID-19",
+        "pubdate": "Mon, 16 Sep 2024 20:00:00 +0200"
       }
     ]
   ]
