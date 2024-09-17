@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2024 , 00:52:19",
+  "lastUpdate": "17-09-2024 , 01:43:12",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "FNV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FNV",
         "pubdate": "Mon, 16 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vitesse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
+        "pubdate": "Mon, 16 Sep 2024 22:00:00 +0200"
       }
     ],
     [
@@ -87,23 +94,9 @@
     ],
     [
       {
-        "title": "Excelsior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
-        "pubdate": "Mon, 16 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Klaassen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Klaassen",
         "pubdate": "Mon, 16 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Stroomstoring Den Bosch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stroomstoring%20Den%20Bosch",
-        "pubdate": "Mon, 16 Sep 2024 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Davy Klaassen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Davy%20Klaassen",
         "pubdate": "Sun, 15 Sep 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Boer zoekt Vrouw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Boer%20zoekt%20Vrouw",
+        "pubdate": "Sun, 15 Sep 2024 21:00:00 +0200"
       }
     ]
   ]
