@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-09-2024 , 19:48:03",
+  "lastUpdate": "17-09-2024 , 19:57:16",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid",
+        "pubdate": "Tue, 17 Sep 2024 14:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Juventus",
@@ -10,15 +17,22 @@
     ],
     [
       {
-        "title": "Real Madrid vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid%20vs",
-        "pubdate": "Tue, 17 Sep 2024 14:00:00 -0300"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
+        "pubdate": "Tue, 17 Sep 2024 15:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Young Boys - Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Young%20Boys%20-%20Aston%20Villa",
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aston%20Villa",
+        "pubdate": "Tue, 17 Sep 2024 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "RCD Mallorca  Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#RCD%20Mallorca%20%20Real%20Sociedad",
         "pubdate": "Tue, 17 Sep 2024 15:00:00 -0300"
       }
     ],
@@ -31,22 +45,15 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
-        "pubdate": "Tue, 17 Sep 2024 15:00:00 -0300"
+        "title": "Parque Padre Hurtado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Parque%20Padre%20Hurtado",
+        "pubdate": "Tue, 17 Sep 2024 16:00:00 -0300"
       }
     ],
     [
       {
         "title": "Irene Aldana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Irene%20Aldana",
-        "pubdate": "Tue, 17 Sep 2024 03:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Michael Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Michael%20Jackson",
         "pubdate": "Tue, 17 Sep 2024 03:00:00 -0300"
       }
     ],
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Paula Carrasco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paula%20Carrasco",
-        "pubdate": "Mon, 16 Sep 2024 22:00:00 -0300"
+        "title": "Michael Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Michael%20Jackson",
+        "pubdate": "Tue, 17 Sep 2024 03:00:00 -0300"
       }
     ],
     [
@@ -80,9 +87,23 @@
     ],
     [
       {
+        "title": "Paula Carrasco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Paula%20Carrasco",
+        "pubdate": "Mon, 16 Sep 2024 22:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Parma - Udinese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Parma%20-%20Udinese",
         "pubdate": "Mon, 16 Sep 2024 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Ya Casi Venezuela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ya%20Casi%20Venezuela",
+        "pubdate": "Mon, 16 Sep 2024 10:00:00 -0300"
       }
     ],
     [
@@ -115,29 +136,8 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al%20Nassr",
-        "pubdate": "Mon, 16 Sep 2024 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Gato con dos caras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Gato%20con%20dos%20caras",
-        "pubdate": "Mon, 16 Sep 2024 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Francisco Vidal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Francisco%20Vidal",
-        "pubdate": "Mon, 16 Sep 2024 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Parada Militar 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Parada%20Militar%202024",
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Al-Nassr",
         "pubdate": "Mon, 16 Sep 2024 14:00:00 -0300"
       }
     ]
