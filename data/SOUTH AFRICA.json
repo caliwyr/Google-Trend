@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2024 , 02:50:25",
+  "lastUpdate": "17-09-2024 , 02:59:34",
   "data": [
     [
       {
@@ -61,13 +61,6 @@
       {
         "title": "Pap",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pap",
-        "pubdate": "Mon, 16 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "UCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UCL",
         "pubdate": "Mon, 16 Sep 2024 14:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League",
         "pubdate": "Sun, 15 Sep 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atletico%20Madrid",
+        "pubdate": "Sun, 15 Sep 2024 11:00:00 +0200"
       }
     ]
   ]
