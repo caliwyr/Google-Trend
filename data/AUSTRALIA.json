@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2024 , 09:50:52",
+  "lastUpdate": "17-09-2024 , 10:00:04",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Matte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Matte",
+        "pubdate": "Tue, 17 Sep 2024 09:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Huw Edwards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Huw%20Edwards",
         "pubdate": "Tue, 17 Sep 2024 06:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Tim Tams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Tams",
+        "pubdate": "Tue, 17 Sep 2024 16:00:00 +1000"
       }
     ],
     [
@@ -41,13 +55,6 @@
         "title": "AMP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AMP",
         "pubdate": "Tue, 17 Sep 2024 14:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Tim Tams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Tams",
-        "pubdate": "Tue, 17 Sep 2024 16:00:00 +1000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Andrew O'Keefe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Andrew%20O'Keefe",
         "pubdate": "Mon, 16 Sep 2024 15:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Formula%201",
-        "pubdate": "Mon, 16 Sep 2024 01:00:00 +1000"
       }
     ]
   ]
