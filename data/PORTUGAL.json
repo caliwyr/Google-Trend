@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-09-2024 , 22:43:08",
+  "lastUpdate": "17-09-2024 , 22:52:26",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Real%20Madrid",
-        "pubdate": "Tue, 17 Sep 2024 10:00:00 +0100"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
+        "pubdate": "Tue, 17 Sep 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United  Barnsley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United%20%20Barnsley",
+        "pubdate": "Tue, 17 Sep 2024 20:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Manchester United  Barnsley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20United%20%20Barnsley",
-        "pubdate": "Tue, 17 Sep 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Castro Daire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Castro%20Daire",
         "pubdate": "Tue, 17 Sep 2024 10:00:00 +0100"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan",
-        "pubdate": "Tue, 17 Sep 2024 20:00:00 +0100"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern",
+        "pubdate": "Tue, 17 Sep 2024 21:00:00 +0100"
       }
     ],
     [
@@ -73,30 +73,16 @@
     ],
     [
       {
-        "title": "Angel Gomes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Angel%20Gomes",
-        "pubdate": "Tue, 17 Sep 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool",
-        "pubdate": "Tue, 17 Sep 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern  Dínamo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bayern%20%20D%C3%ADnamo",
-        "pubdate": "Tue, 17 Sep 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Coimbra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coimbra",
         "pubdate": "Tue, 17 Sep 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Titan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Titan",
+        "pubdate": "Tue, 17 Sep 2024 16:00:00 +0100"
       }
     ],
     [
@@ -115,13 +101,6 @@
     ],
     [
       {
-        "title": "Titan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Titan",
-        "pubdate": "Tue, 17 Sep 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Diddy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Diddy",
         "pubdate": "Tue, 17 Sep 2024 16:00:00 +0100"
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Jornal da Madeira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jornal%20da%20Madeira",
+        "pubdate": "Tue, 17 Sep 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dominique Pelicot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dominique%20Pelicot",
         "pubdate": "Tue, 17 Sep 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tupperware",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tupperware",
+        "pubdate": "Tue, 17 Sep 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Benfica Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica%20Champions",
+        "pubdate": "Tue, 17 Sep 2024 18:00:00 +0100"
       }
     ]
   ]
