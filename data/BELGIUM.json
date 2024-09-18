@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-09-2024 , 03:45:43",
+  "lastUpdate": "18-09-2024 , 03:54:55",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern",
+        "pubdate": "Tue, 17 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hezbollah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hezbollah",
         "pubdate": "Tue, 17 Sep 2024 19:00:00 +0200"
@@ -55,20 +62,6 @@
         "title": "Juventus – PSV Eindhoven",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus%20%E2%80%93%20PSV%20Eindhoven",
         "pubdate": "Tue, 17 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KRC Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
-        "pubdate": "Tue, 17 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bayern",
-        "pubdate": "Tue, 17 Sep 2024 23:00:00 +0200"
       }
     ],
     [
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
-        "pubdate": "Tue, 17 Sep 2024 21:00:00 +0200"
+        "title": "KRC Genk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
+        "pubdate": "Tue, 17 Sep 2024 22:00:00 +0200"
       }
     ],
     [
@@ -104,6 +97,13 @@
         "title": "Hadja Lahbib",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hadja%20Lahbib",
         "pubdate": "Tue, 17 Sep 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
+        "pubdate": "Tue, 17 Sep 2024 21:00:00 +0200"
       }
     ],
     [
