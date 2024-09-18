@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-09-2024 , 02:35:21",
+  "lastUpdate": "18-09-2024 , 02:58:14",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "RTL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTL",
-        "pubdate": "Tue, 17 Sep 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "BAYERN MÜNCHEN–DINAMO ZAGREB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BAYERN%20M%C3%9CNCHEN%E2%80%93DINAMO%20ZAGREB",
         "pubdate": "Tue, 17 Sep 2024 21:00:00 +0200"
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
-        "pubdate": "Tue, 17 Sep 2024 22:00:00 +0200"
+        "title": "RTL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTL",
+        "pubdate": "Tue, 17 Sep 2024 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kisoroszi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kisoroszi",
-        "pubdate": "Tue, 17 Sep 2024 08:00:00 +0200"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
+        "pubdate": "Tue, 17 Sep 2024 22:00:00 +0200"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Jakupcsek Gabriella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jakupcsek%20Gabriella",
-        "pubdate": "Tue, 17 Sep 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fecskék",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fecsk%C3%A9k",
         "pubdate": "Tue, 17 Sep 2024 00:00:00 +0200"
@@ -111,6 +97,13 @@
         "title": "Sajgál Erika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sajg%C3%A1l%20Erika",
         "pubdate": "Tue, 17 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jakupcsek Gabriella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jakupcsek%20Gabriella",
+        "pubdate": "Tue, 17 Sep 2024 00:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Real Madrid Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid%20Stuttgart",
-        "pubdate": "Tue, 17 Sep 2024 23:00:00 +0200"
+        "title": "Margit-sziget",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Margit-sziget",
+        "pubdate": "Tue, 17 Sep 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lazio",
+        "pubdate": "Tue, 17 Sep 2024 05:00:00 +0200"
       }
     ]
   ]
