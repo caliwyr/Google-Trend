@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-09-2024 , 07:48:53",
+  "lastUpdate": "18-09-2024 , 07:58:18",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20FC",
+        "pubdate": "Tue, 17 Sep 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bayern%20Munich",
         "pubdate": "Tue, 17 Sep 2024 21:00:00 +0100"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Liverpool fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20fixtures",
-        "pubdate": "Tue, 17 Sep 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "EFL Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#EFL%20Cup",
         "pubdate": "Tue, 17 Sep 2024 19:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Carabao Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Carabao%20Cup",
-        "pubdate": "Tue, 17 Sep 2024 18:00:00 +0100"
+        "title": "Liverpool fixtures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20fixtures",
+        "pubdate": "Tue, 17 Sep 2024 20:00:00 +0100"
       }
     ]
   ]

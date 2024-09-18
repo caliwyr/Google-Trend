@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-09-2024 , 07:48:45",
+  "lastUpdate": "18-09-2024 , 07:58:12",
   "data": [
     [
       {
@@ -31,16 +31,9 @@
     ],
     [
       {
-        "title": "Vollmond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vollmond",
+        "title": "Mondfinsternis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mondfinsternis",
         "pubdate": "Tue, 17 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Amazon Homeoffice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Amazon%20Homeoffice",
-        "pubdate": "Tue, 17 Sep 2024 07:00:00 +0200"
       }
     ],
     [
@@ -66,8 +59,22 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
+        "pubdate": "Tue, 17 Sep 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Von der Leyen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Von%20der%20Leyen",
+        "pubdate": "Tue, 17 Sep 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Diddy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Diddy",
         "pubdate": "Tue, 17 Sep 2024 20:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Hsv",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hsv",
         "pubdate": "Sun, 15 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hochwasser Österreich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hochwasser%20%C3%96sterreich",
-        "pubdate": "Sun, 15 Sep 2024 15:00:00 +0200"
       }
     ]
   ]
