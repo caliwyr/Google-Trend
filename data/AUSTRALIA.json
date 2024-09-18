@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-09-2024 , 19:43:09",
+  "lastUpdate": "18-09-2024 , 19:52:22",
   "data": [
+    [
+      {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UCL",
+        "pubdate": "Thu, 19 Sep 2024 01:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Fed rate decision",
@@ -19,6 +26,13 @@
       {
         "title": "Hezbollah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Hezbollah",
+        "pubdate": "Wed, 18 Sep 2024 08:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Champions%20League",
         "pubdate": "Wed, 18 Sep 2024 08:00:00 +1000"
       }
     ],
@@ -66,13 +80,6 @@
     ],
     [
       {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bayern%20Munich",
-        "pubdate": "Wed, 18 Sep 2024 08:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Supermoon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Supermoon",
         "pubdate": "Wed, 18 Sep 2024 19:00:00 +1000"
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Toto' Schillaci",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Toto'%20Schillaci",
+        "pubdate": "Wed, 18 Sep 2024 21:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Mickey 17",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mickey%2017",
         "pubdate": "Wed, 18 Sep 2024 17:00:00 +1000"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Toto Schillaci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Toto%20Schillaci",
-        "pubdate": "Wed, 18 Sep 2024 21:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Woman of the Hour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Woman%20of%20the%20Hour",
         "pubdate": "Wed, 18 Sep 2024 17:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Ghost app",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ghost%20app",
-        "pubdate": "Wed, 18 Sep 2024 21:00:00 +1000"
       }
     ]
   ]
