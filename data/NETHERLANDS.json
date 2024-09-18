@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "18-09-2024 , 23:44:24",
+  "lastUpdate": "18-09-2024 , 23:53:48",
   "data": [
     [
       {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Wed, 18 Sep 2024 12:00:00 +0200"
+        "pubdate": "Wed, 18 Sep 2024 20:00:00 +0200"
       }
     ],
     [
@@ -38,15 +38,8 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Champions%20League",
-        "pubdate": "Tue, 17 Sep 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Twente  Heerenveen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente%20%20Heerenveen",
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Tue, 17 Sep 2024 20:00:00 +0200"
       }
     ],
@@ -138,6 +131,13 @@
       {
         "title": "Vitesse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
+        "pubdate": "Mon, 16 Sep 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Excelsior",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
         "pubdate": "Mon, 16 Sep 2024 22:00:00 +0200"
       }
     ]
