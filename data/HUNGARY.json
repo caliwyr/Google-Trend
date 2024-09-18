@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-09-2024 , 15:46:01",
+  "lastUpdate": "18-09-2024 , 15:55:13",
   "data": [
     [
       {
@@ -55,6 +55,20 @@
         "title": "Lajta-szükségtározó",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lajta-sz%C3%BCks%C3%A9gt%C3%A1roz%C3%B3",
         "pubdate": "Wed, 18 Sep 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Üzemanyagárak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%9Czemanyag%C3%A1rak",
+        "pubdate": "Wed, 18 Sep 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Batthyány tér",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Batthy%C3%A1ny%20t%C3%A9r",
+        "pubdate": "Wed, 18 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "YOUNG boys–aston VILLA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#YOUNG%20boys%E2%80%93aston%20VILLA",
-        "pubdate": "Tue, 17 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20United",
         "pubdate": "Tue, 17 Sep 2024 22:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Azahriah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Azahriah",
-        "pubdate": "Tue, 17 Sep 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Várhelyi Olivér",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A1rhelyi%20Oliv%C3%A9r",
-        "pubdate": "Tue, 17 Sep 2024 13:00:00 +0200"
+        "title": "YOUNG boys–aston VILLA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#YOUNG%20boys%E2%80%93aston%20VILLA",
+        "pubdate": "Tue, 17 Sep 2024 19:00:00 +0200"
       }
     ]
   ]
