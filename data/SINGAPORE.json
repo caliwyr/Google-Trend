@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-09-2024 , 17:49:03",
+  "lastUpdate": "19-09-2024 , 17:58:29",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Sports",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sports",
+        "title": "SPORTS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SPORTS",
         "pubdate": "Fri, 20 Sep 2024 00:00:00 +0800"
       }
     ],
@@ -20,6 +20,13 @@
         "title": "India vs Bangladesh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#India%20vs%20Bangladesh",
         "pubdate": "Thu, 19 Sep 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Interest rate cut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Interest%20rate%20cut",
+        "pubdate": "Thu, 19 Sep 2024 08:00:00 +0800"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Bhutan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bhutan",
+        "pubdate": "Thu, 19 Sep 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Lany",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lany",
         "pubdate": "Thu, 19 Sep 2024 22:00:00 +0800"
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Fed rate cut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fed%20rate%20cut",
-        "pubdate": "Wed, 18 Sep 2024 01:00:00 +0800"
+        "title": "Spy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Spy",
+        "pubdate": "Thu, 19 Sep 2024 23:00:00 +0800"
       }
     ],
     [
@@ -115,9 +129,9 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool",
-        "pubdate": "Wed, 18 Sep 2024 07:00:00 +0800"
+        "title": "Fed rate cut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fed%20rate%20cut",
+        "pubdate": "Wed, 18 Sep 2024 01:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Typhoon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Typhoon",
         "pubdate": "Wed, 18 Sep 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Weather forecast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Weather%20forecast",
-        "pubdate": "Wed, 18 Sep 2024 06:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Agatha All Along",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Agatha%20All%20Along",
-        "pubdate": "Wed, 18 Sep 2024 20:00:00 +0800"
       }
     ]
   ]
