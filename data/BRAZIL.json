@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-09-2024 , 08:39:52",
+  "lastUpdate": "19-09-2024 , 08:49:59",
   "data": [
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Elon%20Musk",
-        "pubdate": "Thu, 19 Sep 2024 01:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Twitter",
@@ -24,16 +17,16 @@
     ],
     [
       {
-        "title": "Vila Nova x Chapecoense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova%20x%20Chapecoense",
-        "pubdate": "Wed, 18 Sep 2024 12:00:00 -0500"
+        "title": "América-MG x Paysandu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-MG%20x%20Paysandu",
+        "pubdate": "Wed, 18 Sep 2024 16:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Bologna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bologna",
-        "pubdate": "Wed, 18 Sep 2024 02:00:00 -0500"
+        "title": "Vila Nova x Chapecoense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vila%20Nova%20x%20Chapecoense",
+        "pubdate": "Wed, 18 Sep 2024 12:00:00 -0500"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bologna",
+        "pubdate": "Wed, 18 Sep 2024 02:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20Miami",
         "pubdate": "Wed, 18 Sep 2024 18:00:00 -0500"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Paysandu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paysandu",
-        "pubdate": "Wed, 18 Sep 2024 18:00:00 -0500"
+        "title": "SPFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#SPFC",
+        "pubdate": "Wed, 18 Sep 2024 20:00:00 -0500"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celtic",
         "pubdate": "Wed, 18 Sep 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Flamengo x Peñarol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Pe%C3%B1arol",
-        "pubdate": "Wed, 18 Sep 2024 08:00:00 -0500"
       }
     ],
     [
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Saopaulofc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Saopaulofc",
-        "pubdate": "Wed, 18 Sep 2024 19:00:00 -0500"
+        "title": "Flamengo x Peñarol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Pe%C3%B1arol",
+        "pubdate": "Wed, 18 Sep 2024 08:00:00 -0500"
       }
     ],
     [
@@ -115,20 +108,6 @@
     ],
     [
       {
-        "title": "Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Betis",
-        "pubdate": "Wed, 18 Sep 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Thiago Avanci",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Thiago%20Avanci",
-        "pubdate": "Wed, 18 Sep 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Debate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Debate",
         "pubdate": "Wed, 18 Sep 2024 07:00:00 -0500"
@@ -136,8 +115,29 @@
     ],
     [
       {
+        "title": "Agatha Desde Sempre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Agatha%20Desde%20Sempre",
+        "pubdate": "Wed, 18 Sep 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sparta Praga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sparta%20Praga",
+        "pubdate": "Wed, 18 Sep 2024 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MLS",
+        "pubdate": "Wed, 18 Sep 2024 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ed Sheeran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ed%20Sheeran",
         "pubdate": "Wed, 18 Sep 2024 18:00:00 -0500"
       }
     ]
