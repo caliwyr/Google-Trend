@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-09-2024 , 23:42:28",
+  "lastUpdate": "19-09-2024 , 23:51:52",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Melania Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Melania%20Trump",
+        "pubdate": "Thu, 19 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City",
         "pubdate": "Wed, 18 Sep 2024 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tottenham",
         "pubdate": "Wed, 18 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Prince",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Prince",
-        "pubdate": "Wed, 18 Sep 2024 17:00:00 +0200"
       }
     ]
   ]
