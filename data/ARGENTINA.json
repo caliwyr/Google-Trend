@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-09-2024 , 14:42:14",
+  "lastUpdate": "19-09-2024 , 14:51:45",
   "data": [
+    [
+      {
+        "title": "Clima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clima",
+        "pubdate": "Thu, 19 Sep 2024 10:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Ortigoza",
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "Palacios Colo Colo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Palacios%20Colo%20Colo",
-        "pubdate": "Wed, 18 Sep 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Zonda en Mendoza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Zonda%20en%20Mendoza",
+        "title": "DGE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#DGE",
         "pubdate": "Wed, 18 Sep 2024 20:00:00 -0300"
       }
     ]
