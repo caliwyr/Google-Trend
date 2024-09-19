@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-09-2024 , 20:42:12",
+  "lastUpdate": "19-09-2024 , 20:51:39",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "The Substance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Substance",
         "pubdate": "Fri, 20 Sep 2024 06:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Atalanta vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Atalanta%20vs%20Arsenal",
+        "pubdate": "Fri, 20 Sep 2024 08:00:00 +1200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Bugs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bugs",
-        "pubdate": "Thu, 19 Sep 2024 22:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Phil Collins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Phil%20Collins",
         "pubdate": "Thu, 19 Sep 2024 23:00:00 +1200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Frontline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Frontline",
-        "pubdate": "Thu, 19 Sep 2024 23:00:00 +1200"
+        "title": "Bugs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Bugs",
+        "pubdate": "Thu, 19 Sep 2024 22:00:00 +1200"
       }
     ]
   ]
