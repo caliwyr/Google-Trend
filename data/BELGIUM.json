@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-09-2024 , 04:45:21",
+  "lastUpdate": "19-09-2024 , 04:54:37",
   "data": [
-    [
-      {
-        "title": "Courtois",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Courtois",
-        "pubdate": "Thu, 19 Sep 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bruges Dortmund",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champions%20League",
-        "pubdate": "Wed, 18 Sep 2024 18:00:00 +0200"
+        "title": "Courtois",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Courtois",
+        "pubdate": "Thu, 19 Sep 2024 00:00:00 +0200"
       }
     ],
     [
@@ -101,16 +94,16 @@
     ],
     [
       {
-        "title": "Fed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fed",
-        "pubdate": "Wed, 18 Sep 2024 19:00:00 +0200"
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
+        "pubdate": "Wed, 18 Sep 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
-        "pubdate": "Wed, 18 Sep 2024 21:00:00 +0200"
+        "title": "Fed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fed",
+        "pubdate": "Wed, 18 Sep 2024 19:00:00 +0200"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Debast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Debast",
-        "pubdate": "Wed, 18 Sep 2024 12:00:00 +0200"
+        "title": "Jean-Marie Poiré",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jean-Marie%20Poir%C3%A9",
+        "pubdate": "Wed, 18 Sep 2024 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jean-Marie Poiré",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jean-Marie%20Poir%C3%A9",
+        "title": "Strange Darling",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Strange%20Darling",
         "pubdate": "Wed, 18 Sep 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Les oiseaux",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Les%20oiseaux",
+        "pubdate": "Wed, 18 Sep 2024 22:00:00 +0200"
       }
     ]
   ]
