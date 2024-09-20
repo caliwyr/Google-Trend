@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-09-2024 , 22:46:04",
+  "lastUpdate": "20-09-2024 , 22:55:19",
   "data": [
+    [
+      {
+        "title": "Weather forecast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Weather%20forecast",
+        "pubdate": "Sat, 21 Sep 2024 06:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "F1 Singapore",
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Jared Leto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jared%20Leto",
-        "pubdate": "Fri, 20 Sep 2024 21:00:00 +0800"
+        "title": "Shohei Ohtani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shohei%20Ohtani",
+        "pubdate": "Fri, 20 Sep 2024 12:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Shohei Ohtani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shohei%20Ohtani",
-        "pubdate": "Fri, 20 Sep 2024 12:00:00 +0800"
+        "title": "Jared Leto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jared%20Leto",
+        "pubdate": "Fri, 20 Sep 2024 21:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Cricket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cricket",
         "pubdate": "Thu, 19 Sep 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "NOVA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NOVA",
-        "pubdate": "Thu, 19 Sep 2024 11:00:00 +0800"
       }
     ]
   ]
