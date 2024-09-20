@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-09-2024 , 16:42:46",
+  "lastUpdate": "20-09-2024 , 16:52:04",
   "data": [
     [
       {
@@ -66,16 +66,23 @@
     ],
     [
       {
-        "title": "Van Bommel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Van%20Bommel",
-        "pubdate": "Fri, 20 Sep 2024 08:00:00 +0200"
+        "title": "Digi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Digi",
+        "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Digi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Digi",
-        "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
+        "title": "Laver Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Laver%20Cup",
+        "pubdate": "Fri, 20 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nouvelle-Calédonie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nouvelle-Cal%C3%A9donie",
+        "pubdate": "Fri, 20 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,20 @@
     ],
     [
       {
+        "title": "David Hubert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Hubert",
+        "pubdate": "Thu, 19 Sep 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marc Lavoine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marc%20Lavoine",
+        "pubdate": "Thu, 19 Sep 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atletico%20Madrid",
         "pubdate": "Thu, 19 Sep 2024 22:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
         "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "David Hubert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Hubert",
-        "pubdate": "Thu, 19 Sep 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lyle et Erik Menendez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lyle%20et%20Erik%20Menendez",
-        "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marc Lavoine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marc%20Lavoine",
-        "pubdate": "Thu, 19 Sep 2024 09:00:00 +0200"
       }
     ]
   ]
