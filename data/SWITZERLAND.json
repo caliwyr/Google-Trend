@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "20-09-2024 , 06:32:10",
+  "lastUpdate": "20-09-2024 , 06:46:43",
   "data": [
-    [
-      {
-        "title": "Hazel Brugger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hazel%20Brugger",
-        "pubdate": "Fri, 20 Sep 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Sophia Loren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sophia%20Loren",
         "pubdate": "Fri, 20 Sep 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hazel Brugger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hazel%20Brugger",
+        "pubdate": "Fri, 20 Sep 2024 00:00:00 +0200"
       }
     ],
     [
@@ -31,15 +31,15 @@
     ],
     [
       {
-        "title": "Monaco – Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monaco%20%E2%80%93%20Barcelona",
+        "title": "Monaco – Barcelone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monaco%20%E2%80%93%20Barcelone",
         "pubdate": "Thu, 19 Sep 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Monaco – Barcelone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monaco%20%E2%80%93%20Barcelone",
+        "title": "Monaco – Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monaco%20%E2%80%93%20Barcelona",
         "pubdate": "Thu, 19 Sep 2024 21:00:00 +0200"
       }
     ],
@@ -83,13 +83,6 @@
         "title": "Super League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Super%20League",
         "pubdate": "Thu, 19 Sep 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
-        "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "The Substance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Substance",
         "pubdate": "Thu, 19 Sep 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Agatha All Along",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Agatha%20All%20Along",
+        "pubdate": "Thu, 19 Sep 2024 16:00:00 +0200"
       }
     ]
   ]
