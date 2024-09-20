@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "20-09-2024 , 10:38:58",
+  "lastUpdate": "20-09-2024 , 10:48:16",
   "data": [
+    [
+      {
+        "title": "Steekpartij Rotterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Steekpartij%20Rotterdam",
+        "pubdate": "Fri, 20 Sep 2024 03:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Rotterdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rotterdam",
-        "pubdate": "Fri, 20 Sep 2024 03:00:00 +0200"
+        "pubdate": "Fri, 20 Sep 2024 09:00:00 +0200"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Trijntje Oosterhuis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trijntje%20Oosterhuis",
-        "pubdate": "Thu, 19 Sep 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ihattaren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ihattaren",
         "pubdate": "Thu, 19 Sep 2024 09:00:00 +0200"
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Marieke de Vries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marieke%20de%20Vries",
-        "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Wed, 18 Sep 2024 20:00:00 +0200"
@@ -69,13 +62,6 @@
         "title": "Geert Wilders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Geert%20Wilders",
         "pubdate": "Wed, 18 Sep 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Algemene Politieke Beschouwingen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Algemene%20Politieke%20Beschouwingen",
-        "pubdate": "Wed, 18 Sep 2024 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Prinsjesdag 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Prinsjesdag%202024",
         "pubdate": "Mon, 16 Sep 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cambuur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
+        "pubdate": "Mon, 16 Sep 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "iOS 18",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#iOS%2018",
+        "pubdate": "Mon, 16 Sep 2024 08:00:00 +0200"
       }
     ]
   ]
