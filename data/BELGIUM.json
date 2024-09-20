@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "20-09-2024 , 13:39:32",
+  "lastUpdate": "20-09-2024 , 13:49:01",
   "data": [
     [
       {
-        "title": "PlayStation",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PlayStation",
-        "pubdate": "Fri, 20 Sep 2024 11:00:00 +0200"
+        "title": "Masked Singer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Masked%20Singer",
+        "pubdate": "Fri, 20 Sep 2024 10:00:00 +0200"
       }
     ],
     [
@@ -13,6 +13,13 @@
         "title": "Deluge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Deluge",
         "pubdate": "Fri, 20 Sep 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PlayStation",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PlayStation",
+        "pubdate": "Fri, 20 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -34,6 +41,13 @@
         "title": "Air Belgium",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Air%20Belgium",
         "pubdate": "Fri, 20 Sep 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sophia Loren",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sophia%20Loren",
+        "pubdate": "Fri, 20 Sep 2024 15:00:00 +0200"
       }
     ],
     [
@@ -80,9 +94,23 @@
     ],
     [
       {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atletico%20Madrid",
         "pubdate": "Thu, 19 Sep 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lyle et Erik Menendez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lyle%20et%20Erik%20Menendez",
+        "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -94,16 +122,9 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
-        "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lyle and Erik Menendez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lyle%20and%20Erik%20Menendez",
-        "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
+        "title": "Mark van Bommel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mark%20van%20Bommel",
+        "pubdate": "Thu, 19 Sep 2024 20:00:00 +0200"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Riemer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Riemer",
-        "pubdate": "Thu, 19 Sep 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brugge",
-        "pubdate": "Thu, 19 Sep 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Benfica",
-        "pubdate": "Thu, 19 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sturm Graz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sturm%20Graz",
-        "pubdate": "Thu, 19 Sep 2024 22:00:00 +0200"
+        "title": "Disparition Lina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Disparition%20Lina",
+        "pubdate": "Thu, 19 Sep 2024 13:00:00 +0200"
       }
     ]
   ]
