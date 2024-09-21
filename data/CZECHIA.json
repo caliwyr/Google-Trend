@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-09-2024 , 23:56:34",
+  "lastUpdate": "21-09-2024 , 01:16:23",
   "data": [
+    [
+      {
+        "title": "Extraliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Extraliga",
+        "pubdate": "Sat, 21 Sep 2024 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "ANO",
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Jaromír Soukup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jarom%C3%ADr%20Soukup",
-        "pubdate": "Fri, 20 Sep 2024 11:00:00 +0200"
+        "title": "ODS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ODS",
+        "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Senatni volby 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Senatni%20volby%202024",
+        "pubdate": "Fri, 20 Sep 2024 09:00:00 +0200"
       }
     ],
     [
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "SPD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SPD",
-        "pubdate": "Fri, 20 Sep 2024 16:00:00 +0200"
+        "title": "Šilhavý",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0ilhav%C3%BD",
+        "pubdate": "Fri, 20 Sep 2024 09:00:00 +0200"
       }
     ],
     [
@@ -90,6 +104,13 @@
         "title": "Jagr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jagr",
         "pubdate": "Fri, 20 Sep 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SPD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#SPD",
+        "pubdate": "Fri, 20 Sep 2024 16:00:00 +0200"
       }
     ],
     [
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "ODS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ODS",
-        "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Inkognito",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Inkognito",
         "pubdate": "Fri, 20 Sep 2024 00:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Sylvia Likens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sylvia%20Likens",
         "pubdate": "Fri, 20 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fiala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fiala",
-        "pubdate": "Fri, 20 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Volby do Senátu 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20do%20Sen%C3%A1tu%202024",
-        "pubdate": "Thu, 19 Sep 2024 09:00:00 +0200"
       }
     ]
   ]
