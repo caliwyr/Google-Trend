@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "21-09-2024 , 10:41:06",
+  "lastUpdate": "21-09-2024 , 10:50:30",
   "data": [
     [
       {
         "title": "FTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FTC",
         "pubdate": "Sat, 21 Sep 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Iványi Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Iv%C3%A1nyi%20G%C3%A1bor",
-        "pubdate": "Fri, 20 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Iványi Gábor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Iv%C3%A1nyi%20G%C3%A1bor",
+        "pubdate": "Fri, 20 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cupra Terramar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cupra%20Terramar",
         "pubdate": "Fri, 20 Sep 2024 17:00:00 +0200"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "MTK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MTK",
-        "pubdate": "Fri, 20 Sep 2024 20:00:00 +0200"
+        "title": "Ozsváth Sándor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ozsv%C3%A1th%20S%C3%A1ndor",
+        "pubdate": "Fri, 20 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Pingvin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pingvin",
-        "pubdate": "Fri, 20 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lady Gaga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lady%20Gaga",
         "pubdate": "Fri, 20 Sep 2024 10:00:00 +0200"
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Levai aniko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Levai%20aniko",
-        "pubdate": "Fri, 20 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Xzibit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Xzibit",
         "pubdate": "Fri, 20 Sep 2024 00:00:00 +0200"
@@ -117,6 +103,13 @@
       {
         "title": "Monaco–barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Monaco%E2%80%93barcelona",
+        "pubdate": "Thu, 19 Sep 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fekete pont",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fekete%20pont",
         "pubdate": "Thu, 19 Sep 2024 21:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Franciaország",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Franciaorsz%C3%A1g",
         "pubdate": "Thu, 19 Sep 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Iron Maiden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Iron%20Maiden",
+        "pubdate": "Thu, 19 Sep 2024 12:00:00 +0200"
       }
     ]
   ]
