@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-09-2024 , 06:29:35",
+  "lastUpdate": "21-09-2024 , 06:44:16",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Barcelona",
+        "pubdate": "Fri, 20 Sep 2024 09:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Deportivo Pereira  Patriotas",
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Sevilla FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sevilla%20FC",
+        "title": "Alavés - Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Alav%C3%A9s%20-%20Sevilla",
         "pubdate": "Fri, 20 Sep 2024 15:00:00 -0500"
       }
     ],
@@ -59,16 +66,9 @@
     ],
     [
       {
-        "title": "Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Cruzeiro",
-        "pubdate": "Fri, 20 Sep 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Liga italiana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Liga%20italiana",
-        "pubdate": "Fri, 20 Sep 2024 20:00:00 -0500"
+        "title": "Sevilla FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Sevilla%20FC",
+        "pubdate": "Fri, 20 Sep 2024 16:00:00 -0500"
       }
     ],
     [
@@ -80,8 +80,22 @@
     ],
     [
       {
-        "title": "La Pasión de Cristo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#La%20Pasi%C3%B3n%20de%20Cristo",
+        "title": "Liga italiana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Liga%20italiana",
+        "pubdate": "Fri, 20 Sep 2024 20:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Cruzeiro",
+        "pubdate": "Fri, 20 Sep 2024 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "La pasión de Cristo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#La%20pasi%C3%B3n%20de%20Cristo",
         "pubdate": "Fri, 20 Sep 2024 21:00:00 -0500"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Atlético Madrid - RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Atl%C3%A9tico%20Madrid%20-%20RB%20Leipzig",
         "pubdate": "Thu, 19 Sep 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Copa Sudamericana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20Sudamericana",
-        "pubdate": "Thu, 19 Sep 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord  Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Feyenoord%20%20Leverkusen",
-        "pubdate": "Thu, 19 Sep 2024 11:00:00 -0500"
       }
     ]
   ]
