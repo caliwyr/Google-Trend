@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "21-09-2024 , 09:44:49",
+  "lastUpdate": "21-09-2024 , 09:54:03",
   "data": [
-    [
-      {
-        "title": "Braga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga",
-        "pubdate": "Sat, 21 Sep 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Sismo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sismo",
         "pubdate": "Sat, 21 Sep 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Braga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga",
+        "pubdate": "Sat, 21 Sep 2024 00:00:00 +0100"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Hoquei em patins Mundial",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoquei%20em%20patins%20Mundial",
+        "pubdate": "Fri, 20 Sep 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#MotoGP",
         "pubdate": "Fri, 20 Sep 2024 10:00:00 +0100"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Hoquei patins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hoquei%20patins",
-        "pubdate": "Fri, 20 Sep 2024 21:00:00 +0100"
+        "title": "Greve",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Greve",
+        "pubdate": "Fri, 20 Sep 2024 09:00:00 +0100"
       }
     ],
     [
@@ -80,15 +87,8 @@
     ],
     [
       {
-        "title": "Criança presa escada rolante",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Crian%C3%A7a%20presa%20escada%20rolante",
-        "pubdate": "Fri, 20 Sep 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lacerda Sales",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lacerda%20Sales",
+        "title": "Crianca presa escada rolante",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Crianca%20presa%20escada%20rolante",
         "pubdate": "Fri, 20 Sep 2024 22:00:00 +0100"
       }
     ],
@@ -104,6 +104,13 @@
         "title": "Sophia Loren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sophia%20Loren",
         "pubdate": "Fri, 20 Sep 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Carla Silva secretaria Lacerda Sales",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Carla%20Silva%20secretaria%20Lacerda%20Sales",
+        "pubdate": "Fri, 20 Sep 2024 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bah",
         "pubdate": "Fri, 20 Sep 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mafalda Castro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mafalda%20Castro",
-        "pubdate": "Fri, 20 Sep 2024 17:00:00 +0100"
       }
     ]
   ]
