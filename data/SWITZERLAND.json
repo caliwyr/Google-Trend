@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "22-09-2024 , 19:48:00",
+  "lastUpdate": "22-09-2024 , 19:57:19",
   "data": [
     [
       {
         "title": "Wahlen Brandenburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20Brandenburg",
         "pubdate": "Sun, 22 Sep 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Abstimmungsresultate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungsresultate",
-        "pubdate": "Sun, 22 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Votations 22 septembre 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Votations%2022%20septembre%202024",
-        "pubdate": "Sun, 22 Sep 2024 10:00:00 +0200"
       }
     ],
     [
@@ -31,9 +17,23 @@
     ],
     [
       {
-        "title": "Abstimmung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung",
-        "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
+        "title": "Votations 22 septembre 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Votations%2022%20septembre%202024",
+        "pubdate": "Sun, 22 Sep 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VfB Stuttgart – Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#VfB%20Stuttgart%20%E2%80%93%20Dortmund",
+        "pubdate": "Sun, 22 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Sion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
+        "pubdate": "Sun, 22 Sep 2024 12:00:00 +0200"
       }
     ],
     [
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "VfB Stuttgart – Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#VfB%20Stuttgart%20%E2%80%93%20Dortmund",
-        "pubdate": "Sun, 22 Sep 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Schnee in Südafrika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schnee%20in%20S%C3%BCdafrika",
         "pubdate": "Sun, 22 Sep 2024 08:00:00 +0200"
@@ -73,6 +66,13 @@
     ],
     [
       {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Milan",
+        "pubdate": "Sun, 22 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Resultat votation 22 septembre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Resultat%20votation%2022%20septembre",
         "pubdate": "Sun, 22 Sep 2024 17:00:00 +0200"
@@ -80,23 +80,16 @@
     ],
     [
       {
-        "title": "FC Sion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
-        "pubdate": "Sun, 22 Sep 2024 12:00:00 +0200"
+        "title": "Abstimmungen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungen",
+        "pubdate": "Sun, 22 Sep 2024 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Wahlen schweiz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20schweiz",
-        "pubdate": "Sun, 22 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Remco Evenepoel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Remco%20Evenepoel",
-        "pubdate": "Sun, 22 Sep 2024 18:00:00 +0200"
+        "title": "Abstimmung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung",
+        "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Bad Ragaz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bad%20Ragaz",
-        "pubdate": "Sun, 22 Sep 2024 16:00:00 +0200"
+        "title": "Wahlen schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Wahlen%20schweiz",
+        "pubdate": "Sun, 22 Sep 2024 14:00:00 +0200"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Gouvernement Barnier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gouvernement%20Barnier",
-        "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
+        "title": "Stefan Küng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stefan%20K%C3%BCng",
+        "pubdate": "Sun, 22 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
-        "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
+        "title": "Gouvernement Barnier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gouvernement%20Barnier",
+        "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Remco Evenepoel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Remco%20Evenepoel",
+        "pubdate": "Sun, 22 Sep 2024 18:00:00 +0200"
       }
     ]
   ]
