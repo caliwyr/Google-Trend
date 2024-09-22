@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 20:49:25",
+  "lastUpdate": "22-09-2024 , 20:58:43",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Rosenborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
+        "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tomine Harket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tomine%20Harket",
         "pubdate": "Sun, 22 Sep 2024 12:00:00 +0200"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Rosenborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
-        "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
+        "title": "Høstjevndøgn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%B8stjevnd%C3%B8gn",
+        "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "City Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#City%20Arsenal",
-        "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
+        "title": "Al Jazeera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Al%20Jazeera",
+        "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Al Jazeera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Al%20Jazeera",
-        "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
+        "title": "Farmen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Farmen",
+        "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Farmen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Farmen",
-        "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Leonard Cohen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Leonard%20Cohen",
         "pubdate": "Sat, 21 Sep 2024 00:00:00 +0200"
@@ -97,13 +97,6 @@
         "title": "Frank Løke Boksing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frank%20L%C3%B8ke%20Boksing",
         "pubdate": "Sat, 21 Sep 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Victor Norman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Victor%20Norman",
-        "pubdate": "Sat, 21 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Anders Hoff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anders%20Hoff",
-        "pubdate": "Sat, 21 Sep 2024 19:00:00 +0200"
+        "title": "Fredrikstad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fredrikstad",
+        "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Fredrikstad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fredrikstad",
-        "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+        "pubdate": "Sat, 21 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "YouTube premium",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#YouTube%20premium",
+        "pubdate": "Sat, 21 Sep 2024 11:00:00 +0200"
       }
     ]
   ]
