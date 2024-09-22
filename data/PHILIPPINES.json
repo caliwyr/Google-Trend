@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 16:50:30",
+  "lastUpdate": "22-09-2024 , 16:59:41",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "F1 Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#F1%20Singapore",
+        "pubdate": "Sun, 22 Sep 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "EY employee death",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#EY%20employee%20death",
         "pubdate": "Sun, 22 Sep 2024 07:00:00 +0800"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Singapore GP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Singapore%20GP",
-        "pubdate": "Sun, 22 Sep 2024 12:00:00 +0800"
+        "title": "Transport strike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Transport%20strike",
+        "pubdate": "Sun, 22 Sep 2024 20:00:00 +0800"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "F1 Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#F1%20Singapore",
-        "pubdate": "Sun, 22 Sep 2024 23:00:00 +0800"
+        "title": "UAAP standings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#UAAP%20standings",
+        "pubdate": "Sun, 22 Sep 2024 08:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "September",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#September",
         "pubdate": "Sat, 21 Sep 2024 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Charly Suarez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Charly%20Suarez",
-        "pubdate": "Sat, 21 Sep 2024 15:00:00 +0800"
       }
     ]
   ]
