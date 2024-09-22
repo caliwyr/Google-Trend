@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 21:47:43",
+  "lastUpdate": "22-09-2024 , 21:57:06",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Brandenburg-Wahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brandenburg-Wahl",
+        "title": "Brandenburg wahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brandenburg%20wahl",
         "pubdate": "Sun, 22 Sep 2024 10:00:00 +0200"
       }
     ],
@@ -20,6 +20,13 @@
         "title": "WSG Tirol – rb Salzburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#WSG%20Tirol%20%E2%80%93%20rb%20Salzburg",
         "pubdate": "Sun, 22 Sep 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lotto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lotto",
+        "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Lotto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lotto",
-        "pubdate": "Sun, 22 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Leverkusen – Wolfsburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leverkusen%20%E2%80%93%20Wolfsburg",
         "pubdate": "Sun, 22 Sep 2024 16:00:00 +0200"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Klimaticket Österreich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klimaticket%20%C3%96sterreich",
-        "pubdate": "Sun, 22 Sep 2024 15:00:00 +0200"
+        "title": "St. Pauli – RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#St.%20Pauli%20%E2%80%93%20RB%20Leipzig",
+        "pubdate": "Sun, 22 Sep 2024 20:00:00 +0200"
       }
     ],
     [
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "St. Pauli – RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#St.%20Pauli%20%E2%80%93%20RB%20Leipzig",
-        "pubdate": "Sun, 22 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Amstetten – Ried",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Amstetten%20%E2%80%93%20Ried",
-        "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
+        "title": "Dominik Wlazny",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dominik%20Wlazny",
+        "pubdate": "Sun, 22 Sep 2024 13:00:00 +0200"
       }
     ],
     [
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Man%20City",
-        "pubdate": "Sun, 22 Sep 2024 20:00:00 +0200"
+        "title": "Klimaticket Österreich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klimaticket%20%C3%96sterreich",
+        "pubdate": "Sun, 22 Sep 2024 15:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Daniel Ricciardo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Daniel%20Ricciardo",
-        "pubdate": "Sun, 22 Sep 2024 18:00:00 +0200"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Man%20City",
+        "pubdate": "Sun, 22 Sep 2024 20:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSG",
-        "pubdate": "Sun, 22 Sep 2024 20:00:00 +0200"
+        "title": "Ter Stegen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ter%20Stegen",
+        "pubdate": "Sun, 22 Sep 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sv ried",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sv%20ried",
+        "pubdate": "Sun, 22 Sep 2024 13:00:00 +0200"
       }
     ]
   ]

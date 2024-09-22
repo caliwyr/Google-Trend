@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 21:47:42",
+  "lastUpdate": "22-09-2024 , 21:57:05",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Bears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bears",
         "pubdate": "Sun, 22 Sep 2024 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Man City vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City%20vs%20Arsenal",
-        "pubdate": "Sun, 22 Sep 2024 09:00:00 -0700"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Man City vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City%20vs%20Arsenal",
+        "pubdate": "Sun, 22 Sep 2024 09:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Chargers vs Steelers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chargers%20vs%20Steelers",
         "pubdate": "Sun, 22 Sep 2024 11:00:00 -0700"
@@ -48,6 +48,20 @@
         "title": "Packers vs Titans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Packers%20vs%20Titans",
         "pubdate": "Sun, 22 Sep 2024 11:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Dolphins vs Seahawks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dolphins%20vs%20Seahawks",
+        "pubdate": "Sun, 22 Sep 2024 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Ravens vs Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ravens%20vs%20Cowboys",
+        "pubdate": "Sun, 22 Sep 2024 13:00:00 -0700"
       }
     ],
     [
@@ -66,9 +80,30 @@
     ],
     [
       {
+        "title": "49ers vs Rams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#49ers%20vs%20Rams",
+        "pubdate": "Sun, 22 Sep 2024 14:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Birmingham shooting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Birmingham%20shooting",
         "pubdate": "Sun, 22 Sep 2024 08:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Panthers vs Raiders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Panthers%20vs%20Raiders",
+        "pubdate": "Sun, 22 Sep 2024 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "WNBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#WNBA",
+        "pubdate": "Sun, 22 Sep 2024 14:00:00 -0700"
       }
     ],
     [
@@ -87,23 +122,9 @@
     ],
     [
       {
-        "title": "Singapore GP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Singapore%20GP",
-        "pubdate": "Sun, 22 Sep 2024 06:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "DeVonta Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#DeVonta%20Smith",
-        "pubdate": "Sun, 22 Sep 2024 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Justin Fields",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Justin%20Fields",
-        "pubdate": "Sun, 22 Sep 2024 13:00:00 -0700"
+        "title": "Lions vs Cardinals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lions%20vs%20Cardinals",
+        "pubdate": "Sun, 22 Sep 2024 14:00:00 -0700"
       }
     ],
     [
@@ -115,29 +136,8 @@
     ],
     [
       {
-        "title": "Daniel Ricciardo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daniel%20Ricciardo",
-        "pubdate": "Sun, 22 Sep 2024 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Malik Nabers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Malik%20Nabers",
-        "pubdate": "Sun, 22 Sep 2024 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Fever vs Sun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Fever%20vs%20Sun",
-        "pubdate": "Sun, 22 Sep 2024 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Ravens vs Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ravens%20vs%20Cowboys",
+        "title": "Justin Fields",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Justin%20Fields",
         "pubdate": "Sun, 22 Sep 2024 13:00:00 -0700"
       }
     ]
