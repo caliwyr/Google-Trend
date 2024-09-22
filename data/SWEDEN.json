@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 18:43:28",
+  "lastUpdate": "22-09-2024 , 18:52:46",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
+        "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Björn Ulvaeus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bj%C3%B6rn%20Ulvaeus",
         "pubdate": "Sun, 22 Sep 2024 07:00:00 +0200"
@@ -26,7 +33,7 @@
       {
         "title": "Klarälvsloppet 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Klar%C3%A4lvsloppet%202024",
-        "pubdate": "Sun, 22 Sep 2024 08:00:00 +0200"
+        "pubdate": "Sun, 22 Sep 2024 01:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Elfsborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elfsborg",
         "pubdate": "Sun, 22 Sep 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Klarälvsloppet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Klar%C3%A4lvsloppet",
-        "pubdate": "Sun, 22 Sep 2024 01:00:00 +0200"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Anthony Joshua",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anthony%20Joshua",
         "pubdate": "Sat, 21 Sep 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid mot Espanyol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid%20mot%20Espanyol",
-        "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -115,9 +108,23 @@
     ],
     [
       {
+        "title": "Brynäs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
+        "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "AIK Kalmar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AIK%20Kalmar",
         "pubdate": "Sat, 21 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jonas Åkerlund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonas%20%C3%85kerlund",
+        "pubdate": "Sat, 21 Sep 2024 19:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Örebro Hockey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96rebro%20Hockey",
-        "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rögle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%B6gle",
         "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
       }
     ]
