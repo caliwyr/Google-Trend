@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 11:46:44",
+  "lastUpdate": "22-09-2024 , 11:56:15",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "GP Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GP%20Singapore",
+        "pubdate": "Sat, 21 Sep 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Livescore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Livescore",
         "pubdate": "Sat, 21 Sep 2024 22:00:00 +0200"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "GP Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GP%20Singapore",
-        "pubdate": "Sat, 21 Sep 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "RKC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
         "pubdate": "Sat, 21 Sep 2024 20:00:00 +0200"
@@ -82,6 +82,13 @@
       {
         "title": "PEC Zwolle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
+        "pubdate": "Fri, 20 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Steekpartij Erasmusbrug",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Steekpartij%20Erasmusbrug",
         "pubdate": "Fri, 20 Sep 2024 19:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Tue, 17 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hezbollah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hezbollah",
-        "pubdate": "Tue, 17 Sep 2024 19:00:00 +0200"
       }
     ]
   ]
