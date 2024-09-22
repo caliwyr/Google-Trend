@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 22:42:03",
+  "lastUpdate": "22-09-2024 , 22:51:37",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Liverpool vs bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20vs%20bournemouth",
-        "pubdate": "Sun, 22 Sep 2024 00:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "SANFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#SANFL",
         "pubdate": "Sun, 22 Sep 2024 18:00:00 +1000"
@@ -55,6 +48,13 @@
         "title": "Cricket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cricket",
         "pubdate": "Sun, 22 Sep 2024 16:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tottenham",
+        "pubdate": "Sun, 22 Sep 2024 07:00:00 +1000"
       }
     ],
     [
@@ -94,23 +94,9 @@
     ],
     [
       {
-        "title": "Take That",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Take%20That",
-        "pubdate": "Sun, 22 Sep 2024 23:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "From season 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#From%20season%203",
         "pubdate": "Sun, 22 Sep 2024 21:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Anthony Joshua",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anthony%20Joshua",
-        "pubdate": "Sat, 21 Sep 2024 16:00:00 +1000"
       }
     ],
     [
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "Lions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lions",
-        "pubdate": "Sat, 21 Sep 2024 18:00:00 +1000"
+        "title": "Anthony Joshua",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anthony%20Joshua",
+        "pubdate": "Sat, 21 Sep 2024 16:00:00 +1000"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Rugby Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rugby%20Championship",
         "pubdate": "Sat, 21 Sep 2024 16:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea",
+        "pubdate": "Sat, 21 Sep 2024 22:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Easey Street murders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Easey%20Street%20murders",
+        "pubdate": "Sat, 21 Sep 2024 12:00:00 +1000"
       }
     ]
   ]
