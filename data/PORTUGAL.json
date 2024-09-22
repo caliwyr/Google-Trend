@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 03:45:56",
+  "lastUpdate": "22-09-2024 , 03:55:26",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Maritimo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maritimo",
+        "pubdate": "Sat, 21 Sep 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rio Ave  Estoril",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rio%20Ave%20%20Estoril",
         "pubdate": "Sat, 21 Sep 2024 16:00:00 +0100"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Crystal Palace  Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Crystal%20Palace%20%20Manchester%20United",
-        "pubdate": "Sat, 21 Sep 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fernando Seara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Seara",
         "pubdate": "Sat, 21 Sep 2024 18:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Reims  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Reims%20%20PSG",
-        "pubdate": "Sat, 21 Sep 2024 20:00:00 +0100"
+        "title": "Crystal Palace  Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Crystal%20Palace%20%20Manchester%20United",
+        "pubdate": "Sat, 21 Sep 2024 17:00:00 +0100"
       }
     ]
   ]
