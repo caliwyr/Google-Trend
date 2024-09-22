@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-09-2024 , 04:38:56",
+  "lastUpdate": "22-09-2024 , 04:49:37",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
+        "title": "Jong Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Ajax",
+        "pubdate": "Sun, 22 Sep 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Sat, 21 Sep 2024 20:00:00 +0200"
+        "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
-        "pubdate": "Sat, 21 Sep 2024 22:00:00 +0200"
+        "title": "Heracles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
+        "pubdate": "Sat, 21 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -62,20 +69,6 @@
         "title": "RKC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
         "pubdate": "Sat, 21 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Heracles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
-        "pubdate": "Sat, 21 Sep 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BRI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BRI",
-        "pubdate": "Sat, 21 Sep 2024 22:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Hezbollah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hezbollah",
+        "pubdate": "Tue, 17 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ziggo Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ziggo%20Sport",
         "pubdate": "Tue, 17 Sep 2024 19:00:00 +0200"
       }
     ]
