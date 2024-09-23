@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-09-2024 , 17:49:43",
+  "lastUpdate": "23-09-2024 , 17:59:03",
   "data": [
+    [
+      {
+        "title": "Thunderbolts*",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Thunderbolts*",
+        "pubdate": "Tue, 24 Sep 2024 03:00:00 +1000"
+      }
+    ],
     [
       {
         "title": "Man City vs Arsenal",
@@ -27,13 +34,6 @@
         "title": "From",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#From",
         "pubdate": "Mon, 23 Sep 2024 10:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Falcons vs Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Falcons%20vs%20Chiefs",
-        "pubdate": "Mon, 23 Sep 2024 13:00:00 +1000"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "RBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#RBA",
-        "pubdate": "Mon, 23 Sep 2024 20:00:00 +1000"
-      }
-    ],
-    [
-      {
         "title": "Public holiday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Public%20holiday",
         "pubdate": "Mon, 23 Sep 2024 15:00:00 +1000"
@@ -139,6 +132,13 @@
         "title": "Brownlow Medal 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brownlow%20Medal%202024",
         "pubdate": "Sun, 22 Sep 2024 18:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Singapore F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Singapore%20F1",
+        "pubdate": "Sun, 22 Sep 2024 15:00:00 +1000"
       }
     ]
   ]
