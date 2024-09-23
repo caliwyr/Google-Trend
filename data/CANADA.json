@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2024 , 23:45:13",
+  "lastUpdate": "23-09-2024 , 23:54:35",
   "data": [
     [
       {
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "Thunderbolts*",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Thunderbolts*",
+        "title": "Thunderbolts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Thunderbolts",
         "pubdate": "Mon, 23 Sep 2024 11:00:00 -0400"
       }
     ],
@@ -48,6 +48,13 @@
         "title": "49ers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#49ers",
         "pubdate": "Mon, 23 Sep 2024 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "KC Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#KC%20Chiefs",
+        "pubdate": "Mon, 23 Sep 2024 19:00:00 -0400"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Marcellus Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Marcellus%20Williams",
-        "pubdate": "Mon, 23 Sep 2024 14:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Liban",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liban",
         "pubdate": "Mon, 23 Sep 2024 17:00:00 -0400"
@@ -94,16 +94,9 @@
     ],
     [
       {
-        "title": "Rescue: HI-Surf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rescue:%20HI-Surf",
-        "pubdate": "Mon, 23 Sep 2024 00:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Northvolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Northvolt",
-        "pubdate": "Mon, 23 Sep 2024 17:00:00 -0400"
+        "title": "Marcellus Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Marcellus%20Williams",
+        "pubdate": "Mon, 23 Sep 2024 14:00:00 -0400"
       }
     ],
     [
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Leafs game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs%20game",
-        "pubdate": "Mon, 23 Sep 2024 06:00:00 -0400"
+        "title": "Northvolt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Northvolt",
+        "pubdate": "Mon, 23 Sep 2024 17:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Ter Stegen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ter%20Stegen",
-        "pubdate": "Mon, 23 Sep 2024 11:00:00 -0400"
+        "title": "Rescue: HI-Surf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rescue:%20HI-Surf",
+        "pubdate": "Mon, 23 Sep 2024 00:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Vince Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vince%20Carter",
         "pubdate": "Mon, 23 Sep 2024 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Leafs game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs%20game",
+        "pubdate": "Mon, 23 Sep 2024 06:00:00 -0400"
       }
     ]
   ]
