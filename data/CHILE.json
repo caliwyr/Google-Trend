@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2024 , 12:28:16",
+  "lastUpdate": "23-09-2024 , 12:59:51",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Clima Santiago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clima%20Santiago",
-        "pubdate": "Sun, 22 Sep 2024 22:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Rayo Vallecano  Atlético Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rayo%20Vallecano%20%20Atl%C3%A9tico%20Madrid",
         "pubdate": "Sun, 22 Sep 2024 17:00:00 -0300"
@@ -90,6 +83,13 @@
         "title": "Roberto Nicolini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Roberto%20Nicolini",
         "pubdate": "Sun, 22 Sep 2024 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Justin Bieber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Justin%20Bieber",
+        "pubdate": "Sun, 22 Sep 2024 15:00:00 -0300"
       }
     ],
     [
@@ -108,16 +108,16 @@
     ],
     [
       {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Leverkusen",
-        "pubdate": "Sun, 22 Sep 2024 13:00:00 -0300"
+        "title": "Ter Stegen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ter%20Stegen",
+        "pubdate": "Sun, 22 Sep 2024 18:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Ter Stegen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Ter%20Stegen",
-        "pubdate": "Sun, 22 Sep 2024 18:00:00 -0300"
+        "title": "Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Leverkusen",
+        "pubdate": "Sun, 22 Sep 2024 13:00:00 -0300"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Justin Bieber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Justin%20Bieber",
+        "title": "Stuttgart  Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Stuttgart%20%20Dortmund",
         "pubdate": "Sun, 22 Sep 2024 15:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Stuttgart  Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Stuttgart%20%20Dortmund",
-        "pubdate": "Sun, 22 Sep 2024 15:00:00 -0300"
+        "title": "Brighton  Nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton%20%20Nottingham%20Forest",
+        "pubdate": "Sun, 22 Sep 2024 13:00:00 -0300"
       }
     ]
   ]
