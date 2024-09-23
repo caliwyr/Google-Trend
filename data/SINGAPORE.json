@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "23-09-2024 , 04:45:08",
+  "lastUpdate": "23-09-2024 , 04:54:26",
   "data": [
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
+        "pubdate": "Mon, 23 Sep 2024 01:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton",
         "pubdate": "Mon, 23 Sep 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Rodri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rodri",
+        "pubdate": "Mon, 23 Sep 2024 12:00:00 +0800"
       }
     ],
     [
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Arsenal vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal%20vs%20Man%20City",
-        "pubdate": "Sun, 22 Sep 2024 21:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Speed Singapore",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Speed%20Singapore",
         "pubdate": "Sun, 22 Sep 2024 18:00:00 +0800"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Sri Lanka election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sri%20Lanka%20election",
-        "pubdate": "Sun, 22 Sep 2024 10:00:00 +0800"
+        "title": "Sri Lanka election results 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sri%20Lanka%20election%20results%202024",
+        "pubdate": "Sun, 22 Sep 2024 15:00:00 +0800"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Lion City Sailors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lion%20City%20Sailors",
+        "pubdate": "Sun, 22 Sep 2024 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Lando Norris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lando%20Norris",
         "pubdate": "Sat, 21 Sep 2024 23:00:00 +0800"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#West%20Ham",
-        "pubdate": "Sat, 21 Sep 2024 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1",
-        "pubdate": "Fri, 20 Sep 2024 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
-        "pubdate": "Fri, 20 Sep 2024 15:00:00 +0800"
+        "title": "Ishikawa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ishikawa",
+        "pubdate": "Sat, 21 Sep 2024 22:00:00 +0800"
       }
     ]
   ]

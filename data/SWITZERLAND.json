@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-09-2024 , 04:45:09",
+  "lastUpdate": "23-09-2024 , 04:54:27",
   "data": [
     [
       {
         "title": "Tatort: Ad Acta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tatort:%20Ad%20Acta",
         "pubdate": "Mon, 23 Sep 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Monaco – Le Havre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monaco%20%E2%80%93%20Le%20Havre",
+        "pubdate": "Mon, 23 Sep 2024 06:00:00 +0200"
       }
     ],
     [
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Milan",
-        "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
+        "title": "Abstimmungsresultate",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungsresultate",
+        "pubdate": "Sun, 22 Sep 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Abstimmungsresultate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungsresultate",
-        "pubdate": "Sun, 22 Sep 2024 14:00:00 +0200"
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Milan",
+        "pubdate": "Sun, 22 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -59,9 +66,23 @@
     ],
     [
       {
+        "title": "Milan Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Milan%20Inter",
+        "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "VfB Stuttgart – Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#VfB%20Stuttgart%20%E2%80%93%20Dortmund",
         "pubdate": "Sun, 22 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Sion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
+        "pubdate": "Sun, 22 Sep 2024 12:00:00 +0200"
       }
     ],
     [
@@ -80,27 +101,6 @@
     ],
     [
       {
-        "title": "F1 Singapur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%20Singapur",
-        "pubdate": "Sun, 22 Sep 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Sion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
-        "pubdate": "Sun, 22 Sep 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Milan",
-        "pubdate": "Sun, 22 Sep 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Schnee in Südafrika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schnee%20in%20S%C3%BCdafrika",
         "pubdate": "Sun, 22 Sep 2024 08:00:00 +0200"
@@ -111,6 +111,13 @@
         "title": "Villarreal – Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Villarreal%20%E2%80%93%20Barcelona",
         "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1 Singapur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#F1%20Singapur",
+        "pubdate": "Sun, 22 Sep 2024 02:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Remco Evenepoel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Remco%20Evenepoel",
         "pubdate": "Sun, 22 Sep 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "TV total Turmspringen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#TV%20total%20Turmspringen",
-        "pubdate": "Sun, 22 Sep 2024 09:00:00 +0200"
       }
     ]
   ]
