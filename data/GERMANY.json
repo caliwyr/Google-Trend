@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2024 , 10:46:51",
+  "lastUpdate": "23-09-2024 , 10:56:10",
   "data": [
     [
       {
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "Wahlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahlen",
+        "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund",
         "pubdate": "Sun, 22 Sep 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FDP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FDP",
+        "pubdate": "Sun, 22 Sep 2024 22:00:00 +0200"
       }
     ],
     [
@@ -90,13 +104,6 @@
         "title": "Rhein Fire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rhein%20Fire",
         "pubdate": "Sun, 22 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hans-Christoph Berndt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hans-Christoph%20Berndt",
-        "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sophia Loren",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sophia%20Loren",
         "pubdate": "Fri, 20 Sep 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Woidke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Woidke",
-        "pubdate": "Fri, 20 Sep 2024 23:00:00 +0200"
       }
     ]
   ]
