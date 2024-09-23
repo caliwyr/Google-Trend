@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-09-2024 , 06:39:18",
+  "lastUpdate": "23-09-2024 , 06:50:52",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund",
-        "pubdate": "Sun, 22 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Formel 1 Singapur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel%201%20Singapur",
         "pubdate": "Sun, 22 Sep 2024 11:00:00 +0200"
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "FDP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FDP",
+        "title": "FCM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FCM",
         "pubdate": "Sun, 22 Sep 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "FCM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FCM",
-        "pubdate": "Sun, 22 Sep 2024 22:00:00 +0200"
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Putin",
+        "pubdate": "Sat, 21 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Weltkindertag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Weltkindertag",
         "pubdate": "Thu, 19 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Laver Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Laver%20Cup",
+        "pubdate": "Thu, 19 Sep 2024 14:00:00 +0200"
       }
     ]
   ]
