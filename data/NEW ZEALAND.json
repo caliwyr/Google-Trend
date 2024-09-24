@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-09-2024 , 16:46:26",
+  "lastUpdate": "24-09-2024 , 16:55:52",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Luke Combs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Luke%20Combs",
-        "pubdate": "Mon, 23 Sep 2024 16:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Ticketmaster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ticketmaster",
         "pubdate": "Mon, 23 Sep 2024 16:00:00 +1200"
@@ -139,6 +132,13 @@
         "title": "Fletcher Building",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fletcher%20Building",
         "pubdate": "Mon, 23 Sep 2024 17:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "South Africa snowfall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#South%20Africa%20snowfall",
+        "pubdate": "Mon, 23 Sep 2024 10:00:00 +1200"
       }
     ]
   ]
