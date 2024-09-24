@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-09-2024 , 03:43:30",
+  "lastUpdate": "24-09-2024 , 03:52:53",
   "data": [
     [
       {
         "title": "Eifel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eifel",
         "pubdate": "Tue, 24 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Abstimmung Schweiz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung%20Schweiz",
+        "pubdate": "Mon, 23 Sep 2024 11:00:00 +0200"
       }
     ],
     [
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Liban",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liban",
-        "pubdate": "Mon, 23 Sep 2024 17:00:00 +0200"
+        "title": "Umkirch vermisstes Mädchen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Umkirch%20vermisstes%20M%C3%A4dchen",
+        "pubdate": "Mon, 23 Sep 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Umkirch vermisstes Mädchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Umkirch%20vermisstes%20M%C3%A4dchen",
-        "pubdate": "Mon, 23 Sep 2024 14:00:00 +0200"
+        "title": "Liban",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liban",
+        "pubdate": "Mon, 23 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Stefan Mross",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stefan%20Mross",
         "pubdate": "Mon, 23 Sep 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dübelix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#D%C3%BCbelix",
-        "pubdate": "Mon, 23 Sep 2024 23:00:00 +0200"
       }
     ]
   ]
