@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-09-2024 , 23:38:40",
+  "lastUpdate": "24-09-2024 , 23:48:15",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "State of Play",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#State%20of%20Play",
+        "pubdate": "Tue, 24 Sep 2024 18:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Brilliant Minds",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Brilliant%20Minds",
         "pubdate": "Tue, 24 Sep 2024 02:00:00 -0400"
@@ -104,6 +111,13 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Europa%20League",
         "pubdate": "Tue, 24 Sep 2024 15:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Non-confidence vote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Non-confidence%20vote",
+        "pubdate": "Tue, 24 Sep 2024 17:00:00 -0400"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Non-confidence vote",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Non-confidence%20vote",
-        "pubdate": "Tue, 24 Sep 2024 17:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Damar Hamlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Damar%20Hamlin",
         "pubdate": "Tue, 24 Sep 2024 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "State of Play",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#State%20of%20Play",
-        "pubdate": "Tue, 24 Sep 2024 18:00:00 -0400"
       }
     ]
   ]
