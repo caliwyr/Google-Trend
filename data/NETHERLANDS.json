@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-09-2024 , 11:44:52",
+  "lastUpdate": "24-09-2024 , 11:54:07",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Libanon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Libanon",
-        "pubdate": "Mon, 23 Sep 2024 16:00:00 +0200"
+        "title": "Hezbollah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hezbollah",
+        "pubdate": "Tue, 24 Sep 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bert Huisjes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bert%20Huisjes",
+        "pubdate": "Mon, 23 Sep 2024 20:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "WNL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WNL",
-        "pubdate": "Mon, 23 Sep 2024 20:00:00 +0200"
+        "title": "Iris Enthoven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Iris%20Enthoven",
+        "pubdate": "Mon, 23 Sep 2024 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Geert Wilders",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Geert%20Wilders",
         "pubdate": "Wed, 18 Sep 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Tue, 17 Sep 2024 17:00:00 +0200"
       }
     ]
   ]
