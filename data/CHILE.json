@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-09-2024 , 22:42:42",
+  "lastUpdate": "25-09-2024 , 22:52:01",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "Liverpool  West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool%20%20West%20Ham",
+        "pubdate": "Wed, 25 Sep 2024 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Midtjylland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Midtjylland",
+        "pubdate": "Wed, 25 Sep 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Europa%20League",
         "pubdate": "Wed, 25 Sep 2024 17:00:00 -0300"
@@ -31,8 +45,8 @@
     ],
     [
       {
-        "title": "Liverpool  West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool%20%20West%20Ham",
+        "title": "Arsenal  Bolton Wanderers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal%20%20Bolton%20Wanderers",
         "pubdate": "Wed, 25 Sep 2024 16:00:00 -0300"
       }
     ],
@@ -45,8 +59,8 @@
     ],
     [
       {
-        "title": "Catolica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Catolica",
+        "title": "Union Española",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
         "pubdate": "Wed, 25 Sep 2024 12:00:00 -0300"
       }
     ],
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "Moringa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Moringa",
-        "pubdate": "Wed, 25 Sep 2024 10:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Varane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Varane",
         "pubdate": "Wed, 25 Sep 2024 12:00:00 -0300"
@@ -73,16 +80,9 @@
     ],
     [
       {
-        "title": "Midtjylland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Midtjylland",
-        "pubdate": "Wed, 25 Sep 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal",
-        "pubdate": "Wed, 25 Sep 2024 16:00:00 -0300"
+        "title": "Moringa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Moringa",
+        "pubdate": "Wed, 25 Sep 2024 10:00:00 -0300"
       }
     ],
     [
@@ -122,16 +122,9 @@
     ],
     [
       {
-        "title": "Peñarol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pe%C3%B1arol",
-        "pubdate": "Wed, 25 Sep 2024 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Porto",
-        "pubdate": "Wed, 25 Sep 2024 17:00:00 -0300"
+        "title": "O'Higgins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#O'Higgins",
+        "pubdate": "Wed, 25 Sep 2024 19:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Galatasaray",
         "pubdate": "Wed, 25 Sep 2024 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Peñarol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Pe%C3%B1arol",
+        "pubdate": "Wed, 25 Sep 2024 10:00:00 -0300"
       }
     ]
   ]
