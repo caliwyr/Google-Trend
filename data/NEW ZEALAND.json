@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-09-2024 , 23:35:53",
+  "lastUpdate": "25-09-2024 , 23:45:14",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
+        "title": "Liverpool vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool%20vs%20West%20Ham",
         "pubdate": "Thu, 26 Sep 2024 08:00:00 +1200"
       }
     ],
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Liverpool vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Liverpool%20vs%20West%20Ham",
+        "title": "Arsenal vs Bolton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal%20vs%20Bolton",
         "pubdate": "Thu, 26 Sep 2024 08:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona vs Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barcelona%20vs%20Getafe",
+        "pubdate": "Thu, 26 Sep 2024 11:00:00 +1200"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Three-peat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Three-peat",
-        "pubdate": "Wed, 25 Sep 2024 16:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Fonterra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fonterra",
         "pubdate": "Wed, 25 Sep 2024 17:00:00 +1200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Arrowsmith Range",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arrowsmith%20Range",
-        "pubdate": "Wed, 25 Sep 2024 19:00:00 +1200"
+        "title": "Inside Out 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Inside%20Out%202",
+        "pubdate": "Wed, 25 Sep 2024 22:00:00 +1200"
       }
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#La%20Liga",
-        "pubdate": "Wed, 25 Sep 2024 20:00:00 +1200"
+        "title": "Coldplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Coldplay",
+        "pubdate": "Wed, 25 Sep 2024 11:00:00 +1200"
       }
     ]
   ]
