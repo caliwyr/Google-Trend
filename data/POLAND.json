@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-09-2024 , 19:38:07",
+  "lastUpdate": "25-09-2024 , 19:47:35",
   "data": [
     [
       {
         "title": "Szczesny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szczesny",
         "pubdate": "Wed, 25 Sep 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona – Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FC%20Barcelona%20%E2%80%93%20Getafe",
+        "pubdate": "Wed, 25 Sep 2024 14:00:00 +0200"
       }
     ],
     [
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Solorz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Solorz",
+        "pubdate": "Wed, 25 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Korona Kielce – Stal Mielec",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Korona%20Kielce%20%E2%80%93%20Stal%20Mielec",
         "pubdate": "Wed, 25 Sep 2024 18:00:00 +0200"
@@ -24,9 +38,16 @@
     ],
     [
       {
-        "title": "Zygmunt Solorz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zygmunt%20Solorz",
-        "pubdate": "Wed, 25 Sep 2024 17:00:00 +0200"
+        "title": "Miedź – Raków Częstochowa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mied%C5%BA%20%E2%80%93%20Rak%C3%B3w%20Cz%C4%99stochowa",
+        "pubdate": "Wed, 25 Sep 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Górnik Zabrze – Radomiak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#G%C3%B3rnik%20Zabrze%20%E2%80%93%20Radomiak",
+        "pubdate": "Wed, 25 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -52,20 +73,6 @@
     ],
     [
       {
-        "title": "Marcin Różalski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20R%C3%B3%C5%BCalski",
-        "pubdate": "Wed, 25 Sep 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Miedź – Raków Częstochowa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mied%C5%BA%20%E2%80%93%20Rak%C3%B3w%20Cz%C4%99stochowa",
-        "pubdate": "Wed, 25 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Piast Gliwice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Piast%20Gliwice",
         "pubdate": "Wed, 25 Sep 2024 17:00:00 +0200"
@@ -76,6 +83,13 @@
         "title": "Dzien budowlanca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzien%20budowlanca",
         "pubdate": "Wed, 25 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marcin Różalski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Marcin%20R%C3%B3%C5%BCalski",
+        "pubdate": "Wed, 25 Sep 2024 09:00:00 +0200"
       }
     ],
     [
@@ -94,9 +108,23 @@
     ],
     [
       {
-        "title": "Jan Krzysztof Ardanowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jan%20Krzysztof%20Ardanowski",
-        "pubdate": "Wed, 25 Sep 2024 11:00:00 +0200"
+        "title": "Man utd – Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Man%20utd%20%E2%80%93%20Twente",
+        "pubdate": "Wed, 25 Sep 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Enzo Zidane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Enzo%20Zidane",
+        "pubdate": "Wed, 25 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arka Gdynia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arka%20Gdynia",
+        "pubdate": "Wed, 25 Sep 2024 21:00:00 +0200"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "FC Barcelona – Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FC%20Barcelona%20%E2%80%93%20Getafe",
-        "pubdate": "Wed, 25 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Throne and Liberty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Throne%20and%20Liberty",
-        "pubdate": "Wed, 25 Sep 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sikorski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sikorski",
         "pubdate": "Wed, 25 Sep 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bobry",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bobry",
-        "pubdate": "Wed, 25 Sep 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Justyna Gdańska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Justyna%20Gda%C5%84ska",
-        "pubdate": "Wed, 25 Sep 2024 20:00:00 +0200"
       }
     ]
   ]

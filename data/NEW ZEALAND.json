@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-09-2024 , 19:38:06",
+  "lastUpdate": "25-09-2024 , 19:47:34",
   "data": [
     [
       {
@@ -31,23 +31,16 @@
     ],
     [
       {
-        "title": "Google doodles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20doodles",
-        "pubdate": "Wed, 25 Sep 2024 15:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Triple Crown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Triple%20Crown",
-        "pubdate": "Wed, 25 Sep 2024 10:00:00 +1200"
-      }
-    ],
-    [
-      {
         "title": "Australia vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Australia%20vs%20England",
         "pubdate": "Wed, 25 Sep 2024 06:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Google doodles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Google%20doodles",
+        "pubdate": "Wed, 25 Sep 2024 15:00:00 +1200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lebanon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lebanon",
         "pubdate": "Tue, 24 Sep 2024 14:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Charter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Charter",
+        "pubdate": "Tue, 24 Sep 2024 11:00:00 +1200"
       }
     ]
   ]
