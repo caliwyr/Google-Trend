@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-09-2024 , 08:43:54",
+  "lastUpdate": "25-09-2024 , 08:53:50",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Murder in a Small Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Murder%20in%20a%20Small%20Town",
-        "pubdate": "Tue, 24 Sep 2024 17:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Man City vs Watford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City%20vs%20Watford",
         "pubdate": "Tue, 24 Sep 2024 13:00:00 -0700"
@@ -90,6 +83,13 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
         "pubdate": "Tue, 24 Sep 2024 13:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City",
+        "pubdate": "Tue, 24 Sep 2024 17:00:00 -0700"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Ellen DeGeneres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ellen%20DeGeneres",
-        "pubdate": "Tue, 24 Sep 2024 22:00:00 -0700"
+        "title": "Derwin James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Derwin%20James",
+        "pubdate": "Tue, 24 Sep 2024 13:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Weird Al",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Weird%20Al",
-        "pubdate": "Tue, 24 Sep 2024 09:00:00 -0700"
+        "title": "Ellen DeGeneres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ellen%20DeGeneres",
+        "pubdate": "Tue, 24 Sep 2024 22:00:00 -0700"
       }
     ]
   ]
