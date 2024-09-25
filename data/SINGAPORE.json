@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "25-09-2024 , 15:42:31",
+  "lastUpdate": "25-09-2024 , 15:52:01",
   "data": [
     [
       {
-        "title": "MRT breakdown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MRT%20breakdown",
+        "title": "MRT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MRT",
         "pubdate": "Wed, 25 Sep 2024 12:00:00 +0800"
       }
     ],
@@ -20,6 +20,13 @@
         "title": "Varane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Varane",
         "pubdate": "Wed, 25 Sep 2024 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
+        "pubdate": "Wed, 25 Sep 2024 08:00:00 +0800"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Singapore population",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20population",
-        "pubdate": "Wed, 25 Sep 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Shake Shack",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shake%20Shack",
         "pubdate": "Wed, 25 Sep 2024 22:00:00 +0800"
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Singapore population",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20population",
+        "pubdate": "Wed, 25 Sep 2024 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Monster Hunter Wilds",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Monster%20Hunter%20Wilds",
         "pubdate": "Wed, 25 Sep 2024 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Caroline Ellison",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Caroline%20Ellison",
+        "pubdate": "Wed, 25 Sep 2024 23:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Sri Lanka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sri%20Lanka",
         "pubdate": "Mon, 23 Sep 2024 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Acmilan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Acmilan",
-        "pubdate": "Mon, 23 Sep 2024 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Daniel Ricciardo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Daniel%20Ricciardo",
-        "pubdate": "Sun, 22 Sep 2024 21:00:00 +0800"
       }
     ]
   ]
