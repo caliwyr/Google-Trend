@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-09-2024 , 09:43:35",
+  "lastUpdate": "26-09-2024 , 09:52:54",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Liverpool%20FC",
+        "pubdate": "Thu, 26 Sep 2024 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Jack Porter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jack%20Porter",
         "pubdate": "Thu, 26 Sep 2024 09:00:00 +0800"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "USD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#USD",
         "pubdate": "Wed, 25 Sep 2024 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Europa%20League",
-        "pubdate": "Tue, 24 Sep 2024 07:00:00 +0800"
       }
     ]
   ]
