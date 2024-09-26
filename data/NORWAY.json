@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-09-2024 , 16:34:16",
+  "lastUpdate": "26-09-2024 , 16:48:56",
   "data": [
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
-        "pubdate": "Thu, 26 Sep 2024 07:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Manchester United",
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
+        "pubdate": "Thu, 26 Sep 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#United",
         "pubdate": "Thu, 26 Sep 2024 14:00:00 +0200"
@@ -62,6 +62,13 @@
         "title": "Bodø/Glimt Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt%20Europa%20League",
         "pubdate": "Thu, 26 Sep 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Putin",
+        "pubdate": "Thu, 26 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Varane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Varane",
-        "pubdate": "Wed, 25 Sep 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Petter Olsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Olsen",
         "pubdate": "Wed, 25 Sep 2024 11:00:00 +0200"
@@ -111,6 +111,13 @@
         "title": "Volvo XC40",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Volvo%20XC40",
         "pubdate": "Wed, 25 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Varane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Varane",
+        "pubdate": "Wed, 25 Sep 2024 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Iver Knotten",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iver%20Knotten",
         "pubdate": "Tue, 24 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Thomas Seltzer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thomas%20Seltzer",
-        "pubdate": "Tue, 24 Sep 2024 20:00:00 +0200"
       }
     ]
   ]

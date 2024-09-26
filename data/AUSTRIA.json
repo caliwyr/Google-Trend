@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-09-2024 , 16:34:10",
+  "lastUpdate": "26-09-2024 , 16:48:46",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Enzenreith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Enzenreith",
-        "pubdate": "Thu, 26 Sep 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool",
         "pubdate": "Thu, 26 Sep 2024 07:00:00 +0200"
@@ -55,6 +48,13 @@
         "title": "Fran Drescher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fran%20Drescher",
         "pubdate": "Thu, 26 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "SJ) Vorarlberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SJ)%20Vorarlberg",
+        "pubdate": "Thu, 26 Sep 2024 01:00:00 +0200"
       }
     ],
     [
@@ -90,13 +90,6 @@
         "title": "Iwao Hakamada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Iwao%20Hakamada",
         "pubdate": "Thu, 26 Sep 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Martin Hinteregger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Martin%20Hinteregger",
-        "pubdate": "Thu, 26 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Goldpreis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Goldpreis",
+        "pubdate": "Wed, 25 Sep 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona – Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona%20%E2%80%93%20Getafe",
         "pubdate": "Wed, 25 Sep 2024 21:00:00 +0200"
       }
     ]
