@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-09-2024 , 08:45:58",
+  "lastUpdate": "26-09-2024 , 08:55:22",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Petter Olsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Olsen",
-        "pubdate": "Wed, 25 Sep 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Oslo Business Forum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20Business%20Forum",
         "pubdate": "Wed, 25 Sep 2024 11:00:00 +0200"
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Thomas Seltzer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thomas%20Seltzer",
-        "pubdate": "Tue, 24 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Iben Akerlie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Iben%20Akerlie",
         "pubdate": "Tue, 24 Sep 2024 21:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Vålerenga Fotball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga%20Fotball",
         "pubdate": "Tue, 24 Sep 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Vålerenga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga",
+        "pubdate": "Tue, 24 Sep 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UXA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UXA",
+        "pubdate": "Tue, 24 Sep 2024 22:00:00 +0200"
       }
     ]
   ]
