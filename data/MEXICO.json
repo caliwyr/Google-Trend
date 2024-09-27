@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-09-2024 , 02:42:52",
+  "lastUpdate": "27-09-2024 , 03:11:15",
   "data": [
     [
       {
         "title": "Temblor hoy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Temblor%20hoy",
         "pubdate": "Thu, 26 Sep 2024 01:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Huracán John",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hurac%C3%A1n%20John",
+        "pubdate": "Thu, 26 Sep 2024 09:00:00 -0600"
       }
     ],
     [
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Peñarol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pe%C3%B1arol",
+        "pubdate": "Thu, 26 Sep 2024 18:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Neymar",
         "pubdate": "Thu, 26 Sep 2024 11:00:00 -0600"
@@ -62,13 +76,6 @@
         "title": "Infanta Sofía",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Infanta%20Sof%C3%ADa",
         "pubdate": "Thu, 26 Sep 2024 03:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Peñarol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Pe%C3%B1arol",
-        "pubdate": "Thu, 26 Sep 2024 18:00:00 -0600"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Epigmenio Ibarra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Epigmenio%20Ibarra",
         "pubdate": "Thu, 26 Sep 2024 01:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Freddie Mercury",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Freddie%20Mercury",
-        "pubdate": "Thu, 26 Sep 2024 16:00:00 -0600"
       }
     ]
   ]
