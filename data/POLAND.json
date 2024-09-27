@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-09-2024 , 23:59:46",
+  "lastUpdate": "27-09-2024 , 01:48:56",
   "data": [
     [
       {
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "Rafako",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rafako",
+        "pubdate": "Thu, 26 Sep 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Grom Nowy Staw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Grom%20Nowy%20Staw",
         "pubdate": "Thu, 26 Sep 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ostrzeżenie przed wiatrem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ostrze%C5%BCenie%20przed%20wiatrem",
+        "pubdate": "Thu, 26 Sep 2024 07:00:00 +0200"
       }
     ],
     [
@@ -101,16 +115,16 @@
     ],
     [
       {
-        "title": "Dagmara Domińczyk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dagmara%20Domi%C5%84czyk",
-        "pubdate": "Thu, 26 Sep 2024 09:00:00 +0200"
+        "title": "Napoli – Palermo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Napoli%20%E2%80%93%20Palermo",
+        "pubdate": "Thu, 26 Sep 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Napoli – Palermo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Napoli%20%E2%80%93%20Palermo",
-        "pubdate": "Thu, 26 Sep 2024 22:00:00 +0200"
+        "title": "Dagmara Domińczyk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dagmara%20Domi%C5%84czyk",
+        "pubdate": "Thu, 26 Sep 2024 09:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Kierwiński",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kierwi%C5%84ski",
         "pubdate": "Thu, 26 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lady Gaga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lady%20Gaga",
-        "pubdate": "Thu, 26 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Man%20utd",
-        "pubdate": "Thu, 26 Sep 2024 11:00:00 +0200"
       }
     ]
   ]
