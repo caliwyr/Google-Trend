@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2024 , 03:46:03",
+  "lastUpdate": "27-09-2024 , 03:55:21",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Antoine Armand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antoine%20Armand",
         "pubdate": "Fri, 27 Sep 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pedro Elias",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pedro%20Elias",
+        "pubdate": "Fri, 27 Sep 2024 01:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Antony Van der Wee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antony%20Van%20der%20Wee",
-        "pubdate": "Thu, 26 Sep 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
         "pubdate": "Thu, 26 Sep 2024 10:00:00 +0200"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Pedro Elias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pedro%20Elias",
-        "pubdate": "Thu, 26 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michael%20Schumacher",
         "pubdate": "Thu, 26 Sep 2024 11:00:00 +0200"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Peter Verhulst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Peter%20Verhulst",
+        "title": "Giorgia Meloni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Giorgia%20Meloni",
+        "pubdate": "Thu, 26 Sep 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Paus Leuven",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paus%20Leuven",
         "pubdate": "Thu, 26 Sep 2024 14:00:00 +0200"
       }
     ]
