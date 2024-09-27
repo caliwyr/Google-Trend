@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2024 , 17:41:31",
+  "lastUpdate": "27-09-2024 , 17:50:50",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Harry Potter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry%20Potter",
-        "pubdate": "Fri, 27 Sep 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt",
         "pubdate": "Fri, 27 Sep 2024 09:00:00 +0200"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Riemenfisch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Riemenfisch",
-        "pubdate": "Fri, 27 Sep 2024 08:00:00 +0200"
+        "title": "Alice Weidel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alice%20Weidel",
+        "pubdate": "Fri, 27 Sep 2024 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ter Stegen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ter%20Stegen",
         "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Laura Philipp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Laura%20Philipp",
+        "pubdate": "Sun, 22 Sep 2024 16:00:00 +0200"
       }
     ]
   ]
