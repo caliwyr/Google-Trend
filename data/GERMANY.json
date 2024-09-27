@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-09-2024 , 15:42:22",
+  "lastUpdate": "27-09-2024 , 15:51:39",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Harry Potter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry%20Potter",
+        "pubdate": "Fri, 27 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Riemenfisch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Riemenfisch",
         "pubdate": "Fri, 27 Sep 2024 08:00:00 +0200"
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20League",
-        "pubdate": "Thu, 26 Sep 2024 05:00:00 +0200"
+        "title": "Thüringen Landtag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Th%C3%BCringen%20Landtag",
+        "pubdate": "Thu, 26 Sep 2024 14:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Thüringen Landtag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Th%C3%BCringen%20Landtag",
-        "pubdate": "Thu, 26 Sep 2024 14:00:00 +0200"
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20League",
+        "pubdate": "Thu, 26 Sep 2024 05:00:00 +0200"
       }
     ],
     [
@@ -55,6 +62,13 @@
         "title": "MDR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
         "pubdate": "Thu, 26 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ralph Siegel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ralph%20Siegel",
+        "pubdate": "Thu, 26 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Ter Stegen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ter%20Stegen",
         "pubdate": "Sun, 22 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Laura Philipp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Laura%20Philipp",
-        "pubdate": "Sun, 22 Sep 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FDP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FDP",
-        "pubdate": "Sun, 22 Sep 2024 22:00:00 +0200"
       }
     ]
   ]
