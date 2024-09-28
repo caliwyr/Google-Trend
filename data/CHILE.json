@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-09-2024 , 18:47:20",
+  "lastUpdate": "28-09-2024 , 18:56:33",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
-        "pubdate": "Sat, 28 Sep 2024 12:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Arsenal - Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal%20-%20Leicester%20City",
         "pubdate": "Sat, 28 Sep 2024 11:00:00 -0300"
@@ -31,9 +24,16 @@
     ],
     [
       {
-        "title": "Hassan Nasrallah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hassan%20Nasrallah",
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
         "pubdate": "Sat, 28 Sep 2024 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Primera B",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20B",
+        "pubdate": "Sat, 28 Sep 2024 15:00:00 -0300"
       }
     ],
     [
@@ -48,6 +48,13 @@
         "title": "Wolves - Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Wolves%20-%20Liverpool",
         "pubdate": "Sat, 28 Sep 2024 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Hassan Nasrallah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Hassan%20Nasrallah",
+        "pubdate": "Sat, 28 Sep 2024 12:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Milan",
         "pubdate": "Fri, 27 Sep 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Arturo Vidal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arturo%20Vidal",
-        "pubdate": "Fri, 27 Sep 2024 10:00:00 -0300"
       }
     ]
   ]
