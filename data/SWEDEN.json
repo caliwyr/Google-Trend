@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "28-09-2024 , 16:46:26",
+  "lastUpdate": "28-09-2024 , 16:55:46",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arsenal",
+        "pubdate": "Sat, 28 Sep 2024 18:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
         "pubdate": "Sat, 28 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jakob Silfverberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jakob%20Silfverberg",
+        "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Brynäs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
-        "pubdate": "Fri, 27 Sep 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Nybro Tingsryd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nybro%20Tingsryd",
         "pubdate": "Fri, 27 Sep 2024 23:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Anna Kinberg Batra lön",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anna%20Kinberg%20Batra%20l%C3%B6n",
         "pubdate": "Fri, 27 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Johnossi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Johnossi",
-        "pubdate": "Fri, 27 Sep 2024 17:00:00 +0200"
       }
     ]
   ]
