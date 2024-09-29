@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "29-09-2024 , 16:46:39",
+  "lastUpdate": "29-09-2024 , 16:56:09",
   "data": [
     [
       {
         "title": "Köln – KSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%B6ln%20%E2%80%93%20KSC",
         "pubdate": "Sun, 29 Sep 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Holstein – Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20%E2%80%93%20Eintracht%20Frankfurt",
+        "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Österreich Wahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich%20Wahl",
+        "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
       }
     ],
     [
@@ -24,16 +38,9 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
-        "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Österreich-Wahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich-Wahl",
-        "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
+        "title": "Holstein Kiel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20Kiel",
+        "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "Hoffenheim – Werder Bremen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hoffenheim%20%E2%80%93%20Werder%20Bremen",
+        "title": "Kane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kane",
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "MSV Duisburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MSV%20Duisburg",
+        "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
       }
     ],
     [
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "Gina Schumacher Hochzeit Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gina%20Schumacher%20Hochzeit%20Mallorca",
+        "pubdate": "Sat, 28 Sep 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hsv",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hsv",
         "pubdate": "Sat, 28 Sep 2024 15:00:00 +0200"
@@ -83,13 +104,6 @@
         "title": "VfB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
         "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gina Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gina%20Schumacher",
-        "pubdate": "Sat, 28 Sep 2024 20:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Bayern – Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20%E2%80%93%20Leverkusen",
-        "pubdate": "Fri, 27 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Maggie Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Maggie%20Smith",
         "pubdate": "Fri, 27 Sep 2024 16:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Dortmund – Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20%E2%80%93%20Bochum",
+        "title": "Bayern – Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20%E2%80%93%20Leverkusen",
         "pubdate": "Fri, 27 Sep 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nasrallah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nasrallah",
-        "pubdate": "Fri, 27 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund",
-        "pubdate": "Fri, 27 Sep 2024 22:00:00 +0200"
+        "title": "Dortmund – Bochum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20%E2%80%93%20Bochum",
+        "pubdate": "Fri, 27 Sep 2024 20:00:00 +0200"
       }
     ]
   ]
