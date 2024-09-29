@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2024 , 02:34:51",
+  "lastUpdate": "29-09-2024 , 03:08:01",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Barcelona FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20FC",
+        "pubdate": "Sat, 28 Sep 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Celtic",
         "pubdate": "Sat, 28 Sep 2024 18:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Monaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Monaco",
         "pubdate": "Sat, 28 Sep 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Haaland",
-        "pubdate": "Sat, 28 Sep 2024 17:00:00 +0100"
       }
     ]
   ]
