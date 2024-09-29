@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2024 , 05:41:12",
+  "lastUpdate": "29-09-2024 , 05:50:37",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Ben Dobbin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ben%20Dobbin",
+        "pubdate": "Sun, 29 Sep 2024 09:00:00 +1000"
+      }
+    ],
+    [
+      {
         "title": "Jannik Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jannik%20Sinner",
         "pubdate": "Sun, 29 Sep 2024 09:00:00 +1000"
@@ -66,9 +73,16 @@
     ],
     [
       {
-        "title": "The graduate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20graduate",
-        "pubdate": "Sun, 29 Sep 2024 00:00:00 +1000"
+        "title": "Drake Hogestyn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Drake%20Hogestyn",
+        "pubdate": "Sun, 29 Sep 2024 15:00:00 +1000"
+      }
+    ],
+    [
+      {
+        "title": "Alabama vs Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Alabama%20vs%20Georgia",
+        "pubdate": "Sun, 29 Sep 2024 15:00:00 +1000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Ah Chee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ah%20Chee",
         "pubdate": "Sat, 28 Sep 2024 16:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Charlie Cameron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Charlie%20Cameron",
-        "pubdate": "Sat, 28 Sep 2024 15:00:00 +1000"
-      }
-    ],
-    [
-      {
-        "title": "Penrith Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Penrith%20Panthers",
-        "pubdate": "Sat, 28 Sep 2024 07:00:00 +1000"
       }
     ]
   ]
