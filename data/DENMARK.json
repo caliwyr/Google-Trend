@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2024 , 08:45:52",
+  "lastUpdate": "29-09-2024 , 08:55:16",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Osasuna  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Osasuna%20%20Barcelona",
-        "pubdate": "Sat, 28 Sep 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Newcastle  Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Newcastle%20%20Man%20City",
         "pubdate": "Sat, 28 Sep 2024 13:00:00 +0200"
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "Osasuna  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Osasuna%20%20Barcelona",
+        "pubdate": "Sat, 28 Sep 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
         "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona",
+        "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FC%20Barcelona",
-        "pubdate": "Sat, 28 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bayern  Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bayern%20%20Leverkusen",
         "pubdate": "Sat, 28 Sep 2024 20:00:00 +0200"
@@ -90,13 +90,6 @@
         "title": "Julia roberts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Julia%20roberts",
         "pubdate": "Sat, 28 Sep 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Manchester%20City",
-        "pubdate": "Sat, 28 Sep 2024 16:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hurricane Helene Live",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hurricane%20Helene%20Live",
         "pubdate": "Fri, 27 Sep 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dot",
+        "pubdate": "Fri, 27 Sep 2024 22:00:00 +0200"
       }
     ]
   ]
