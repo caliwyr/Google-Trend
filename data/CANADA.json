@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-09-2024 , 13:48:21",
+  "lastUpdate": "29-09-2024 , 13:57:39",
   "data": [
     [
       {
         "title": "Oilers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
         "pubdate": "Sun, 29 Sep 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs",
+        "pubdate": "Sun, 29 Sep 2024 09:00:00 -0400"
       }
     ],
     [
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Presidential election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Presidential%20election",
+        "pubdate": "Sun, 29 Sep 2024 07:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Bayern",
         "pubdate": "Sun, 29 Sep 2024 00:00:00 -0400"
@@ -31,8 +45,15 @@
     ],
     [
       {
-        "title": "Benoit Saint-Denis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Benoit%20Saint-Denis",
+        "title": "Colorado vs UCF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colorado%20vs%20UCF",
+        "pubdate": "Sun, 29 Sep 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Benoit Saint Denis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Benoit%20Saint%20Denis",
         "pubdate": "Sun, 29 Sep 2024 05:00:00 -0400"
       }
     ],
@@ -52,20 +73,6 @@
     ],
     [
       {
-        "title": "Arsenal vs Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arsenal%20vs%20Leicester%20City",
-        "pubdate": "Sat, 28 Sep 2024 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Newcastle%20vs%20Man%20City",
-        "pubdate": "Sat, 28 Sep 2024 08:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Lebanon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lebanon",
         "pubdate": "Sat, 28 Sep 2024 04:00:00 -0400"
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona",
-        "pubdate": "Sat, 28 Sep 2024 16:00:00 -0400"
+        "title": "Drake Hogestyn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drake%20Hogestyn",
+        "pubdate": "Sat, 28 Sep 2024 23:00:00 -0400"
       }
     ],
     [
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Drake Hogestyn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drake%20Hogestyn",
-        "pubdate": "Sat, 28 Sep 2024 23:00:00 -0400"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Barcelona",
+        "pubdate": "Sat, 28 Sep 2024 16:00:00 -0400"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Wolves vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wolves%20vs%20Liverpool",
-        "pubdate": "Sat, 28 Sep 2024 13:00:00 -0400"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Arsenal",
+        "pubdate": "Sat, 28 Sep 2024 12:00:00 -0400"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Colorado Buffaloes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colorado%20Buffaloes",
-        "pubdate": "Sat, 28 Sep 2024 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Saskatchewan Roughriders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Saskatchewan%20Roughriders",
-        "pubdate": "Sat, 28 Sep 2024 22:00:00 -0400"
+        "title": "Wolves vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wolves%20vs%20Liverpool",
+        "pubdate": "Sat, 28 Sep 2024 13:00:00 -0400"
       }
     ]
   ]
