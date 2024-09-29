@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "29-09-2024 , 17:47:59",
+  "lastUpdate": "29-09-2024 , 17:57:20",
   "data": [
     [
       {
-        "title": "Köln – KSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#K%C3%B6ln%20%E2%80%93%20KSC",
-        "pubdate": "Sun, 29 Sep 2024 13:00:00 +0200"
+        "title": "Österreich Wahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich%20Wahl",
+        "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hoffenheim – Werder Bremen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hoffenheim%20%E2%80%93%20Werder%20Bremen",
+        "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
       }
     ],
     [
@@ -13,13 +20,6 @@
         "title": "Holstein – Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20%E2%80%93%20Eintracht%20Frankfurt",
         "pubdate": "Sun, 29 Sep 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Österreich Wahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich%20Wahl",
-        "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
       }
     ],
     [
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
+        "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Holstein Kiel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Holstein%20Kiel",
         "pubdate": "Sun, 29 Sep 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hannover 96",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
+        "pubdate": "Sun, 29 Sep 2024 14:00:00 +0200"
       }
     ],
     [
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Hannover 96",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
-        "pubdate": "Sun, 29 Sep 2024 14:00:00 +0200"
+        "title": "1. FC Köln",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1.%20FC%20K%C3%B6ln",
+        "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Maggie Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Maggie%20Smith",
         "pubdate": "Fri, 27 Sep 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern – Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20%E2%80%93%20Leverkusen",
-        "pubdate": "Fri, 27 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund – Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20%E2%80%93%20Bochum",
-        "pubdate": "Fri, 27 Sep 2024 20:00:00 +0200"
       }
     ]
   ]
