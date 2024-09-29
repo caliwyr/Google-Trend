@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-09-2024 , 10:45:18",
+  "lastUpdate": "29-09-2024 , 10:54:44",
   "data": [
     [
       {
@@ -10,23 +10,16 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC",
+        "pubdate": "Sun, 29 Sep 2024 06:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
         "pubdate": "Sun, 29 Sep 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami vs Charlotte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Inter%20Miami%20vs%20Charlotte",
-        "pubdate": "Sun, 29 Sep 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Miss Universe Korea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Miss%20Universe%20Korea",
-        "pubdate": "Sun, 29 Sep 2024 15:00:00 +0800"
       }
     ],
     [
@@ -48,13 +41,6 @@
         "title": "Presidents Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Presidents%20Cup",
         "pubdate": "Sun, 29 Sep 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Iran",
-        "pubdate": "Sun, 29 Sep 2024 12:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Pop Mart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pop%20Mart",
         "pubdate": "Fri, 27 Sep 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
+        "pubdate": "Thu, 26 Sep 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Derrick Rose",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Derrick%20Rose",
+        "pubdate": "Thu, 26 Sep 2024 21:00:00 +0800"
       }
     ]
   ]
