@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2024 , 19:48:07",
+  "lastUpdate": "30-09-2024 , 19:57:34",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "LATAM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#LATAM",
+        "title": "Latam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Latam",
         "pubdate": "Mon, 30 Sep 2024 02:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Nike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nike",
+        "pubdate": "Mon, 30 Sep 2024 00:00:00 -0300"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Claro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Claro",
+        "pubdate": "Mon, 30 Sep 2024 16:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "iPhone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#iPhone",
         "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Flores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Flores",
+        "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Cat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cat",
         "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Corona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Corona",
-        "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Maicao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maicao",
-        "pubdate": "Mon, 30 Sep 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Apple",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Apple",
-        "pubdate": "Mon, 30 Sep 2024 03:00:00 -0300"
       }
     ]
   ]
