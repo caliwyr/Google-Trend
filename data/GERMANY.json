@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-09-2024 , 06:52:03",
+  "lastUpdate": "30-09-2024 , 07:09:35",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Österreich Wahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich%20Wahl",
+        "title": "Tag der Deutschen Einheit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tag%20der%20Deutschen%20Einheit",
+        "pubdate": "Mon, 30 Sep 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Österreich-Wahl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich-Wahl",
         "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
       }
     ],
@@ -117,13 +124,6 @@
       {
         "title": "VfB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
-        "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "St. Pauli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#St.%20Pauli",
         "pubdate": "Sat, 28 Sep 2024 17:00:00 +0200"
       }
     ],
