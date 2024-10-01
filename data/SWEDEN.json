@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-10-2024 , 05:46:18",
+  "lastUpdate": "01-10-2024 , 05:55:49",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "GAIS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#GAIS",
-        "pubdate": "Mon, 30 Sep 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Rissne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rissne",
         "pubdate": "Mon, 30 Sep 2024 08:00:00 +0200"
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Barncancergalan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barncancergalan",
-        "pubdate": "Mon, 30 Sep 2024 23:00:00 +0200"
+        "title": "Österrike",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96sterrike",
+        "pubdate": "Mon, 30 Sep 2024 14:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kalmar FF mot Elfsborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kalmar%20FF%20mot%20Elfsborg",
         "pubdate": "Sun, 29 Sep 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ipswich mot Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ipswich%20mot%20Aston%20Villa",
+        "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
       }
     ]
   ]
