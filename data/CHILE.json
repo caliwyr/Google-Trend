@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2024 , 11:44:59",
+  "lastUpdate": "02-10-2024 , 11:54:20",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
-        "pubdate": "Tue, 01 Oct 2024 16:00:00 -0300"
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Champions%20League",
+        "pubdate": "Tue, 01 Oct 2024 09:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Champions%20League",
-        "pubdate": "Tue, 01 Oct 2024 09:00:00 -0300"
+        "title": "Barcelona vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20vs",
+        "pubdate": "Tue, 01 Oct 2024 16:00:00 -0300"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Eclipse solar 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eclipse%20solar%202024",
+        "pubdate": "Tue, 01 Oct 2024 11:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Inter  Estrella Roja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter%20%20Estrella%20Roja",
         "pubdate": "Tue, 01 Oct 2024 17:00:00 -0300"
@@ -76,13 +83,6 @@
         "title": "Frank Fritz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Frank%20Fritz",
         "pubdate": "Tue, 01 Oct 2024 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Eclipse solar 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Eclipse%20solar%202024",
-        "pubdate": "Tue, 01 Oct 2024 11:00:00 -0300"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Esteban Lamothe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Esteban%20Lamothe",
-        "pubdate": "Tue, 01 Oct 2024 21:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Borussia Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Borussia%20Dortmund",
         "pubdate": "Tue, 01 Oct 2024 20:00:00 -0300"
@@ -139,6 +132,13 @@
         "title": "Claudia Sheinbaum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Claudia%20Sheinbaum",
         "pubdate": "Tue, 01 Oct 2024 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Esteban Lamothe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Esteban%20Lamothe",
+        "pubdate": "Tue, 01 Oct 2024 21:00:00 -0300"
       }
     ]
   ]

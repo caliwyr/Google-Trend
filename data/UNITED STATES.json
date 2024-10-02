@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-10-2024 , 11:44:58",
+  "lastUpdate": "02-10-2024 , 11:54:17",
   "data": [
+    [
+      {
+        "title": "Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iran",
+        "pubdate": "Tue, 01 Oct 2024 08:00:00 -0700"
+      }
+    ],
     [
       {
         "title": "John Amos",
@@ -13,20 +20,6 @@
         "title": "Frank Fritz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Frank%20Fritz",
         "pubdate": "Tue, 01 Oct 2024 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iran",
-        "pubdate": "Tue, 01 Oct 2024 08:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Israel",
-        "pubdate": "Tue, 01 Oct 2024 11:00:00 -0700"
       }
     ],
     [
@@ -48,6 +41,13 @@
         "title": "Orioles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Orioles",
         "pubdate": "Tue, 01 Oct 2024 15:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Israel news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Israel%20news",
+        "pubdate": "Tue, 01 Oct 2024 11:00:00 -0700"
       }
     ],
     [
@@ -75,21 +75,28 @@
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
-        "pubdate": "Tue, 01 Oct 2024 13:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona  Young Boys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona%20%20Young%20Boys",
         "pubdate": "Tue, 01 Oct 2024 12:00:00 -0700"
       }
     ],
     [
       {
-        "title": "Aces vs Liberty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aces%20vs%20Liberty",
-        "pubdate": "Tue, 01 Oct 2024 18:00:00 -0700"
+        "title": "Joker 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joker%202",
+        "pubdate": "Tue, 01 Oct 2024 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "National Taco Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#National%20Taco%20Day",
+        "pubdate": "Tue, 01 Oct 2024 09:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Von Miller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Von%20Miller",
+        "pubdate": "Tue, 01 Oct 2024 15:00:00 -0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "CVS Health layoffs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CVS%20Health%20layoffs",
         "pubdate": "Tue, 01 Oct 2024 11:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Tel Aviv",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tel%20Aviv",
-        "pubdate": "Tue, 01 Oct 2024 12:00:00 -0700"
       }
     ]
   ]
