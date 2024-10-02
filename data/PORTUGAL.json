@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-10-2024 , 14:44:59",
+  "lastUpdate": "02-10-2024 , 14:54:20",
   "data": [
-    [
-      {
-        "title": "Orlando Figueira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Orlando%20Figueira",
-        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Bombeiros Sapadores",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "JD Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#JD%20Vance",
+        "title": "Orlando Figueira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Orlando%20Figueira",
         "pubdate": "Wed, 02 Oct 2024 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "BBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#BBC",
-        "pubdate": "Wed, 02 Oct 2024 01:00:00 +0100"
+        "title": "JD Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#JD%20Vance",
+        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0100"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Matheus Nunes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Matheus%20Nunes",
         "pubdate": "Wed, 02 Oct 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#BBC",
+        "pubdate": "Wed, 02 Oct 2024 01:00:00 +0100"
       }
     ],
     [
@@ -66,6 +66,27 @@
     ],
     [
       {
+        "title": "Guterres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Guterres",
+        "pubdate": "Wed, 02 Oct 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Santa apolonia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Santa%20apolonia",
+        "pubdate": "Wed, 02 Oct 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Turquia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Turquia",
+        "pubdate": "Wed, 02 Oct 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tel Aviv",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tel%20Aviv",
         "pubdate": "Wed, 02 Oct 2024 00:00:00 +0100"
@@ -75,6 +96,27 @@
       {
         "title": "Vitoria SC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vitoria%20SC",
+        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ryujinx",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ryujinx",
+        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Diomande",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Diomande",
+        "pubdate": "Wed, 02 Oct 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal%20PSG",
         "pubdate": "Wed, 02 Oct 2024 14:00:00 +0100"
       }
     ],
@@ -97,48 +139,6 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Israel",
         "pubdate": "Tue, 01 Oct 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal  PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal%20%20PSG",
-        "pubdate": "Tue, 01 Oct 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona  Young Boys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20%20Young%20Boys",
-        "pubdate": "Tue, 01 Oct 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Slovan Bratislava  City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Slovan%20Bratislava%20%20City",
-        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al%20Nassr",
-        "pubdate": "Tue, 01 Oct 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jimmy Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jimmy%20Carter",
-        "pubdate": "Tue, 01 Oct 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sporting Clube de Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting%20Clube%20de%20Portugal",
-        "pubdate": "Tue, 01 Oct 2024 21:00:00 +0100"
       }
     ]
   ]
