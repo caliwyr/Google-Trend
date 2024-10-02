@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-10-2024 , 06:51:12",
+  "lastUpdate": "02-10-2024 , 07:06:51",
   "data": [
+    [
+      {
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Michael%20Schumacher",
+        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "John Amos",
@@ -13,6 +20,13 @@
         "title": "Rheinmetall-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rheinmetall-Aktie",
         "pubdate": "Wed, 02 Oct 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Josko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Josko",
+        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Bombendrohung Linz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bombendrohung%20Linz",
-        "pubdate": "Tue, 01 Oct 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Iran",
         "pubdate": "Tue, 01 Oct 2024 17:00:00 +0200"
@@ -45,22 +52,15 @@
     ],
     [
       {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Israel",
-        "pubdate": "Tue, 01 Oct 2024 12:00:00 +0200"
+        "title": "Bombendrohung Linz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bombendrohung%20Linz",
+        "pubdate": "Tue, 01 Oct 2024 17:00:00 +0200"
       }
     ],
     [
       {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
-        "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Herrhausen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Herrhausen",
         "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
       }
     ],
@@ -73,15 +73,8 @@
     ],
     [
       {
-        "title": "VfB Stuttgart – Sparta Prag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#VfB%20Stuttgart%20%E2%80%93%20Sparta%20Prag",
-        "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal – PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal%20%E2%80%93%20PSG",
+        "title": "Herrhausen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Herrhausen",
         "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
       }
     ],
@@ -94,13 +87,6 @@
     ],
     [
       {
-        "title": "Linz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Linz",
-        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lugner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lugner",
         "pubdate": "Tue, 01 Oct 2024 15:00:00 +0200"
@@ -108,16 +94,30 @@
     ],
     [
       {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#CNN",
-        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
+        "title": "Arsenal – PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal%20%E2%80%93%20PSG",
+        "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#UEFA%20Champions%20League",
-        "pubdate": "Tue, 01 Oct 2024 17:00:00 +0200"
+        "title": "Linz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Linz",
+        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VfB Stuttgart – Sparta Prag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#VfB%20Stuttgart%20%E2%80%93%20Sparta%20Prag",
+        "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#CNN",
+        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
       }
     ],
     [
