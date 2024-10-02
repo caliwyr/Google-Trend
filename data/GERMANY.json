@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2024 , 04:46:24",
+  "lastUpdate": "02-10-2024 , 04:55:44",
   "data": [
     [
       {
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Barcelona",
-        "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
+        "title": "Tel Aviv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tel%20Aviv",
+        "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Israel Libanon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel%20Libanon",
-        "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Barcelona",
+        "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Susanne Klatten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Susanne%20Klatten",
-        "pubdate": "Mon, 30 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Österreich-Wahl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96sterreich-Wahl",
         "pubdate": "Sun, 29 Sep 2024 12:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Essen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Essen",
         "pubdate": "Sun, 29 Sep 2024 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Werder Bremen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
+        "pubdate": "Sun, 29 Sep 2024 19:00:00 +0200"
       }
     ]
   ]
