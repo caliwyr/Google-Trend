@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-10-2024 , 15:52:49",
+  "lastUpdate": "02-10-2024 , 16:12:21",
   "data": [
+    [
+      {
+        "title": "Rapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
+        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sturm Graz",
@@ -80,9 +87,23 @@
     ],
     [
       {
+        "title": "STURM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#STURM",
+        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aston%20Villa",
         "pubdate": "Wed, 02 Oct 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "J.D. Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#J.D.%20Vance",
+        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#FC%20Barcelona",
         "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leverkusen – Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leverkusen%20%E2%80%93%20Milan",
-        "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Herrhausen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Herrhausen",
-        "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lugner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lugner",
-        "pubdate": "Tue, 01 Oct 2024 15:00:00 +0200"
       }
     ]
   ]
