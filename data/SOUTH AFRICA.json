@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "02-10-2024 , 18:47:23",
+  "lastUpdate": "02-10-2024 , 18:56:34",
   "data": [
-    [
-      {
-        "title": "South Africa vs Ireland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa%20vs%20Ireland",
-        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Solly Moholo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Solly%20Moholo",
         "pubdate": "Wed, 02 Oct 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "South Africa vs Ireland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#South%20Africa%20vs%20Ireland",
+        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
       }
     ],
     [
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Proteas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Proteas",
-        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Shakhtar Donetsk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Shakhtar%20Donetsk",
         "pubdate": "Wed, 02 Oct 2024 13:00:00 +0200"
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atletico%20Madrid",
-        "pubdate": "Wed, 02 Oct 2024 13:00:00 +0200"
+        "title": "RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#RB%20Leipzig",
+        "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
       }
     ],
     [
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#RB%20Leipzig",
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Feyenoord",
         "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Matheus Nunes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Matheus%20Nunes",
+        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal",
+        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Leverkusen vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Leverkusen%20vs%20Milan",
         "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
@@ -97,13 +104,6 @@
         "title": "Israel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Israel",
         "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund vs Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund%20vs%20Celtic",
-        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Dortmund vs Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund%20vs%20Celtic",
+        "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Iran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Iran",
         "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
-        "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Duma Ndlovu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Duma%20Ndlovu",
-        "pubdate": "Tue, 01 Oct 2024 16:00:00 +0200"
+        "title": "Barcelona FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20FC",
+        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
       }
     ]
   ]
