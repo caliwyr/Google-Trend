@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-10-2024 , 17:50:31",
+  "lastUpdate": "02-10-2024 , 17:59:47",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Gen Z",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gen%20Z",
+        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#News",
         "pubdate": "Wed, 02 Oct 2024 03:00:00 +0200"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Gen Z",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gen%20Z",
-        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jannik%20Sinner",
+        "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
       }
     ],
     [
@@ -61,6 +68,13 @@
       {
         "title": "Joker: Folie à Deux",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joker:%20Folie%20%C3%A0%20Deux",
+        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Iron Dome",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iron%20Dome",
         "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
       }
     ],
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Israel",
-        "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
+        "title": "John Amos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Amos",
+        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -97,13 +111,6 @@
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jimmy%20Carter",
         "pubdate": "Tue, 01 Oct 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "John Amos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Amos",
-        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "Deadpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Deadpool",
-        "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
+        "pubdate": "Tue, 01 Oct 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Slovan Bratislava  Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slovan%20Bratislava%20%20Man%20City",
+        "title": "BBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BBC",
         "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund  Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dortmund%20%20Celtic",
-        "pubdate": "Tue, 01 Oct 2024 23:00:00 +0200"
       }
     ]
   ]
