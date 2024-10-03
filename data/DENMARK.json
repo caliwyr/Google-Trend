@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-10-2024 , 23:58:56",
+  "lastUpdate": "03-10-2024 , 01:46:49",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
+        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Twilight",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Tim Walz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tim%20Walz",
+        "title": "JD Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#JD%20Vance",
         "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
       }
     ],
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Lille  Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lille%20%20Real%20Madrid",
+        "title": "Liverpool  Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool%20%20Bologna",
         "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
       }
     ],
@@ -131,13 +138,6 @@
       {
         "title": "Arsenal  PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal%20%20PSG",
-        "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona  Young Boys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Young%20Boys",
         "pubdate": "Tue, 01 Oct 2024 21:00:00 +0200"
       }
     ]
