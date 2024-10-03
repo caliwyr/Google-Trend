@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2024 , 17:43:16",
+  "lastUpdate": "03-10-2024 , 17:52:32",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Ferencváros Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ferencv%C3%A1ros%20Tottenham",
+        "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
         "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
@@ -27,13 +34,6 @@
         "title": "Marburg virus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Marburg%20virus",
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michael%20Schumacher",
         "pubdate": "Wed, 02 Oct 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aston%20Villa",
+        "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "The substance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20substance",
-        "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Julia Roberts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Julia%20Roberts",
         "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Millennials",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Millennials",
-        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
+        "title": "The Substance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20Substance",
+        "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
       }
     ]
   ]
