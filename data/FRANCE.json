@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-10-2024 , 06:42:34",
+  "lastUpdate": "03-10-2024 , 06:51:52",
   "data": [
+    [
+      {
+        "title": "Golden Bachelor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Golden%20Bachelor",
+        "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Dinamo Zagreb – Monaco",
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Lille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille",
+        "title": "Un pere ideal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Un%20pere%20ideal",
         "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
       }
     ],
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alcaraz",
-        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern%20Munich",
+        "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern%20Munich",
-        "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
+        "title": "Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alcaraz",
+        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Barcelone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barcelone",
+        "pubdate": "Wed, 02 Oct 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ligue des champions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ligue%20des%20champions",
         "pubdate": "Tue, 01 Oct 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG%20Arsenal",
-        "pubdate": "Tue, 01 Oct 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Iran",
-        "pubdate": "Tue, 01 Oct 2024 20:00:00 +0200"
       }
     ]
   ]
