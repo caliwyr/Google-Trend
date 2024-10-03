@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-10-2024 , 12:28:18",
+  "lastUpdate": "03-10-2024 , 13:00:21",
   "data": [
     [
       {
         "title": "Joker: Folie à Deux",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Joker:%20Folie%20%C3%A0%20Deux",
         "pubdate": "Thu, 03 Oct 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Österåker",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96ster%C3%A5ker",
+        "pubdate": "Thu, 03 Oct 2024 14:00:00 +0200"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Förrädarna 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rr%C3%A4darna%202024",
+        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aston%20Villa",
         "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
@@ -52,8 +66,8 @@
     ],
     [
       {
-        "title": "C Gambino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#C%20Gambino",
+        "title": "C.Gambino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#C.Gambino",
         "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
       }
     ],
@@ -75,13 +89,6 @@
       {
         "title": "Studsvik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Studsvik",
-        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Förrädarna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rr%C3%A4darna",
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
         "pubdate": "Wed, 02 Oct 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Champions%20League",
-        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
       }
     ]
   ]
