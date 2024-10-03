@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2024 , 02:42:09",
+  "lastUpdate": "03-10-2024 , 03:04:28",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona",
+        "pubdate": "Wed, 02 Oct 2024 01:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "RB Leipzig vs Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#RB%20Leipzig%20vs%20Juventus",
         "pubdate": "Wed, 02 Oct 2024 18:00:00 +0300"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona",
-        "pubdate": "Wed, 02 Oct 2024 01:00:00 +0300"
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#CNN",
+        "pubdate": "Wed, 02 Oct 2024 11:00:00 +0300"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Kericho Governor impeachment",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kericho%20Governor%20impeachment",
-        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0300"
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atletico%20Madrid",
+        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Atletico Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atletico%20Madrid",
-        "pubdate": "Wed, 02 Oct 2024 21:00:00 +0300"
+        "title": "Kericho Governor impeachment",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kericho%20Governor%20impeachment",
+        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Dinamo Zagreb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dinamo%20Zagreb",
         "pubdate": "Wed, 02 Oct 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Hustler Fund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Hustler%20Fund",
-        "pubdate": "Wed, 02 Oct 2024 18:00:00 +0300"
       }
     ]
   ]
