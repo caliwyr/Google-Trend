@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-10-2024 , 21:49:45",
+  "lastUpdate": "03-10-2024 , 21:59:07",
   "data": [
+    [
+      {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#MLS",
+        "pubdate": "Thu, 03 Oct 2024 01:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Porto vs Man United",
@@ -12,7 +19,7 @@
       {
         "title": "Oasis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oasis",
-        "pubdate": "Thu, 03 Oct 2024 14:00:00 -0400"
+        "pubdate": "Thu, 03 Oct 2024 11:00:00 -0400"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Jennifer Aniston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jennifer%20Aniston",
-        "pubdate": "Thu, 03 Oct 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Lucas Coly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lucas%20Coly",
         "pubdate": "Thu, 03 Oct 2024 16:00:00 -0400"
@@ -73,9 +73,37 @@
     ],
     [
       {
+        "title": "Jennifer Aniston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jennifer%20Aniston",
+        "pubdate": "Thu, 03 Oct 2024 15:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "October 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#October%203",
         "pubdate": "Thu, 03 Oct 2024 16:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20United",
+        "pubdate": "Thu, 03 Oct 2024 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Frank Stronach",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Frank%20Stronach",
+        "pubdate": "Thu, 03 Oct 2024 17:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Mean Girls",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mean%20Girls",
+        "pubdate": "Thu, 03 Oct 2024 17:00:00 -0400"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Rosh Hashanah",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rosh%20Hashanah",
         "pubdate": "Wed, 02 Oct 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Anemone Daniel Day-Lewis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Anemone%20Daniel%20Day-Lewis",
-        "pubdate": "Wed, 02 Oct 2024 02:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Julienne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Julienne",
-        "pubdate": "Wed, 02 Oct 2024 08:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inter%20Miami",
-        "pubdate": "Wed, 02 Oct 2024 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aston%20Villa",
-        "pubdate": "Wed, 02 Oct 2024 16:00:00 -0400"
       }
     ]
   ]
