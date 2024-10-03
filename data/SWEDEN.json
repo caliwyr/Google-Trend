@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2024 , 19:45:31",
+  "lastUpdate": "03-10-2024 , 19:54:52",
   "data": [
     [
       {
@@ -17,9 +17,30 @@
     ],
     [
       {
+        "title": "Qarabag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Qarabag",
+        "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zlatan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zlatan",
+        "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Strul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Strul",
         "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gift vid första ögonkastet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gift%20vid%20f%C3%B6rsta%20%C3%B6gonkastet",
+        "pubdate": "Thu, 03 Oct 2024 11:00:00 +0200"
       }
     ],
     [
@@ -31,16 +52,9 @@
     ],
     [
       {
-        "title": "IFK Norrköping",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20Norrk%C3%B6ping",
-        "pubdate": "Thu, 03 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zlatan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zlatan",
-        "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
+        "title": "Kanelbulle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kanelbulle",
+        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0200"
       }
     ],
     [
@@ -55,13 +69,6 @@
         "title": "Österåker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#%C3%96ster%C3%A5ker",
         "pubdate": "Thu, 03 Oct 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Parisa Amiri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Parisa%20Amiri",
-        "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Förrädarna 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rr%C3%A4darna%202024",
-        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aston%20Villa",
         "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Michael%20Schumacher",
-        "pubdate": "Wed, 02 Oct 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
         "pubdate": "Wed, 02 Oct 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Millie Bobby Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Millie%20Bobby%20Brown",
-        "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Jordanien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jordanien",
         "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Studsvik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Studsvik",
+        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Förrädarna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rr%C3%A4darna",
+        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
       }
     ]
   ]
