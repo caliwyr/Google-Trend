@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2024 , 11:45:52",
+  "lastUpdate": "03-10-2024 , 11:55:08",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "JD Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JD%20Vance",
-        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Marburgvirus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marburgvirus",
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
@@ -31,9 +24,9 @@
     ],
     [
       {
-        "title": "Förrädarna 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rr%C3%A4darna%202024",
-        "pubdate": "Wed, 02 Oct 2024 14:00:00 +0200"
+        "title": "JD Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JD%20Vance",
+        "pubdate": "Wed, 02 Oct 2024 08:00:00 +0200"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Förrädarna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F%C3%B6rr%C3%A4darna",
+        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Laura Illeborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Laura%20Illeborg",
         "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Marcus Oscarsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marcus%20Oscarsson",
+        "pubdate": "Wed, 02 Oct 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Milan",
         "pubdate": "Wed, 02 Oct 2024 12:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Champions%20League",
         "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Iran",
-        "pubdate": "Tue, 01 Oct 2024 19:00:00 +0200"
       }
     ]
   ]
