@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-10-2024 , 18:36:49",
+  "lastUpdate": "03-10-2024 , 18:48:49",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Road closures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Road%20closures",
+        "pubdate": "Thu, 03 Oct 2024 19:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "South Africa vs Ireland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#South%20Africa%20vs%20Ireland",
         "pubdate": "Thu, 03 Oct 2024 09:00:00 +1300"
@@ -132,13 +139,6 @@
         "title": "Laneway",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Laneway",
         "pubdate": "Wed, 02 Oct 2024 17:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Michael%20Schumacher",
-        "pubdate": "Wed, 02 Oct 2024 12:00:00 +1300"
       }
     ]
   ]
