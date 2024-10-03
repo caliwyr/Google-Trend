@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-10-2024 , 08:50:28",
+  "lastUpdate": "03-10-2024 , 08:59:43",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
+        "pubdate": "Thu, 03 Oct 2024 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Tag der Deutschen Einheit",
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Aston Villa – Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aston%20Villa%20%E2%80%93%20Bayern",
-        "pubdate": "Wed, 02 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
         "pubdate": "Wed, 02 Oct 2024 21:00:00 +0200"
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Salt Störung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Salt%20St%C3%B6rung",
-        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Liverpool – Bologna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20%E2%80%93%20Bologna",
         "pubdate": "Wed, 02 Oct 2024 22:00:00 +0200"
@@ -115,6 +108,13 @@
     ],
     [
       {
+        "title": "Salt Störung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Salt%20St%C3%B6rung",
+        "pubdate": "Wed, 02 Oct 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Millie Bobby Brown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Millie%20Bobby%20Brown",
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Schumacher",
-        "pubdate": "Wed, 02 Oct 2024 00:00:00 +0200"
+        "title": "Blauzungenkrankheit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blauzungenkrankheit",
+        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Blauzungenkrankheit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blauzungenkrankheit",
-        "pubdate": "Wed, 02 Oct 2024 17:00:00 +0200"
+        "title": "Foppa Flims",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Foppa%20Flims",
+        "pubdate": "Wed, 02 Oct 2024 23:00:00 +0200"
       }
     ]
   ]
