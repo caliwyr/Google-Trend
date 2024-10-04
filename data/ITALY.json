@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2024 , 18:31:19",
+  "lastUpdate": "04-10-2024 , 18:45:52",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Bonucci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Bonucci",
         "pubdate": "Fri, 04 Oct 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pogba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pogba",
+        "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
       }
     ],
     [
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Pogba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pogba",
-        "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
+        "title": "Traversara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Traversara",
+        "pubdate": "Fri, 04 Oct 2024 09:00:00 +0200"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Nico Paz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nico%20Paz",
-        "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mandragora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Mandragora",
         "pubdate": "Fri, 04 Oct 2024 13:00:00 +0200"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Grotesquerie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Grotesquerie",
-        "pubdate": "Fri, 04 Oct 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Inter-Torino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Inter-Torino",
         "pubdate": "Fri, 04 Oct 2024 17:00:00 +0200"
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "Il Buco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20Buco",
+        "title": "Sampdoria-Juve Stabia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sampdoria-Juve%20Stabia",
+        "pubdate": "Fri, 04 Oct 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Il buco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Il%20buco",
         "pubdate": "Fri, 04 Oct 2024 18:00:00 +0200"
       }
     ]
