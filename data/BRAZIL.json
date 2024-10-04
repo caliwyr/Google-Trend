@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-10-2024 , 23:45:35",
+  "lastUpdate": "04-10-2024 , 23:55:01",
   "data": [
     [
       {
@@ -13,6 +13,20 @@
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Napoli",
         "pubdate": "Fri, 04 Oct 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Fortaleza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza",
+        "pubdate": "Fri, 04 Oct 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "América-MG x Coritiba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-MG%20x%20Coritiba",
+        "pubdate": "Fri, 04 Oct 2024 13:00:00 -0500"
       }
     ],
     [
@@ -31,30 +45,9 @@
     ],
     [
       {
-        "title": "América-MG x Coritiba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-MG%20x%20Coritiba",
-        "pubdate": "Fri, 04 Oct 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Grêmio x Fortaleza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gr%C3%AAmio%20x%20Fortaleza",
-        "pubdate": "Fri, 04 Oct 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "O Poço 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#O%20Po%C3%A7o%202",
         "pubdate": "Fri, 04 Oct 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vitoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
-        "pubdate": "Fri, 04 Oct 2024 07:00:00 -0500"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Vitoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
+        "pubdate": "Fri, 04 Oct 2024 07:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Valencia FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Valencia%20FC",
         "pubdate": "Fri, 04 Oct 2024 13:00:00 -0500"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Boulos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Boulos",
-        "pubdate": "Fri, 04 Oct 2024 09:00:00 -0500"
+        "title": "CRB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
+        "pubdate": "Fri, 04 Oct 2024 13:00:00 -0500"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "CRB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CRB",
-        "pubdate": "Fri, 04 Oct 2024 13:00:00 -0500"
+        "title": "Mercado Li",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mercado%20Li",
+        "pubdate": "Fri, 04 Oct 2024 08:00:00 -0500"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Bahia x Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20Flamengo",
+        "pubdate": "Fri, 04 Oct 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Regina Volpato",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Regina%20Volpato",
         "pubdate": "Fri, 04 Oct 2024 11:00:00 -0500"
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Bahia x Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bahia%20x%20Flamengo",
-        "pubdate": "Fri, 04 Oct 2024 11:00:00 -0500"
+        "title": "Novorizontino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novorizontino",
+        "pubdate": "Fri, 04 Oct 2024 15:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "UFC 307",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UFC%20307",
         "pubdate": "Fri, 04 Oct 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Novorizontino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novorizontino",
-        "pubdate": "Fri, 04 Oct 2024 15:00:00 -0500"
       }
     ]
   ]
