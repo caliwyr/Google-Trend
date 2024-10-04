@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-10-2024 , 03:45:48",
+  "lastUpdate": "04-10-2024 , 03:55:01",
   "data": [
-    [
-      {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Kamala Harris",
@@ -20,6 +13,13 @@
         "title": "Titanic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Titanic",
         "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Beşiktaş – Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Be%C5%9Fikta%C5%9F%20%E2%80%93%20Eintracht%20Frankfurt",
+        "pubdate": "Fri, 04 Oct 2024 05:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "SBB: Störungen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SBB:%20St%C3%B6rungen",
+        "pubdate": "Thu, 03 Oct 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Lugano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Lugano",
         "pubdate": "Thu, 03 Oct 2024 20:00:00 +0200"
@@ -80,15 +87,15 @@
     ],
     [
       {
-        "title": "SBB: Störungen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SBB:%20St%C3%B6rungen",
-        "pubdate": "Thu, 03 Oct 2024 09:00:00 +0200"
+        "title": "Inter Miami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Miami",
+        "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20Miami",
+        "title": "Tessa Ganserer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tessa%20Ganserer",
         "pubdate": "Thu, 03 Oct 2024 08:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "FC Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Porto",
         "pubdate": "Thu, 03 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Heartstopper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heartstopper",
-        "pubdate": "Thu, 03 Oct 2024 20:00:00 +0200"
       }
     ]
   ]
