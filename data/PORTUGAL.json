@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "04-10-2024 , 10:38:49",
+  "lastUpdate": "04-10-2024 , 10:48:10",
   "data": [
-    [
-      {
-        "title": "Solar dos Presuntos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Solar%20dos%20Presuntos",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
         "pubdate": "Fri, 04 Oct 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Festa Solar dos Presuntos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Festa%20Solar%20dos%20Presuntos",
+        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0100"
       }
     ],
     [
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "IRS Jovem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#IRS%20Jovem",
-        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0100"
+        "title": "Eminem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eminem",
+        "pubdate": "Thu, 03 Oct 2024 23:00:00 +0100"
       }
     ],
     [
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Eminem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Eminem",
-        "pubdate": "Thu, 03 Oct 2024 23:00:00 +0100"
+        "title": "IRS Jovem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#IRS%20Jovem",
+        "pubdate": "Thu, 03 Oct 2024 22:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Samu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Samu",
-        "pubdate": "Thu, 03 Oct 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Roberto Carlos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roberto%20Carlos",
         "pubdate": "Thu, 03 Oct 2024 22:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Luisinha Oliveira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luisinha%20Oliveira",
         "pubdate": "Thu, 03 Oct 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marburg virus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marburg%20virus",
+        "pubdate": "Thu, 03 Oct 2024 00:00:00 +0100"
       }
     ]
   ]
