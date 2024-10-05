@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "05-10-2024 , 23:37:48",
+  "lastUpdate": "05-10-2024 , 23:47:23",
   "data": [
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Madrid",
         "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Beatrice Dalle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beatrice%20Dalle",
+        "pubdate": "Sun, 06 Oct 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Lara Fabian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lara%20Fabian",
+        "pubdate": "Sun, 06 Oct 2024 01:00:00 +0200"
       }
     ],
     [
@@ -31,6 +45,13 @@
     ],
     [
       {
+        "title": "Anderlecht Standard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20Standard",
+        "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rennes – Monaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rennes%20%E2%80%93%20Monaco",
         "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
@@ -38,9 +59,9 @@
     ],
     [
       {
-        "title": "Anderlecht - Standard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20-%20Standard",
-        "pubdate": "Sun, 06 Oct 2024 00:00:00 +0200"
+        "title": "Kendji Girac",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kendji%20Girac",
+        "pubdate": "Sun, 06 Oct 2024 01:00:00 +0200"
       }
     ],
     [
@@ -59,23 +80,9 @@
     ],
     [
       {
-        "title": "Kortrijk  Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kortrijk%20%20Genk",
-        "pubdate": "Sat, 05 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "WK GRAVEL 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WK%20GRAVEL%202024",
         "pubdate": "Sat, 05 Oct 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mechelen  OHL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mechelen%20%20OHL",
-        "pubdate": "Sat, 05 Oct 2024 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
         "pubdate": "Sat, 05 Oct 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Greta Thunberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Greta%20Thunberg",
-        "pubdate": "Sat, 05 Oct 2024 18:00:00 +0200"
       }
     ]
   ]
