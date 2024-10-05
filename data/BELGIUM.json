@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-10-2024 , 12:39:22",
+  "lastUpdate": "05-10-2024 , 13:01:08",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoli",
-        "pubdate": "Sat, 05 Oct 2024 02:00:00 +0200"
+        "title": "WK gravel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WK%20gravel",
+        "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Crystal Palace – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Crystal%20Palace%20%E2%80%93%20Liverpool",
+        "pubdate": "Sat, 05 Oct 2024 14:00:00 +0200"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "Aaron Blommaert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aaron%20Blommaert",
         "pubdate": "Sat, 05 Oct 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoli",
+        "pubdate": "Sat, 05 Oct 2024 02:00:00 +0200"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "RSCA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSCA",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
+        "title": "Matte Smets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Matte%20Smets",
+        "pubdate": "Fri, 04 Oct 2024 12:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Westerlo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Westerlo",
         "pubdate": "Fri, 04 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Matte Smets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Matte%20Smets",
-        "pubdate": "Fri, 04 Oct 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "La Plateforme 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Plateforme%202",
-        "pubdate": "Fri, 04 Oct 2024 19:00:00 +0200"
       }
     ]
   ]
