@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-10-2024 , 02:21:48",
+  "lastUpdate": "05-10-2024 , 02:58:35",
   "data": [
-    [
-      {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Titanic",
-        "pubdate": "Sat, 05 Oct 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Manchester United",
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Galatasaray",
-        "pubdate": "Fri, 04 Oct 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "National Vodka Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#National%20Vodka%20Day",
         "pubdate": "Fri, 04 Oct 2024 16:00:00 +0200"
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Ferencváros  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ferencv%C3%A1ros%20%20Tottenham",
-        "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "National Boyfriend Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#National%20Boyfriend%20Day",
         "pubdate": "Thu, 03 Oct 2024 13:00:00 +0200"
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Ferencváros  Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ferencv%C3%A1ros%20%20Tottenham",
+        "pubdate": "Thu, 03 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
         "pubdate": "Thu, 03 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Melania Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Melania%20Trump",
+        "pubdate": "Thu, 03 Oct 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heartstopper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Heartstopper",
+        "pubdate": "Thu, 03 Oct 2024 18:00:00 +0200"
       }
     ]
   ]
