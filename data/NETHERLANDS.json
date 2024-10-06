@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "06-10-2024 , 03:38:54",
+  "lastUpdate": "06-10-2024 , 03:49:26",
   "data": [
     [
       {
-        "title": "Utrecht - RKC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20-%20RKC",
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Sat, 05 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Utrecht  RKC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20%20RKC",
         "pubdate": "Sat, 05 Oct 2024 21:00:00 +0200"
       }
     ],
@@ -13,13 +20,6 @@
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Sat, 05 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NAC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
-        "pubdate": "Sat, 05 Oct 2024 19:00:00 +0200"
       }
     ],
     [
@@ -40,13 +40,6 @@
       {
         "title": "Marianne Vos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marianne%20Vos",
-        "pubdate": "Sat, 05 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rusland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rusland",
         "pubdate": "Sat, 05 Oct 2024 19:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Amersfoort",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Amersfoort",
         "pubdate": "Mon, 30 Sep 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Atletico%20Madrid",
+        "pubdate": "Mon, 30 Sep 2024 00:00:00 +0200"
       }
     ]
   ]
