@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-10-2024 , 23:46:02",
+  "lastUpdate": "06-10-2024 , 23:55:32",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle",
+        "pubdate": "Sun, 06 Oct 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Milan",
         "pubdate": "Sun, 06 Oct 2024 16:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter",
         "pubdate": "Sun, 06 Oct 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Keir Starmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Keir%20Starmer",
-        "pubdate": "Sun, 06 Oct 2024 22:00:00 +0100"
       }
     ]
   ]
