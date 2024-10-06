@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-10-2024 , 11:46:06",
+  "lastUpdate": "06-10-2024 , 11:55:24",
   "data": [
     [
       {
@@ -52,16 +52,16 @@
     ],
     [
       {
-        "title": "Texas A&M football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20A%26M%20football",
-        "pubdate": "Sat, 05 Oct 2024 09:00:00 -0700"
+        "title": "MLB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MLB",
+        "pubdate": "Sat, 05 Oct 2024 22:00:00 -0700"
       }
     ],
     [
       {
-        "title": "MLB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MLB",
-        "pubdate": "Sat, 05 Oct 2024 22:00:00 -0700"
+        "title": "Texas A&M football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20A%26M%20football",
+        "pubdate": "Sat, 05 Oct 2024 09:00:00 -0700"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Auburn vs Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Auburn%20vs%20Georgia",
-        "pubdate": "Sat, 05 Oct 2024 13:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Michigan vs Washington",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Michigan%20vs%20Washington",
         "pubdate": "Sat, 05 Oct 2024 17:00:00 -0700"
@@ -108,8 +101,22 @@
     ],
     [
       {
+        "title": "Iowa football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Iowa%20football",
+        "pubdate": "Sat, 05 Oct 2024 16:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Cal football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cal%20football",
+        "pubdate": "Sat, 05 Oct 2024 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "South Carolina football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#South%20Carolina%20football",
         "pubdate": "Sat, 05 Oct 2024 10:00:00 -0700"
       }
     ],
@@ -122,22 +129,15 @@
     ],
     [
       {
-        "title": "UCLA vs Penn State",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UCLA%20vs%20Penn%20State",
-        "pubdate": "Sat, 05 Oct 2024 10:00:00 -0700"
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elon%20Musk",
+        "pubdate": "Sat, 05 Oct 2024 17:00:00 -0700"
       }
     ],
     [
       {
         "title": "Ashton Jeanty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ashton%20Jeanty",
-        "pubdate": "Sat, 05 Oct 2024 17:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elon%20Musk",
         "pubdate": "Sat, 05 Oct 2024 17:00:00 -0700"
       }
     ]

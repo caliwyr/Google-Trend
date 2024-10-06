@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-10-2024 , 11:46:06",
+  "lastUpdate": "06-10-2024 , 11:55:24",
   "data": [
+    [
+      {
+        "title": "Ried – St. Pölten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ried%20%E2%80%93%20St.%20P%C3%B6lten",
+        "pubdate": "Sun, 06 Oct 2024 11:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Trump",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Lange Nacht der Museen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lange%20Nacht%20der%20Museen",
-        "pubdate": "Sat, 05 Oct 2024 00:00:00 +0200"
+        "title": "Jack Doherty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jack%20Doherty",
+        "pubdate": "Sun, 06 Oct 2024 11:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,23 @@
     ],
     [
       {
+        "title": "Lange Nacht der Museen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lange%20Nacht%20der%20Museen",
+        "pubdate": "Sat, 05 Oct 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Probealarm Österreich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Probealarm%20%C3%96sterreich",
         "pubdate": "Sat, 05 Oct 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Austria – GAK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20%E2%80%93%20GAK",
+        "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "GAK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GAK",
-        "pubdate": "Sat, 05 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jannik Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jannik%20Sinner",
         "pubdate": "Sat, 05 Oct 2024 09:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "MÜNCHEN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#M%C3%9CNCHEN",
+        "title": "München",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#M%C3%BCnchen",
         "pubdate": "Sat, 05 Oct 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Werder Bremen – Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Werder%20Bremen%20%E2%80%93%20Freiburg",
-        "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bochum – Wolfsburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bochum%20%E2%80%93%20Wolfsburg",
-        "pubdate": "Sat, 05 Oct 2024 17:00:00 +0200"
       }
     ]
   ]
