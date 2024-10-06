@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-10-2024 , 09:39:42",
+  "lastUpdate": "06-10-2024 , 09:49:11",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Buffalo Sabres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Buffalo%20Sabres",
+        "pubdate": "Sat, 05 Oct 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Stanley Tucci",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Stanley%20Tucci",
         "pubdate": "Sat, 05 Oct 2024 16:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20United",
         "pubdate": "Fri, 04 Oct 2024 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Levi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Levi",
-        "pubdate": "Fri, 04 Oct 2024 22:00:00 +0300"
       }
     ]
   ]
