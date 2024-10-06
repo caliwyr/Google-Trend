@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-10-2024 , 01:26:16",
+  "lastUpdate": "06-10-2024 , 02:41:58",
   "data": [
+    [
+      {
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund",
+        "pubdate": "Sun, 06 Oct 2024 02:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Real Madrid vs Villarreal",
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Bayer Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayer%20Leverkusen",
-        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al-Nassr",
         "pubdate": "Sat, 05 Oct 2024 20:00:00 +0100"
@@ -90,6 +90,13 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20FC",
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bayer Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayer%20Leverkusen",
+        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Chelsea vs Nottingham Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20vs%20Nottingham%20Forest",
-        "pubdate": "Sat, 05 Oct 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aston%20Villa%20vs%20Man%20United",
-        "pubdate": "Sat, 05 Oct 2024 19:00:00 +0100"
+        "title": "Burnley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Burnley",
+        "pubdate": "Sat, 05 Oct 2024 15:00:00 +0100"
       }
     ]
   ]
