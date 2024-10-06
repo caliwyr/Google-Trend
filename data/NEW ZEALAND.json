@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-10-2024 , 14:42:43",
+  "lastUpdate": "06-10-2024 , 14:52:00",
   "data": [
-    [
-      {
-        "title": "Earthquake Wellington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake%20Wellington",
-        "pubdate": "Sun, 06 Oct 2024 06:00:00 +1300"
-      }
-    ],
     [
       {
         "title": "UFC",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Earthquake Wellington",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake%20Wellington",
+        "pubdate": "Sun, 06 Oct 2024 06:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "HMNZS Manawanui",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#HMNZS%20Manawanui",
         "pubdate": "Sun, 06 Oct 2024 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
+        "pubdate": "Sun, 06 Oct 2024 06:00:00 +1300"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Mario Bautista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Mario%20Bautista",
-        "pubdate": "Sun, 06 Oct 2024 17:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Kevin Holland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Kevin%20Holland",
         "pubdate": "Sun, 06 Oct 2024 17:00:00 +1300"
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Arsenal vs Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal%20vs%20Southampton",
-        "pubdate": "Sun, 06 Oct 2024 08:00:00 +1300"
+        "title": "Jack Doherty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jack%20Doherty",
+        "pubdate": "Sun, 06 Oct 2024 18:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Jack Doherty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jack%20Doherty",
-        "pubdate": "Sun, 06 Oct 2024 18:00:00 +1300"
+        "title": "Arsenal vs Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal%20vs%20Southampton",
+        "pubdate": "Sun, 06 Oct 2024 08:00:00 +1300"
       }
     ],
     [
@@ -110,6 +110,13 @@
       {
         "title": "Northern Club",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Northern%20Club",
+        "pubdate": "Sun, 06 Oct 2024 17:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Jose Aldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jose%20Aldo",
         "pubdate": "Sun, 06 Oct 2024 17:00:00 +1300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NBA",
         "pubdate": "Sat, 05 Oct 2024 14:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Ne-Yo Auckland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ne-Yo%20Auckland",
-        "pubdate": "Sat, 05 Oct 2024 10:00:00 +1300"
       }
     ]
   ]
