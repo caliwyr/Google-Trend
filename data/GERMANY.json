@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-10-2024 , 10:38:11",
+  "lastUpdate": "06-10-2024 , 10:47:32",
   "data": [
+    [
+      {
+        "title": "Carvajal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Carvajal",
+        "pubdate": "Sun, 06 Oct 2024 04:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Hertha BSC",
@@ -132,13 +139,6 @@
         "title": "AfD-Verbot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#AfD-Verbot",
         "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hertha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha",
-        "pubdate": "Sun, 29 Sep 2024 16:00:00 +0200"
       }
     ]
   ]
