@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-10-2024 , 17:52:10",
+  "lastUpdate": "07-10-2024 , 18:11:59",
   "data": [
     [
       {
@@ -17,8 +17,15 @@
     ],
     [
       {
-        "title": "12 de octubre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#12%20de%20octubre",
+        "title": "Hospital Bonaparte",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Hospital%20Bonaparte",
+        "pubdate": "Mon, 07 Oct 2024 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Viernes 11 de octubre es feriado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Viernes%2011%20de%20octubre%20es%20feriado",
         "pubdate": "Mon, 07 Oct 2024 09:00:00 -0300"
       }
     ],
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Cavani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cavani",
-        "pubdate": "Mon, 07 Oct 2024 11:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "San Pedro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Pedro",
         "pubdate": "Mon, 07 Oct 2024 13:00:00 -0300"
@@ -76,6 +76,13 @@
         "title": "Silent Hill 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Silent%20Hill%202",
         "pubdate": "Mon, 07 Oct 2024 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Cavani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cavani",
+        "pubdate": "Mon, 07 Oct 2024 11:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Chelsea  Nottingham Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chelsea%20%20Nottingham%20Forest",
         "pubdate": "Sun, 06 Oct 2024 10:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#UFC",
-        "pubdate": "Sun, 06 Oct 2024 00:00:00 -0300"
       }
     ]
   ]
