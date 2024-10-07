@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-10-2024 , 12:38:10",
+  "lastUpdate": "07-10-2024 , 13:04:50",
   "data": [
+    [
+      {
+        "title": "Arthur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Arthur",
+        "pubdate": "Mon, 07 Oct 2024 09:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "7 octobre",
@@ -27,6 +34,13 @@
         "title": "Gravel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gravel",
         "pubdate": "Mon, 07 Oct 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Président algérien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pr%C3%A9sident%20alg%C3%A9rien",
+        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Hong Kong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Hong%20Kong",
-        "pubdate": "Sun, 06 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "OL Nantes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OL%20Nantes",
         "pubdate": "Sun, 06 Oct 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "OGC Nice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OGC%20Nice",
-        "pubdate": "Sun, 06 Oct 2024 22:00:00 +0200"
       }
     ]
   ]
