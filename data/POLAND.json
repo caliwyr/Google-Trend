@@ -1,39 +1,25 @@
 {
-  "lastUpdate": "07-10-2024 , 11:47:58",
+  "lastUpdate": "07-10-2024 , 11:57:15",
   "data": [
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bayern",
-        "pubdate": "Mon, 07 Oct 2024 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liga Narodów",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liga%20Narod%C3%B3w",
-        "pubdate": "Mon, 07 Oct 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Dzień Nauczyciela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Nauczyciela",
+        "title": "Dzien Nauczyciela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzien%20Nauczyciela",
         "pubdate": "Mon, 07 Oct 2024 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Czarnek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Czarnek",
-        "pubdate": "Mon, 07 Oct 2024 05:00:00 +0200"
+        "title": "Grzyby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Grzyby",
+        "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Nicola Zalewski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nicola%20Zalewski",
-        "pubdate": "Mon, 07 Oct 2024 08:00:00 +0200"
+        "title": "Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bayern",
+        "pubdate": "Mon, 07 Oct 2024 03:00:00 +0200"
       }
     ],
     [
@@ -45,9 +31,37 @@
     ],
     [
       {
+        "title": "Nicola Zalewski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nicola%20Zalewski",
+        "pubdate": "Mon, 07 Oct 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dzień Edukacji Narodowej",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Dzie%C5%84%20Edukacji%20Narodowej",
+        "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cinkciarz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cinkciarz",
+        "pubdate": "Mon, 07 Oct 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jowita Przystał",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jowita%20Przysta%C5%82",
         "pubdate": "Mon, 07 Oct 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Romanowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Romanowski",
+        "pubdate": "Mon, 07 Oct 2024 13:00:00 +0200"
       }
     ],
     [
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "Najdłuższa Autostrada w polsce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Najd%C5%82u%C5%BCsza%20Autostrada%20w%20polsce",
+        "pubdate": "Sun, 06 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Pogoń Szczecin – Piast",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pogo%C5%84%20Szczecin%20%E2%80%93%20Piast",
         "pubdate": "Sun, 06 Oct 2024 17:00:00 +0200"
@@ -83,13 +104,6 @@
         "title": "Urszula Kozioł",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Urszula%20Kozio%C5%82",
         "pubdate": "Sun, 06 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Najdłuższa Autostrada w polsce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Najd%C5%82u%C5%BCsza%20Autostrada%20w%20polsce",
-        "pubdate": "Sun, 06 Oct 2024 19:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Silent Hill 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Silent%20Hill%202",
-        "pubdate": "Sun, 06 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Odra Opole – Arka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Odra%20Opole%20%E2%80%93%20Arka",
         "pubdate": "Sun, 06 Oct 2024 15:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Silent Hill 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Silent%20Hill%202",
+        "pubdate": "Sun, 06 Oct 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Michaił Chodorkowski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Michai%C5%82%20Chodorkowski",
         "pubdate": "Sun, 06 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Santor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Santor",
-        "pubdate": "Sun, 06 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kayah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kayah",
-        "pubdate": "Sun, 06 Oct 2024 16:00:00 +0200"
       }
     ]
   ]
