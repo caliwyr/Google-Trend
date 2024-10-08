@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-10-2024 , 10:46:12",
+  "lastUpdate": "08-10-2024 , 10:55:25",
   "data": [
+    [
+      {
+        "title": "Hurrikan Milton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hurrikan%20Milton",
+        "pubdate": "Tue, 08 Oct 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Captagon",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Hurrikan Milton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hurrikan%20Milton",
-        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Johan Neeskens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Johan%20Neeskens",
         "pubdate": "Mon, 07 Oct 2024 18:00:00 +0200"
@@ -34,6 +34,13 @@
         "title": "Pflegeversicherung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Pflegeversicherung",
         "pubdate": "Mon, 07 Oct 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hurrikan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hurrikan",
+        "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Werder Bremen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
         "pubdate": "Sun, 29 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
-        "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
       }
     ]
   ]
