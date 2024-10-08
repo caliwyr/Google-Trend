@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2024 , 06:40:21",
+  "lastUpdate": "08-10-2024 , 06:51:10",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Sun, 06 Oct 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Orkaan Kirk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Orkaan%20Kirk",
+        "pubdate": "Sun, 06 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Stoptober",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stoptober",
         "pubdate": "Mon, 30 Sep 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Sun, 29 Sep 2024 22:00:00 +0200"
       }
     ]
   ]
