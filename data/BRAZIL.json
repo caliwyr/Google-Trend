@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2024 , 04:47:40",
+  "lastUpdate": "08-10-2024 , 04:57:09",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Santos FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20FC",
         "pubdate": "Mon, 07 Oct 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Leonardo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leonardo",
+        "pubdate": "Mon, 07 Oct 2024 14:00:00 -0500"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Silvio Almeida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Silvio%20Almeida",
-        "pubdate": "Mon, 07 Oct 2024 09:00:00 -0500"
+        "title": "Rússia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#R%C3%BAssia",
+        "pubdate": "Mon, 07 Oct 2024 21:00:00 -0500"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Silvio Almeida",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Silvio%20Almeida",
+        "pubdate": "Mon, 07 Oct 2024 09:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "IEM Rio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#IEM%20Rio",
         "pubdate": "Mon, 07 Oct 2024 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Rússia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#R%C3%BAssia",
-        "pubdate": "Mon, 07 Oct 2024 21:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Marquito",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marquito",
-        "pubdate": "Mon, 07 Oct 2024 06:00:00 -0500"
       }
     ]
   ]
