@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-10-2024 , 18:45:59",
+  "lastUpdate": "08-10-2024 , 18:55:13",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Tesla Model 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20Model%203",
         "pubdate": "Tue, 08 Oct 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Island",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Island",
+        "pubdate": "Tue, 08 Oct 2024 19:00:00 +0200"
       }
     ],
     [
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "Florida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Florida",
+        "title": "Hurricane Milton track",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hurricane%20Milton%20track",
         "pubdate": "Mon, 07 Oct 2024 20:00:00 +0200"
       }
     ],
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FC%20Barcelona",
+        "pubdate": "Mon, 07 Oct 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Nations League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nations%20League",
         "pubdate": "Mon, 07 Oct 2024 15:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Putin",
         "pubdate": "Mon, 07 Oct 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa  Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aston%20Villa%20%20Man%20utd",
-        "pubdate": "Sun, 06 Oct 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Madonna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Madonna",
-        "pubdate": "Sun, 06 Oct 2024 20:00:00 +0200"
       }
     ]
   ]
