@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-10-2024 , 13:51:35",
+  "lastUpdate": "08-10-2024 , 14:07:50",
   "data": [
-    [
-      {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla",
-        "pubdate": "Tue, 08 Oct 2024 15:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Lisa Marie Presley",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Riley Keough",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Riley%20Keough",
-        "pubdate": "Tue, 08 Oct 2024 12:00:00 +0300"
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla",
+        "pubdate": "Tue, 08 Oct 2024 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Cristiano Ronaldo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cristiano%20Ronaldo",
+        "pubdate": "Tue, 08 Oct 2024 15:00:00 +0300"
       }
     ],
     [
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Cristiano Ronaldo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cristiano%20Ronaldo",
-        "pubdate": "Tue, 08 Oct 2024 15:00:00 +0300"
+        "title": "Johan Neeskens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Johan%20Neeskens",
+        "pubdate": "Tue, 08 Oct 2024 16:00:00 +0300"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Madonna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Madonna",
         "pubdate": "Mon, 07 Oct 2024 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Putin",
-        "pubdate": "Mon, 07 Oct 2024 23:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Chelsea – Nottingham Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chelsea%20%E2%80%93%20Nottingham%20Forest",
         "pubdate": "Sun, 06 Oct 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Brighton – Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Brighton%20%E2%80%93%20Tottenham",
+        "pubdate": "Sun, 06 Oct 2024 22:00:00 +0300"
       }
     ]
   ]
