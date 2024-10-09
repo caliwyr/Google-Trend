@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-10-2024 , 11:38:05",
+  "lastUpdate": "09-10-2024 , 11:47:35",
   "data": [
     [
       {
         "title": "NHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NHL",
         "pubdate": "Wed, 09 Oct 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dodgers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dodgers",
+        "pubdate": "Wed, 09 Oct 2024 01:00:00 -0400"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Geoffrey Hinton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Geoffrey%20Hinton",
-        "pubdate": "Tue, 08 Oct 2024 09:00:00 -0400"
+        "title": "Coldplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Coldplay",
+        "pubdate": "Tue, 08 Oct 2024 11:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Coldplay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Coldplay",
-        "pubdate": "Tue, 08 Oct 2024 11:00:00 -0400"
+        "title": "Geoffrey Hinton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Geoffrey%20Hinton",
+        "pubdate": "Tue, 08 Oct 2024 09:00:00 -0400"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Jessica Campbell",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jessica%20Campbell",
         "pubdate": "Tue, 08 Oct 2024 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Wind warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wind%20warning",
+        "pubdate": "Tue, 08 Oct 2024 20:00:00 -0400"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Aurora borealis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Aurora%20borealis",
-        "pubdate": "Tue, 08 Oct 2024 02:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Ali Wong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Ali%20Wong",
         "pubdate": "Tue, 08 Oct 2024 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Garth Brooks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Garth%20Brooks",
-        "pubdate": "Tue, 08 Oct 2024 17:00:00 -0400"
       }
     ]
   ]
