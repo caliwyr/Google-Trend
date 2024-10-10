@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-10-2024 , 23:56:38",
+  "lastUpdate": "10-10-2024 , 01:19:54",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "NHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NHL",
+        "pubdate": "Wed, 09 Oct 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Banksy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Banksy",
         "pubdate": "Wed, 09 Oct 2024 07:00:00 +0200"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Witherspoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Witherspoon",
+        "title": "Greta Thunberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Greta%20Thunberg",
         "pubdate": "Wed, 09 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Yamaha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yamaha",
-        "pubdate": "Wed, 09 Oct 2024 20:00:00 +0200"
       }
     ]
   ]
