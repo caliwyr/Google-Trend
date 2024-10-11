@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-10-2024 , 01:16:26",
+  "lastUpdate": "11-10-2024 , 02:31:02",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Internet Archive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Internet%20Archive",
         "pubdate": "Fri, 11 Oct 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Art Rooijakkers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Art%20Rooijakkers",
-        "pubdate": "Thu, 10 Oct 2024 08:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Sneek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneek",
-        "pubdate": "Thu, 10 Oct 2024 15:00:00 +0200"
+        "title": "Art Rooijakkers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Art%20Rooijakkers",
+        "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Johan Neeskens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johan%20Neeskens",
         "pubdate": "Mon, 07 Oct 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Heracles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
+        "pubdate": "Sun, 06 Oct 2024 15:00:00 +0200"
       }
     ]
   ]
