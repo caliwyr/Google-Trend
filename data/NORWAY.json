@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-10-2024 , 20:49:15",
+  "lastUpdate": "11-10-2024 , 20:58:31",
   "data": [
-    [
-      {
-        "title": "Nihon Hidankyo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nihon%20Hidankyo",
-        "pubdate": "Fri, 11 Oct 2024 10:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Kaizers Orchestra",
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Sophie Elise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sophie%20Elise",
-        "pubdate": "Fri, 11 Oct 2024 13:00:00 +0200"
+        "title": "Bent Høie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bent%20H%C3%B8ie",
+        "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
       }
     ],
     [
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Bent Høie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bent%20H%C3%B8ie",
-        "pubdate": "Fri, 11 Oct 2024 21:00:00 +0200"
+        "title": "Komet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Komet",
+        "pubdate": "Fri, 11 Oct 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Live Nelvik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Live%20Nelvik",
+        "pubdate": "Fri, 11 Oct 2024 07:00:00 +0200"
       }
     ],
     [
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Komet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Komet",
+        "title": "Nils Ole Oftebro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nils%20Ole%20Oftebro",
         "pubdate": "Fri, 11 Oct 2024 20:00:00 +0200"
       }
     ],
@@ -66,23 +66,9 @@
     ],
     [
       {
-        "title": "Nils Ole Oftebro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nils%20Ole%20Oftebro",
-        "pubdate": "Fri, 11 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#England",
         "pubdate": "Fri, 11 Oct 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Live Nelvik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Live%20Nelvik",
-        "pubdate": "Fri, 11 Oct 2024 07:00:00 +0200"
       }
     ],
     [
@@ -115,6 +101,13 @@
     ],
     [
       {
+        "title": "Nihon Hidankyo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nihon%20Hidankyo",
+        "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Han Kang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Han%20Kang",
         "pubdate": "Thu, 10 Oct 2024 14:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Landskamp Norge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Landskamp%20Norge",
         "pubdate": "Thu, 10 Oct 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Yung Filly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Yung%20Filly",
+        "pubdate": "Thu, 10 Oct 2024 11:00:00 +0200"
       }
     ]
   ]
