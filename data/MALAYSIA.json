@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-10-2024 , 06:45:53",
+  "lastUpdate": "12-10-2024 , 06:55:17",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Mount Everest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Mount%20Everest",
         "pubdate": "Sat, 12 Oct 2024 06:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Andrew Garfield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Andrew%20Garfield",
+        "pubdate": "Sat, 12 Oct 2024 14:00:00 +0800"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "UEFA Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UEFA%20Nations%20League",
-        "pubdate": "Fri, 11 Oct 2024 03:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Indonesia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Indonesia",
         "pubdate": "Fri, 11 Oct 2024 11:00:00 +0800"
@@ -76,6 +76,13 @@
         "title": "Tesla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tesla",
         "pubdate": "Fri, 11 Oct 2024 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Argentina",
+        "pubdate": "Fri, 11 Oct 2024 08:00:00 +0800"
       }
     ],
     [
@@ -101,27 +108,6 @@
     ],
     [
       {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Argentina",
-        "pubdate": "Fri, 11 Oct 2024 08:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Brazil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brazil",
-        "pubdate": "Fri, 11 Oct 2024 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Argentina vs Venezuela",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Argentina%20vs%20Venezuela",
-        "pubdate": "Fri, 11 Oct 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "LPI Capital",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#LPI%20Capital",
         "pubdate": "Fri, 11 Oct 2024 16:00:00 +0800"
@@ -139,6 +125,20 @@
         "title": "ByteDance Malaysia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#ByteDance%20Malaysia",
         "pubdate": "Thu, 10 Oct 2024 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Vettaiyan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Vettaiyan",
+        "pubdate": "Thu, 10 Oct 2024 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Arctic Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arctic%20Open",
+        "pubdate": "Thu, 10 Oct 2024 13:00:00 +0800"
       }
     ]
   ]
