@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-10-2024 , 19:42:03",
+  "lastUpdate": "12-10-2024 , 19:51:33",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Sandnes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandnes",
+        "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Einar Tørnquist",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Einar%20T%C3%B8rnquist",
         "pubdate": "Sat, 12 Oct 2024 15:00:00 +0200"
@@ -45,9 +52,23 @@
     ],
     [
       {
+        "title": "V75",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V75",
+        "pubdate": "Sat, 12 Oct 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Caroline Berg Eriksen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Caroline%20Berg%20Eriksen",
         "pubdate": "Sat, 12 Oct 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Anders Aukland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Anders%20Aukland",
+        "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
       }
     ],
     [
@@ -87,6 +108,13 @@
     ],
     [
       {
+        "title": "Sophie Elise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sophie%20Elise",
+        "pubdate": "Fri, 11 Oct 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Emily in Paris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emily%20in%20Paris",
         "pubdate": "Fri, 11 Oct 2024 10:00:00 +0200"
@@ -111,34 +139,6 @@
         "title": "Live Nelvik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Live%20Nelvik",
         "pubdate": "Fri, 11 Oct 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nils Ole Oftebro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nils%20Ole%20Oftebro",
-        "pubdate": "Fri, 11 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aurora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aurora",
-        "pubdate": "Fri, 11 Oct 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Yom Kippur",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Yom%20Kippur",
-        "pubdate": "Fri, 11 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The Apprentice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Apprentice",
-        "pubdate": "Fri, 11 Oct 2024 16:00:00 +0200"
       }
     ]
   ]
