@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-10-2024 , 09:40:03",
+  "lastUpdate": "13-10-2024 , 09:49:24",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Yamal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yamal",
+        "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Anna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Anna",
         "pubdate": "Sat, 12 Oct 2024 00:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Saturday Night Fever",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Saturday%20Night%20Fever",
         "pubdate": "Fri, 11 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "The tube",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20tube",
-        "pubdate": "Fri, 11 Oct 2024 20:00:00 +0200"
       }
     ]
   ]
