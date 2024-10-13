@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-10-2024 , 10:45:35",
+  "lastUpdate": "13-10-2024 , 10:54:50",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Hes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hes",
-        "pubdate": "Sat, 12 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Velká pardubická",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Velk%C3%A1%20pardubick%C3%A1",
         "pubdate": "Sat, 12 Oct 2024 14:00:00 +0200"
@@ -80,16 +73,16 @@
     ],
     [
       {
-        "title": "Zlatni rat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlatni%20rat",
-        "pubdate": "Sat, 12 Oct 2024 10:00:00 +0200"
+        "title": "Martin Prágr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Pr%C3%A1gr",
+        "pubdate": "Sat, 12 Oct 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Martin Prágr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Pr%C3%A1gr",
-        "pubdate": "Sat, 12 Oct 2024 22:00:00 +0200"
+        "title": "Zlatni rat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zlatni%20rat",
+        "pubdate": "Sat, 12 Oct 2024 10:00:00 +0200"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Orbán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Orb%C3%A1n",
-        "pubdate": "Sat, 12 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Petra Janů",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Petra%20Jan%C5%AF",
         "pubdate": "Sat, 12 Oct 2024 20:00:00 +0200"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Orbán",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Orb%C3%A1n",
+        "pubdate": "Sat, 12 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Zoo Ostrava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zoo%20Ostrava",
         "pubdate": "Sat, 12 Oct 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fotbal Reprezentace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Fotbal%20Reprezentace",
+        "pubdate": "Sat, 12 Oct 2024 00:00:00 +0200"
       }
     ]
   ]
