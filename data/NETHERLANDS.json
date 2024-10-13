@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-10-2024 , 14:40:08",
+  "lastUpdate": "13-10-2024 , 14:49:32",
   "data": [
+    [
+      {
+        "title": "SpaceX",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#SpaceX",
+        "pubdate": "Sun, 13 Oct 2024 15:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Marathon Eindhoven",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Ronde van Lombardije",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ronde%20van%20Lombardije",
-        "pubdate": "Sat, 12 Oct 2024 17:00:00 +0200"
+        "title": "Komeet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Komeet",
+        "pubdate": "Fri, 11 Oct 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Leidens Ontzet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leidens%20Ontzet",
         "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Iran",
-        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
       }
     ]
   ]
