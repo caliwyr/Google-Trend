@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-10-2024 , 03:46:45",
+  "lastUpdate": "13-10-2024 , 03:56:10",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Telstar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Telstar",
+        "pubdate": "Sat, 12 Oct 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Quick Boys Katwijk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Quick%20Boys%20Katwijk",
         "pubdate": "Sat, 12 Oct 2024 22:00:00 +0200"
@@ -27,6 +34,13 @@
         "title": "HYROX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#HYROX",
         "pubdate": "Fri, 11 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Turkije",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Turkije",
+        "pubdate": "Fri, 11 Oct 2024 23:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Girona Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Girona%20Feyenoord",
         "pubdate": "Wed, 02 Oct 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leidens Ontzet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Leidens%20Ontzet",
-        "pubdate": "Wed, 02 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Iran",
-        "pubdate": "Tue, 01 Oct 2024 18:00:00 +0200"
       }
     ]
   ]
