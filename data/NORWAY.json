@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-10-2024 , 15:41:59",
+  "lastUpdate": "14-10-2024 , 15:51:21",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "SNL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#SNL",
         "pubdate": "Mon, 14 Oct 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FN",
+        "pubdate": "Mon, 14 Oct 2024 17:00:00 +0200"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "England",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#England",
-        "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
+        "title": "Holmgren Pedersen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Holmgren%20Pedersen",
+        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
       }
     ],
     [
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Landskamp Norge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Landskamp%20Norge",
-        "pubdate": "Sun, 13 Oct 2024 09:00:00 +0200"
+        "title": "Norge Fotball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norge%20Fotball",
+        "pubdate": "Sun, 13 Oct 2024 21:00:00 +0200"
       }
     ],
     [
@@ -62,6 +69,20 @@
         "title": "TV-aksjonen 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#TV-aksjonen%202024",
         "pubdate": "Sun, 13 Oct 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Thor Gotaas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Thor%20Gotaas",
+        "pubdate": "Sun, 13 Oct 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Landskamp Norge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Landskamp%20Norge",
+        "pubdate": "Sun, 13 Oct 2024 09:00:00 +0200"
       }
     ],
     [
@@ -94,23 +115,9 @@
     ],
     [
       {
-        "title": "Norges herrelandslag i Fotball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norges%20herrelandslag%20i%20Fotball",
-        "pubdate": "Sun, 13 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jack Nicholson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jack%20Nicholson",
         "pubdate": "Sun, 13 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Henrik Thune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Henrik%20Thune",
-        "pubdate": "Sun, 13 Oct 2024 23:00:00 +0200"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "R. Kelly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#R.%20Kelly",
-        "pubdate": "Sun, 13 Oct 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kvinesdal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kvinesdal",
         "pubdate": "Sun, 13 Oct 2024 16:00:00 +0200"
       }
     ]
