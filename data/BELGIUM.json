@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "14-10-2024 , 13:43:25",
+  "lastUpdate": "14-10-2024 , 13:52:48",
   "data": [
     [
       {
         "title": "Ixelles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ixelles",
         "pubdate": "Mon, 14 Oct 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Charleroi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charleroi",
-        "pubdate": "Mon, 14 Oct 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tournai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tournai",
-        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0200"
       }
     ],
     [
@@ -31,6 +17,20 @@
     ],
     [
       {
+        "title": "Tournai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tournai",
+        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Charleroi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charleroi",
+        "pubdate": "Mon, 14 Oct 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mechelen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mechelen",
         "pubdate": "Mon, 14 Oct 2024 10:00:00 +0200"
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Woluwe-Saint-Lambert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Woluwe-Saint-Lambert",
-        "pubdate": "Mon, 14 Oct 2024 02:00:00 +0200"
+        "title": "Molenbeek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Molenbeek",
+        "pubdate": "Mon, 14 Oct 2024 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Election liege",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Election%20liege",
-        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0200"
+        "title": "Woluwe-Saint-Lambert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Woluwe-Saint-Lambert",
+        "pubdate": "Mon, 14 Oct 2024 02:00:00 +0200"
       }
     ],
     [
@@ -66,15 +66,15 @@
     ],
     [
       {
-        "title": "Aalst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aalst",
-        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
+        "title": "Election liege",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Election%20liege",
+        "pubdate": "Mon, 14 Oct 2024 08:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Resultat election liege",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Resultat%20election%20liege",
+        "title": "Aalst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aalst",
         "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
       }
     ],
@@ -87,23 +87,9 @@
     ],
     [
       {
-        "title": "Ninove",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ninove",
+        "title": "Uitslag verkiezingen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Uitslag%20verkiezingen",
         "pubdate": "Sun, 13 Oct 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RTBF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RTBF",
-        "pubdate": "Sun, 13 Oct 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VRT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VRT",
-        "pubdate": "Sun, 13 Oct 2024 14:00:00 +0200"
       }
     ],
     [
@@ -115,9 +101,9 @@
     ],
     [
       {
-        "title": "Bart Tommelein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bart%20Tommelein",
-        "pubdate": "Sun, 13 Oct 2024 17:00:00 +0200"
+        "title": "VRT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VRT",
+        "pubdate": "Sun, 13 Oct 2024 14:00:00 +0200"
       }
     ],
     [
@@ -129,9 +115,23 @@
     ],
     [
       {
+        "title": "Bart Tommelein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bart%20Tommelein",
+        "pubdate": "Sun, 13 Oct 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Mathias De Clercq",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mathias%20De%20Clercq",
         "pubdate": "Sun, 13 Oct 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Zuhal Demir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zuhal%20Demir",
+        "pubdate": "Sun, 13 Oct 2024 09:00:00 +0200"
       }
     ],
     [
