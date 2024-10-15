@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-10-2024 , 08:45:55",
+  "lastUpdate": "15-10-2024 , 08:55:09",
   "data": [
-    [
-      {
-        "title": "Mbappe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mbappe",
-        "pubdate": "Tue, 15 Oct 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Anne-Dauphine Julliand",
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Stellantis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stellantis",
+        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Doliprane",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Doliprane",
         "pubdate": "Mon, 14 Oct 2024 18:00:00 +0200"
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Stellantis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Stellantis",
-        "pubdate": "Mon, 14 Oct 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Finul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Finul",
         "pubdate": "Mon, 14 Oct 2024 12:00:00 +0200"
@@ -110,13 +103,6 @@
       {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Donald%20Trump",
-        "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Tavares",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Carlos%20Tavares",
         "pubdate": "Mon, 14 Oct 2024 09:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "Coupe de France de Football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coupe%20de%20France%20de%20Football",
         "pubdate": "Mon, 14 Oct 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "France Belgique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Belgique",
+        "pubdate": "Sun, 13 Oct 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Samuel Paty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Samuel%20Paty",
+        "pubdate": "Sun, 13 Oct 2024 14:00:00 +0200"
       }
     ]
   ]
