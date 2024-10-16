@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-10-2024 , 23:47:52",
+  "lastUpdate": "16-10-2024 , 23:57:15",
   "data": [
+    [
+      {
+        "title": "Sydney Sweeney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sydney%20Sweeney",
+        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "One Direction",
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Jovem morre Torres Novas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jovem%20morre%20Torres%20Novas",
+        "pubdate": "Wed, 16 Oct 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Brasil",
         "pubdate": "Wed, 16 Oct 2024 07:00:00 +0100"
@@ -80,9 +94,23 @@
     ],
     [
       {
+        "title": "Russia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Russia",
+        "pubdate": "Wed, 16 Oct 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Desporto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Desporto",
         "pubdate": "Wed, 16 Oct 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Terremoto Turquia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Terremoto%20Turquia",
+        "pubdate": "Wed, 16 Oct 2024 22:00:00 +0100"
       }
     ],
     [
@@ -94,30 +122,9 @@
     ],
     [
       {
-        "title": "Russia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Russia",
-        "pubdate": "Wed, 16 Oct 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jovem morre Torres Novas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jovem%20morre%20Torres%20Novas",
-        "pubdate": "Wed, 16 Oct 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Copiloto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Copiloto",
         "pubdate": "Wed, 16 Oct 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Colômbia  Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Col%C3%B4mbia%20%20Chile",
-        "pubdate": "Wed, 16 Oct 2024 01:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Tribeca Festival",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tribeca%20Festival",
-        "pubdate": "Wed, 16 Oct 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Terremoto Turquia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Terremoto%20Turquia",
-        "pubdate": "Wed, 16 Oct 2024 22:00:00 +0100"
+        "title": "Colômbia  Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Col%C3%B4mbia%20%20Chile",
+        "pubdate": "Wed, 16 Oct 2024 01:00:00 +0100"
       }
     ]
   ]

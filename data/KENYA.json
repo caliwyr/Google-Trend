@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-10-2024 , 23:47:50",
+  "lastUpdate": "16-10-2024 , 23:57:13",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Argentina",
+        "pubdate": "Wed, 16 Oct 2024 09:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Portugal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Portugal",
         "pubdate": "Wed, 16 Oct 2024 13:00:00 +0300"
@@ -52,15 +59,8 @@
     ],
     [
       {
-        "title": "Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Argentina",
-        "pubdate": "Wed, 16 Oct 2024 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "World Cup Qualifiers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#World%20Cup%20Qualifiers",
+        "title": "World Cup qualifiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#World%20Cup%20qualifiers",
         "pubdate": "Wed, 16 Oct 2024 09:00:00 +0300"
       }
     ],
@@ -122,8 +122,8 @@
     ],
     [
       {
-        "title": "THAAD) missile defense system",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#THAAD)%20missile%20defense%20system",
+        "title": "THAAD missile defense system",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#THAAD%20missile%20defense%20system",
         "pubdate": "Tue, 15 Oct 2024 18:00:00 +0300"
       }
     ],
