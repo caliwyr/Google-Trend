@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "17-10-2024 , 18:34:55",
+  "lastUpdate": "17-10-2024 , 18:47:50",
   "data": [
     [
       {
         "title": "One Direction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#One%20Direction",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bas Muijs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bas%20Muijs",
-        "pubdate": "Thu, 17 Oct 2024 11:00:00 +0200"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Bas Muijs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bas%20Muijs",
+        "pubdate": "Thu, 17 Oct 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Supermaan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Supermaan",
         "pubdate": "Thu, 17 Oct 2024 19:00:00 +0200"
@@ -31,8 +31,15 @@
     ],
     [
       {
-        "title": "Televizier-Ring",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Televizier-Ring",
+        "title": "Naturalis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Naturalis",
+        "pubdate": "Thu, 17 Oct 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "André van Duin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Andr%C3%A9%20van%20Duin",
         "pubdate": "Wed, 16 Oct 2024 20:00:00 +0200"
       }
     ],
@@ -45,23 +52,9 @@
     ],
     [
       {
-        "title": "Giro555",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Giro555",
-        "pubdate": "Wed, 16 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chronische pijn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chronische%20pijn",
         "pubdate": "Wed, 16 Oct 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Van Gogh Nationaal Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Gogh%20Nationaal%20Park",
-        "pubdate": "Wed, 16 Oct 2024 09:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Noorderlicht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Noorderlicht",
         "pubdate": "Thu, 10 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
+        "pubdate": "Thu, 10 Oct 2024 20:00:00 +0200"
       }
     ]
   ]
