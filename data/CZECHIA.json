@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-10-2024 , 19:46:56",
+  "lastUpdate": "17-10-2024 , 19:56:22",
   "data": [
     [
       {
@@ -66,15 +66,8 @@
     ],
     [
       {
-        "title": "Klára Cibulková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kl%C3%A1ra%20Cibulkov%C3%A1",
-        "pubdate": "Thu, 17 Oct 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vodafone výpadek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vodafone%20v%C3%BDpadek",
+        "title": "Vodafone vypadky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Vodafone%20vypadky",
         "pubdate": "Wed, 16 Oct 2024 07:00:00 +0200"
       }
     ],
@@ -108,6 +101,13 @@
     ],
     [
       {
+        "title": "Seal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Seal",
+        "pubdate": "Wed, 16 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "KLDR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#KLDR",
         "pubdate": "Wed, 16 Oct 2024 08:00:00 +0200"
@@ -122,23 +122,23 @@
     ],
     [
       {
-        "title": "Seal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Seal",
-        "pubdate": "Wed, 16 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Madeta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Madeta",
-        "pubdate": "Wed, 16 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "AVU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AVU",
         "pubdate": "Wed, 16 Oct 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ondřej Sokol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ond%C5%99ej%20Sokol",
+        "pubdate": "Wed, 16 Oct 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Take That",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Take%20That",
+        "pubdate": "Wed, 16 Oct 2024 16:00:00 +0200"
       }
     ]
   ]
