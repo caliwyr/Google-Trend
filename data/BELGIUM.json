@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "17-10-2024 , 09:49:48",
+  "lastUpdate": "17-10-2024 , 09:59:18",
   "data": [
     [
       {
         "title": "One Direction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#One%20Direction",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Harry Styles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Harry%20Styles",
+        "pubdate": "Thu, 17 Oct 2024 02:00:00 +0200"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Argentine – Bolivie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Argentine%20%E2%80%93%20Bolivie",
         "pubdate": "Wed, 16 Oct 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Volle maan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Volle%20maan",
+        "pubdate": "Wed, 16 Oct 2024 00:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Brésil – Pérou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Br%C3%A9sil%20%E2%80%93%20P%C3%A9rou",
         "pubdate": "Wed, 16 Oct 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wavre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wavre",
-        "pubdate": "Wed, 16 Oct 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gilbert Bouchet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gilbert%20Bouchet",
-        "pubdate": "Wed, 16 Oct 2024 18:00:00 +0200"
       }
     ]
   ]
