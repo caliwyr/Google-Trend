@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-10-2024 , 07:47:29",
+  "lastUpdate": "17-10-2024 , 07:56:51",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "HDB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#HDB",
         "pubdate": "Wed, 16 Oct 2024 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "BTO Oct 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#BTO%20Oct%202024",
-        "pubdate": "Wed, 16 Oct 2024 14:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cat",
         "pubdate": "Tue, 15 Oct 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Gold price news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gold%20price%20news",
+        "pubdate": "Tue, 15 Oct 2024 14:00:00 +0800"
       }
     ]
   ]
