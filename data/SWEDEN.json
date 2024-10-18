@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "18-10-2024 , 11:39:00",
+  "lastUpdate": "18-10-2024 , 11:48:27",
   "data": [
     [
       {
         "title": "Kent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kent",
         "pubdate": "Fri, 18 Oct 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sweden Rock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sweden%20Rock",
+        "pubdate": "Fri, 18 Oct 2024 12:00:00 +0200"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Carter Camper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carter%20Camper",
-        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Mats Sundin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mats%20Sundin",
         "pubdate": "Fri, 18 Oct 2024 09:00:00 +0200"
@@ -31,16 +31,16 @@
     ],
     [
       {
-        "title": "Luana Alonso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luana%20Alonso",
-        "pubdate": "Fri, 18 Oct 2024 07:00:00 +0200"
+        "title": "Carter Camper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carter%20Camper",
+        "pubdate": "Fri, 18 Oct 2024 00:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Sweden Rock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sweden%20Rock",
-        "pubdate": "Fri, 18 Oct 2024 12:00:00 +0200"
+        "title": "Luana Alonso",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Luana%20Alonso",
+        "pubdate": "Fri, 18 Oct 2024 07:00:00 +0200"
       }
     ],
     [
@@ -83,13 +83,6 @@
         "title": "Gustaf Reinfeldt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gustaf%20Reinfeldt",
         "pubdate": "Thu, 17 Oct 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Osby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Osby",
-        "pubdate": "Thu, 17 Oct 2024 05:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Borgagården",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Borgag%C3%A5rden",
         "pubdate": "Wed, 16 Oct 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Thomas Tuchel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Thomas%20Tuchel",
+        "pubdate": "Wed, 16 Oct 2024 11:00:00 +0200"
       }
     ]
   ]
