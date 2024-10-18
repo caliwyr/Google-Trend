@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-10-2024 , 03:47:01",
+  "lastUpdate": "18-10-2024 , 03:56:20",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Muriel Robin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Muriel%20Robin",
-        "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lyon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lyon",
         "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Master Crimes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Master%20Crimes",
+        "pubdate": "Thu, 17 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Six Kings Slam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Six%20Kings%20Slam",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
@@ -97,13 +97,6 @@
         "title": "Guadeloupe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Guadeloupe",
         "pubdate": "Thu, 17 Oct 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Snowpiercer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Snowpiercer",
-        "pubdate": "Thu, 17 Oct 2024 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Cheque energie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cheque%20energie",
         "pubdate": "Wed, 16 Oct 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cycliste écrasé Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cycliste%20%C3%A9cras%C3%A9%20Paris",
+        "pubdate": "Wed, 16 Oct 2024 19:00:00 +0200"
       }
     ]
   ]
