@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-10-2024 , 19:48:47",
+  "lastUpdate": "19-10-2024 , 19:58:03",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Bournemouth – Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bournemouth%20%E2%80%93%20Arsenal",
+        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bundesliga",
         "pubdate": "Sat, 19 Oct 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
+        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0300"
       }
     ],
     [
@@ -69,6 +83,13 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
         "pubdate": "Fri, 18 Oct 2024 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Rocky 4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Rocky%204",
+        "pubdate": "Fri, 18 Oct 2024 22:00:00 +0300"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Nokia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nokia",
         "pubdate": "Thu, 17 Oct 2024 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Bluesky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bluesky",
-        "pubdate": "Thu, 17 Oct 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Gigi Hadid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Gigi%20Hadid",
-        "pubdate": "Thu, 17 Oct 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Adriana Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Adriana%20Lima",
-        "pubdate": "Wed, 16 Oct 2024 01:00:00 +0300"
       }
     ]
   ]
