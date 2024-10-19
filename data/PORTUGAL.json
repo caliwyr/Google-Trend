@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "19-10-2024 , 15:45:19",
+  "lastUpdate": "19-10-2024 , 15:54:28",
   "data": [
     [
       {
         "title": "Botafogo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
         "pubdate": "Sat, 19 Oct 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Premier%20League",
+        "pubdate": "Sat, 19 Oct 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leonor Belo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Leonor%20Belo",
+        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0100"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Coreia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Coreia",
-        "pubdate": "Sat, 19 Oct 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "IRONMAN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#IRONMAN",
         "pubdate": "Sat, 19 Oct 2024 00:00:00 +0100"
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Paulo Rangel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paulo%20Rangel",
-        "pubdate": "Sat, 19 Oct 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Cuba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Cuba",
         "pubdate": "Sat, 19 Oct 2024 14:00:00 +0100"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Whoopi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Whoopi",
-        "pubdate": "Sat, 19 Oct 2024 15:00:00 +0100"
+        "title": "Paulo Rangel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paulo%20Rangel",
+        "pubdate": "Sat, 19 Oct 2024 14:00:00 +0100"
       }
     ],
     [
@@ -115,8 +115,8 @@
     ],
     [
       {
-        "title": "Pevidem Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pevidem%20Benfica",
+        "title": "Jogo Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20Benfica",
         "pubdate": "Fri, 18 Oct 2024 14:00:00 +0100"
       }
     ],
