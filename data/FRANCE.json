@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "19-10-2024 , 21:45:10",
+  "lastUpdate": "19-10-2024 , 21:54:40",
   "data": [
     [
       {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#PSG",
         "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Celta Vigo – Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Celta%20Vigo%20%E2%80%93%20Real%20Madrid",
-        "pubdate": "Sat, 19 Oct 2024 20:00:00 +0200"
       }
     ],
     [
@@ -24,8 +17,8 @@
     ],
     [
       {
-        "title": "Brest Rennes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brest%20Rennes",
+        "title": "Brest-Rennes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brest-Rennes",
         "pubdate": "Sat, 19 Oct 2024 17:00:00 +0200"
       }
     ],
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Felix Lebrun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Felix%20Lebrun",
+        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chantal Goya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chantal%20Goya",
         "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
@@ -80,23 +80,9 @@
     ],
     [
       {
-        "title": "Felix Lebrun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Felix%20Lebrun",
-        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cuba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cuba",
         "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real",
-        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern%20Munich",
+        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Isabelle Huppert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Isabelle%20Huppert",
         "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern%20Munich",
-        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
+        "title": "Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Dortmund",
+        "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ligue 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ligue%201",
+        "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
       }
     ]
   ]
