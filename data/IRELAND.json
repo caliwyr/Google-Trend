@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "19-10-2024 , 16:36:28",
+  "lastUpdate": "19-10-2024 , 16:47:28",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Premier%20League",
         "pubdate": "Sat, 19 Oct 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tottenham%20vs%20West%20Ham",
-        "pubdate": "Sat, 19 Oct 2024 12:00:00 +0100"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Tottenham vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tottenham%20vs%20West%20Ham",
+        "pubdate": "Sat, 19 Oct 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Man utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20utd",
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0100"
@@ -31,8 +31,29 @@
     ],
     [
       {
-        "title": "Celtic vs Aberdeen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Celtic%20vs%20Aberdeen",
+        "title": "Premier League fixtures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Premier%20League%20fixtures",
+        "pubdate": "Sat, 19 Oct 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fulham vs Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fulham%20vs%20Aston%20Villa",
+        "pubdate": "Sat, 19 Oct 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Arsenal",
+        "pubdate": "Sat, 19 Oct 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ipswich Town vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ipswich%20Town%20vs%20Everton",
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0100"
       }
     ],
@@ -59,8 +80,15 @@
     ],
     [
       {
-        "title": "Fulham vs Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fulham%20vs%20Aston%20Villa",
+        "title": "Bournemouth vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Bournemouth%20vs%20Arsenal",
+        "pubdate": "Sat, 19 Oct 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle vs Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Newcastle%20vs%20Brighton",
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0100"
       }
     ],
@@ -69,13 +97,6 @@
         "title": "Sinn fein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sinn%20fein",
         "pubdate": "Sat, 19 Oct 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle vs Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Newcastle%20vs%20Brighton",
-        "pubdate": "Sat, 19 Oct 2024 16:00:00 +0100"
       }
     ],
     [
@@ -94,9 +115,9 @@
     ],
     [
       {
-        "title": "Ipswich Town vs Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ipswich%20Town%20vs%20Everton",
-        "pubdate": "Sat, 19 Oct 2024 16:00:00 +0100"
+        "title": "Southampton vs Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Southampton%20vs%20Leicester%20City",
+        "pubdate": "Sat, 19 Oct 2024 17:00:00 +0100"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Ronnie Gibbons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ronnie%20Gibbons",
-        "pubdate": "Sat, 19 Oct 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alex Salmond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Alex%20Salmond",
-        "pubdate": "Sat, 19 Oct 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sarfaraz Khan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sarfaraz%20Khan",
-        "pubdate": "Sat, 19 Oct 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bram Stoker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Bram%20Stoker",
-        "pubdate": "Sat, 19 Oct 2024 16:00:00 +0100"
+        "title": "Steve Bruce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Steve%20Bruce",
+        "pubdate": "Sat, 19 Oct 2024 17:00:00 +0100"
       }
     ]
   ]
