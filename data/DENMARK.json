@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-10-2024 , 18:42:22",
+  "lastUpdate": "20-10-2024 , 18:51:38",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Arnold Palmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arnold%20Palmer",
+        "pubdate": "Sun, 20 Oct 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Francis Ngannou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Francis%20Ngannou",
         "pubdate": "Sun, 20 Oct 2024 02:00:00 +0200"
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Arnold Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arnold%20Palmer",
-        "pubdate": "Sun, 20 Oct 2024 10:00:00 +0200"
+        "title": "Cooke Maroney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cooke%20Maroney",
+        "pubdate": "Sun, 20 Oct 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Pumpkin Carving",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pumpkin%20Carving",
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1",
-        "pubdate": "Fri, 18 Oct 2024 21:00:00 +0200"
       }
     ]
   ]
