@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-10-2024 , 12:21:14",
+  "lastUpdate": "20-10-2024 , 12:52:49",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Samsunspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Samsunspor",
         "pubdate": "Sun, 20 Oct 2024 12:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Konyaspor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Konyaspor",
+        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0300"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Deprem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Deprem",
-        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Eyüpspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ey%C3%BCpspor",
         "pubdate": "Sat, 19 Oct 2024 19:00:00 +0300"
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "Deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Deprem",
+        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Kocaelispor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kocaelispor",
         "pubdate": "Sat, 19 Oct 2024 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Recep Tayyip Erdoğan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Recep%20Tayyip%20Erdo%C4%9Fan",
+        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Eskişehirspor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Eski%C5%9Fehirspor",
         "pubdate": "Sat, 19 Oct 2024 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Şanlıurfaspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eanl%C4%B1urfaspor",
-        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Pınar Deniz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#P%C4%B1nar%20Deniz",
-        "pubdate": "Sat, 19 Oct 2024 17:00:00 +0300"
       }
     ]
   ]
