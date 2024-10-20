@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-10-2024 , 15:41:57",
+  "lastUpdate": "20-10-2024 , 15:51:31",
   "data": [
+    [
+      {
+        "title": "Canucks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
+        "pubdate": "Sun, 20 Oct 2024 10:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "Texas Longhorns",
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Patriots vs Jaguars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Patriots%20vs%20Jaguars",
+        "pubdate": "Sun, 20 Oct 2024 11:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Zendaya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zendaya",
         "pubdate": "Sun, 20 Oct 2024 10:00:00 -0400"
@@ -73,8 +87,8 @@
     ],
     [
       {
-        "title": "BC Election results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#BC%20Election%20results",
+        "title": "B.C. election results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#B.C.%20election%20results",
         "pubdate": "Sat, 19 Oct 2024 14:00:00 -0400"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Inter%20Miami",
         "pubdate": "Sat, 19 Oct 2024 18:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Rangers vs Maple Leafs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rangers%20vs%20Maple%20Leafs",
-        "pubdate": "Sat, 19 Oct 2024 20:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "WNBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#WNBA",
-        "pubdate": "Sat, 19 Oct 2024 01:00:00 -0400"
       }
     ]
   ]
