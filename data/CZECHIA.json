@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-10-2024 , 23:55:18",
+  "lastUpdate": "20-10-2024 , 01:16:24",
   "data": [
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Serie%20A",
+        "pubdate": "Sun, 20 Oct 2024 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sparta",
@@ -45,6 +52,13 @@
     ],
     [
       {
+        "title": "Jiri jezek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jiri%20jezek",
+        "pubdate": "Sat, 19 Oct 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Leverkusen – Eintracht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen%20%E2%80%93%20Eintracht",
         "pubdate": "Sat, 19 Oct 2024 16:00:00 +0200"
@@ -80,16 +94,9 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
-        "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "RFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#RFA",
-        "pubdate": "Sat, 19 Oct 2024 20:00:00 +0200"
+        "title": "Girona – Real Sociedad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Girona%20%E2%80%93%20Real%20Sociedad",
+        "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sivak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sivak",
         "pubdate": "Sat, 19 Oct 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Marek Výborný",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek%20V%C3%BDborn%C3%BD",
-        "pubdate": "Fri, 18 Oct 2024 19:00:00 +0200"
       }
     ]
   ]
