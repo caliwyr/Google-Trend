@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-10-2024 , 06:45:35",
+  "lastUpdate": "20-10-2024 , 06:54:48",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Eintracht Braunschweig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Braunschweig",
+        "pubdate": "Fri, 18 Oct 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "One Direction",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#One%20Direction",
         "pubdate": "Thu, 17 Oct 2024 00:00:00 +0200"
@@ -108,8 +115,8 @@
     ],
     [
       {
-        "title": "Lukas Podolski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20Podolski",
+        "title": "Podolski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Podolski",
         "pubdate": "Thu, 10 Oct 2024 19:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Jürgen Klopp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#J%C3%BCrgen%20Klopp",
         "pubdate": "Wed, 09 Oct 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Lukas Podolski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lukas%20Podolski",
-        "pubdate": "Wed, 09 Oct 2024 21:00:00 +0200"
       }
     ]
   ]
