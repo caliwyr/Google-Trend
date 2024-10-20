@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-10-2024 , 22:44:21",
+  "lastUpdate": "20-10-2024 , 22:53:33",
   "data": [
+    [
+      {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Napoli",
+        "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Standard – Charleroi sc",
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "KV Mechelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Mechelen",
-        "pubdate": "Sun, 20 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Barcelone – Séville",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelone%20%E2%80%93%20S%C3%A9ville",
         "pubdate": "Sun, 20 Oct 2024 08:00:00 +0200"
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Peter Gorissen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Peter%20Gorissen",
-        "pubdate": "Sun, 20 Oct 2024 21:00:00 +0200"
+        "title": "KV Mechelen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KV%20Mechelen",
+        "pubdate": "Sun, 20 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1 Austin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F1%20Austin",
+        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
       }
     ],
     [
@@ -55,6 +62,13 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Inter%20Miami",
         "pubdate": "Sun, 20 Oct 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
+        "pubdate": "Sun, 20 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -69,13 +83,6 @@
         "title": "Atlético Madrid – Leganés",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Legan%C3%A9s",
         "pubdate": "Sun, 20 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-        "pubdate": "Sun, 20 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "Moldavie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Moldavie",
-        "pubdate": "Sun, 20 Oct 2024 14:00:00 +0200"
+        "title": "Fcbarcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fcbarcelona",
+        "pubdate": "Sun, 20 Oct 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Fcbarcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fcbarcelona",
-        "pubdate": "Sun, 20 Oct 2024 21:00:00 +0200"
+        "title": "Moldavie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Moldavie",
+        "pubdate": "Sun, 20 Oct 2024 14:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Patro Eisden,  zulte-waregem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patro%20Eisden,%20%20zulte-waregem",
         "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "KAA Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
-        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
       }
     ]
   ]

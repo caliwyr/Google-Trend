@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "20-10-2024 , 22:44:27",
+  "lastUpdate": "20-10-2024 , 22:53:39",
   "data": [
     [
       {
-        "title": "Beste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Beste",
-        "pubdate": "Sun, 20 Oct 2024 13:00:00 +0100"
+        "title": "Barcelona  Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20%20Sevilla",
+        "pubdate": "Sun, 20 Oct 2024 20:00:00 +0100"
       }
     ],
     [
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Barcelona  Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Barcelona%20%20Sevilla",
-        "pubdate": "Sun, 20 Oct 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Varzim  Boavista",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Varzim%20%20Boavista",
         "pubdate": "Sun, 20 Oct 2024 19:00:00 +0100"
@@ -31,8 +24,8 @@
     ],
     [
       {
-        "title": "Atlético Madrid. Leganés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico%20Madrid.%20Legan%C3%A9s",
+        "title": "Atlético Madrid  Leganés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico%20Madrid%20%20Legan%C3%A9s",
         "pubdate": "Sun, 20 Oct 2024 16:00:00 +0100"
       }
     ],
@@ -41,6 +34,13 @@
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Inter%20Miami",
         "pubdate": "Sun, 20 Oct 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Formula 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Formula%201",
+        "pubdate": "Sun, 20 Oct 2024 23:00:00 +0100"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Braga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga",
-        "pubdate": "Sun, 20 Oct 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Francis Ngannou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Francis%20Ngannou",
         "pubdate": "Sun, 20 Oct 2024 01:00:00 +0100"
@@ -80,9 +73,16 @@
     ],
     [
       {
-        "title": "Leiria,  Nacional",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Leiria,%20%20Nacional",
+        "title": "Leiria  Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Leiria%20%20Nacional",
         "pubdate": "Sun, 20 Oct 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Luís Marques Mendes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lu%C3%ADs%20Marques%20Mendes",
+        "pubdate": "Sun, 20 Oct 2024 13:00:00 +0100"
       }
     ],
     [
@@ -108,22 +108,8 @@
     ],
     [
       {
-        "title": "Seasons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Seasons",
-        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maria da Fonte,  Arouca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maria%20da%20Fonte,%20%20Arouca",
-        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vasco da gama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco%20da%20gama",
+        "title": "Vasco da Gama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Vasco%20da%20Gama",
         "pubdate": "Sun, 20 Oct 2024 17:00:00 +0100"
       }
     ],
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Roma  Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Roma%20%20Inter",
+        "pubdate": "Sun, 20 Oct 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Aljezur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aljezur",
         "pubdate": "Sun, 20 Oct 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arcos de Valdevez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arcos%20de%20Valdevez",
+        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0100"
       }
     ]
   ]
