@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-10-2024 , 21:49:15",
+  "lastUpdate": "20-10-2024 , 21:58:31",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea",
+        "pubdate": "Mon, 21 Oct 2024 10:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Wellington Phoenix vs Western United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix%20vs%20Western%20United",
         "pubdate": "Sun, 20 Oct 2024 02:00:00 +1300"
@@ -41,6 +48,13 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League",
         "pubdate": "Sun, 20 Oct 2024 03:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Epl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epl",
+        "pubdate": "Sun, 20 Oct 2024 02:00:00 +1300"
       }
     ],
     [
@@ -80,20 +94,6 @@
     ],
     [
       {
-        "title": "F1 results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1%20results",
-        "pubdate": "Sun, 20 Oct 2024 11:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham vs West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham%20vs%20West%20Ham",
-        "pubdate": "Sun, 20 Oct 2024 03:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Celta Vigo vs Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Celta%20Vigo%20vs%20Real%20Madrid",
         "pubdate": "Sun, 20 Oct 2024 12:00:00 +1300"
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Tottenham vs West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham%20vs%20West%20Ham",
+        "pubdate": "Sun, 20 Oct 2024 03:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Vladimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Vladimir%20Putin",
         "pubdate": "Sun, 20 Oct 2024 12:00:00 +1300"
@@ -132,13 +139,6 @@
         "title": "Tim Tszyu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tim%20Tszyu",
         "pubdate": "Sun, 20 Oct 2024 18:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Fore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fore",
-        "pubdate": "Sun, 20 Oct 2024 16:00:00 +1300"
       }
     ]
   ]

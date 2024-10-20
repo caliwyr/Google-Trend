@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-10-2024 , 21:49:09",
+  "lastUpdate": "20-10-2024 , 21:58:24",
   "data": [
-    [
-      {
-        "title": "Tim Tszyu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tim%20Tszyu",
-        "pubdate": "Mon, 21 Oct 2024 00:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Liverpool vs Chelsea",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona",
+        "pubdate": "Mon, 21 Oct 2024 06:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Indonesian President",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Indonesian%20President",
         "pubdate": "Mon, 21 Oct 2024 03:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "New Zealand, Women vs South Africa Women",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20Zealand,%20Women%20vs%20South%20Africa%20Women",
+        "pubdate": "Mon, 21 Oct 2024 08:00:00 +1100"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20Utd",
-        "pubdate": "Sun, 20 Oct 2024 02:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MLS",
         "pubdate": "Sun, 20 Oct 2024 12:00:00 +1100"
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Chris Hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chris%20Hoy",
+        "pubdate": "Sun, 20 Oct 2024 14:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
         "pubdate": "Sun, 20 Oct 2024 08:00:00 +1100"
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Chris Hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chris%20Hoy",
-        "pubdate": "Sun, 20 Oct 2024 14:00:00 +1100"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manchester%20United",
+        "pubdate": "Sun, 20 Oct 2024 04:00:00 +1100"
       }
     ],
     [
@@ -80,6 +87,20 @@
     ],
     [
       {
+        "title": "Spurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spurs",
+        "pubdate": "Sun, 20 Oct 2024 02:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "F1 qualifying",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#F1%20qualifying",
+        "pubdate": "Sun, 20 Oct 2024 10:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Arnold Palmer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arnold%20Palmer",
         "pubdate": "Sun, 20 Oct 2024 19:00:00 +1100"
@@ -87,16 +108,16 @@
     ],
     [
       {
-        "title": "Netanyahu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Netanyahu",
-        "pubdate": "Sun, 20 Oct 2024 08:00:00 +1100"
+        "title": "Marc Marquez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marc%20Marquez",
+        "pubdate": "Sun, 20 Oct 2024 18:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Marc Marquez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marc%20Marquez",
-        "pubdate": "Sun, 20 Oct 2024 18:00:00 +1100"
+        "title": "Netanyahu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Netanyahu",
+        "pubdate": "Sun, 20 Oct 2024 08:00:00 +1100"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aston%20Villa",
-        "pubdate": "Sun, 20 Oct 2024 14:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bayern%20Munich",
-        "pubdate": "Sun, 20 Oct 2024 16:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Harley Quinn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Harley%20Quinn",
-        "pubdate": "Sun, 20 Oct 2024 22:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "CommBank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#CommBank",
-        "pubdate": "Sat, 19 Oct 2024 13:00:00 +1100"
+        "title": "Texas Longhorns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Texas%20Longhorns",
+        "pubdate": "Sun, 20 Oct 2024 18:00:00 +1100"
       }
     ]
   ]
