@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-10-2024 , 07:49:26",
+  "lastUpdate": "21-10-2024 , 07:58:39",
   "data": [
-    [
-      {
-        "title": "Monza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Monza",
-        "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Tananai",
@@ -24,6 +17,20 @@
     ],
     [
       {
+        "title": "Maldini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maldini",
+        "pubdate": "Mon, 21 Oct 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Monza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Monza",
+        "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chiesa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Chiesa",
         "pubdate": "Mon, 21 Oct 2024 01:00:00 +0200"
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "SIENA-LIVORNO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#SIENA-LIVORNO",
+        "title": "Siena-Livorno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Siena-Livorno",
         "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
       }
     ],
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Attore Adamo Dionisi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Attore%20Adamo%20Dionisi",
+        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Al Pacino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Al%20Pacino",
         "pubdate": "Sun, 20 Oct 2024 22:00:00 +0200"
@@ -110,20 +124,13 @@
       {
         "title": "Piero Marrazzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Piero%20Marrazzo",
-        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
+        "pubdate": "Sun, 20 Oct 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Attore Adamo Dionisi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Attore%20Adamo%20Dionisi",
-        "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Wolverhampton-Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Wolverhampton-Manchester%20City",
+        "title": "Wolverhampton  Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Wolverhampton%20%20Manchester%20City",
         "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Foggia Catania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Foggia%20Catania",
         "pubdate": "Sun, 20 Oct 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Raoul Bova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Raoul%20Bova",
-        "pubdate": "Sun, 20 Oct 2024 00:00:00 +0200"
       }
     ]
   ]
