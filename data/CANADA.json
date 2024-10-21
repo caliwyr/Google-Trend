@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "21-10-2024 , 17:44:25",
+  "lastUpdate": "21-10-2024 , 17:53:43",
   "data": [
+    [
+      {
+        "title": "Calgary weather",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20weather",
+        "pubdate": "Mon, 21 Oct 2024 10:00:00 -0400"
+      }
+    ],
     [
       {
         "title": "WNBA",
@@ -17,15 +24,15 @@
     ],
     [
       {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Teams",
+        "title": "Epic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Epic",
         "pubdate": "Mon, 21 Oct 2024 10:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Epic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Epic",
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Teams",
         "pubdate": "Mon, 21 Oct 2024 10:00:00 -0400"
       }
     ],
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Colorado Avalanche",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colorado%20Avalanche",
-        "pubdate": "Mon, 21 Oct 2024 03:00:00 -0400"
+        "title": "Christy Clark",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Christy%20Clark",
+        "pubdate": "Mon, 21 Oct 2024 12:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Christy Clark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Christy%20Clark",
-        "pubdate": "Mon, 21 Oct 2024 12:00:00 -0400"
+        "title": "Colorado Avalanche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Colorado%20Avalanche",
+        "pubdate": "Mon, 21 Oct 2024 03:00:00 -0400"
       }
     ],
     [
@@ -94,16 +101,30 @@
     ],
     [
       {
-        "title": "Chiefs vs 49ers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chiefs%20vs%2049ers",
-        "pubdate": "Sun, 20 Oct 2024 17:00:00 -0400"
+        "title": "Moldova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Moldova",
+        "pubdate": "Mon, 21 Oct 2024 13:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Dodgers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dodgers",
-        "pubdate": "Sun, 20 Oct 2024 22:00:00 -0400"
+        "title": "New Brunswick election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#New%20Brunswick%20election",
+        "pubdate": "Mon, 21 Oct 2024 13:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jets",
+        "pubdate": "Sun, 20 Oct 2024 19:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chiefs",
+        "pubdate": "Sun, 20 Oct 2024 17:00:00 -0400"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Jets vs Steelers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jets%20vs%20Steelers",
-        "pubdate": "Sun, 20 Oct 2024 19:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Canucks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
-        "pubdate": "Sun, 20 Oct 2024 10:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Lions vs Vikings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lions%20vs%20Vikings",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Liverpool",
-        "pubdate": "Sun, 20 Oct 2024 07:00:00 -0400"
+        "title": "Dodgers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dodgers",
+        "pubdate": "Sun, 20 Oct 2024 22:00:00 -0400"
       }
     ]
   ]
