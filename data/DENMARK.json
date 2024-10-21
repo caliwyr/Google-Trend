@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2024 , 06:41:55",
+  "lastUpdate": "21-10-2024 , 06:52:44",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Arnold Palmer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arnold%20Palmer",
-        "pubdate": "Sun, 20 Oct 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cooke Maroney",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cooke%20Maroney",
         "pubdate": "Sun, 20 Oct 2024 20:00:00 +0200"
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Arnold Palmer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arnold%20Palmer",
+        "pubdate": "Sun, 20 Oct 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Francis Ngannou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Francis%20Ngannou",
         "pubdate": "Sun, 20 Oct 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cher",
+        "pubdate": "Sun, 20 Oct 2024 20:00:00 +0200"
       }
     ],
     [
@@ -73,23 +80,9 @@
     ],
     [
       {
-        "title": "Cher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Cher",
-        "pubdate": "Sun, 20 Oct 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jørgen Strand Larsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#J%C3%B8rgen%20Strand%20Larsen",
         "pubdate": "Sun, 20 Oct 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1 standings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#F1%20standings",
-        "pubdate": "Sun, 20 Oct 2024 23:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal",
         "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham  West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tottenham%20%20West%20Ham",
+        "pubdate": "Sat, 19 Oct 2024 14:00:00 +0200"
       }
     ]
   ]
