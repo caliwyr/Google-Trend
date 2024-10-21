@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2024 , 10:47:56",
+  "lastUpdate": "21-10-2024 , 10:57:29",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MLS",
         "pubdate": "Sun, 20 Oct 2024 11:00:00 +0200"
@@ -73,8 +66,8 @@
     ],
     [
       {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
+        "title": "VfB stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20stuttgart",
         "pubdate": "Sat, 19 Oct 2024 19:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Biden Besuch Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biden%20Besuch%20Berlin",
         "pubdate": "Wed, 16 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tuchel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tuchel",
+        "pubdate": "Tue, 15 Oct 2024 21:00:00 +0200"
       }
     ]
   ]
