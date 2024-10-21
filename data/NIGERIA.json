@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-10-2024 , 01:37:23",
+  "lastUpdate": "21-10-2024 , 02:44:41",
   "data": [
     [
       {
@@ -52,23 +52,9 @@
     ],
     [
       {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#MLS",
-        "pubdate": "Sun, 20 Oct 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Milan",
         "pubdate": "Sun, 20 Oct 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20FC",
-        "pubdate": "Sun, 20 Oct 2024 21:00:00 +0100"
       }
     ],
     [
@@ -80,8 +66,8 @@
     ],
     [
       {
-        "title": "Chelsea fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20fixtures",
+        "title": "Levante vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Levante%20vs%20Barcelona",
         "pubdate": "Sun, 20 Oct 2024 17:00:00 +0100"
       }
     ],
@@ -90,6 +76,13 @@
         "title": "General Yakubu Gowon 90th birthday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#General%20Yakubu%20Gowon%2090th%20birthday",
         "pubdate": "Sun, 20 Oct 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea fixtures",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20fixtures",
+        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Wolves vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wolves%20vs%20Man%20City",
         "pubdate": "Sat, 19 Oct 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bournemouth vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bournemouth%20vs%20Arsenal",
+        "pubdate": "Sat, 19 Oct 2024 09:00:00 +0100"
       }
     ]
   ]
