@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2024 , 15:43:47",
+  "lastUpdate": "22-10-2024 , 15:53:00",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kamala%20Harris",
-        "pubdate": "Mon, 21 Oct 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Gülen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#G%C3%BClen",
         "pubdate": "Mon, 21 Oct 2024 11:00:00 +0200"
@@ -69,13 +62,6 @@
         "title": "Moldau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Moldau",
         "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Werder Bremen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
-        "pubdate": "Sun, 20 Oct 2024 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Sinwar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sinwar",
         "pubdate": "Thu, 17 Oct 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joe%20Biden",
+        "pubdate": "Thu, 17 Oct 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Biden Besuch Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biden%20Besuch%20Berlin",
+        "pubdate": "Wed, 16 Oct 2024 22:00:00 +0200"
       }
     ]
   ]
