@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-10-2024 , 01:15:39",
+  "lastUpdate": "22-10-2024 , 02:32:33",
   "data": [
-    [
-      {
-        "title": "Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Valencia",
-        "pubdate": "Tue, 22 Oct 2024 01:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Nottm Forest vs Crystal Palace",
@@ -139,6 +132,13 @@
         "title": "Barcelona FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona%20FC",
         "pubdate": "Sun, 20 Oct 2024 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rangers",
+        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0300"
       }
     ]
   ]
