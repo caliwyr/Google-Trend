@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2024 , 02:32:36",
+  "lastUpdate": "22-10-2024 , 03:04:03",
   "data": [
     [
       {
@@ -45,8 +45,8 @@
     ],
     [
       {
-        "title": "F1 results",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20results",
+        "title": "F1 Results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20Results",
         "pubdate": "Mon, 21 Oct 2024 06:00:00 +0200"
       }
     ],
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "UCL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UCL",
+        "pubdate": "Mon, 21 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "AS Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AS%20Roma",
         "pubdate": "Mon, 21 Oct 2024 08:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Weather Today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Weather%20Today",
+        "pubdate": "Sun, 20 Oct 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Atletico%20Madrid",
         "pubdate": "Sun, 20 Oct 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
-        "pubdate": "Sun, 20 Oct 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20FC",
-        "pubdate": "Sun, 20 Oct 2024 13:00:00 +0200"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2024 , 02:32:33",
+  "lastUpdate": "22-10-2024 , 03:03:59",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Mashujaa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mashujaa",
+        "pubdate": "Sun, 20 Oct 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG",
         "pubdate": "Sun, 20 Oct 2024 00:00:00 +0300"
@@ -132,13 +139,6 @@
         "title": "Barcelona FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona%20FC",
         "pubdate": "Sun, 20 Oct 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rangers",
-        "pubdate": "Sun, 20 Oct 2024 17:00:00 +0300"
       }
     ]
   ]
