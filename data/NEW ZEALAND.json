@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-10-2024 , 22:43:03",
+  "lastUpdate": "22-10-2024 , 22:52:16",
   "data": [
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
-        "pubdate": "Wed, 23 Oct 2024 09:00:00 +1300"
-      }
-    ],
     [
       {
         "title": "UCL",
@@ -17,8 +10,22 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
+        "pubdate": "Wed, 23 Oct 2024 10:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Jay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jay",
+        "pubdate": "Wed, 23 Oct 2024 09:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal vs Shakhtar Donetsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal%20vs%20Shakhtar%20Donetsk",
         "pubdate": "Wed, 23 Oct 2024 09:00:00 +1300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Pioneer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pioneer",
         "pubdate": "Tue, 22 Oct 2024 16:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Azure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Azure",
-        "pubdate": "Tue, 22 Oct 2024 21:00:00 +1300"
       }
     ]
   ]
