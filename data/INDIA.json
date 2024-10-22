@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-10-2024 , 04:49:05",
+  "lastUpdate": "22-10-2024 , 04:58:13",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
+        "pubdate": "Mon, 21 Oct 2024 01:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UEFA%20Champions%20League",
         "pubdate": "Mon, 21 Oct 2024 14:30:00 +0530"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Sophie Devine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sophie%20Devine",
-        "pubdate": "Mon, 21 Oct 2024 08:30:00 +0530"
+        "title": "Mohammed Shami",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mohammed%20Shami",
+        "pubdate": "Mon, 21 Oct 2024 16:30:00 +0530"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Adar Poonawalla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Adar%20Poonawalla",
         "pubdate": "Mon, 21 Oct 2024 18:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Sophie Devine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sophie%20Devine",
+        "pubdate": "Mon, 21 Oct 2024 08:30:00 +0530"
       }
     ],
     [
@@ -94,8 +108,8 @@
     ],
     [
       {
-        "title": "SA vs NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#SA%20vs%20NZ",
+        "title": "SA vs NZ Women final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#SA%20vs%20NZ%20Women%20final",
         "pubdate": "Sun, 20 Oct 2024 19:30:00 +0530"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Al%20Hilal",
+        "title": "Al-Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Al-Hilal",
         "pubdate": "Sun, 20 Oct 2024 21:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Delhi Bomb Blast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Delhi%20Bomb%20Blast",
-        "pubdate": "Sun, 20 Oct 2024 17:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "North Korean South Korea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#North%20Korean%20South%20Korea",
-        "pubdate": "Sun, 20 Oct 2024 16:30:00 +0530"
       }
     ]
   ]
