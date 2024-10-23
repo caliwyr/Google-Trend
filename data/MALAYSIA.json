@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 05:15:58",
+  "lastUpdate": "23-10-2024 , 05:33:53",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Tik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tik",
-        "pubdate": "Tue, 22 Oct 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "ACL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#ACL",
         "pubdate": "Tue, 22 Oct 2024 20:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Ipoh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Ipoh",
         "pubdate": "Mon, 21 Oct 2024 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "T15",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#T15",
+        "pubdate": "Mon, 21 Oct 2024 10:00:00 +0800"
       }
     ]
   ]
