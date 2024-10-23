@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 10:40:40",
+  "lastUpdate": "23-10-2024 , 10:50:15",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Windy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Windy",
         "pubdate": "Wed, 23 Oct 2024 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Typhoon Kristine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Typhoon%20Kristine",
+        "pubdate": "Wed, 23 Oct 2024 06:00:00 +0800"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Zach Bryan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Zach%20Bryan",
-        "pubdate": "Wed, 23 Oct 2024 12:00:00 +0800"
+        "title": "Mike Jeffries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Mike%20Jeffries",
+        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Mike Jeffries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Mike%20Jeffries",
-        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0800"
+        "title": "Zach Bryan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Zach%20Bryan",
+        "pubdate": "Wed, 23 Oct 2024 12:00:00 +0800"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "ESPN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#ESPN",
+        "pubdate": "Wed, 23 Oct 2024 18:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Transformers One",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Transformers%20One",
         "pubdate": "Wed, 23 Oct 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Leptospirosis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Leptospirosis",
-        "pubdate": "Wed, 23 Oct 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Venom: The Last Dance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Venom:%20The%20Last%20Dance",
-        "pubdate": "Wed, 23 Oct 2024 15:00:00 +0800"
       }
     ]
   ]
