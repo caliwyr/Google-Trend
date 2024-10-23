@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 20:45:41",
+  "lastUpdate": "23-10-2024 , 20:55:00",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Dimitri Verhulst",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dimitri%20Verhulst",
-        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#NBA",
         "pubdate": "Wed, 23 Oct 2024 08:00:00 +0200"
@@ -55,6 +48,13 @@
         "title": "Barbara Sarafian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barbara%20Sarafian",
         "pubdate": "Wed, 23 Oct 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ankara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ankara",
+        "pubdate": "Wed, 23 Oct 2024 17:00:00 +0200"
       }
     ],
     [
@@ -80,9 +80,16 @@
     ],
     [
       {
-        "title": "Ankara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ankara",
-        "pubdate": "Wed, 23 Oct 2024 17:00:00 +0200"
+        "title": "Ruth Beeckmans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ruth%20Beeckmans",
+        "pubdate": "Wed, 23 Oct 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Diego Forlan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Diego%20Forlan",
-        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mike Jeffries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mike%20Jeffries",
-        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tahar Rahim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tahar%20Rahim",
-        "pubdate": "Wed, 23 Oct 2024 09:00:00 +0200"
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
+        "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aston%20Villa",
-        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
+        "title": "Diego Forlan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Diego%20Forlan",
+        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mike Jeffries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mike%20Jeffries",
+        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0200"
       }
     ]
   ]
