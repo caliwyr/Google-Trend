@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-10-2024 , 23:47:54",
+  "lastUpdate": "23-10-2024 , 23:57:09",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Liverpool",
+        "pubdate": "Thu, 24 Oct 2024 03:30:00 +0530"
+      }
+    ],
     [
       {
         "title": "Man City",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "Real Madrid vs Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid%20vs%20Dortmund",
-        "pubdate": "Wed, 23 Oct 2024 00:30:00 +0530"
+        "title": "Barcelona vs Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona%20vs%20Bayern",
+        "pubdate": "Wed, 23 Oct 2024 18:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Barcelona vs Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona%20vs%20Bayern",
-        "pubdate": "Wed, 23 Oct 2024 18:30:00 +0530"
+        "title": "Real Madrid vs Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid%20vs%20Dortmund",
+        "pubdate": "Wed, 23 Oct 2024 00:30:00 +0530"
       }
     ],
     [
@@ -59,9 +66,16 @@
     ],
     [
       {
-        "title": "Mike Jeffries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mike%20Jeffries",
-        "pubdate": "Wed, 23 Oct 2024 10:30:00 +0530"
+        "title": "Cyclone Dana Update",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cyclone%20Dana%20Update",
+        "pubdate": "Wed, 23 Oct 2024 09:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Prabhas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Prabhas",
+        "pubdate": "Wed, 23 Oct 2024 08:30:00 +0530"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Tamil Thalaivas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Tamil%20Thalaivas",
         "pubdate": "Wed, 23 Oct 2024 19:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Hashem Safieddine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hashem%20Safieddine",
-        "pubdate": "Wed, 23 Oct 2024 20:30:00 +0530"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Hyundai share price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hyundai%20share%20price",
+        "title": "Hyundai Share Price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Hyundai%20Share%20Price",
         "pubdate": "Tue, 22 Oct 2024 10:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Cyclone Dana update",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cyclone%20Dana%20update",
-        "pubdate": "Tue, 22 Oct 2024 04:30:00 +0530"
       }
     ]
   ]
