@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 03:45:04",
+  "lastUpdate": "23-10-2024 , 03:54:15",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "London",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#London",
         "pubdate": "Tue, 22 Oct 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Champions League matcher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Champions%20League%20matcher",
+        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Carnegie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carnegie",
         "pubdate": "Mon, 21 Oct 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Laila Bagge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Laila%20Bagge",
-        "pubdate": "Mon, 21 Oct 2024 14:00:00 +0200"
       }
     ]
   ]
