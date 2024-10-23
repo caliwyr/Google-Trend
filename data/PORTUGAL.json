@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-10-2024 , 05:43:57",
+  "lastUpdate": "23-10-2024 , 05:53:18",
   "data": [
-    [
-      {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NBA",
-        "pubdate": "Wed, 23 Oct 2024 03:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Libertadores",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Fluminense",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
-        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0100"
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#NBA",
+        "pubdate": "Wed, 23 Oct 2024 03:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Paulo Rangel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paulo%20Rangel",
-        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
+        "title": "Fluminense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
+        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0100"
       }
     ],
     [
@@ -55,6 +48,13 @@
         "title": "Marco Paulo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marco%20Paulo",
         "pubdate": "Tue, 22 Oct 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Caixa Geral de depositos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Caixa%20Geral%20de%20depositos",
+        "pubdate": "Tue, 22 Oct 2024 10:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Feyenoord",
+        "pubdate": "Tue, 22 Oct 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pedro Queiroz Pereira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pedro%20Queiroz%20Pereira",
         "pubdate": "Tue, 22 Oct 2024 14:00:00 +0100"
@@ -131,13 +138,6 @@
       {
         "title": "Totti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Totti",
-        "pubdate": "Tue, 22 Oct 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Quimera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Quimera",
         "pubdate": "Tue, 22 Oct 2024 18:00:00 +0100"
       }
     ]
