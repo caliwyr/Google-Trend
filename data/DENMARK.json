@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 17:44:23",
+  "lastUpdate": "23-10-2024 , 17:53:17",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NBA",
         "pubdate": "Wed, 23 Oct 2024 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Gefion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gefion",
+        "pubdate": "Wed, 23 Oct 2024 14:00:00 +0200"
       }
     ],
     [
@@ -31,22 +38,8 @@
     ],
     [
       {
-        "title": "Gefion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gefion",
-        "pubdate": "Wed, 23 Oct 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bianca Gascoigne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bianca%20Gascoigne",
-        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ballon d'Or 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ballon%20d'Or%202024",
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
       }
     ],
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "Jacob Mark",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jacob%20Mark",
-        "pubdate": "Tue, 22 Oct 2024 09:00:00 +0200"
+        "title": "Ballon d'Or 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ballon%20d'Or%202024",
+        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Europa%20League",
+        "pubdate": "Wed, 23 Oct 2024 09:00:00 +0200"
       }
     ],
     [
