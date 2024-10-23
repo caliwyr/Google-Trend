@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 21:47:43",
+  "lastUpdate": "23-10-2024 , 21:57:04",
   "data": [
     [
       {
@@ -17,16 +17,23 @@
     ],
     [
       {
-        "title": "Barcelone – Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelone%20%E2%80%93%20Bayern",
-        "pubdate": "Wed, 23 Oct 2024 13:00:00 +0200"
+        "title": "Ligue des champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ligue%20des%20champions",
+        "pubdate": "Wed, 23 Oct 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-        "pubdate": "Wed, 23 Oct 2024 20:00:00 +0200"
+        "title": "Dimitri Verhulst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dimitri%20Verhulst",
+        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City – Sparta Prague",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20City%20%E2%80%93%20Sparta%20Prague",
+        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
       }
     ],
     [
@@ -38,8 +45,29 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
+        "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray",
+        "pubdate": "Wed, 23 Oct 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ankara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ankara",
         "pubdate": "Wed, 23 Oct 2024 17:00:00 +0200"
       }
     ],
@@ -52,23 +80,9 @@
     ],
     [
       {
-        "title": "Ankara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ankara",
-        "pubdate": "Wed, 23 Oct 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ketnet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ketnet",
         "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Steven Laureys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Steven%20Laureys",
-        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0200"
       }
     ],
     [
@@ -80,6 +94,13 @@
     ],
     [
       {
+        "title": "Steven Laureys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Steven%20Laureys",
+        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ruth Beeckmans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ruth%20Beeckmans",
         "pubdate": "Wed, 23 Oct 2024 12:00:00 +0200"
@@ -87,8 +108,8 @@
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
+        "title": "Atlético Madrid – Lille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Atl%C3%A9tico%20Madrid%20%E2%80%93%20Lille",
         "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
       }
     ],
@@ -108,37 +129,16 @@
     ],
     [
       {
-        "title": "Michael Jackson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michael%20Jackson",
-        "pubdate": "Wed, 23 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
+        "title": "Guga baul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guga%20baul",
         "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Brest – Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brest%20%E2%80%93%20Leverkusen",
+        "title": "Michael Jackson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Michael%20Jackson",
         "pubdate": "Wed, 23 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Diego Forlan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Diego%20Forlan",
-        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mike Jeffries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mike%20Jeffries",
-        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0200"
       }
     ]
   ]
