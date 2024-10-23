@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 22:44:40",
+  "lastUpdate": "23-10-2024 , 22:53:57",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Tyler, The Creator",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tyler,%20The%20Creator",
         "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BRICS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BRICS",
+        "pubdate": "Wed, 23 Oct 2024 01:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "PEC Zwolle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
         "pubdate": "Sun, 20 Oct 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Heracles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
-        "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
       }
     ]
   ]
