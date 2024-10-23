@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-10-2024 , 11:38:33",
+  "lastUpdate": "23-10-2024 , 11:47:50",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Windy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Windy",
         "pubdate": "Wed, 23 Oct 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Typhoon Kristine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Typhoon%20Kristine",
-        "pubdate": "Wed, 23 Oct 2024 06:00:00 +0800"
       }
     ],
     [
@@ -59,9 +52,23 @@
     ],
     [
       {
+        "title": "Typhoon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Typhoon",
+        "pubdate": "Wed, 23 Oct 2024 06:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Naga City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Naga%20City",
         "pubdate": "Wed, 23 Oct 2024 04:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Mike Jeffries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Mike%20Jeffries",
+        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0800"
       }
     ],
     [
@@ -80,9 +87,9 @@
     ],
     [
       {
-        "title": "Mike Jeffries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Mike%20Jeffries",
-        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0800"
+        "title": "Albay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Albay",
+        "pubdate": "Wed, 23 Oct 2024 02:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "ESPN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#ESPN",
         "pubdate": "Wed, 23 Oct 2024 18:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Transformers One",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Transformers%20One",
-        "pubdate": "Wed, 23 Oct 2024 12:00:00 +0800"
       }
     ]
   ]
