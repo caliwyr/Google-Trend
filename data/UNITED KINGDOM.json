@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-10-2024 , 15:51:30",
+  "lastUpdate": "23-10-2024 , 16:09:01",
   "data": [
-    [
-      {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#NBA",
-        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Birmingham Airport",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Lakers",
-        "pubdate": "Wed, 23 Oct 2024 11:00:00 +0100"
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#NBA",
+        "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Young Dizz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Young%20Dizz",
+        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0100"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Europa%20League",
         "pubdate": "Wed, 23 Oct 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Babygirl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Babygirl",
+        "pubdate": "Wed, 23 Oct 2024 12:00:00 +0100"
       }
     ],
     [
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "Babygirl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Babygirl",
-        "pubdate": "Wed, 23 Oct 2024 12:00:00 +0100"
+        "title": "Bronny James",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bronny%20James",
+        "pubdate": "Wed, 23 Oct 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Samoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Samoa",
+        "pubdate": "Wed, 23 Oct 2024 15:00:00 +0100"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Samoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Samoa",
-        "pubdate": "Wed, 23 Oct 2024 15:00:00 +0100"
+        "title": "RSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#RSV",
+        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Bianca Gascoigne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bianca%20Gascoigne",
-        "pubdate": "Tue, 22 Oct 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Giovanni Pernice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Giovanni%20Pernice",
         "pubdate": "Tue, 22 Oct 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Juventus",
-        "pubdate": "Tue, 22 Oct 2024 22:00:00 +0100"
       }
     ]
   ]
