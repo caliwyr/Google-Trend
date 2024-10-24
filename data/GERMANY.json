@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2024 , 10:46:54",
+  "lastUpdate": "24-10-2024 , 10:56:15",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Bayern Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Barcelona",
+        "title": "Barcelona – Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Barcelona%20%E2%80%93%20Bayern",
         "pubdate": "Wed, 23 Oct 2024 11:00:00 +0200"
       }
     ],
@@ -41,13 +41,6 @@
         "title": "Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuttgart",
         "pubdate": "Wed, 23 Oct 2024 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Esslingen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Esslingen",
-        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Checker Tobi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Checker%20Tobi",
         "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "VfL Bochum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Bochum",
+        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
       }
     ]
   ]
