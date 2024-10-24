@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2024 , 03:44:28",
+  "lastUpdate": "24-10-2024 , 03:53:51",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Botafogo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
+        "pubdate": "Wed, 23 Oct 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Diogo Faro Joana Marques",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Diogo%20Faro%20Joana%20Marques",
         "pubdate": "Wed, 23 Oct 2024 15:00:00 +0100"
@@ -80,23 +87,9 @@
     ],
     [
       {
-        "title": "Botafogo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Botafogo",
-        "pubdate": "Wed, 23 Oct 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fluminense",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fluminense",
         "pubdate": "Wed, 23 Oct 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Odair",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Odair",
-        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Paulo Rangel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paulo%20Rangel",
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maniche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maniche",
+        "pubdate": "Wed, 23 Oct 2024 07:00:00 +0100"
       }
     ]
   ]
