@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2024 , 16:35:06",
+  "lastUpdate": "24-10-2024 , 16:48:51",
   "data": [
     [
       {
@@ -24,9 +24,30 @@
     ],
     [
       {
+        "title": "Cercle Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
+        "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Delitraiteur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Delitraiteur",
+        "pubdate": "Thu, 24 Oct 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Schtroumpf Expérience",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Schtroumpf%20Exp%C3%A9rience",
         "pubdate": "Thu, 24 Oct 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ludogorets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ludogorets",
+        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
       }
     ],
     [
@@ -48,13 +69,6 @@
         "title": "Gooische Vrouwen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gooische%20Vrouwen",
         "pubdate": "Thu, 24 Oct 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ludogorets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ludogorets",
-        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "ING Arena",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ING%20Arena",
         "pubdate": "Wed, 23 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#NBA",
-        "pubdate": "Wed, 23 Oct 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Feyenoord",
-        "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
       }
     ]
   ]
