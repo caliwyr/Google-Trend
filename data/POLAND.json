@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-10-2024 , 17:41:37",
+  "lastUpdate": "24-10-2024 , 17:50:54",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Partia Razem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Partia%20Razem",
         "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jakubiak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jakubiak",
-        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chelsea",
+        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Krzysztof Ibisz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Krzysztof%20Ibisz",
         "pubdate": "Thu, 24 Oct 2024 15:00:00 +0200"
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Muzeum Sztuki Nowoczesnej",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Muzeum%20Sztuki%20Nowoczesnej",
+        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Benfica",
         "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
@@ -94,16 +101,23 @@
     ],
     [
       {
-        "title": "Muzeum Sztuki Nowoczesnej",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Muzeum%20Sztuki%20Nowoczesnej",
-        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
+        "title": "Jarosław Juszkiewicz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Juszkiewicz",
+        "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Jarosław Juszkiewicz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Juszkiewicz",
+        "title": "Piotr Krysiak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Piotr%20Krysiak",
         "pubdate": "Thu, 24 Oct 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Serbia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Serbia",
+        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lakers",
-        "pubdate": "Thu, 24 Oct 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Rafał Trzaskowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rafa%C5%82%20Trzaskowski",
-        "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Śląsk Wrocław – Stal Mielec",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%9Al%C4%85sk%20Wroc%C5%82aw%20%E2%80%93%20Stal%20Mielec",
-        "pubdate": "Wed, 23 Oct 2024 18:00:00 +0200"
+        "title": "Zmiana czasu Kiedy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zmiana%20czasu%20Kiedy",
+        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
       }
     ]
   ]
