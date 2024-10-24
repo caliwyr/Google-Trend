@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "24-10-2024 , 07:46:15",
+  "lastUpdate": "24-10-2024 , 07:55:37",
   "data": [
-    [
-      {
-        "title": "Bert Koenders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bert%20Koenders",
-        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Stookwijzer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stookwijzer",
         "pubdate": "Thu, 24 Oct 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bert Koenders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bert%20Koenders",
+        "pubdate": "Thu, 24 Oct 2024 00:00:00 +0200"
       }
     ],
     [
@@ -31,6 +31,20 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
+        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
+        "pubdate": "Wed, 23 Oct 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
         "pubdate": "Wed, 23 Oct 2024 06:00:00 +0200"
@@ -41,13 +55,6 @@
         "title": "Joost Klein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joost%20Klein",
         "pubdate": "Wed, 23 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ebusco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ebusco",
-        "pubdate": "Wed, 23 Oct 2024 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Heracles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
         "pubdate": "Sun, 20 Oct 2024 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
       }
     ]
   ]
