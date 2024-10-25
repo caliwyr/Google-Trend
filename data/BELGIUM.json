@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2024 , 14:42:24",
+  "lastUpdate": "25-10-2024 , 14:51:36",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "RSC Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSC%20Anderlecht",
-        "pubdate": "Fri, 25 Oct 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tottenham",
         "pubdate": "Fri, 25 Oct 2024 09:00:00 +0200"
@@ -31,23 +24,16 @@
     ],
     [
       {
-        "title": "Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
-        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
+        "title": "RSC Anderlecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSC%20Anderlecht",
+        "pubdate": "Fri, 25 Oct 2024 08:00:00 +0200"
       }
     ],
     [
       {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Europa%20League",
-        "pubdate": "Thu, 24 Oct 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conference%20League",
-        "pubdate": "Thu, 24 Oct 2024 10:00:00 +0200"
+        "pubdate": "Thu, 24 Oct 2024 16:00:00 +0200"
       }
     ],
     [
@@ -59,13 +45,6 @@
     ],
     [
       {
-        "title": "Midtjylland - Union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Midtjylland%20-%20Union",
-        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Abdelaziz Barrada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Abdelaziz%20Barrada",
         "pubdate": "Thu, 24 Oct 2024 22:00:00 +0200"
@@ -73,9 +52,9 @@
     ],
     [
       {
-        "title": "AA Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
-        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conference%20League",
+        "pubdate": "Thu, 24 Oct 2024 10:00:00 +0200"
       }
     ],
     [
@@ -87,16 +66,23 @@
     ],
     [
       {
-        "title": "Cercle Brugge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
-        "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
+        "title": "AA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
+        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
       }
     ],
     [
       {
-        "title": "RSCA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSCA",
-        "pubdate": "Thu, 24 Oct 2024 22:00:00 +0200"
+        "title": "Midtjylland - Union",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Midtjylland%20-%20Union",
+        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Cercle Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cercle%20Brugge",
+        "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
       }
     ],
     [
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
+        "pubdate": "Thu, 24 Oct 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Genk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk",
         "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "De Grote Schijn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20Grote%20Schijn",
-        "pubdate": "Thu, 24 Oct 2024 14:00:00 +0200"
+        "title": "Union saint-gilloise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20saint-gilloise",
+        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ron Ely",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ron%20Ely",
         "pubdate": "Thu, 24 Oct 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Besiktas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Besiktas",
+        "pubdate": "Thu, 24 Oct 2024 22:00:00 +0200"
       }
     ]
   ]
