@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2024 , 17:40:56",
+  "lastUpdate": "25-10-2024 , 17:50:29",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Ukraine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ukraine",
         "pubdate": "Fri, 25 Oct 2024 04:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Corinna Kopf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Corinna%20Kopf",
-        "pubdate": "Fri, 25 Oct 2024 15:00:00 +0200"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "RSCA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RSCA",
-        "pubdate": "Thu, 24 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Fascist",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fascist",
         "pubdate": "Thu, 24 Oct 2024 15:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
         "pubdate": "Thu, 24 Oct 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Genk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Genk",
+        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#AA%20Gent",
+        "pubdate": "Thu, 24 Oct 2024 19:00:00 +0200"
       }
     ]
   ]
