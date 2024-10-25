@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2024 , 23:45:57",
+  "lastUpdate": "25-10-2024 , 23:55:27",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "OSN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OSN",
-        "pubdate": "Fri, 25 Oct 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Jiří Schmitzer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Schmitzer",
         "pubdate": "Fri, 25 Oct 2024 12:00:00 +0200"
@@ -48,6 +41,13 @@
         "title": "Total Recall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Total%20Recall",
         "pubdate": "Fri, 25 Oct 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Prokremelské pohádky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Prokremelsk%C3%A9%20poh%C3%A1dky",
+        "pubdate": "Fri, 25 Oct 2024 21:00:00 +0200"
       }
     ],
     [
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Antonio Guterres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Antonio%20Guterres",
+        "pubdate": "Fri, 25 Oct 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Karlo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karlo",
         "pubdate": "Fri, 25 Oct 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Berenika Saudková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Berenika%20Saudkov%C3%A1",
+        "pubdate": "Fri, 25 Oct 2024 07:00:00 +0200"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "PAOK – Plzeň",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#PAOK%20%E2%80%93%20Plze%C5%88",
-        "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Boleslav – Lugano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boleslav%20%E2%80%93%20Lugano",
-        "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Slavia Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia%20Praha",
         "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
       }
     ]
