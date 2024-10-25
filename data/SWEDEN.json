@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2024 , 01:13:42",
+  "lastUpdate": "25-10-2024 , 02:32:54",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Djurgården fotboll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden%20fotboll",
+        "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Den sista resan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Den%20sista%20resan",
         "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Europa%20League",
         "pubdate": "Wed, 23 Oct 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
-        "pubdate": "Wed, 23 Oct 2024 19:00:00 +0200"
       }
     ]
   ]
