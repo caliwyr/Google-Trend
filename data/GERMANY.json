@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-10-2024 , 19:43:06",
+  "lastUpdate": "25-10-2024 , 19:52:29",
   "data": [
     [
       {
@@ -33,6 +33,13 @@
       {
         "title": "Call of Duty",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Call%20of%20Duty",
+        "pubdate": "Thu, 24 Oct 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Schwalmstadt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schwalmstadt",
         "pubdate": "Thu, 24 Oct 2024 15:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Checker Tobi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Checker%20Tobi",
         "pubdate": "Sat, 19 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "VfL Bochum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfL%20Bochum",
-        "pubdate": "Sat, 19 Oct 2024 18:00:00 +0200"
       }
     ]
   ]
