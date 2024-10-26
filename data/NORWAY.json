@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-10-2024 , 03:40:14",
+  "lastUpdate": "26-10-2024 , 03:49:28",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Vålerenga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%A5lerenga",
+        "pubdate": "Fri, 25 Oct 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ullensvang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ullensvang",
         "pubdate": "Fri, 25 Oct 2024 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Vømmøl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#V%C3%B8mm%C3%B8l",
         "pubdate": "Thu, 24 Oct 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sarkofag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sarkofag",
-        "pubdate": "Thu, 24 Oct 2024 21:00:00 +0200"
       }
     ]
   ]
