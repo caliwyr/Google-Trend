@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-10-2024 , 16:41:31",
+  "lastUpdate": "26-10-2024 , 16:50:40",
   "data": [
     [
       {
@@ -17,8 +17,15 @@
     ],
     [
       {
-        "title": "Raptors",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors",
+        "title": "El Clasico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#El%20Clasico",
+        "pubdate": "Sat, 26 Oct 2024 03:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Chappell Roan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chappell%20Roan",
         "pubdate": "Sat, 26 Oct 2024 07:00:00 -0400"
       }
     ],
@@ -27,6 +34,13 @@
         "title": "Beyonce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Beyonce",
         "pubdate": "Sat, 26 Oct 2024 05:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Man City vs Southampton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City%20vs%20Southampton",
+        "pubdate": "Sat, 26 Oct 2024 11:00:00 -0400"
       }
     ],
     [
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "El Clasico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#El%20Clasico",
-        "pubdate": "Sat, 26 Oct 2024 03:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Skate Canada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Skate%20Canada",
         "pubdate": "Sat, 26 Oct 2024 01:00:00 -0400"
@@ -59,16 +66,9 @@
     ],
     [
       {
-        "title": "Man City vs Southampton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City%20vs%20Southampton",
-        "pubdate": "Sat, 26 Oct 2024 11:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zendaya",
-        "pubdate": "Sat, 26 Oct 2024 06:00:00 -0400"
+        "title": "Jeff Bezos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jeff%20Bezos",
+        "pubdate": "Sat, 26 Oct 2024 10:00:00 -0400"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Juan Soto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Juan%20Soto",
         "pubdate": "Sat, 26 Oct 2024 00:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Baseball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Baseball",
+        "pubdate": "Sat, 26 Oct 2024 12:00:00 -0400"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Raptors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Raptors",
+        "pubdate": "Fri, 25 Oct 2024 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Leafs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leafs",
         "pubdate": "Fri, 25 Oct 2024 00:00:00 -0400"
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Wind warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wind%20warning",
+        "pubdate": "Fri, 25 Oct 2024 11:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Torontomapleleafs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Torontomapleleafs",
         "pubdate": "Fri, 25 Oct 2024 08:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Lil Durk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Lil%20Durk",
-        "pubdate": "Fri, 25 Oct 2024 05:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Calgary flames",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Calgary%20flames",
-        "pubdate": "Fri, 25 Oct 2024 04:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Winnipeg Jets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
-        "pubdate": "Fri, 25 Oct 2024 04:00:00 -0400"
       }
     ]
   ]
