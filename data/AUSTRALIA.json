@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-10-2024 , 17:43:26",
+  "lastUpdate": "26-10-2024 , 17:52:40",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#La%20Liga",
+        "pubdate": "Sat, 26 Oct 2024 19:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Joe Rogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Rogan",
         "pubdate": "Sat, 26 Oct 2024 09:00:00 +1100"
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Steven Miles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Steven%20Miles",
+        "pubdate": "Sat, 26 Oct 2024 21:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "All Blacks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#All%20Blacks",
         "pubdate": "Sat, 26 Oct 2024 16:00:00 +1100"
@@ -80,23 +94,9 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Real%20Madrid",
-        "pubdate": "Sat, 26 Oct 2024 19:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Chappell Roan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chappell%20Roan",
         "pubdate": "Sat, 26 Oct 2024 18:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#La%20Liga",
-        "pubdate": "Sat, 26 Oct 2024 20:00:00 +1100"
       }
     ],
     [
@@ -115,8 +115,8 @@
     ],
     [
       {
-        "title": "MLB World Series",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MLB%20World%20Series",
+        "title": "Mlb World Series",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Mlb%20World%20Series",
         "pubdate": "Sat, 26 Oct 2024 16:00:00 +1100"
       }
     ],
