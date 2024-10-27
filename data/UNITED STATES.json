@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "27-10-2024 , 14:50:39",
+  "lastUpdate": "27-10-2024 , 14:59:53",
   "data": [
     [
       {
         "title": "Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Celtics",
         "pubdate": "Sun, 27 Oct 2024 04:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
+        "pubdate": "Sun, 27 Oct 2024 05:00:00 -0700"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Cincinnati vs Colorado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cincinnati%20vs%20Colorado",
+        "pubdate": "Sat, 26 Oct 2024 20:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Ole Miss Football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ole%20Miss%20Football",
         "pubdate": "Sat, 26 Oct 2024 10:00:00 -0700"
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "Cincinnati vs Colorado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cincinnati%20vs%20Colorado",
-        "pubdate": "Sat, 26 Oct 2024 20:00:00 -0700"
+        "title": "Illinois vs Oregon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20vs%20Oregon",
+        "pubdate": "Sat, 26 Oct 2024 14:00:00 -0700"
       }
     ],
     [
@@ -108,8 +122,8 @@
     ],
     [
       {
-        "title": "Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
+        "title": "Mavericks vs Suns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mavericks%20vs%20Suns",
         "pubdate": "Sat, 26 Oct 2024 08:00:00 -0700"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Clippers vs Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Clippers%20vs%20Nuggets",
-        "pubdate": "Sat, 26 Oct 2024 17:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Virginia Tech football",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Virginia%20Tech%20football",
         "pubdate": "Sat, 26 Oct 2024 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Robert Whittaker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20Whittaker",
-        "pubdate": "Sat, 26 Oct 2024 14:00:00 -0700"
       }
     ]
   ]
