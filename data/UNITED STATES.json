@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-10-2024 , 02:38:14",
+  "lastUpdate": "28-10-2024 , 03:16:05",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "Cowboys vs 49ers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys%20vs%2049ers",
+        "pubdate": "Sun, 27 Oct 2024 14:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Chiefs vs Raiders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs%20vs%20Raiders",
+        "pubdate": "Sun, 27 Oct 2024 14:00:00 -0700"
+      }
+    ],
+    [
+      {
         "title": "Daylight savings time",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Daylight%20savings%20time",
         "pubdate": "Sun, 27 Oct 2024 05:00:00 -0700"
@@ -38,23 +52,9 @@
     ],
     [
       {
-        "title": "Chiefs vs Raiders",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs%20vs%20Raiders",
-        "pubdate": "Sun, 27 Oct 2024 14:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Broncos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Broncos",
         "pubdate": "Sun, 27 Oct 2024 12:00:00 -0700"
-      }
-    ],
-    [
-      {
-        "title": "Cowboys vs 49ers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Cowboys%20vs%2049ers",
-        "pubdate": "Sun, 27 Oct 2024 14:00:00 -0700"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Arsenal vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal%20vs%20Liverpool",
-        "pubdate": "Sun, 27 Oct 2024 10:00:00 -0700"
-      }
-    ],
-    [
-      {
         "title": "Eagles vs Bengals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles%20vs%20Bengals",
         "pubdate": "Sun, 27 Oct 2024 11:00:00 -0700"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Tony Hinchcliffe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tony%20Hinchcliffe",
-        "pubdate": "Sun, 27 Oct 2024 15:00:00 -0700"
+        "title": "Arsenal vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal%20vs%20Liverpool",
+        "pubdate": "Sun, 27 Oct 2024 10:00:00 -0700"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Arsenal",
+        "pubdate": "Sun, 27 Oct 2024 12:00:00 -0700"
       }
     ]
   ]
