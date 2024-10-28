@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-10-2024 , 03:41:53",
+  "lastUpdate": "28-10-2024 , 03:52:33",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "大夢歸離",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%A7%E5%A4%A2%E6%AD%B8%E9%9B%A2",
-        "pubdate": "Sun, 27 Oct 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "台灣地震",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%8F%B0%E7%81%A3%E5%9C%B0%E9%9C%87",
         "pubdate": "Sun, 27 Oct 2024 21:00:00 +0800"
@@ -90,6 +83,13 @@
         "title": "家寧",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%AE%B6%E5%AF%A7",
         "pubdate": "Sun, 27 Oct 2024 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "大家樂/牛油",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%A4%A7%E5%AE%B6%E6%A8%82/%E7%89%9B%E6%B2%B9",
+        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0800"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "走鐘獎",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E8%B5%B0%E9%90%98%E7%8D%8E",
-        "pubdate": "Sat, 26 Oct 2024 21:00:00 +0800"
+        "title": "曼城",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E6%9B%BC%E5%9F%8E",
+        "pubdate": "Sat, 26 Oct 2024 23:00:00 +0800"
       }
     ]
   ]
