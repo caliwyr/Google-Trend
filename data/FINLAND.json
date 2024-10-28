@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "28-10-2024 , 09:43:05",
+  "lastUpdate": "28-10-2024 , 09:52:36",
   "data": [
-    [
-      {
-        "title": "Georgia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Georgia",
-        "pubdate": "Sun, 27 Oct 2024 20:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Arsenal – Liverpool",
@@ -17,15 +10,15 @@
     ],
     [
       {
-        "title": "Bee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bee",
-        "pubdate": "Sun, 27 Oct 2024 21:00:00 +0200"
+        "title": "Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Georgia",
+        "pubdate": "Sun, 27 Oct 2024 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
+        "title": "Bee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bee",
         "pubdate": "Sun, 27 Oct 2024 21:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Scream",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Scream",
         "pubdate": "Fri, 25 Oct 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Mariska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mariska",
+        "pubdate": "Fri, 25 Oct 2024 21:00:00 +0300"
       }
     ]
   ]
