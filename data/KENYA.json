@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "28-10-2024 , 23:46:29",
+  "lastUpdate": "28-10-2024 , 23:56:02",
   "data": [
-    [
-      {
-        "title": "George Weah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#George%20Weah",
-        "pubdate": "Tue, 29 Oct 2024 01:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Blackpool FC",
@@ -20,13 +13,6 @@
         "title": "Ballon d'Or 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ballon%20d'Or%202024",
         "pubdate": "Mon, 28 Oct 2024 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Ballon d'Or 2024 nominees",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ballon%20d'Or%202024%20nominees",
-        "pubdate": "Mon, 28 Oct 2024 19:00:00 +0300"
       }
     ],
     [
@@ -48,6 +34,13 @@
         "title": "Diwali 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Diwali%202024",
         "pubdate": "Mon, 28 Oct 2024 10:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Ballon d'Or 2024 time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ballon%20d'Or%202024%20time",
+        "pubdate": "Mon, 28 Oct 2024 20:00:00 +0300"
       }
     ],
     [
@@ -76,13 +69,6 @@
         "title": "Aoko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Aoko",
         "pubdate": "Mon, 28 Oct 2024 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Chat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chat",
-        "pubdate": "Mon, 28 Oct 2024 18:00:00 +0300"
       }
     ],
     [
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Businessdaily",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Businessdaily",
-        "pubdate": "Mon, 28 Oct 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Galatasaray",
         "pubdate": "Mon, 28 Oct 2024 21:00:00 +0300"
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Businessdaily",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Businessdaily",
+        "pubdate": "Mon, 28 Oct 2024 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Gor Mahia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Gor%20Mahia",
         "pubdate": "Mon, 28 Oct 2024 17:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Chat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chat",
+        "pubdate": "Mon, 28 Oct 2024 18:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Office 365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Office%20365",
+        "pubdate": "Mon, 28 Oct 2024 14:00:00 +0300"
       }
     ]
   ]
