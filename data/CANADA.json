@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2024 , 17:41:29",
+  "lastUpdate": "29-10-2024 , 17:50:52",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Canucks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
         "pubdate": "Tue, 29 Oct 2024 02:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Dodgers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Dodgers",
+        "pubdate": "Tue, 29 Oct 2024 01:00:00 -0400"
       }
     ],
     [
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Shawn Mendes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shawn%20Mendes",
+        "pubdate": "Tue, 29 Oct 2024 11:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "UNRWA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UNRWA",
         "pubdate": "Tue, 29 Oct 2024 10:00:00 -0400"
@@ -62,13 +76,6 @@
         "title": "Btc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Btc",
         "pubdate": "Tue, 29 Oct 2024 06:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Shawn Mendes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Shawn%20Mendes",
-        "pubdate": "Tue, 29 Oct 2024 11:00:00 -0400"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Jeff Bezos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jeff%20Bezos",
-        "pubdate": "Tue, 29 Oct 2024 12:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "SOFI) stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#SOFI)%20stock",
         "pubdate": "Tue, 29 Oct 2024 11:00:00 -0400"
@@ -108,9 +108,16 @@
     ],
     [
       {
-        "title": "CBC saskatchewan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CBC%20saskatchewan",
-        "pubdate": "Tue, 29 Oct 2024 11:00:00 -0400"
+        "title": "Jeff Bezos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jeff%20Bezos",
+        "pubdate": "Tue, 29 Oct 2024 12:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "New Zealand Women vs India Women",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#New%20Zealand%20Women%20vs%20India%20Women",
+        "pubdate": "Tue, 29 Oct 2024 13:00:00 -0400"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Oilers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Oilers",
         "pubdate": "Mon, 28 Oct 2024 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Gisele Bündchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Gisele%20B%C3%BCndchen",
-        "pubdate": "Mon, 28 Oct 2024 18:00:00 -0400"
       }
     ]
   ]
