@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-10-2024 , 19:46:23",
+  "lastUpdate": "29-10-2024 , 19:55:40",
   "data": [
+    [
+      {
+        "title": "Georgia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Georgia",
+        "pubdate": "Tue, 29 Oct 2024 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Séfek Séfe",
@@ -17,9 +24,16 @@
     ],
     [
       {
-        "title": "Grúzia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gr%C3%BAzia",
-        "pubdate": "Tue, 29 Oct 2024 09:00:00 +0100"
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bitcoin",
+        "pubdate": "Tue, 29 Oct 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Matilde Lorenzi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Matilde%20Lorenzi",
+        "pubdate": "Tue, 29 Oct 2024 13:00:00 +0100"
       }
     ],
     [
@@ -31,8 +45,15 @@
     ],
     [
       {
-        "title": "M1 autópálya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M1%20aut%C3%B3p%C3%A1lya",
+        "title": "Pásztor Erzsi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%A1sztor%20Erzsi",
+        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "M1 baleset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M1%20baleset",
         "pubdate": "Tue, 29 Oct 2024 15:00:00 +0100"
       }
     ],
@@ -45,29 +66,8 @@
     ],
     [
       {
-        "title": "Pásztor Erzsi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%A1sztor%20Erzsi",
-        "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Kötelező jogosítványcsere",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%B6telez%C5%91%20jogos%C3%ADtv%C3%A1nycsere",
-        "pubdate": "Tue, 29 Oct 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sudi Iringó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sudi%20Iring%C3%B3",
-        "pubdate": "Tue, 29 Oct 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin árfolyam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bitcoin%20%C3%A1rfolyam",
         "pubdate": "Tue, 29 Oct 2024 08:00:00 +0100"
       }
     ],
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Dragon Age Veilguard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dragon%20Age%20Veilguard",
-        "pubdate": "Tue, 29 Oct 2024 11:00:00 +0100"
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bruce%20Willis",
+        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
       }
     ],
     [
@@ -101,23 +101,23 @@
     ],
     [
       {
+        "title": "Dragon Age Veilguard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dragon%20Age%20Veilguard",
+        "pubdate": "Tue, 29 Oct 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Házasság első látásra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%A1zass%C3%A1g%20els%C5%91%20l%C3%A1t%C3%A1sra",
+        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rodri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rodri",
         "pubdate": "Mon, 28 Oct 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aranylabda-gála",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aranylabda-g%C3%A1la",
-        "pubdate": "Mon, 28 Oct 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nemzeti konzultáció",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nemzeti%20konzult%C3%A1ci%C3%B3",
-        "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "RTL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTL",
-        "pubdate": "Mon, 28 Oct 2024 21:00:00 +0100"
+        "title": "Nemzeti konzultáció",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nemzeti%20konzult%C3%A1ci%C3%B3",
+        "pubdate": "Mon, 28 Oct 2024 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sándor Fegyir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A1ndor%20Fegyir",
-        "pubdate": "Mon, 28 Oct 2024 15:00:00 +0100"
+        "title": "RTL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTL",
+        "pubdate": "Mon, 28 Oct 2024 21:00:00 +0100"
       }
     ]
   ]
