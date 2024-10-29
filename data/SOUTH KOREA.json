@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "28-10-2024 , 23:56:05",
+  "lastUpdate": "29-10-2024 , 01:17:56",
   "data": [
-    [
-      {
-        "title": "로드리",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%9C%EB%93%9C%EB%A6%AC",
-        "pubdate": "Tue, 29 Oct 2024 01:00:00 +0900"
-      }
-    ],
     [
       {
         "title": "박신혜",
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "조두순",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A1%B0%EB%91%90%EC%88%9C",
+        "pubdate": "Tue, 29 Oct 2024 09:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "기아타이거즈",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B8%B0%EC%95%84%ED%83%80%EC%9D%B4%EA%B1%B0%EC%A6%88",
         "pubdate": "Mon, 28 Oct 2024 20:00:00 +0900"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "T1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#T1",
-        "pubdate": "Mon, 28 Oct 2024 02:00:00 +0900"
+        "title": "발롱도르",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%9C%EB%A1%B1%EB%8F%84%EB%A5%B4",
+        "pubdate": "Mon, 28 Oct 2024 12:00:00 +0900"
       }
     ],
     [
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "텐하흐",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%85%90%ED%95%98%ED%9D%90",
-        "pubdate": "Mon, 28 Oct 2024 22:00:00 +0900"
+        "title": "맨유",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%A8%EC%9C%A0",
+        "pubdate": "Mon, 28 Oct 2024 03:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "롤드컵 결승",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%A4%EB%93%9C%EC%BB%B5%20%EA%B2%B0%EC%8A%B9",
+        "pubdate": "Mon, 28 Oct 2024 02:00:00 +0900"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "일본 총선",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%BC%EB%B3%B8%20%EC%B4%9D%EC%84%A0",
-        "pubdate": "Mon, 28 Oct 2024 12:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "태풍",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%83%9C%ED%92%8D",
         "pubdate": "Mon, 28 Oct 2024 20:00:00 +0900"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "뮌헨",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AE%8C%ED%97%A8",
-        "pubdate": "Mon, 28 Oct 2024 12:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "T1 젠지",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#T1%20%EC%A0%A0%EC%A7%80",
         "pubdate": "Sun, 27 Oct 2024 02:00:00 +0900"
@@ -139,6 +132,13 @@
         "title": "로또1143",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%9C%EB%98%901143",
         "pubdate": "Sun, 27 Oct 2024 00:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "토푸리아",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%86%A0%ED%91%B8%EB%A6%AC%EC%95%84",
+        "pubdate": "Sun, 27 Oct 2024 06:00:00 +0900"
       }
     ]
   ]
