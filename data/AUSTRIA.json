@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-10-2024 , 03:47:11",
+  "lastUpdate": "29-10-2024 , 03:56:33",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "SANDL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#SANDL",
+        "pubdate": "Mon, 28 Oct 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Gerard Depardieu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gerard%20Depardieu",
         "pubdate": "Mon, 28 Oct 2024 13:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Rosenkranz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rosenkranz",
         "pubdate": "Mon, 28 Oct 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DFB-Pokal",
-        "pubdate": "Mon, 28 Oct 2024 17:00:00 +0100"
       }
     ]
   ]
