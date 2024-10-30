@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2024 , 04:48:39",
+  "lastUpdate": "30-10-2024 , 04:58:03",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Xiaomi 15",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Xiaomi%2015",
         "pubdate": "Wed, 30 Oct 2024 10:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ukraine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ukraine",
+        "pubdate": "Wed, 30 Oct 2024 11:00:00 +0700"
       }
     ],
     [
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "Vàng SJC, giá vàng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%A0ng%20SJC,%20gi%C3%A1%20v%C3%A0ng",
+        "title": "Vàng SJC giá vàng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%A0ng%20SJC%20gi%C3%A1%20v%C3%A0ng",
         "pubdate": "Tue, 29 Oct 2024 11:00:00 +0700"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "iQIYI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#iQIYI",
         "pubdate": "Tue, 29 Oct 2024 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bitcoin",
-        "pubdate": "Tue, 29 Oct 2024 19:00:00 +0700"
       }
     ]
   ]
