@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "30-10-2024 , 03:46:32",
+  "lastUpdate": "30-10-2024 , 03:55:52",
   "data": [
+    [
+      {
+        "title": "Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Halloween",
+        "pubdate": "Wed, 30 Oct 2024 10:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Al-Nassr đấu với Al Taawon",
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Bùi Văn Cường",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B9i%20V%C4%83n%20C%C6%B0%E1%BB%9Dng",
-        "pubdate": "Wed, 30 Oct 2024 06:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Mac mini M4",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mac%20mini%20M4",
         "pubdate": "Wed, 30 Oct 2024 03:00:00 +0700"
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Bùi Văn Cường",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#B%C3%B9i%20V%C4%83n%20C%C6%B0%E1%BB%9Dng",
+        "pubdate": "Wed, 30 Oct 2024 06:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Bayer Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bayer%20Leverkusen",
         "pubdate": "Wed, 30 Oct 2024 03:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Xiaomi 15",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Xiaomi%2015",
+        "pubdate": "Wed, 30 Oct 2024 10:00:00 +0700"
       }
     ],
     [
@@ -87,8 +101,8 @@
     ],
     [
       {
-        "title": "Vàng SJC giá vàng",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%A0ng%20SJC%20gi%C3%A1%20v%C3%A0ng",
+        "title": "Vàng SJC, giá vàng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%A0ng%20SJC,%20gi%C3%A1%20v%C3%A0ng",
         "pubdate": "Tue, 29 Oct 2024 11:00:00 +0700"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bitcoin",
         "pubdate": "Tue, 29 Oct 2024 19:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Quả bóng vàng 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Qu%E1%BA%A3%20b%C3%B3ng%20v%C3%A0ng%202024",
-        "pubdate": "Mon, 28 Oct 2024 20:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "MU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU",
-        "pubdate": "Mon, 28 Oct 2024 00:00:00 +0700"
       }
     ]
   ]
