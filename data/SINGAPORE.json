@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "30-10-2024 , 09:42:54",
+  "lastUpdate": "30-10-2024 , 09:52:22",
   "data": [
+    [
+      {
+        "title": "Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Halloween",
+        "pubdate": "Wed, 30 Oct 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Diwali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Diwali",
+        "pubdate": "Wed, 30 Oct 2024 17:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "AMD stock",
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Oslo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Oslo",
-        "pubdate": "Wed, 30 Oct 2024 00:00:00 +0800"
+        "title": "Chuan Park",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chuan%20Park",
+        "pubdate": "Wed, 30 Oct 2024 12:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Chuan Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chuan%20Park",
-        "pubdate": "Wed, 30 Oct 2024 12:00:00 +0800"
+        "title": "Oslo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Oslo",
+        "pubdate": "Wed, 30 Oct 2024 00:00:00 +0800"
       }
     ],
     [
@@ -69,13 +83,6 @@
         "title": "Ryan Girdusky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ryan%20Girdusky",
         "pubdate": "Wed, 30 Oct 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Paris Masters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Paris%20Masters",
-        "pubdate": "Wed, 30 Oct 2024 15:00:00 +0800"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Dodgers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dodgers",
-        "pubdate": "Tue, 29 Oct 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Taiwan Typhoon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taiwan%20Typhoon",
         "pubdate": "Tue, 29 Oct 2024 19:00:00 +0800"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lakers",
-        "pubdate": "Tue, 29 Oct 2024 17:00:00 +0800"
+        "title": "Carabao Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Carabao%20Cup",
+        "pubdate": "Tue, 29 Oct 2024 20:00:00 +0800"
       }
     ]
   ]
