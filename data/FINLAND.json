@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2024 , 15:43:00",
+  "lastUpdate": "30-10-2024 , 15:52:28",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
+        "pubdate": "Wed, 30 Oct 2024 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Serie%20A",
         "pubdate": "Wed, 30 Oct 2024 09:00:00 +0200"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Moulin Rouge!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Moulin%20Rouge!",
-        "pubdate": "Wed, 30 Oct 2024 16:00:00 +0200"
+        "title": "Saoirse Ronan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Saoirse%20Ronan",
+        "pubdate": "Wed, 30 Oct 2024 17:00:00 +0200"
       }
     ],
     [
@@ -54,13 +61,6 @@
       {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bitcoin",
-        "pubdate": "Tue, 29 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Scream",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Scream",
         "pubdate": "Tue, 29 Oct 2024 22:00:00 +0200"
       }
     ],
