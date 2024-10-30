@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-10-2024 , 06:38:37",
+  "lastUpdate": "30-10-2024 , 06:44:16",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Sudi Iringó",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sudi%20Iring%C3%B3",
+        "pubdate": "Tue, 29 Oct 2024 03:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bitcoin árfolyam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bitcoin%20%C3%A1rfolyam",
         "pubdate": "Tue, 29 Oct 2024 08:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Arany",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arany",
         "pubdate": "Tue, 29 Oct 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Csányi Sándor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cs%C3%A1nyi%20S%C3%A1ndor",
-        "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
       }
     ]
   ]
