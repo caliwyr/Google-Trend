@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2024 , 13:42:35",
+  "lastUpdate": "31-10-2024 , 13:52:10",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Valencia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Valencia",
         "pubdate": "Wed, 30 Oct 2024 04:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Halloween",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Halloween",
-        "pubdate": "Wed, 30 Oct 2024 08:00:00 -0300"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Halloween",
+        "pubdate": "Wed, 30 Oct 2024 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Venezia - Udinese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Venezia%20-%20Udinese",
         "pubdate": "Wed, 30 Oct 2024 15:00:00 -0300"
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Newcastle  Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20Chelsea",
+        "title": "Brighton  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton%20%20Liverpool",
         "pubdate": "Wed, 30 Oct 2024 17:00:00 -0300"
       }
     ],
@@ -75,13 +75,6 @@
       {
         "title": "Mainz 05  Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mainz%2005%20%20Bayern",
-        "pubdate": "Wed, 30 Oct 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Brighton  Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brighton%20%20Liverpool",
         "pubdate": "Wed, 30 Oct 2024 17:00:00 -0300"
       }
     ],
@@ -125,6 +118,13 @@
         "title": "Lanus vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lanus%20vs",
         "pubdate": "Wed, 30 Oct 2024 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle  Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20Chelsea",
+        "pubdate": "Wed, 30 Oct 2024 17:00:00 -0300"
       }
     ],
     [
