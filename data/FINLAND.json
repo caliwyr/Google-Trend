@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2024 , 04:44:12",
+  "lastUpdate": "31-10-2024 , 04:53:30",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Fuengirola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fuengirola",
-        "pubdate": "Wed, 30 Oct 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Moulin Rouge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Moulin%20Rouge",
         "pubdate": "Wed, 30 Oct 2024 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Matilde Lorenzi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Matilde%20Lorenzi",
         "pubdate": "Tue, 29 Oct 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dragon Age Veilguard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dragon%20Age%20Veilguard",
+        "pubdate": "Tue, 29 Oct 2024 11:00:00 +0200"
       }
     ]
   ]
