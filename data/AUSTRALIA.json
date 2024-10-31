@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-10-2024 , 06:38:46",
+  "lastUpdate": "31-10-2024 , 06:50:25",
   "data": [
+    [
+      {
+        "title": "Diwali",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Diwali",
+        "pubdate": "Thu, 31 Oct 2024 07:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "Tottenham vs Man City",
@@ -10,22 +17,8 @@
     ],
     [
       {
-        "title": "Diwali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Diwali",
-        "pubdate": "Thu, 31 Oct 2024 10:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Man United vs Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Leicester%20City",
-        "pubdate": "Thu, 31 Oct 2024 07:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Happy Diwali",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Happy%20Diwali",
         "pubdate": "Thu, 31 Oct 2024 07:00:00 +1100"
       }
     ],
@@ -45,9 +38,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
-        "pubdate": "Thu, 31 Oct 2024 08:00:00 +1100"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manchester%20United",
+        "pubdate": "Thu, 31 Oct 2024 09:00:00 +1100"
       }
     ],
     [
@@ -59,8 +52,8 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Manchester%20United",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
         "pubdate": "Thu, 31 Oct 2024 12:00:00 +1100"
       }
     ],
@@ -75,13 +68,6 @@
       {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chelsea",
-        "pubdate": "Thu, 31 Oct 2024 09:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United",
         "pubdate": "Thu, 31 Oct 2024 09:00:00 +1100"
       }
     ],
@@ -115,6 +101,13 @@
     ],
     [
       {
+        "title": "Trick or Treat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trick%20or%20Treat",
+        "pubdate": "Thu, 31 Oct 2024 09:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Man U",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20U",
         "pubdate": "Thu, 31 Oct 2024 09:00:00 +1100"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Trick or Treat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Trick%20or%20Treat",
-        "pubdate": "Thu, 31 Oct 2024 09:00:00 +1100"
+        "title": "Time Cut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Time%20Cut",
+        "pubdate": "Thu, 31 Oct 2024 08:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Time Cut",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Time%20Cut",
-        "pubdate": "Thu, 31 Oct 2024 08:00:00 +1100"
+        "title": "What is Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#What%20is%20Halloween",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Halloween movies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Halloween%20movies",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 +1100"
       }
     ]
   ]

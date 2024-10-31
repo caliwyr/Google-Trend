@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2024 , 06:38:51",
+  "lastUpdate": "31-10-2024 , 06:50:30",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20United",
-        "pubdate": "Thu, 31 Oct 2024 06:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Amaran",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Amaran",
         "pubdate": "Thu, 31 Oct 2024 11:00:00 +0800"
@@ -87,9 +80,9 @@
     ],
     [
       {
-        "title": "Kolam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Kolam",
-        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0800"
+        "title": "Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20United",
+        "pubdate": "Thu, 31 Oct 2024 06:00:00 +0800"
       }
     ],
     [
@@ -97,6 +90,20 @@
         "title": "Time Cut",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Time%20Cut",
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Kolam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Kolam",
+        "pubdate": "Thu, 31 Oct 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Tony Hinchcliffe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tony%20Hinchcliffe",
+        "pubdate": "Thu, 31 Oct 2024 12:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nishadh Yusuf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nishadh%20Yusuf",
         "pubdate": "Wed, 30 Oct 2024 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Serie%20A",
-        "pubdate": "Wed, 30 Oct 2024 14:00:00 +0800"
       }
     ]
   ]
