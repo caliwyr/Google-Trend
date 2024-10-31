@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "31-10-2024 , 20:44:40",
+  "lastUpdate": "31-10-2024 , 20:54:00",
   "data": [
     [
       {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal",
         "pubdate": "Thu, 31 Oct 2024 06:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City",
+        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0300"
       }
     ],
     [
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Halloween 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Halloween%202024",
+        "title": "Halloween! 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Halloween!%202024",
         "pubdate": "Thu, 31 Oct 2024 01:00:00 +0300"
       }
     ],
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Manchester City FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20City%20FC",
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus",
         "pubdate": "Thu, 31 Oct 2024 01:00:00 +0300"
       }
     ],
@@ -131,13 +138,6 @@
       {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea",
-        "pubdate": "Wed, 30 Oct 2024 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Man U",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20U",
         "pubdate": "Wed, 30 Oct 2024 23:00:00 +0300"
       }
     ]
