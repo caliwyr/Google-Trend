@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-10-2024 , 05:43:06",
+  "lastUpdate": "31-10-2024 , 05:52:30",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Almere City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere%20City",
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Wed, 30 Oct 2024 18:00:00 +0100"
       }
     ],
     [
@@ -66,13 +59,6 @@
     ],
     [
       {
-        "title": "Winterswijk  Heracles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Winterswijk%20%20Heracles",
-        "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hatsune Miku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Hatsune%20Miku",
         "pubdate": "Wed, 30 Oct 2024 13:00:00 +0100"
@@ -90,6 +76,13 @@
         "title": "Henk Schiffmacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henk%20Schiffmacher",
         "pubdate": "Wed, 30 Oct 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Winterswijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Winterswijk",
+        "pubdate": "Wed, 30 Oct 2024 22:00:00 +0100"
       }
     ],
     [
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "Feyenoord Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord%20Ajax",
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Tue, 29 Oct 2024 21:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "NEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
         "pubdate": "Tue, 29 Oct 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bitcoin",
+        "pubdate": "Tue, 29 Oct 2024 14:00:00 +0100"
       }
     ]
   ]
