@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-11-2024 , 15:43:23",
+  "lastUpdate": "01-11-2024 , 15:52:45",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Taxi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Taxi",
         "pubdate": "Fri, 01 Nov 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "MotoGP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MotoGP",
+        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "1. November",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#1.%20November",
+        "pubdate": "Fri, 01 Nov 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Heidi Klum Halloween 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heidi%20Klum%20Halloween%202024",
         "pubdate": "Thu, 31 Oct 2024 19:00:00 +0100"
@@ -101,6 +115,13 @@
     ],
     [
       {
+        "title": "Lisa Buckwitz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lisa%20Buckwitz",
+        "pubdate": "Thu, 31 Oct 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Joker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Joker",
         "pubdate": "Thu, 31 Oct 2024 17:00:00 +0100"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Lisa Buckwitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lisa%20Buckwitz",
-        "pubdate": "Thu, 31 Oct 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fleischwolf",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fleischwolf",
         "pubdate": "Thu, 31 Oct 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Samhain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Samhain",
-        "pubdate": "Thu, 31 Oct 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Manchester%20United",
-        "pubdate": "Thu, 31 Oct 2024 06:00:00 +0100"
       }
     ]
   ]
