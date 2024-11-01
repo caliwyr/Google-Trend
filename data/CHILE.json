@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-11-2024 , 10:46:56",
+  "lastUpdate": "01-11-2024 , 10:56:19",
   "data": [
     [
       {
@@ -62,13 +62,6 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premier%20League",
         "pubdate": "Thu, 31 Oct 2024 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "It",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#It",
-        "pubdate": "Thu, 31 Oct 2024 21:00:00 -0300"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Dia de los muertos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20de%20los%20muertos",
+        "title": "Dia de los Muertos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20de%20los%20Muertos",
         "pubdate": "Thu, 31 Oct 2024 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Vampiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Vampiro",
+        "pubdate": "Thu, 31 Oct 2024 20:00:00 -0300"
       }
     ]
   ]
