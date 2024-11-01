@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "01-11-2024 , 09:45:51",
+  "lastUpdate": "01-11-2024 , 09:55:13",
   "data": [
-    [
-      {
-        "title": "Young Thug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Young%20Thug",
-        "pubdate": "Fri, 01 Nov 2024 06:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Botswana elections",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Botswana%20elections",
         "pubdate": "Fri, 01 Nov 2024 01:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Young Thug",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Young%20Thug",
+        "pubdate": "Fri, 01 Nov 2024 06:00:00 +0200"
       }
     ],
     [
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Carlos Alcaraz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carlos%20Alcaraz",
-        "pubdate": "Fri, 01 Nov 2024 07:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Niagara Falls",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Niagara%20Falls",
         "pubdate": "Fri, 01 Nov 2024 01:00:00 +0200"
@@ -47,6 +40,13 @@
       {
         "title": "November",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#November",
+        "pubdate": "Fri, 01 Nov 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Carlos Alcaraz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Carlos%20Alcaraz",
         "pubdate": "Fri, 01 Nov 2024 07:00:00 +0200"
       }
     ],
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Halloween",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Halloween",
-        "pubdate": "Thu, 31 Oct 2024 09:00:00 +0200"
+        "title": "Stellenbosch FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Stellenbosch%20FC",
+        "pubdate": "Thu, 31 Oct 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Stellenbosch FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Stellenbosch%20FC",
-        "pubdate": "Thu, 31 Oct 2024 22:00:00 +0200"
+        "title": "Halloween",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Halloween",
+        "pubdate": "Thu, 31 Oct 2024 11:00:00 +0200"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Emily in Paris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Emily%20in%20Paris",
+        "pubdate": "Thu, 31 Oct 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Manchester%20City",
         "pubdate": "Thu, 31 Oct 2024 22:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Ben Stokes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ben%20Stokes",
         "pubdate": "Thu, 31 Oct 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Emily in Paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Emily%20in%20Paris",
-        "pubdate": "Thu, 31 Oct 2024 19:00:00 +0200"
       }
     ]
   ]
