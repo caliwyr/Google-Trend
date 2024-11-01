@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-11-2024 , 23:45:12",
+  "lastUpdate": "01-11-2024 , 23:54:22",
   "data": [
+    [
+      {
+        "title": "Snoop Dogg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Snoop%20Dogg",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Helena Vondráčková",
@@ -10,15 +17,15 @@
     ],
     [
       {
-        "title": "Heidi Klum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Heidi%20Klum",
+        "title": "Pavel Zedníček",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Zedn%C3%AD%C4%8Dek",
         "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Pavel Zedníček",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pavel%20Zedn%C3%AD%C4%8Dek",
+        "title": "Heidi Klum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Heidi%20Klum",
         "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
       }
     ],
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Dušičky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Du%C5%A1i%C4%8Dky",
-        "pubdate": "Thu, 31 Oct 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dragon Age Veilguard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dragon%20Age%20Veilguard",
         "pubdate": "Thu, 31 Oct 2024 22:00:00 +0100"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Senátor Roman Kraus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sen%C3%A1tor%20Roman%20Kraus",
-        "pubdate": "Thu, 31 Oct 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jennifer Lopez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jennifer%20Lopez",
         "pubdate": "Thu, 31 Oct 2024 00:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Leila George",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leila%20George",
         "pubdate": "Thu, 31 Oct 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kaktus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kaktus",
+        "pubdate": "Thu, 31 Oct 2024 22:00:00 +0100"
       }
     ]
   ]
