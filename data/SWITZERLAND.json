@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-11-2024 , 22:42:06",
+  "lastUpdate": "01-11-2024 , 22:51:39",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Young Thug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Young%20Thug",
-        "pubdate": "Fri, 01 Nov 2024 04:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Leverkusen – VfB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leverkusen%20%E2%80%93%20VfB%20Stuttgart",
         "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Jungfraujoch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jungfraujoch",
-        "pubdate": "Fri, 01 Nov 2024 08:00:00 +0100"
+        "title": "Young Thug",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Young%20Thug",
+        "pubdate": "Fri, 01 Nov 2024 04:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Thun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Thun",
+        "pubdate": "Fri, 01 Nov 2024 22:00:00 +0100"
       }
     ],
     [
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "The Cure",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Cure",
+        "title": "Jungfraujoch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jungfraujoch",
         "pubdate": "Fri, 01 Nov 2024 08:00:00 +0100"
       }
     ],
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Agatha All Along",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Agatha%20All%20Along",
-        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
+        "title": "The Cure",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Cure",
+        "pubdate": "Fri, 01 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Movember",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Movember",
         "pubdate": "Fri, 01 Nov 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Poitiers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Poitiers",
+        "pubdate": "Fri, 01 Nov 2024 16:00:00 +0100"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Poitiers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Poitiers",
-        "pubdate": "Fri, 01 Nov 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Perry Center!",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Perry%20Center!",
         "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
@@ -108,15 +108,8 @@
     ],
     [
       {
-        "title": "Olivia Rodrigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Olivia%20Rodrigo",
-        "pubdate": "Fri, 01 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nyonnais – FC Thun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Nyonnais%20%E2%80%93%20FC%20Thun",
+        "title": "Etoile Carouge – FC Aarau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Etoile%20Carouge%20%E2%80%93%20FC%20Aarau",
         "pubdate": "Fri, 01 Nov 2024 22:00:00 +0100"
       }
     ],
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Olivia Rodrigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Olivia%20Rodrigo",
+        "pubdate": "Fri, 01 Nov 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Amazon-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Amazon-Aktie",
         "pubdate": "Fri, 01 Nov 2024 16:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Börse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#B%C3%B6rse",
-        "pubdate": "Fri, 01 Nov 2024 06:00:00 +0100"
+        "title": "Thomas Portes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Thomas%20Portes",
+        "pubdate": "Fri, 01 Nov 2024 22:00:00 +0100"
       }
     ]
   ]
