@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-11-2024 , 07:38:25",
+  "lastUpdate": "01-11-2024 , 07:47:54",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Carabao Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Carabao%20Cup",
-        "pubdate": "Thu, 31 Oct 2024 03:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Man United vs Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20United%20vs%20Leicester%20City",
         "pubdate": "Thu, 31 Oct 2024 04:00:00 +0800"
@@ -80,9 +73,23 @@
     ],
     [
       {
+        "title": "Brighton vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brighton%20vs%20Liverpool",
+        "pubdate": "Thu, 31 Oct 2024 03:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Deepavali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Deepavali",
         "pubdate": "Thu, 31 Oct 2024 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Preston vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Preston%20vs%20Arsenal",
+        "pubdate": "Thu, 31 Oct 2024 04:00:00 +0800"
       }
     ],
     [
@@ -115,20 +122,6 @@
     ],
     [
       {
-        "title": "Preston vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Preston%20vs%20Arsenal",
-        "pubdate": "Thu, 31 Oct 2024 04:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal",
-        "pubdate": "Thu, 31 Oct 2024 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20City",
         "pubdate": "Thu, 31 Oct 2024 20:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "EFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#EFL",
         "pubdate": "Thu, 31 Oct 2024 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Agatha All Along",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Agatha%20All%20Along",
+        "pubdate": "Thu, 31 Oct 2024 18:00:00 +0800"
       }
     ]
   ]
