@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-11-2024 , 06:42:07",
+  "lastUpdate": "01-11-2024 , 06:52:40",
   "data": [
     [
       {
@@ -66,23 +66,16 @@
     ],
     [
       {
-        "title": "Beetlejuice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Beetlejuice",
-        "pubdate": "Thu, 31 Oct 2024 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Kraken vs Maple Leafs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kraken%20vs%20Maple%20Leafs",
-        "pubdate": "Thu, 31 Oct 2024 20:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Jets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jets",
         "pubdate": "Thu, 31 Oct 2024 03:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Beetlejuice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Beetlejuice",
+        "pubdate": "Thu, 31 Oct 2024 17:00:00 -0400"
       }
     ],
     [
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Winnipeg Jets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
-        "pubdate": "Thu, 31 Oct 2024 07:00:00 -0400"
+        "title": "Kraken vs Maple Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Kraken%20vs%20Maple%20Leafs",
+        "pubdate": "Thu, 31 Oct 2024 20:00:00 -0400"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Canadiens – Capitals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens%20%E2%80%93%20Capitals",
         "pubdate": "Thu, 31 Oct 2024 21:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Intel stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Intel%20stock",
+        "pubdate": "Thu, 31 Oct 2024 18:00:00 -0400"
       }
     ]
   ]
