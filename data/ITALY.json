@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-11-2024 , 11:46:00",
+  "lastUpdate": "01-11-2024 , 11:55:23",
   "data": [
-    [
-      {
-        "title": "MotoGP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#MotoGP",
-        "pubdate": "Fri, 01 Nov 2024 06:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Trump",
@@ -17,9 +10,16 @@
     ],
     [
       {
+        "title": "MotoGP oggi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#MotoGP%20oggi",
+        "pubdate": "Fri, 01 Nov 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Festa di Ognissanti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Festa%20di%20Ognissanti",
-        "pubdate": "Fri, 01 Nov 2024 09:00:00 +0100"
+        "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Como",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Como",
-        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Festa dei Santi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Festa%20dei%20Santi",
         "pubdate": "Fri, 01 Nov 2024 09:00:00 +0100"
@@ -52,9 +45,16 @@
     ],
     [
       {
-        "title": "FOGGIA-AUDACE CERIGNOLA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#FOGGIA-AUDACE%20CERIGNOLA",
-        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
+        "title": "Como",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Como",
+        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Donatella Tesei Umbria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Donatella%20Tesei%20Umbria",
+        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Giorno dei morti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Giorno%20dei%20morti",
         "pubdate": "Fri, 01 Nov 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FOGGIA-AUDACE CERIGNOLA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#FOGGIA-AUDACE%20CERIGNOLA",
+        "pubdate": "Fri, 01 Nov 2024 00:00:00 +0100"
       }
     ],
     [
@@ -76,13 +83,6 @@
         "title": "Sukuna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sukuna",
         "pubdate": "Fri, 01 Nov 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Festa 1 novembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Festa%201%20novembre",
-        "pubdate": "Fri, 01 Nov 2024 11:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Manuela Moreno",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manuela%20Moreno",
-        "pubdate": "Thu, 31 Oct 2024 09:00:00 +0100"
+        "title": "1 Novembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#1%20Novembre",
+        "pubdate": "Thu, 31 Oct 2024 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "1 Novembre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#1%20Novembre",
-        "pubdate": "Thu, 31 Oct 2024 18:00:00 +0100"
+        "title": "Manuela Moreno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Manuela%20Moreno",
+        "pubdate": "Thu, 31 Oct 2024 09:00:00 +0100"
       }
     ]
   ]
