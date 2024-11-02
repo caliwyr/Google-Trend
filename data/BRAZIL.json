@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-11-2024 , 17:49:07",
+  "lastUpdate": "02-11-2024 , 17:58:21",
   "data": [
-    [
-      {
-        "title": "Brasileirao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasileirao",
-        "pubdate": "Sat, 02 Nov 2024 07:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Newcastle x Arsenal",
@@ -24,13 +17,6 @@
     ],
     [
       {
-        "title": "Bayern x Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern%20x%20Union%20Berlin",
-        "pubdate": "Sat, 02 Nov 2024 01:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
         "pubdate": "Sat, 02 Nov 2024 07:00:00 -0500"
@@ -38,9 +24,16 @@
     ],
     [
       {
-        "title": "Bournemouth x City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bournemouth%20x%20City",
+        "title": "Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bournemouth",
         "pubdate": "Sat, 02 Nov 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bayern x Union Berlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern%20x%20Union%20Berlin",
+        "pubdate": "Sat, 02 Nov 2024 01:00:00 -0500"
       }
     ],
     [
@@ -52,13 +45,6 @@
     ],
     [
       {
-        "title": "Oboticario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Oboticario",
-        "pubdate": "Sat, 02 Nov 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "PSG x Lens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG%20x%20Lens",
         "pubdate": "Sat, 02 Nov 2024 11:00:00 -0500"
@@ -66,9 +52,30 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG",
-        "pubdate": "Sat, 02 Nov 2024 02:00:00 -0500"
+        "title": "Marcelo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marcelo",
+        "pubdate": "Sat, 02 Nov 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Oboticario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Oboticario",
+        "pubdate": "Sat, 02 Nov 2024 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Bragantino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bragantino",
+        "pubdate": "Sat, 02 Nov 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Flamengo x Atlético-MG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Atl%C3%A9tico-MG",
+        "pubdate": "Sat, 02 Nov 2024 12:00:00 -0500"
       }
     ],
     [
@@ -80,9 +87,16 @@
     ],
     [
       {
-        "title": "Marcelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marcelo",
-        "pubdate": "Sat, 02 Nov 2024 11:00:00 -0500"
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
+        "pubdate": "Sat, 02 Nov 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#West%20Ham",
+        "pubdate": "Sat, 02 Nov 2024 12:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Novembro Azul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novembro%20Azul",
         "pubdate": "Fri, 01 Nov 2024 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
-        "pubdate": "Fri, 01 Nov 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Pix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pix",
-        "pubdate": "Fri, 01 Nov 2024 12:00:00 -0500"
       }
     ]
   ]
