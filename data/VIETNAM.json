@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-11-2024 , 22:44:14",
+  "lastUpdate": "02-11-2024 , 22:53:39",
   "data": [
+    [
+      {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#AC%20Milan",
+        "pubdate": "Sun, 03 Nov 2024 03:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Juventus",
@@ -13,13 +20,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#PSG",
         "pubdate": "Sun, 03 Nov 2024 01:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#AC%20Milan",
-        "pubdate": "Sun, 03 Nov 2024 03:00:00 +0700"
       }
     ],
     [
@@ -66,23 +66,9 @@
     ],
     [
       {
-        "title": "Cktg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Cktg",
-        "pubdate": "Sat, 02 Nov 2024 20:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "MU vs Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MU%20vs%20Chelsea",
         "pubdate": "Sat, 02 Nov 2024 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Xem bong da truc tiep",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Xem%20bong%20da%20truc%20tiep",
-        "pubdate": "Sat, 02 Nov 2024 21:00:00 +0700"
       }
     ],
     [
@@ -115,13 +101,6 @@
     ],
     [
       {
-        "title": "Xổ số miền Nam ngày 2 tháng 11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20Nam%20ng%C3%A0y%202%20th%C3%A1ng%2011",
-        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Mai Tiến Dũng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mai%20Ti%E1%BA%BFn%20D%C5%A9ng",
         "pubdate": "Sat, 02 Nov 2024 16:00:00 +0700"
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Xổ số miền Nam ngày 2 tháng 11",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#X%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20Nam%20ng%C3%A0y%202%20th%C3%A1ng%2011",
+        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "XSMB miền Bắc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#XSMB%20mi%E1%BB%81n%20B%E1%BA%AFc",
         "pubdate": "Sat, 02 Nov 2024 20:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Sporting Lisbon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Sporting%20Lisbon",
+        "pubdate": "Sat, 02 Nov 2024 13:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Nghiêm Xuân Thành",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nghi%C3%AAm%20Xu%C3%A2n%20Th%C3%A0nh",
+        "pubdate": "Sat, 02 Nov 2024 21:00:00 +0700"
       }
     ]
   ]
