@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2024 , 07:47:11",
+  "lastUpdate": "02-11-2024 , 07:56:29",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Novi Sad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Novi%20Sad",
         "pubdate": "Fri, 01 Nov 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Micha denkt groß",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Micha%20denkt%20gro%C3%9F",
+        "pubdate": "Fri, 01 Nov 2024 21:00:00 +0100"
       }
     ],
     [
@@ -52,8 +59,8 @@
     ],
     [
       {
-        "title": "Heidi Klum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidi%20Klum",
+        "title": "Halloween Heidi Klum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Halloween%20Heidi%20Klum",
         "pubdate": "Thu, 31 Oct 2024 22:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Patrick Lange",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Patrick%20Lange",
         "pubdate": "Sun, 27 Oct 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Frankfurt Marathon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankfurt%20Marathon",
-        "pubdate": "Sat, 26 Oct 2024 23:00:00 +0200"
       }
     ]
   ]
