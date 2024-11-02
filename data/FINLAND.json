@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-11-2024 , 21:39:39",
+  "lastUpdate": "02-11-2024 , 21:49:08",
   "data": [
     [
       {
         "title": "NHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NHL",
         "pubdate": "Sat, 02 Nov 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#F1",
+        "pubdate": "Sat, 02 Nov 2024 23:00:00 +0200"
       }
     ],
     [
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "Bruce Springsteen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bruce%20Springsteen",
+        "pubdate": "Sat, 02 Nov 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "The Cure",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Cure",
         "pubdate": "Sat, 02 Nov 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "JP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#JP",
+        "pubdate": "Sat, 02 Nov 2024 22:00:00 +0200"
       }
     ],
     [
@@ -52,9 +73,9 @@
     ],
     [
       {
-        "title": "JP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#JP",
-        "pubdate": "Sat, 02 Nov 2024 22:00:00 +0200"
+        "title": "Carpenters",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Carpenters",
+        "pubdate": "Sat, 02 Nov 2024 23:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Sp500",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sp500",
         "pubdate": "Fri, 01 Nov 2024 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Intel stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Intel%20stock",
-        "pubdate": "Fri, 01 Nov 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Anora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Anora",
-        "pubdate": "Thu, 31 Oct 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Carabao Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Carabao%20Cup",
-        "pubdate": "Thu, 31 Oct 2024 01:00:00 +0200"
       }
     ]
   ]
