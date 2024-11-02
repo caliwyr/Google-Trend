@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-11-2024 , 10:45:03",
+  "lastUpdate": "02-11-2024 , 10:54:35",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "Linkin Park",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Linkin%20Park",
+        "pubdate": "Sat, 02 Nov 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Boektopia Kortrijk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Boektopia%20Kortrijk",
         "pubdate": "Sat, 02 Nov 2024 08:00:00 +0100"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "RWDM  zulte-waregem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM%20%20zulte-waregem",
+        "pubdate": "Fri, 01 Nov 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jumbo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jumbo",
         "pubdate": "Fri, 01 Nov 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Young Thug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Young%20Thug",
-        "pubdate": "Fri, 01 Nov 2024 05:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Formule 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Formule%201",
-        "pubdate": "Fri, 01 Nov 2024 19:00:00 +0100"
       }
     ]
   ]
