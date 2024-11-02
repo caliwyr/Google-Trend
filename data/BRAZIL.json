@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-11-2024 , 08:46:33",
+  "lastUpdate": "02-11-2024 , 08:55:48",
   "data": [
     [
       {
         "title": "Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayern",
         "pubdate": "Sat, 02 Nov 2024 01:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG",
+        "pubdate": "Sat, 02 Nov 2024 02:00:00 -0500"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "O Boticário",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#O%20Botic%C3%A1rio",
+        "pubdate": "Fri, 01 Nov 2024 20:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Novembro Azul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novembro%20Azul",
         "pubdate": "Fri, 01 Nov 2024 07:00:00 -0500"
@@ -48,13 +62,6 @@
         "title": "Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
         "pubdate": "Fri, 01 Nov 2024 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Sporting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting",
-        "pubdate": "Fri, 01 Nov 2024 10:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Dólar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#D%C3%B3lar",
         "pubdate": "Fri, 01 Nov 2024 21:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lucilene Caetano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lucilene%20Caetano",
-        "pubdate": "Fri, 01 Nov 2024 05:00:00 -0500"
       }
     ]
   ]
