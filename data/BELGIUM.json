@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-11-2024 , 11:42:08",
+  "lastUpdate": "02-11-2024 , 11:51:29",
   "data": [
+    [
+      {
+        "title": "Fortnite",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fortnite",
+        "pubdate": "Sat, 02 Nov 2024 12:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Billie Eilish",
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "RWDM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
+        "pubdate": "Fri, 01 Nov 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Heidi Klum Halloween",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Heidi%20Klum%20Halloween",
         "pubdate": "Fri, 01 Nov 2024 10:00:00 +0100"
@@ -104,13 +118,6 @@
         "title": "Indochine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Indochine",
         "pubdate": "Fri, 01 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "RWDM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM",
-        "pubdate": "Fri, 01 Nov 2024 19:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "RWDM  zulte-waregem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#RWDM%20%20zulte-waregem",
         "pubdate": "Fri, 01 Nov 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jumbo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jumbo",
-        "pubdate": "Fri, 01 Nov 2024 16:00:00 +0100"
       }
     ]
   ]
