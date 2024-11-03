@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-11-2024 , 21:39:46",
+  "lastUpdate": "03-11-2024 , 21:49:07",
   "data": [
     [
       {
         "title": "Tottenham vs Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tottenham%20vs%20Aston%20Villa",
         "pubdate": "Sun, 03 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City",
+        "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Atlético Madrid vs Las Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atl%C3%A9tico%20Madrid%20vs%20Las%20Palmas",
-        "pubdate": "Sun, 03 Nov 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Napoli",
         "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Verona vs Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Verona%20vs%20Roma",
-        "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atletico%20Madrid",
+        "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Everton vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Everton%20vs%20Chelsea",
+        "pubdate": "Sun, 03 Nov 2024 20:00:00 +0100"
       }
     ],
     [
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Manchester%20City",
-        "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
+        "title": "Dimeji Ajibola",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dimeji%20Ajibola",
+        "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Dimeji Ajibola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dimeji%20Ajibola",
-        "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Roma",
+        "pubdate": "Sun, 03 Nov 2024 19:00:00 +0100"
       }
     ],
     [
@@ -69,6 +76,13 @@
         "title": "Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Wolves",
         "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man u Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20u%20Chelsea",
+        "pubdate": "Sun, 03 Nov 2024 19:00:00 +0100"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Olivia Rodrigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Olivia%20Rodrigo",
+        "pubdate": "Sun, 03 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fiorentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fiorentina",
         "pubdate": "Sun, 03 Nov 2024 20:00:00 +0100"
@@ -115,29 +136,8 @@
     ],
     [
       {
-        "title": "Bournemouth vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bournemouth%20vs%20Man%20City",
-        "pubdate": "Sat, 02 Nov 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Liverpool vs Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Brighton",
-        "pubdate": "Sat, 02 Nov 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona vs Espanyol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20vs%20Espanyol",
-        "pubdate": "Sat, 02 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern vs Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bayern%20vs%20Union%20Berlin",
         "pubdate": "Sat, 02 Nov 2024 15:00:00 +0100"
       }
     ]
