@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-11-2024 , 17:47:23",
+  "lastUpdate": "03-11-2024 , 17:56:33",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Trump vs Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump%20vs%20Harris",
+        "pubdate": "Mon, 04 Nov 2024 01:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1",
         "pubdate": "Sun, 03 Nov 2024 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool",
+        "pubdate": "Sun, 03 Nov 2024 01:00:00 +0800"
       }
     ],
     [
@@ -59,8 +73,8 @@
     ],
     [
       {
-        "title": "Liverpoolfc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpoolfc",
+        "title": "Liverpool f.c.",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20f.c.",
         "pubdate": "Sun, 03 Nov 2024 01:00:00 +0800"
       }
     ],
@@ -76,13 +90,6 @@
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
         "pubdate": "Sun, 03 Nov 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool vs Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20vs%20Brighton",
-        "pubdate": "Sat, 02 Nov 2024 23:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Agatha All Along",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Agatha%20All%20Along",
         "pubdate": "Thu, 31 Oct 2024 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
-        "pubdate": "Thu, 31 Oct 2024 07:00:00 +0800"
       }
     ]
   ]
