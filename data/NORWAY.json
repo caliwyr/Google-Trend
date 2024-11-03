@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "03-11-2024 , 18:39:50",
+  "lastUpdate": "03-11-2024 , 18:49:06",
   "data": [
-    [
-      {
-        "title": "Chloe Grace Moretz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chloe%20Grace%20Moretz",
-        "pubdate": "Sun, 03 Nov 2024 12:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Molde mot Bodø/Glimt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Molde%20mot%20Bod%C3%B8/Glimt",
         "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chloe Grace Moretz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chloe%20Grace%20Moretz",
+        "pubdate": "Sun, 03 Nov 2024 12:00:00 +0100"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Alan Rachins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alan%20Rachins",
-        "pubdate": "Sun, 03 Nov 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rosenborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg",
         "pubdate": "Sun, 03 Nov 2024 13:00:00 +0100"
@@ -52,9 +45,16 @@
     ],
     [
       {
-        "title": "FFK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FFK",
-        "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
+        "title": "Alan Rachins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alan%20Rachins",
+        "pubdate": "Sun, 03 Nov 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "RBK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#RBK",
+        "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Per Kjerstad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Per%20Kjerstad",
         "pubdate": "Sun, 03 Nov 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ruud van Nistelrooy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ruud%20van%20Nistelrooy",
+        "pubdate": "Sun, 03 Nov 2024 19:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
-        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Margot Robbie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Margot%20Robbie",
         "pubdate": "Sat, 02 Nov 2024 03:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Silje Sandmæl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Silje%20Sandm%C3%A6l",
-        "pubdate": "Sat, 02 Nov 2024 22:00:00 +0100"
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
+        "pubdate": "Sat, 02 Nov 2024 18:00:00 +0100"
       }
     ]
   ]
