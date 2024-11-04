@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2024 , 17:50:25",
+  "lastUpdate": "04-11-2024 , 17:59:42",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Gault & Millau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gault%20%26%20Millau",
-        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#FC%20Barcelona",
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fenerbahce",
+        "pubdate": "Mon, 04 Nov 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "James Van Der Beek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#James%20Van%20Der%20Beek",
         "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
@@ -69,6 +69,20 @@
         "title": "Yanis Marshall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Yanis%20Marshall",
         "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Helm Op, Fluo Top",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Helm%20Op,%20Fluo%20Top",
+        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gault et Millau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gault%20et%20Millau",
+        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
       }
     ],
     [
@@ -94,6 +108,20 @@
     ],
     [
       {
+        "title": "Office",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Office",
+        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Samuel Paty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Samuel%20Paty",
+        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#F1",
         "pubdate": "Sun, 03 Nov 2024 01:00:00 +0100"
@@ -111,34 +139,6 @@
         "title": "Pontevedra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Pontevedra",
         "pubdate": "Sun, 03 Nov 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelone – Espanyol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelone%20%E2%80%93%20Espanyol",
-        "pubdate": "Sun, 03 Nov 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anderlecht  Kortrijk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20%20Kortrijk",
-        "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anderlecht – Courtrai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht%20%E2%80%93%20Courtrai",
-        "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Elections americaines 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elections%20americaines%202024",
-        "pubdate": "Sun, 03 Nov 2024 18:00:00 +0100"
       }
     ]
   ]
