@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2024 , 16:48:20",
+  "lastUpdate": "04-11-2024 , 16:57:33",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
+        "pubdate": "Mon, 04 Nov 2024 17:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Epic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epic",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +1300"
@@ -45,23 +52,9 @@
     ],
     [
       {
-        "title": "Earthquake Wellington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake%20Wellington",
-        "pubdate": "Mon, 04 Nov 2024 17:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Quincy Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Quincy%20Jones",
         "pubdate": "Mon, 04 Nov 2024 22:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
-        "pubdate": "Mon, 04 Nov 2024 17:00:00 +1300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hero",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "ACC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ACC",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 +1300"
       }
     ]
   ]

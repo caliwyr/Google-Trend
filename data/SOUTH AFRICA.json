@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "04-11-2024 , 16:48:22",
+  "lastUpdate": "04-11-2024 , 16:57:35",
   "data": [
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
-        "pubdate": "Mon, 04 Nov 2024 06:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Quincy Jones",
@@ -17,8 +10,15 @@
     ],
     [
       {
-        "title": "US elections 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#US%20elections%202024",
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona",
+        "pubdate": "Mon, 04 Nov 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Us elections 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Us%20elections%202024",
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0200"
       }
     ],
@@ -31,6 +31,20 @@
     ],
     [
       {
+        "title": "Kaytranada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kaytranada",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "US elections",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#US%20elections",
+        "pubdate": "Mon, 04 Nov 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fulham vs Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fulham%20vs%20Brentford",
         "pubdate": "Mon, 04 Nov 2024 16:00:00 +0200"
@@ -38,16 +52,16 @@
     ],
     [
       {
-        "title": "Patrice Motsepe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Patrice%20Motsepe",
-        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0200"
+        "title": "Zoe Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zoe%20Brown",
+        "pubdate": "Mon, 04 Nov 2024 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Zoe Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zoe%20Brown",
-        "pubdate": "Mon, 04 Nov 2024 17:00:00 +0200"
+        "title": "Patrice Motsepe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Patrice%20Motsepe",
+        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0200"
       }
     ],
     [
@@ -62,6 +76,13 @@
         "title": "Ruud van Nistelrooy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ruud%20van%20Nistelrooy",
         "pubdate": "Mon, 04 Nov 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Syria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Syria",
+        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roma",
         "pubdate": "Sun, 03 Nov 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Inter vs Venezia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20vs%20Venezia",
-        "pubdate": "Sun, 03 Nov 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Napoli",
-        "pubdate": "Sun, 03 Nov 2024 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "F1 qualifying",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#F1%20qualifying",
-        "pubdate": "Sun, 03 Nov 2024 15:00:00 +0200"
       }
     ]
   ]
