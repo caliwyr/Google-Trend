@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2024 , 11:49:26",
+  "lastUpdate": "04-11-2024 , 11:58:39",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Cata Pulido",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cata%20Pulido",
         "pubdate": "Mon, 04 Nov 2024 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Tiempo hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tiempo%20hoy",
+        "pubdate": "Mon, 04 Nov 2024 07:00:00 -0300"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Temblor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor",
-        "pubdate": "Sun, 03 Nov 2024 02:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "El tiempo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20tiempo",
         "pubdate": "Sun, 03 Nov 2024 23:00:00 -0300"
@@ -108,23 +108,9 @@
     ],
     [
       {
-        "title": "Resultado Colo Colo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Resultado%20Colo%20Colo",
-        "pubdate": "Sun, 03 Nov 2024 20:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Lanús  Boca Juniors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lan%C3%BAs%20%20Boca%20Juniors",
         "pubdate": "Sun, 03 Nov 2024 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Alianza Lima",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Lima",
-        "pubdate": "Sun, 03 Nov 2024 19:00:00 -0300"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Alianza Lima",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alianza%20Lima",
+        "pubdate": "Sun, 03 Nov 2024 19:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Clima concepcion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Clima%20concepcion",
         "pubdate": "Sun, 03 Nov 2024 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "River Plate  Peñarol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#River%20Plate%20%20Pe%C3%B1arol",
+        "pubdate": "Sun, 03 Nov 2024 09:00:00 -0300"
       }
     ]
   ]

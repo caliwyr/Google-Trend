@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-11-2024 , 11:49:31",
+  "lastUpdate": "04-11-2024 , 11:58:44",
   "data": [
     [
       {
         "title": "GeoNet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
         "pubdate": "Mon, 04 Nov 2024 17:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "US election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#US%20election",
+        "pubdate": "Mon, 04 Nov 2024 14:00:00 +1300"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Calculator",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Calculator",
-        "pubdate": "Mon, 04 Nov 2024 12:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Maps",
         "pubdate": "Mon, 04 Nov 2024 14:00:00 +1300"
@@ -31,16 +31,23 @@
     ],
     [
       {
-        "title": "Earthquake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
+        "title": "Epic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epic",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Earthquake Wellington",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake%20Wellington",
         "pubdate": "Mon, 04 Nov 2024 17:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Epic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epic",
-        "pubdate": "Mon, 04 Nov 2024 10:00:00 +1300"
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
+        "pubdate": "Mon, 04 Nov 2024 17:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Drive",
         "pubdate": "Mon, 04 Nov 2024 15:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "When is the US election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#When%20is%20the%20US%20election",
-        "pubdate": "Mon, 04 Nov 2024 16:00:00 +1300"
       }
     ]
   ]
