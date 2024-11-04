@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-11-2024 , 21:50:03",
+  "lastUpdate": "04-11-2024 , 21:59:17",
   "data": [
     [
       {
         "title": "New York Time",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York%20Time",
         "pubdate": "Tue, 05 Nov 2024 01:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Indonesia volcano eruption",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Indonesia%20volcano%20eruption",
+        "pubdate": "Tue, 05 Nov 2024 08:00:00 +1100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Man United vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Chelsea",
-        "pubdate": "Mon, 04 Nov 2024 04:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "US election results",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#US%20election%20results",
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +1100"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Usa election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Usa%20election",
-        "pubdate": "Mon, 04 Nov 2024 12:00:00 +1100"
+        "title": "Man United vs Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20United%20vs%20Chelsea",
+        "pubdate": "Mon, 04 Nov 2024 04:00:00 +1100"
       }
     ],
     [
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "USA election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#USA%20election",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Gout Gout",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gout%20Gout",
         "pubdate": "Mon, 04 Nov 2024 01:00:00 +1100"
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Chris Martin falls through stage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chris%20Martin%20falls%20through%20stage",
-        "pubdate": "Mon, 04 Nov 2024 14:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Daniel Andrews",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daniel%20Andrews",
         "pubdate": "Mon, 04 Nov 2024 21:00:00 +1100"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Presidential elections",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Presidential%20elections",
-        "pubdate": "Mon, 04 Nov 2024 07:00:00 +1100"
+        "title": "Chris Martin falls through stage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Chris%20Martin%20falls%20through%20stage",
+        "pubdate": "Mon, 04 Nov 2024 14:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Remembrance Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Remembrance%20Day",
-        "pubdate": "Mon, 04 Nov 2024 13:00:00 +1100"
+        "title": "Presidential elections",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Presidential%20elections",
+        "pubdate": "Mon, 04 Nov 2024 07:00:00 +1100"
       }
     ]
   ]
