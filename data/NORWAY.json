@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2024 , 04:45:17",
+  "lastUpdate": "04-11-2024 , 04:54:33",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Valget i USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Valget%20i%20USA",
-        "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Linn Wiik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Linn%20Wiik",
         "pubdate": "Sun, 03 Nov 2024 10:00:00 +0100"
@@ -73,9 +66,23 @@
     ],
     [
       {
+        "title": "Valget i USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Valget%20i%20USA",
+        "pubdate": "Sun, 03 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Per Kjerstad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Per%20Kjerstad",
         "pubdate": "Sun, 03 Nov 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Når er Valget i USA 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#N%C3%A5r%20er%20Valget%20i%20USA%202024",
+        "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Aqua Oslo Spektrum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aqua%20Oslo%20Spektrum",
+        "pubdate": "Sat, 02 Nov 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bryne FK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bryne%20FK",
         "pubdate": "Sat, 02 Nov 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jan Mayen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jan%20Mayen",
-        "pubdate": "Sat, 02 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Viking",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Viking",
-        "pubdate": "Sat, 02 Nov 2024 20:00:00 +0100"
       }
     ]
   ]
