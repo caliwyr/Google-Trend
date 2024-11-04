@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-11-2024 , 15:53:26",
+  "lastUpdate": "04-11-2024 , 16:14:09",
   "data": [
     [
       {
         "title": "GeoNet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#GeoNet",
         "pubdate": "Mon, 04 Nov 2024 17:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "US election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#US%20election",
+        "pubdate": "Mon, 04 Nov 2024 14:00:00 +1300"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "US election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#US%20election",
-        "pubdate": "Mon, 04 Nov 2024 14:00:00 +1300"
+        "title": "Calculator",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Calculator",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Hero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hero",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "ACC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ACC",
-        "pubdate": "Mon, 04 Nov 2024 12:00:00 +1300"
       }
     ]
   ]
