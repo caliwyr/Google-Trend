@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2024 , 18:44:45",
+  "lastUpdate": "04-11-2024 , 18:53:58",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Quincy Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Quincy%20Jones",
+        "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "LinkedIn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#LinkedIn",
         "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Quincy Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Quincy%20Jones",
+        "title": "Česká pošta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cesk%C3%A1%20po%C5%A1ta",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
       }
     ],
@@ -54,6 +61,13 @@
       {
         "title": "Microsoft 365",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Microsoft%20365",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Úřad práce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%9A%C5%99ad%20pr%C3%A1ce",
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
       }
     ],
@@ -69,20 +83,6 @@
         "title": "AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AI",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Úřad práce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%9A%C5%99ad%20pr%C3%A1ce",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Evropa 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Evropa%202",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
       }
     ],
     [
@@ -103,13 +103,6 @@
       {
         "title": "T-Mobile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#T-Mobile",
-        "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ceska posta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ceska%20posta",
         "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Lukáš Vácha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Luk%C3%A1%C5%A1%20V%C3%A1cha",
         "pubdate": "Mon, 04 Nov 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Is",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Is",
+        "pubdate": "Mon, 04 Nov 2024 17:00:00 +0100"
       }
     ]
   ]
