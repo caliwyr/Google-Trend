@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-11-2024 , 06:52:33",
+  "lastUpdate": "04-11-2024 , 07:10:20",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Eleições EUA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Elei%C3%A7%C3%B5es%20EUA",
+        "pubdate": "Sun, 03 Nov 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Lewis Hamilton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lewis%20Hamilton",
         "pubdate": "Sun, 03 Nov 2024 08:00:00 -0500"
@@ -52,16 +59,9 @@
     ],
     [
       {
-        "title": "Eleições EUA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Elei%C3%A7%C3%B5es%20EUA",
-        "pubdate": "Sun, 03 Nov 2024 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Band",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Band",
-        "pubdate": "Sun, 03 Nov 2024 11:00:00 -0500"
+        "title": "River Plate x Peñarol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate%20x%20Pe%C3%B1arol",
+        "pubdate": "Sun, 03 Nov 2024 04:00:00 -0500"
       }
     ],
     [
@@ -94,23 +94,9 @@
     ],
     [
       {
-        "title": "Borussia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
-        "pubdate": "Sun, 03 Nov 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#MLS",
         "pubdate": "Sun, 03 Nov 2024 05:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#River%20Plate",
-        "pubdate": "Sun, 03 Nov 2024 04:00:00 -0500"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Arrascaeta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arrascaeta",
         "pubdate": "Sun, 03 Nov 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20Madrid",
+        "pubdate": "Sun, 03 Nov 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Pode levar mochila no Enem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pode%20levar%20mochila%20no%20Enem",
+        "pubdate": "Sun, 03 Nov 2024 08:00:00 -0500"
       }
     ]
   ]
