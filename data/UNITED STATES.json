@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-11-2024 , 14:42:58",
+  "lastUpdate": "05-11-2024 , 14:52:09",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
+        "title": "Elecciones Estados Unidos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elecciones%20Estados%20Unidos",
+        "pubdate": "Tue, 05 Nov 2024 06:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Election polls",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election%20polls",
-        "pubdate": "Mon, 04 Nov 2024 06:00:00 -0800"
+        "pubdate": "Mon, 04 Nov 2024 04:00:00 -0800"
       }
     ],
     [
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Election Day 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election%20Day%202024",
-        "pubdate": "Mon, 04 Nov 2024 04:00:00 -0800"
+        "title": "Election results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election%20results",
+        "pubdate": "Mon, 04 Nov 2024 06:00:00 -0800"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Joe Rogan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Joe%20Rogan",
         "pubdate": "Mon, 04 Nov 2024 20:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "2024 election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#2024%20election",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 -0800"
       }
     ],
     [
@@ -75,7 +89,7 @@
       {
         "title": "Electoral College map",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Electoral%20College%20map",
-        "pubdate": "Mon, 04 Nov 2024 18:00:00 -0800"
+        "pubdate": "Mon, 04 Nov 2024 20:00:00 -0800"
       }
     ],
     [
@@ -87,23 +101,9 @@
     ],
     [
       {
-        "title": "Duke basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Duke%20basketball",
-        "pubdate": "Mon, 04 Nov 2024 18:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Megyn Kelly",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Megyn%20Kelly",
         "pubdate": "Mon, 04 Nov 2024 19:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "NFL trade deadline",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#NFL%20trade%20deadline",
-        "pubdate": "Mon, 04 Nov 2024 08:00:00 -0800"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Ballot drop box near me",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ballot%20drop%20box%20near%20me",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Lakers vs Pistons",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lakers%20vs%20Pistons",
         "pubdate": "Mon, 04 Nov 2024 18:00:00 -0800"
@@ -132,13 +139,6 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Champions%20League",
         "pubdate": "Mon, 04 Nov 2024 21:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Pennsylvania polls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pennsylvania%20polls",
-        "pubdate": "Mon, 04 Nov 2024 20:00:00 -0800"
       }
     ]
   ]
