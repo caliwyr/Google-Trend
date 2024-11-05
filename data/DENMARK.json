@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-11-2024 , 23:54:17",
+  "lastUpdate": "05-11-2024 , 01:01:05",
   "data": [
+    [
+      {
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20Times",
+        "pubdate": "Tue, 05 Nov 2024 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "US election",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#US%20election",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
+        "pubdate": "Mon, 04 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Pennsylvania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pennsylvania",
+        "pubdate": "Mon, 04 Nov 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Justin Bieber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Justin%20Bieber",
         "pubdate": "Mon, 04 Nov 2024 11:00:00 +0100"
@@ -66,16 +80,16 @@
     ],
     [
       {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zendaya",
-        "pubdate": "Mon, 04 Nov 2024 03:00:00 +0100"
+        "title": "Polymarket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Polymarket",
+        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Polymarket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Polymarket",
-        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zendaya",
+        "pubdate": "Mon, 04 Nov 2024 03:00:00 +0100"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "Penny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Penny",
-        "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Election day 2024 usa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Election%20day%202024%20usa",
-        "pubdate": "Sun, 03 Nov 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Moldova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Moldova",
         "pubdate": "Sun, 03 Nov 2024 21:00:00 +0100"
       }
     ]
