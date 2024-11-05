@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-11-2024 , 19:50:30",
+  "lastUpdate": "05-11-2024 , 19:59:53",
   "data": [
     [
       {
         "title": "Pennsylvania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pennsylvania",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Megyn Kelly",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Megyn%20Kelly",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0800"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Melbourne Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Melbourne%20Cup",
-        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Pritam Singh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pritam%20Singh",
         "pubdate": "Tue, 05 Nov 2024 14:00:00 +0800"
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Colorectal cancer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Colorectal%20cancer",
-        "pubdate": "Tue, 05 Nov 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "AFC Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AFC%20Champions%20League",
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +0800"
@@ -62,6 +55,13 @@
         "title": "Imane Khelif",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Imane%20Khelif",
         "pubdate": "Tue, 05 Nov 2024 15:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Melbourne Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Melbourne%20Cup",
+        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0800"
       }
     ],
     [
@@ -83,13 +83,6 @@
         "title": "Dixville Notch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dixville%20Notch",
         "pubdate": "Tue, 05 Nov 2024 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "US Election Result",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20Election%20Result",
-        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Trump vs Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump%20vs%20Harris",
         "pubdate": "Mon, 04 Nov 2024 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Star Search 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Search%202024",
+        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0800"
       }
     ]
   ]
