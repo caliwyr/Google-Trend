@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-11-2024 , 17:50:37",
+  "lastUpdate": "05-11-2024 , 17:59:55",
   "data": [
+    [
+      {
+        "title": "Pennsylvania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pennsylvania",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
+      }
+    ],
     [
       {
         "title": "CNN",
@@ -13,13 +20,6 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League",
         "pubdate": "Tue, 05 Nov 2024 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Melbourne Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Melbourne%20Cup",
-        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0800"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Edu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Edu",
         "pubdate": "Tue, 05 Nov 2024 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Melbourne Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Melbourne%20Cup",
+        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0800"
       }
     ],
     [
@@ -101,16 +108,23 @@
     ],
     [
       {
-        "title": "US election 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20election%202024",
-        "pubdate": "Mon, 04 Nov 2024 01:00:00 +0800"
+        "title": "Melbourne Cup 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Melbourne%20Cup%202024",
+        "pubdate": "Tue, 05 Nov 2024 16:00:00 +0800"
       }
     ],
     [
       {
-        "title": "US Elections",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20Elections",
+        "title": "US election 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#US%20election%202024",
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Election Day usa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Election%20Day%20usa",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Quincy Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Quincy%20Jones",
         "pubdate": "Mon, 04 Nov 2024 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Star Search 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Star%20Search%202024",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Spain flood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Spain%20flood",
-        "pubdate": "Mon, 04 Nov 2024 21:00:00 +0800"
       }
     ]
   ]
