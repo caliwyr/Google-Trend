@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "05-11-2024 , 06:48:50",
+  "lastUpdate": "05-11-2024 , 06:58:12",
   "data": [
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#CNN",
+        "pubdate": "Tue, 05 Nov 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Neymar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Neymar",
+        "pubdate": "Tue, 05 Nov 2024 07:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Földrengés",
@@ -34,6 +48,13 @@
         "title": "Peterpost és Leo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Peterpost%20%C3%A9s%20Leo",
         "pubdate": "Mon, 04 Nov 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
+        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
       }
     ],
     [
@@ -101,6 +122,13 @@
     ],
     [
       {
+        "title": "Az északi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Az%20%C3%A9szaki",
+        "pubdate": "Mon, 04 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "James Van Der Beek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#James%20Van%20Der%20Beek",
         "pubdate": "Mon, 04 Nov 2024 08:00:00 +0100"
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "Az Északi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Az%20%C3%89szaki",
-        "pubdate": "Mon, 04 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Irán",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ir%C3%A1n",
         "pubdate": "Mon, 04 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fulham–Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fulham%E2%80%93Brentford",
-        "pubdate": "Mon, 04 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "A Bíró",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#A%20B%C3%ADr%C3%B3",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Moldova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moldova",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
       }
     ]
   ]
