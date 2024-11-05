@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-11-2024 , 02:18:33",
+  "lastUpdate": "05-11-2024 , 02:56:59",
   "data": [
+    [
+      {
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Lazio",
+        "pubdate": "Tue, 05 Nov 2024 05:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Fulham vs Brentford",
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "US election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#US%20election",
-        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Football Live",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Football%20Live",
         "pubdate": "Mon, 04 Nov 2024 18:00:00 +0300"
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "US election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#US%20election",
+        "pubdate": "Mon, 04 Nov 2024 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Equatorial Guinea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Equatorial%20Guinea",
         "pubdate": "Mon, 04 Nov 2024 19:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barca",
+        "pubdate": "Mon, 04 Nov 2024 08:00:00 +0300"
       }
     ],
     [
@@ -80,22 +94,8 @@
     ],
     [
       {
-        "title": "Celta Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Celta%20Vigo",
-        "pubdate": "Mon, 04 Nov 2024 18:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Olivia Rodrigo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Olivia%20Rodrigo",
-        "pubdate": "Mon, 04 Nov 2024 08:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barca",
         "pubdate": "Mon, 04 Nov 2024 08:00:00 +0300"
       }
     ],
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Moi University",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Moi%20University",
-        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Pakistan vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Pakistan%20vs%20Australia",
         "pubdate": "Mon, 04 Nov 2024 15:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "KCSE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KCSE",
         "pubdate": "Mon, 04 Nov 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "New York Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#New%20York%20Marathon",
+        "pubdate": "Mon, 04 Nov 2024 08:00:00 +0300"
       }
     ]
   ]
