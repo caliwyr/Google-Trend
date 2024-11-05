@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-11-2024 , 05:52:13",
+  "lastUpdate": "05-11-2024 , 06:13:00",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Palantir-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Palantir-Aktie",
+        "pubdate": "Tue, 05 Nov 2024 06:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Quincy Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Quincy%20Jones",
         "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "US-Wahlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#US-Wahlen",
+        "pubdate": "Mon, 04 Nov 2024 07:00:00 +0100"
       }
     ],
     [
@@ -59,13 +73,6 @@
     ],
     [
       {
-        "title": "US Wahlen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#US%20Wahlen",
-        "pubdate": "Mon, 04 Nov 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bermuda Bräu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bermuda%20Br%C3%A4u",
         "pubdate": "Mon, 04 Nov 2024 16:00:00 +0100"
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Familienbeihilfe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Familienbeihilfe",
-        "pubdate": "Mon, 04 Nov 2024 17:00:00 +0100"
+        "title": "Anton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Anton",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "Samuel Paty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Samuel%20Paty",
-        "pubdate": "Mon, 04 Nov 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Olivia Rodrigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Olivia%20Rodrigo",
+        "title": "Familienbeihilfe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Familienbeihilfe",
         "pubdate": "Mon, 04 Nov 2024 17:00:00 +0100"
       }
     ]
