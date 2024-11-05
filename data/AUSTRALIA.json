@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-11-2024 , 15:50:24",
+  "lastUpdate": "05-11-2024 , 15:59:33",
   "data": [
+    [
+      {
+        "title": "USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#USA",
+        "pubdate": "Wed, 06 Nov 2024 02:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "RBA",
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "2024 election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#2024%20election",
+        "pubdate": "Tue, 05 Nov 2024 20:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Pennsylvania",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pennsylvania",
         "pubdate": "Tue, 05 Nov 2024 16:00:00 +1100"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Uefa Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Uefa%20Champions%20League",
-        "pubdate": "Tue, 05 Nov 2024 20:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Time in Los Angeles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Time%20in%20Los%20Angeles",
-        "pubdate": "Tue, 05 Nov 2024 22:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Neymar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Neymar",
-        "pubdate": "Tue, 05 Nov 2024 22:00:00 +1100"
+        "title": "Diablo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Diablo",
+        "pubdate": "Tue, 05 Nov 2024 23:00:00 +1100"
       }
     ]
   ]
