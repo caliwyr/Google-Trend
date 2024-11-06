@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-11-2024 , 05:46:23",
+  "lastUpdate": "06-11-2024 , 05:55:53",
   "data": [
-    [
-      {
-        "title": "SRF News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SRF%20News",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Warren Buffett",
@@ -34,6 +27,13 @@
         "title": "Philadelphia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Philadelphia",
         "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Biden",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
       }
     ],
     [
@@ -87,16 +87,16 @@
     ],
     [
       {
-        "title": "Liverpool – Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20%E2%80%93%20Leverkusen",
-        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#New%20York%20Times",
+        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#New%20York%20Times",
-        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
+        "title": "Liverpool – Leverkusen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liverpool%20%E2%80%93%20Leverkusen",
+        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
       }
     ],
     [
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Palantir-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Palantir-Aktie",
-        "pubdate": "Tue, 05 Nov 2024 10:00:00 +0100"
+        "title": "CNN news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#CNN%20news",
+        "pubdate": "Tue, 05 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -118,6 +118,13 @@
         "title": "Real Madrid vs Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid%20vs%20Milan",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Palantir-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Palantir-Aktie",
+        "pubdate": "Tue, 05 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bares für Rares tot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bares%20f%C3%BCr%20Rares%20tot",
         "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Yoav Gallant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yoav%20Gallant",
-        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
       }
     ]
   ]

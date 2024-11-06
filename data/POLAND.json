@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-11-2024 , 05:46:21",
+  "lastUpdate": "06-11-2024 , 05:55:52",
   "data": [
+    [
+      {
+        "title": "TVP Info",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVP%20Info",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Mąż Kamali Harris",
@@ -13,13 +20,6 @@
         "title": "New York Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#New%20York%20Times",
         "pubdate": "Wed, 06 Nov 2024 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#NBC",
-        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Melania Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Melania%20Trump",
-        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Neymar",
         "pubdate": "Tue, 05 Nov 2024 01:00:00 +0100"
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Listy do M. Pożegnania i powroty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Listy%20do%20M.%20Po%C5%BCegnania%20i%20powroty",
+        "title": "Stany Zjednoczone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stany%20Zjednoczone",
+        "pubdate": "Tue, 05 Nov 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Prezydenci USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Prezydenci%20USA",
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Anwil",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Anwil",
-        "pubdate": "Tue, 05 Nov 2024 07:00:00 +0100"
+        "title": "Listy do M. Pożegnania i powroty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Listy%20do%20M.%20Po%C5%BCegnania%20i%20powroty",
+        "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
       }
     ]
   ]
