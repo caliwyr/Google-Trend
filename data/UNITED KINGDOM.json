@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-11-2024 , 08:45:15",
+  "lastUpdate": "06-11-2024 , 08:54:31",
   "data": [
+    [
+      {
+        "title": "Sky News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Sky%20News",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "New York Times",
@@ -17,30 +24,23 @@
     ],
     [
       {
-        "title": "Republican party",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Republican%20party",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Elon%20Musk",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
       }
     ],
     [
       {
-        "title": "MSNBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#MSNBC",
-        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
+        "title": "News Today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#News%20Today",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Exit polls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Exit%20polls",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Democratic Party",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Democratic%20Party",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
+        "title": "JD Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#JD%20Vance",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
       }
     ],
     [
@@ -52,9 +52,44 @@
     ],
     [
       {
+        "title": "Republican Party",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Republican%20Party",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Joe%20Biden",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Democratic party",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Democratic%20party",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "America",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#America",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "U.S presidents",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#U.S%20presidents",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Nyt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nyt",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0000"
       }
     ],
     [
@@ -66,9 +101,16 @@
     ],
     [
       {
-        "title": "Nyt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nyt",
+        "title": "U.S. election latest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#U.S.%20election%20latest",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Associated Press",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Associated%20Press",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
       }
     ],
     [
@@ -97,48 +139,6 @@
         "title": "Bonfire Night",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bonfire%20Night",
         "pubdate": "Tue, 05 Nov 2024 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid vs Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Real%20Madrid%20vs%20Milan",
-        "pubdate": "Tue, 05 Nov 2024 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Celtic",
-        "pubdate": "Tue, 05 Nov 2024 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20FC",
-        "pubdate": "Tue, 05 Nov 2024 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Guy Fawkes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Guy%20Fawkes",
-        "pubdate": "Tue, 05 Nov 2024 17:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Trump vs Harris polls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Trump%20vs%20Harris%20polls",
-        "pubdate": "Tue, 05 Nov 2024 11:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Jill Stein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Jill%20Stein",
-        "pubdate": "Tue, 05 Nov 2024 20:00:00 +0000"
       }
     ]
   ]
