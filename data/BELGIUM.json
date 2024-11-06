@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 09:53:41",
+  "lastUpdate": "06-11-2024 , 10:12:47",
   "data": [
     [
       {
@@ -52,9 +52,16 @@
     ],
     [
       {
-        "title": "BFMTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BFMTV",
-        "pubdate": "Wed, 06 Nov 2024 04:00:00 +0100"
+        "title": "Mbappe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mbappe",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Valtteri Bottas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Valtteri%20Bottas",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "No Nut November",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#No%20Nut%20November",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
       }
     ],
     [
@@ -87,16 +87,9 @@
     ],
     [
       {
-        "title": "The New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20New%20York%20Times",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Elections americaines 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elections%20americaines%202024",
-        "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
+        "title": "No Nut November",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#No%20Nut%20November",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
+        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
       }
     ]
   ]

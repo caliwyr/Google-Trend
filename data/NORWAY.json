@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 09:53:47",
+  "lastUpdate": "06-11-2024 , 10:12:53",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "California",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#California",
-        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0100"
+        "title": "MAGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#MAGA",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "MAGA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#MAGA",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+        "title": "California",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#California",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0100"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Putin",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "USA president",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#USA%20president",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -94,16 +101,23 @@
     ],
     [
       {
-        "title": "Bonnie Blue",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bonnie%20Blue",
-        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
+        "title": "ABC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ABC%20news",
+        "pubdate": "Tue, 05 Nov 2024 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Barack Obama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barack%20Obama",
+        "title": "Obama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Obama",
         "pubdate": "Tue, 05 Nov 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bonnie Blue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bonnie%20Blue",
+        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
-        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Valgvake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Valgvake",
-        "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Frp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frp",
-        "pubdate": "Tue, 05 Nov 2024 16:00:00 +0100"
+        "title": "Frosta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frosta",
+        "pubdate": "Tue, 05 Nov 2024 11:00:00 +0100"
       }
     ]
   ]

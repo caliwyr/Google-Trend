@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "06-11-2024 , 09:53:40",
+  "lastUpdate": "06-11-2024 , 10:12:46",
   "data": [
     [
       {
-        "title": "ABC News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC%20News",
+        "title": "ABC news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ABC%20news",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +1100"
       }
     ],
@@ -24,22 +24,8 @@
     ],
     [
       {
-        "title": "Fox news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fox%20news",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Nytimes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Nytimes",
-        "pubdate": "Wed, 06 Nov 2024 06:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Sporting vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sporting%20vs%20Man%20City",
+        "title": "Fox News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Fox%20News",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +1100"
       }
     ],
@@ -52,9 +38,23 @@
     ],
     [
       {
+        "title": "Sporting vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sporting%20vs%20Man%20City",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Guardian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Guardian",
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#New%20York%20Times",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +1100"
       }
     ],
     [
@@ -66,23 +66,23 @@
     ],
     [
       {
-        "title": "Harris vs Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Harris%20vs%20Trump",
-        "pubdate": "Wed, 06 Nov 2024 13:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Republican Party",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Republican%20Party",
+        "title": "Swing states",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Swing%20states",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Sky News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sky%20News",
+        "title": "Associated Press",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Associated%20Press",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Elections",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Elections",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +1100"
       }
     ],
     [
@@ -94,23 +94,16 @@
     ],
     [
       {
+        "title": "Republican Party",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Republican%20Party",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "USA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#USA",
         "pubdate": "Wed, 06 Nov 2024 02:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "AP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AP",
-        "pubdate": "Wed, 06 Nov 2024 13:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "News headlines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#News%20headlines",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 +1100"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Washington Post",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Washington%20Post",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +1100"
+        "title": "News headlines",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#News%20headlines",
+        "pubdate": "Wed, 06 Nov 2024 17:00:00 +1100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Joe Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Joe%20Biden",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "2016 election results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#2016%20election%20results",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 +1100"
       }
     ]
   ]
