@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "06-11-2024 , 21:23:01",
+  "lastUpdate": "06-11-2024 , 21:33:47",
   "data": [
     [
       {
         "title": "Tesla stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20stock",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -38,30 +38,9 @@
     ],
     [
       {
-        "title": "Presidential Election 2024 polls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Presidential%20Election%202024%20polls",
-        "pubdate": "Wed, 06 Nov 2024 05:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "JD Vance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#JD%20Vance",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joe%20Biden",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Elon%20Musk",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -87,6 +66,13 @@
     ],
     [
       {
+        "title": "Project 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Project%202025",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "DJT stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DJT%20stock",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
@@ -101,9 +87,9 @@
     ],
     [
       {
-        "title": "Project 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Project%202025",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+        "title": "Kygo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kygo",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Kygo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kygo",
+        "title": "The guardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20guardian",
+        "pubdate": "Wed, 06 Nov 2024 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Putin",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dogecoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dogecoin",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
       }
     ]
   ]

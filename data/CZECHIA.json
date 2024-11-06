@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 21:23:01",
+  "lastUpdate": "06-11-2024 , 21:33:47",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BTC",
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sparta - Brest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta%20-%20Brest",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Aktualne.cz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aktualne.cz",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+        "title": "Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Putin",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Putin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Putin",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+        "title": "Aktualne.cz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aktualne.cz",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "NBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#NBC",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "USD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#USD",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
@@ -115,9 +101,9 @@
     ],
     [
       {
-        "title": "Mpox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mpox",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+        "title": "NBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#NBC",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
       }
     ],
     [
@@ -125,6 +111,13 @@
         "title": "Waze",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Waze",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Seznam zpravy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Seznam%20zpravy",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kurzy.cz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kurzy.cz",
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NATO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#NATO",
+        "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
       }
     ]
   ]
