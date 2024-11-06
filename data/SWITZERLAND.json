@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 12:54:42",
+  "lastUpdate": "06-11-2024 , 13:20:24",
   "data": [
     [
       {
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elon%20Musk",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+        "title": "Tesla-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla-Aktie",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Tesla-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla-Aktie",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elon%20Musk",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -59,16 +59,9 @@
     ],
     [
       {
-        "title": "Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Biden",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Warren Buffett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Warren%20Buffett",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
+        "title": "Le temps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20temps",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
       }
     ],
     [
@@ -80,9 +73,16 @@
     ],
     [
       {
-        "title": "ARD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ARD",
-        "pubdate": "Wed, 06 Nov 2024 05:00:00 +0100"
+        "title": "Warren Buffett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Warren%20Buffett",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ZDF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZDF",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
       }
     ],
     [
@@ -101,15 +101,8 @@
     ],
     [
       {
-        "title": "EICMA 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EICMA%202024",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#AP",
+        "title": "Franceinfo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Franceinfo",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
       }
     ],
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Dana White",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dana%20White",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Louis Sarkozy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Louis%20Sarkozy",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "France info",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#France%20info",
+        "title": "LCI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LCI",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
       }
     ],
