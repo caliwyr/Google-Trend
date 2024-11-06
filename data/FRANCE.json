@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 15:08:29",
+  "lastUpdate": "06-11-2024 , 15:28:40",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bitcoin",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elon%20Musk",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 +0100"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "BFMTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#BFMTV",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+        "title": "Marine Le Pen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Le%20Pen",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Marine Le Pen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Le%20Pen",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+        "title": "BFM TV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#BFM%20TV",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -76,6 +83,13 @@
         "title": "Bourse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bourse",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ivanka Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ivanka%20Trump",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
       }
     ],
     [
@@ -108,8 +122,8 @@
     ],
     [
       {
-        "title": "Ligue des champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ligue%20des%20champions",
+        "title": "Real Madrid – AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real%20Madrid%20%E2%80%93%20AC%20Milan",
         "pubdate": "Tue, 05 Nov 2024 07:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Sporting – Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sporting%20%E2%80%93%20Manchester%20City",
         "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Michelin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michelin",
-        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Melania Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Melania%20Trump",
-        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
       }
     ]
   ]

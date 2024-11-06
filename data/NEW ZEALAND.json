@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "06-11-2024 , 15:08:33",
+  "lastUpdate": "06-11-2024 , 15:28:44",
   "data": [
+    [
+      {
+        "title": "Guardian UK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Guardian%20UK",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CNN",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20York%20Times",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +1300"
       }
     ],
     [
@@ -20,20 +34,6 @@
         "title": "Jill Stein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jill%20Stein",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Nytimes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nytimes",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20York%20Times",
-        "pubdate": "Wed, 06 Nov 2024 06:00:00 +1300"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Pennsylvania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pennsylvania",
+        "pubdate": "Wed, 06 Nov 2024 15:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "MSNBC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#MSNBC",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +1300"
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Pennsylvania",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pennsylvania",
-        "pubdate": "Wed, 06 Nov 2024 15:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Project 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Project%202025",
         "pubdate": "Wed, 06 Nov 2024 19:00:00 +1300"
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "CNN live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#CNN%20live",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 +1300"
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Joe%20Biden",
+        "pubdate": "Wed, 06 Nov 2024 21:00:00 +1300"
       }
     ],
     [
@@ -118,6 +118,13 @@
         "title": "USA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#USA",
         "pubdate": "Wed, 06 Nov 2024 15:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "AP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#AP",
+        "pubdate": "Wed, 06 Nov 2024 17:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Polymarket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Polymarket",
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Elon%20Musk",
-        "pubdate": "Wed, 06 Nov 2024 21:00:00 +1300"
       }
     ]
   ]
