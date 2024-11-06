@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-11-2024 , 01:25:04",
+  "lastUpdate": "06-11-2024 , 02:32:46",
   "data": [
     [
       {
         "title": "News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#News",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Harvard University",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Harvard%20University",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
-        "pubdate": "Tue, 05 Nov 2024 08:00:00 +0100"
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
+        "pubdate": "Tue, 05 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "CNN live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN%20live",
-        "pubdate": "Tue, 05 Nov 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jill Stein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jill%20Stein",
         "pubdate": "Tue, 05 Nov 2024 00:00:00 +0100"
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Robert Kennedy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robert%20Kennedy",
+        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Melania Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Melania%20Trump",
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
@@ -80,8 +87,15 @@
     ],
     [
       {
-        "title": "Robert Kennedy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robert%20Kennedy",
+        "title": "CNN live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN%20live",
+        "pubdate": "Tue, 05 Nov 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AP",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
       }
     ],
@@ -94,9 +108,23 @@
     ],
     [
       {
+        "title": "NBC News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NBC%20News",
+        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Janne Puhakka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Janne%20Puhakka",
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Swing states",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Swing%20states",
+        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
       }
     ],
     [
@@ -108,37 +136,9 @@
     ],
     [
       {
-        "title": "AP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AP",
-        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Alma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alma",
         "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Melatonin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Melatonin",
-        "pubdate": "Tue, 05 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rasmus Paludan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rasmus%20Paludan",
-        "pubdate": "Tue, 05 Nov 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "MSNBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#MSNBC",
-        "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
       }
     ]
   ]
