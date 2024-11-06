@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 20:50:44",
+  "lastUpdate": "06-11-2024 , 21:00:11",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "SVT nyheter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT%20nyheter",
+        "title": "SVT Nyheter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT%20Nyheter",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
       }
     ],
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Nyheter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nyheter",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
@@ -48,13 +55,6 @@
         "title": "AP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AP",
         "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dagens Nyheter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dagens%20Nyheter",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Trump Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump%20Harris",
-        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Trump age",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump%20age",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Robert Ohlsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robert%20Ohlsson",
-        "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
+        "title": "Val",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Val",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
       }
     ],
     [
@@ -122,15 +115,15 @@
     ],
     [
       {
-        "title": "Philadelphia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Philadelphia",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+        "title": "Skellefteå AIK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skellefte%C3%A5%20AIK",
+        "pubdate": "Wed, 06 Nov 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Washington DC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Washington%20DC",
+        "title": "Philadelphia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Philadelphia",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Reuters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Reuters",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "New York",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#New%20York",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0100"
       }
     ]
   ]
