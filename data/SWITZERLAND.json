@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-11-2024 , 07:50:18",
+  "lastUpdate": "06-11-2024 , 07:59:38",
   "data": [
+    [
+      {
+        "title": "Le monde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20monde",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Warren Buffett",
@@ -17,23 +24,9 @@
     ],
     [
       {
-        "title": "ZDF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ZDF",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "ARD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ARD",
         "pubdate": "Wed, 06 Nov 2024 05:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Louis Sarkozy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Louis%20Sarkozy",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
       }
     ],
     [
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Louis Sarkozy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Louis%20Sarkozy",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Politico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Politico",
         "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
+        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0100"
       }
     ],
     [
@@ -59,20 +66,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
-        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ligue des champions",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ligue%20des%20champions",
-        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jill Stein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jill%20Stein",
         "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
@@ -80,8 +73,8 @@
     ],
     [
       {
-        "title": "Sporting – Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting%20%E2%80%93%20Manchester%20City",
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sporting",
         "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
       }
     ],
@@ -101,8 +94,8 @@
     ],
     [
       {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#New%20York%20Times",
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Juventus",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
       }
     ],
@@ -115,16 +108,9 @@
     ],
     [
       {
-        "title": "Real Madrid vs Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid%20vs%20Milan",
-        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Melania Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Melania%20Trump",
-        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
+        "title": "Dortmund – Sturm Graz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dortmund%20%E2%80%93%20Sturm%20Graz",
+        "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Joe Rogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Joe%20Rogan",
+        "title": "Melania Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Melania%20Trump",
+        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Palantir-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Palantir-Aktie",
         "pubdate": "Tue, 05 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bares für Rares tot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bares%20f%C3%BCr%20Rares%20tot",
+        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
       }
     ]
   ]
