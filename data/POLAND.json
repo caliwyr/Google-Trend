@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 13:20:22",
+  "lastUpdate": "06-11-2024 , 13:35:54",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "TVN24",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVN24",
+        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "J.D. Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#J.D.%20Vance",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "TVN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVN",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0100"
@@ -38,23 +52,9 @@
     ],
     [
       {
-        "title": "J.D. Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#J.D.%20Vance",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#BTC",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "CANAL plus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#CANAL%20plus",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "CANAL plus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#CANAL%20plus",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "PGG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PGG",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Tabela Ligi Mistrzów",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Tabela%20Ligi%20Mistrz%C3%B3w",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
+        "title": "Kursy walut",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kursy%20walut",
+        "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kulej",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kulej",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#PSV",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
       }
     ]
   ]
