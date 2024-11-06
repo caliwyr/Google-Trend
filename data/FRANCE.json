@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 16:54:35",
+  "lastUpdate": "06-11-2024 , 17:10:49",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Franceinfo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Franceinfo",
+        "title": "France info",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20info",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
       }
     ],
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Franceinfo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Franceinfo",
-        "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
+        "title": "Waze",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Waze",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Waze",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Waze",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+        "title": "Marine Le Pen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Le%20Pen",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Marine Le Pen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Marine%20Le%20Pen",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
+        "title": "Bourse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bourse",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Bourse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bourse",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ivanka Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ivanka%20Trump",
         "pubdate": "Wed, 06 Nov 2024 12:00:00 +0100"
@@ -97,13 +90,6 @@
         "title": "Grenoble",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Grenoble",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brest foot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brest%20foot",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Sporting – Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sporting%20%E2%80%93%20Manchester%20City",
         "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Melania Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Melania%20Trump",
+        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Michelin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michelin",
+        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
       }
     ]
   ]

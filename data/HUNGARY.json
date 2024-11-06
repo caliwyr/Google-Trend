@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-11-2024 , 16:54:36",
+  "lastUpdate": "06-11-2024 , 17:10:50",
   "data": [
-    [
-      {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bitcoin",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "David Pressman",
@@ -20,13 +13,6 @@
         "title": "Forint árfolyam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Forint%20%C3%A1rfolyam",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NBC",
-        "pubdate": "Wed, 06 Nov 2024 04:00:00 +0100"
       }
     ],
     [
@@ -45,9 +31,9 @@
     ],
     [
       {
-        "title": "USA választások",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#USA%20v%C3%A1laszt%C3%A1sok",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
+        "title": "NBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NBC",
+        "pubdate": "Wed, 06 Nov 2024 04:00:00 +0100"
       }
     ],
     [
@@ -59,15 +45,22 @@
     ],
     [
       {
-        "title": "Obama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Obama",
+        "title": "Euronews",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Euronews",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "M1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M1",
+        "title": "Waze",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Waze",
+        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Obama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Obama",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
       }
     ],
@@ -76,6 +69,13 @@
         "title": "Ivanka Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ivanka%20Trump",
         "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "M1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M1",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Észak-korea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89szak-korea",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Barron Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barron%20Trump",
         "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
@@ -108,9 +101,23 @@
     ],
     [
       {
+        "title": "Észak-korea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%89szak-korea",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Gyurcsány",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gyurcs%C3%A1ny",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Választás 2024 USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%A1laszt%C3%A1s%202024%20USA",
+        "pubdate": "Wed, 06 Nov 2024 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sporting–manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sporting%E2%80%93manchester%20City",
         "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bajnokok Ligája",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bajnokok%20Lig%C3%A1ja",
-        "pubdate": "Tue, 05 Nov 2024 11:00:00 +0100"
       }
     ]
   ]
