@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 02:32:49",
+  "lastUpdate": "06-11-2024 , 02:59:52",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Iran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Iran",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Jill Stein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jill%20Stein",
         "pubdate": "Wed, 06 Nov 2024 07:00:00 +0800"
@@ -52,6 +45,20 @@
     ],
     [
       {
+        "title": "Iran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Iran",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Chase Oliver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chase%20Oliver",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Uefa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Uefa",
         "pubdate": "Wed, 06 Nov 2024 06:00:00 +0800"
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "Chase Oliver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chase%20Oliver",
+        "title": "Celtic vs RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Celtic%20vs%20RB%20Leipzig",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0800"
       }
     ],
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Brewing Love",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Brewing%20Love",
+        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Baltasar Engonga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Baltasar%20Engonga",
         "pubdate": "Tue, 05 Nov 2024 23:00:00 +0800"
@@ -125,20 +139,6 @@
         "title": "ACL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#ACL",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "PHB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PHB",
-        "pubdate": "Tue, 05 Nov 2024 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Imane Khelif",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Imane%20Khelif",
-        "pubdate": "Tue, 05 Nov 2024 17:00:00 +0800"
       }
     ]
   ]
