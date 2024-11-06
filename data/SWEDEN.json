@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-11-2024 , 03:49:13",
+  "lastUpdate": "06-11-2024 , 03:58:28",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Trump Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump%20Harris",
-        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ebba Årsjö",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20%C3%85rsj%C3%B6",
         "pubdate": "Wed, 06 Nov 2024 02:00:00 +0100"
@@ -59,9 +52,16 @@
     ],
     [
       {
+        "title": "Viktor Gyökeres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Viktor%20Gy%C3%B6keres",
+        "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
-        "pubdate": "Tue, 05 Nov 2024 16:00:00 +0100"
+        "pubdate": "Tue, 05 Nov 2024 19:00:00 +0100"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Harris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harris",
+        "pubdate": "Tue, 05 Nov 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "JD Vance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JD%20Vance",
         "pubdate": "Tue, 05 Nov 2024 22:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
-        "pubdate": "Mon, 04 Nov 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Quincy Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Quincy%20Jones",
-        "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
+        "title": "Ljungby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ljungby",
+        "pubdate": "Tue, 05 Nov 2024 12:00:00 +0100"
       }
     ]
   ]
