@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-11-2024 , 23:24:54",
+  "lastUpdate": "06-11-2024 , 23:35:12",
   "data": [
     [
       {
         "title": "BBC news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#BBC%20news",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Election",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Trevor Sorbie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Trevor%20Sorbie",
-        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0000"
+        "title": "S&P 500",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#S%26P%20500",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0000"
       }
     ],
     [
       {
-        "title": "S&P 500",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#S%26P%20500",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0000"
+        "title": "Trevor Sorbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Trevor%20Sorbie",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0000"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "England vs West Indies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#England%20vs%20West%20Indies",
-        "pubdate": "Wed, 06 Nov 2024 19:00:00 +0000"
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds%20United",
+        "pubdate": "Wed, 06 Nov 2024 22:00:00 +0000"
       }
     ],
     [
@@ -97,6 +104,20 @@
         "title": "News Today",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#News%20Today",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Bayern vs Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bayern%20vs%20Benfica",
+        "pubdate": "Wed, 06 Nov 2024 21:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Crvena zvezda vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Crvena%20zvezda%20vs%20Barcelona",
+        "pubdate": "Wed, 06 Nov 2024 21:00:00 +0000"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Polymarket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Polymarket",
         "pubdate": "Wed, 06 Nov 2024 02:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "David Lammy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#David%20Lammy",
-        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Ivanka Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ivanka%20Trump",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Bayern vs Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bayern%20vs%20Benfica",
-        "pubdate": "Wed, 06 Nov 2024 21:00:00 +0000"
       }
     ]
   ]
