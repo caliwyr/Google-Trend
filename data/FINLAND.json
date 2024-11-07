@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 14:58:33",
+  "lastUpdate": "07-11-2024 , 15:22:34",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "Kalle Rovanperä",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kalle%20Rovanper%C3%A4",
+        "pubdate": "Thu, 07 Nov 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Yle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yle",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bitcoin",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0200"
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
-        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tesla stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla%20stock",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0200"
@@ -55,6 +62,13 @@
         "title": "Bitcoin price",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bitcoin%20price",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
+        "pubdate": "Wed, 06 Nov 2024 02:00:00 +0200"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Nytimes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nytimes",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Chase Oliver",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chase%20Oliver",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Valtteri Bottas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Valtteri%20Bottas",
         "pubdate": "Wed, 06 Nov 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barron Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barron%20Trump",
-        "pubdate": "Wed, 06 Nov 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Malick Thiaw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Malick%20Thiaw",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Washington Post",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Washington%20Post",
-        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0200"
       }
     ]
   ]

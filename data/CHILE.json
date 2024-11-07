@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-11-2024 , 14:58:32",
+  "lastUpdate": "07-11-2024 , 15:22:33",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal",
+        "pubdate": "Thu, 07 Nov 2024 10:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Primera División",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Champions%20League",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 -0300"
+        "title": "Alemania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alemania",
+        "pubdate": "Thu, 07 Nov 2024 10:00:00 -0300"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Dolar hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dolar%20hoy",
-        "pubdate": "Wed, 06 Nov 2024 16:00:00 -0300"
+        "title": "Anuel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Anuel",
+        "pubdate": "Wed, 06 Nov 2024 18:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Anuel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Anuel",
-        "pubdate": "Wed, 06 Nov 2024 18:00:00 -0300"
+        "title": "Dolar hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dolar%20hoy",
+        "pubdate": "Wed, 06 Nov 2024 16:00:00 -0300"
       }
     ],
     [
@@ -117,13 +124,6 @@
       {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Europa%20League",
-        "pubdate": "Wed, 06 Nov 2024 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Rafael Araneda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rafael%20Araneda",
         "pubdate": "Wed, 06 Nov 2024 13:00:00 -0300"
       }
     ],

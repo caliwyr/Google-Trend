@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 14:58:31",
+  "lastUpdate": "07-11-2024 , 15:22:31",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Kamala Harris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Kamala%20Harris",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Banfield  Belgrano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banfield%20%20Belgrano",
         "pubdate": "Wed, 06 Nov 2024 17:00:00 -0300"
@@ -139,6 +132,13 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bitcoin",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Alemania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Alemania",
+        "pubdate": "Wed, 06 Nov 2024 21:00:00 -0300"
       }
     ]
   ]

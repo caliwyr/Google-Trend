@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 14:58:35",
+  "lastUpdate": "07-11-2024 , 15:22:35",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "IHSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#IHSG",
+        "pubdate": "Thu, 07 Nov 2024 10:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Shakhtar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Shakhtar",
         "pubdate": "Thu, 07 Nov 2024 01:00:00 +0700"
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Galatasaray",
+        "pubdate": "Thu, 07 Nov 2024 20:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Red Star vs Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Red%20Star%20vs%20Barcelona",
         "pubdate": "Wed, 06 Nov 2024 16:00:00 +0700"
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Inter vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20vs%20Arsenal",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0700"
+        "title": "Lion City Sailors vs Persib Bandung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lion%20City%20Sailors%20vs%20Persib%20Bandung",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0700"
       }
     ],
     [
       {
-        "title": "Lion City Sailors vs Persib Bandung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lion%20City%20Sailors%20vs%20Persib%20Bandung",
-        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0700"
+        "title": "Inter vs Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Inter%20vs%20Arsenal",
+        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0700"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Champions league",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Champions%20league",
         "pubdate": "Wed, 06 Nov 2024 22:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Syakir Sulaiman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Syakir%20Sulaiman",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Jill Stein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jill%20Stein",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0700"
       }
     ]
   ]
