@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-11-2024 , 06:55:24",
+  "lastUpdate": "07-11-2024 , 07:13:46",
   "data": [
+    [
+      {
+        "title": "Ukraine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ukraine",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Roger Stone",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Ampelkoalition",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ampelkoalition",
-        "pubdate": "Thu, 07 Nov 2024 01:00:00 +0100"
+        "title": "Gold",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gold",
+        "pubdate": "Thu, 07 Nov 2024 06:00:00 +0100"
       }
     ],
     [
@@ -24,15 +31,15 @@
     ],
     [
       {
-        "title": "Tesla-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla-Aktie",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
+        "title": "SRF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SRF",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#News",
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
       }
     ],
@@ -41,6 +48,20 @@
         "title": "Lindner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lindner",
         "pubdate": "Wed, 06 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NZZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NZZ",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tesla-Aktie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tesla-Aktie",
+        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0100"
       }
     ],
     [
@@ -87,23 +108,9 @@
     ],
     [
       {
-        "title": "Le monde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20monde",
-        "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Project 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Project%202025",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ukraine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ukraine",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 +0100"
+        "title": "NASDAQ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#NASDAQ",
+        "pubdate": "Wed, 06 Nov 2024 13:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "ARD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ARD",
         "pubdate": "Wed, 06 Nov 2024 05:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vance",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0100"
       }
     ]
   ]

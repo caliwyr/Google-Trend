@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 06:55:19",
+  "lastUpdate": "07-11-2024 , 07:13:41",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Sparta Praha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Sparta%20Praha",
         "pubdate": "Thu, 07 Nov 2024 01:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Gangnam B-Side",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gangnam%20B-Side",
+        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0700"
       }
     ],
     [
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "Gangnam B-Side",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Gangnam%20B-Side",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Europa%20League",
         "pubdate": "Thu, 07 Nov 2024 01:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Pedro Dias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Pedro%20Dias",
-        "pubdate": "Thu, 07 Nov 2024 00:00:00 +0700"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Dortmund vs Sturm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Dortmund%20vs%20Sturm",
-        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Jill Stein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Jill%20Stein",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0700"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Syakir Sulaiman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Syakir%20Sulaiman",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0700"
+        "title": "Oxford utd vs Hull City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Oxford%20utd%20vs%20Hull%20City",
+        "pubdate": "Wed, 06 Nov 2024 05:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Kasus perselingkuhan Bimo Aryo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kasus%20perselingkuhan%20Bimo%20Aryo",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#CNN",
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0700"
       }
     ]
   ]
