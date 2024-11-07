@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 11:24:24",
+  "lastUpdate": "07-11-2024 , 11:35:12",
   "data": [
     [
       {
@@ -17,15 +17,15 @@
     ],
     [
       {
-        "title": "鄭欽文",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%84%AD%E6%AC%BD%E6%96%87",
+        "title": "9800X3D",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#9800X3D",
         "pubdate": "Thu, 07 Nov 2024 01:00:00 +0800"
       }
     ],
     [
       {
-        "title": "9800X3D",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#9800X3D",
+        "title": "鄭欽文",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E9%84%AD%E6%AC%BD%E6%96%87",
         "pubdate": "Thu, 07 Nov 2024 01:00:00 +0800"
       }
     ],
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Coinbase",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Coinbase",
+        "pubdate": "Thu, 07 Nov 2024 18:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "美國大選",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%BE%8E%E5%9C%8B%E5%A4%A7%E9%81%B8",
         "pubdate": "Wed, 06 Nov 2024 01:00:00 +0800"
@@ -75,7 +82,7 @@
       {
         "title": "特朗普",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E7%89%B9%E6%9C%97%E6%99%AE",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0800"
+        "pubdate": "Wed, 06 Nov 2024 09:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tesla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#Tesla",
         "pubdate": "Wed, 06 Nov 2024 16:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "共和黨",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HK#%E5%85%B1%E5%92%8C%E9%BB%A8",
-        "pubdate": "Wed, 06 Nov 2024 10:00:00 +0800"
       }
     ]
   ]
