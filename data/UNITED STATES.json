@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-11-2024 , 23:21:36",
+  "lastUpdate": "07-11-2024 , 23:31:35",
   "data": [
+    [
+      {
+        "title": "Bengals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
+        "pubdate": "Thu, 07 Nov 2024 13:00:00 -0800"
+      }
+    ],
     [
       {
         "title": "Europa League",
@@ -10,8 +17,15 @@
     ],
     [
       {
-        "title": "Bengals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bengals",
+        "title": "Interest rates today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Interest%20rates%20today",
+        "pubdate": "Thu, 07 Nov 2024 13:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea",
         "pubdate": "Thu, 07 Nov 2024 13:00:00 -0800"
       }
     ],
@@ -45,9 +59,9 @@
     ],
     [
       {
-        "title": "Germany",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Germany",
-        "pubdate": "Thu, 07 Nov 2024 09:00:00 -0800"
+        "title": "Dial",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dial",
+        "pubdate": "Thu, 07 Nov 2024 10:00:00 -0800"
       }
     ],
     [
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Interest rates",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Interest%20rates",
-        "pubdate": "Thu, 07 Nov 2024 13:00:00 -0800"
+        "title": "Germany",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Germany",
+        "pubdate": "Thu, 07 Nov 2024 09:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Chelsea vs Noah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chelsea%20vs%20Noah",
-        "pubdate": "Thu, 07 Nov 2024 13:00:00 -0800"
+        "title": "Man United vs PAOK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20United%20vs%20PAOK",
+        "pubdate": "Thu, 07 Nov 2024 14:00:00 -0800"
       }
     ],
     [
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "Election",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Election",
-        "pubdate": "Wed, 06 Nov 2024 07:00:00 -0800"
+        "title": "Presidential election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Presidential%20election",
+        "pubdate": "Wed, 06 Nov 2024 10:00:00 -0800"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Hamas calls for end of war",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hamas%20calls%20for%20end%20of%20war",
-        "pubdate": "Wed, 06 Nov 2024 21:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Voting polls",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Voting%20polls",
-        "pubdate": "Wed, 06 Nov 2024 09:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Electoral College",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Electoral%20College",
-        "pubdate": "Wed, 06 Nov 2024 13:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elon%20Musk",
         "pubdate": "Wed, 06 Nov 2024 05:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Hamas calls for end of war",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hamas%20calls%20for%20end%20of%20war",
+        "pubdate": "Wed, 06 Nov 2024 21:00:00 -0800"
       }
     ]
   ]
