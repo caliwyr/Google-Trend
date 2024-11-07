@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 04:54:01",
+  "lastUpdate": "07-11-2024 , 05:11:59",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "BBC News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#BBC%20News",
         "pubdate": "Wed, 06 Nov 2024 09:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "US election results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#US%20election%20results",
+        "pubdate": "Wed, 06 Nov 2024 12:00:00 +0000"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Election",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Election",
+        "pubdate": "Wed, 06 Nov 2024 22:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Aston%20Villa",
         "pubdate": "Wed, 06 Nov 2024 18:00:00 +0000"
@@ -38,16 +52,16 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Elon%20Musk",
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bitcoin",
         "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Bitcoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bitcoin",
-        "pubdate": "Wed, 06 Nov 2024 11:00:00 +0000"
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Elon%20Musk",
+        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds%20United",
-        "pubdate": "Wed, 06 Nov 2024 22:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "England vs West Indies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#England%20vs%20West%20Indies",
         "pubdate": "Wed, 06 Nov 2024 19:00:00 +0000"
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "New York Times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#New%20York%20Times",
-        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
+        "title": "Leeds United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Leeds%20United",
+        "pubdate": "Wed, 06 Nov 2024 22:00:00 +0000"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "News today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#News%20today",
-        "pubdate": "Wed, 06 Nov 2024 08:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Preston vs Sunderland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Preston%20vs%20Sunderland",
-        "pubdate": "Wed, 06 Nov 2024 21:00:00 +0000"
+        "title": "New York Times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#New%20York%20Times",
+        "pubdate": "Wed, 06 Nov 2024 01:00:00 +0000"
       }
     ]
   ]
