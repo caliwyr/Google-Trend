@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-11-2024 , 05:11:52",
+  "lastUpdate": "07-11-2024 , 05:30:24",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Nytimes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nytimes",
-        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tuska 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tuska%202025",
         "pubdate": "Wed, 06 Nov 2024 11:00:00 +0200"
@@ -90,6 +83,13 @@
         "title": "Project 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Project%202025",
         "pubdate": "Wed, 06 Nov 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nytimes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nytimes",
+        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0200"
       }
     ],
     [
@@ -108,9 +108,9 @@
     ],
     [
       {
-        "title": "Nyt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nyt",
-        "pubdate": "Wed, 06 Nov 2024 06:00:00 +0200"
+        "title": "Foxnews",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Foxnews",
+        "pubdate": "Wed, 06 Nov 2024 03:00:00 +0200"
       }
     ],
     [
