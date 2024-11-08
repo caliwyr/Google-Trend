@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-11-2024 , 03:02:15",
+  "lastUpdate": "08-11-2024 , 03:27:56",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
-        "pubdate": "Thu, 07 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
         "pubdate": "Thu, 07 Nov 2024 01:00:00 +0100"
@@ -69,6 +62,13 @@
         "title": "Red One",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Red%20One",
         "pubdate": "Thu, 07 Nov 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea",
+        "pubdate": "Thu, 07 Nov 2024 23:00:00 +0100"
       }
     ],
     [
