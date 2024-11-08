@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "08-11-2024 , 15:48:53",
+  "lastUpdate": "08-11-2024 , 15:58:01",
   "data": [
     [
       {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Israel",
-        "pubdate": "Fri, 08 Nov 2024 11:00:00 +0100"
+        "title": "NCTV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NCTV",
+        "pubdate": "Fri, 08 Nov 2024 15:00:00 +0100"
       }
     ],
     [
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "NCTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NCTV",
-        "pubdate": "Fri, 08 Nov 2024 15:00:00 +0100"
+        "title": "AOW-leeftijd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AOW-leeftijd",
+        "pubdate": "Fri, 08 Nov 2024 16:00:00 +0100"
       }
     ],
     [
@@ -33,6 +33,13 @@
       {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Thu, 07 Nov 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
         "pubdate": "Thu, 07 Nov 2024 07:00:00 +0100"
       }
     ],
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fenerbahce",
-        "pubdate": "Thu, 07 Nov 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Anouk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Anouk",
         "pubdate": "Thu, 07 Nov 2024 19:00:00 +0100"
@@ -69,13 +69,6 @@
         "title": "Maccabi Tel Aviv FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Maccabi%20Tel%20Aviv%20FC",
         "pubdate": "Thu, 07 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "AZ Alkmaar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ%20Alkmaar",
-        "pubdate": "Thu, 07 Nov 2024 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Harris",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Harris",
         "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Stella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stella",
+        "pubdate": "Tue, 05 Nov 2024 18:00:00 +0100"
       }
     ]
   ]
