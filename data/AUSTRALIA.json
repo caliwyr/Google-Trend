@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-11-2024 , 04:59:57",
+  "lastUpdate": "08-11-2024 , 05:23:20",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Sydney Airport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Airport",
+        "pubdate": "Fri, 08 Nov 2024 14:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Liam Payne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liam%20Payne",
         "pubdate": "Fri, 08 Nov 2024 11:00:00 +1100"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Sydney Airport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Airport",
-        "pubdate": "Fri, 08 Nov 2024 14:00:00 +1100"
+        "title": "Australia vs Pakistan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20vs%20Pakistan",
+        "pubdate": "Fri, 08 Nov 2024 15:00:00 +1100"
       }
     ],
     [
@@ -59,9 +66,30 @@
     ],
     [
       {
+        "title": "Ravens vs Bengals",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ravens%20vs%20Bengals",
+        "pubdate": "Fri, 08 Nov 2024 15:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Socceroos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Socceroos",
         "pubdate": "Fri, 08 Nov 2024 14:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "UEFA Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#UEFA%20Europa%20League",
+        "pubdate": "Fri, 08 Nov 2024 15:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Adelaide 500",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Adelaide%20500",
+        "pubdate": "Fri, 08 Nov 2024 15:00:00 +1100"
       }
     ],
     [
@@ -101,13 +129,6 @@
     ],
     [
       {
-        "title": "Gold price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20price",
-        "pubdate": "Thu, 07 Nov 2024 11:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "4B movement",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#4B%20movement",
         "pubdate": "Thu, 07 Nov 2024 14:00:00 +1100"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Oaks Day 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Oaks%20Day%202024",
-        "pubdate": "Thu, 07 Nov 2024 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Social media ban Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Social%20media%20ban%20Australia",
-        "pubdate": "Thu, 07 Nov 2024 19:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Anthony Albanese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Anthony%20Albanese",
-        "pubdate": "Thu, 07 Nov 2024 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Barcelona",
-        "pubdate": "Thu, 07 Nov 2024 12:00:00 +1100"
+        "title": "Gold price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Gold%20price",
+        "pubdate": "Thu, 07 Nov 2024 11:00:00 +1100"
       }
     ]
   ]
