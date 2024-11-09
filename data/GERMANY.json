@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-11-2024 , 03:42:46",
+  "lastUpdate": "09-11-2024 , 03:52:01",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Steinmeier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Steinmeier",
+        "pubdate": "Thu, 07 Nov 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lindner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
         "pubdate": "Wed, 06 Nov 2024 18:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
         "pubdate": "Tue, 05 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "USA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#USA",
-        "pubdate": "Tue, 05 Nov 2024 08:00:00 +0100"
       }
     ]
   ]
