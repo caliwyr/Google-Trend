@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-11-2024 , 12:28:18",
+  "lastUpdate": "09-11-2024 , 12:54:54",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Hans Diehl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hans%20Diehl",
         "pubdate": "Fri, 08 Nov 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Union Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Union%20Berlin",
-        "pubdate": "Fri, 08 Nov 2024 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "USA Wahlen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#USA%20Wahlen",
         "pubdate": "Mon, 04 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "US-Wahlen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#US-Wahlen",
+        "pubdate": "Mon, 04 Nov 2024 10:00:00 +0100"
       }
     ]
   ]
