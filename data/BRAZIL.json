@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-11-2024 , 07:37:34",
+  "lastUpdate": "10-11-2024 , 07:47:03",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Arcane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arcane",
-        "pubdate": "Sat, 09 Nov 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Inter Miami x Atlanta United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20Miami%20x%20Atlanta%20United",
         "pubdate": "Sat, 09 Nov 2024 20:00:00 -0500"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Resultado da Federal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resultado%20da%20Federal",
-        "pubdate": "Sat, 09 Nov 2024 19:00:00 -0500"
+        "title": "Arcane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arcane",
+        "pubdate": "Sat, 09 Nov 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Teleton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Teleton",
+        "pubdate": "Sat, 09 Nov 2024 09:00:00 -0500"
       }
     ]
   ]
