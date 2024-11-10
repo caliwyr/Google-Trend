@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "10-11-2024 , 04:42:42",
+  "lastUpdate": "10-11-2024 , 04:51:55",
   "data": [
-    [
-      {
-        "title": "Brighton vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton%20vs%20Man%20City",
-        "pubdate": "Sun, 10 Nov 2024 01:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Liverpool vs Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liverpool%20vs%20Aston%20Villa",
         "pubdate": "Sun, 10 Nov 2024 04:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Brighton vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Brighton%20vs%20Man%20City",
+        "pubdate": "Sun, 10 Nov 2024 01:00:00 +0800"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Wolves vs Southampton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wolves%20vs%20Southampton",
         "pubdate": "Sun, 10 Nov 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Delhi Ganesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Delhi%20Ganesh",
+        "pubdate": "Sun, 10 Nov 2024 11:00:00 +0800"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "SJI International",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SJI%20International",
-        "pubdate": "Sat, 09 Nov 2024 01:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Arcane season 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arcane%20season%202",
         "pubdate": "Sat, 09 Nov 2024 03:00:00 +0800"
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "SJI International",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SJI%20International",
+        "pubdate": "Sat, 09 Nov 2024 01:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Tony Todd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tony%20Todd",
         "pubdate": "Sat, 09 Nov 2024 15:00:00 +0800"
@@ -90,6 +97,13 @@
         "title": "Grammy nominations 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Grammy%20nominations%202025",
         "pubdate": "Sat, 09 Nov 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Vladimir%20Putin",
+        "pubdate": "Sat, 09 Nov 2024 15:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Liam Payne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Liam%20Payne",
         "pubdate": "Fri, 08 Nov 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "China stimulus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#China%20stimulus",
-        "pubdate": "Fri, 08 Nov 2024 14:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Amsterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Amsterdam",
-        "pubdate": "Fri, 08 Nov 2024 21:00:00 +0800"
       }
     ]
   ]
