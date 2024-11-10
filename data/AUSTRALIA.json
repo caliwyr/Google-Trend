@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-11-2024 , 10:40:50",
+  "lastUpdate": "10-11-2024 , 10:50:10",
   "data": [
     [
       {
         "title": "The Block",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#The%20Block",
         "pubdate": "Sun, 10 Nov 2024 09:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "NRL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#NRL",
+        "pubdate": "Sun, 10 Nov 2024 21:00:00 +1100"
       }
     ],
     [
@@ -66,22 +73,8 @@
     ],
     [
       {
-        "title": "Jacob Greig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacob%20Greig",
-        "pubdate": "Sun, 10 Nov 2024 10:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Sydney FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20FC",
-        "pubdate": "Sun, 10 Nov 2024 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Cooper Connolly",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Cooper%20Connolly",
         "pubdate": "Sun, 10 Nov 2024 17:00:00 +1100"
       }
     ],
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Libby Trickett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Libby%20Trickett",
-        "pubdate": "Sun, 10 Nov 2024 00:00:00 +1100"
+        "title": "Jacob Greig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jacob%20Greig",
+        "pubdate": "Sun, 10 Nov 2024 18:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Jamie Oliver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jamie%20Oliver",
-        "pubdate": "Sun, 10 Nov 2024 19:00:00 +1100"
+        "title": "Libby Trickett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Libby%20Trickett",
+        "pubdate": "Sun, 10 Nov 2024 00:00:00 +1100"
       }
     ],
     [
@@ -129,16 +122,23 @@
     ],
     [
       {
-        "title": "Australia vs Tonga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Australia%20vs%20Tonga",
+        "title": "Jamie Oliver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jamie%20Oliver",
+        "pubdate": "Sun, 10 Nov 2024 19:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Tonga vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Tonga%20vs%20Australia",
         "pubdate": "Sat, 09 Nov 2024 15:00:00 +1100"
       }
     ],
     [
       {
-        "title": "Rugby union",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rugby%20union",
-        "pubdate": "Sat, 09 Nov 2024 12:00:00 +1100"
+        "title": "Wallabies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wallabies",
+        "pubdate": "Sat, 09 Nov 2024 23:00:00 +1100"
       }
     ]
   ]
