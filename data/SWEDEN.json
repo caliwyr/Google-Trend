@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "11-11-2024 , 22:43:24",
+  "lastUpdate": "11-11-2024 , 22:52:53",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
         "pubdate": "Mon, 11 Nov 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "HA Bygg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#HA%20Bygg",
+        "pubdate": "Mon, 11 Nov 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Megan Fox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Megan%20Fox",
+        "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
       }
     ],
     [
@@ -24,15 +38,15 @@
     ],
     [
       {
-        "title": "Megan Fox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Megan%20Fox",
-        "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
+        "title": "Nations League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nations%20League",
+        "pubdate": "Mon, 11 Nov 2024 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Nations League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nations%20League",
+        "title": "Marcus Oscarsson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marcus%20Oscarsson",
         "pubdate": "Mon, 11 Nov 2024 10:00:00 +0100"
       }
     ],
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
-        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
+        "title": "COP29",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#COP29",
+        "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "COP29",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#COP29",
-        "pubdate": "Mon, 11 Nov 2024 22:00:00 +0100"
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
+        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "IFK Värnamo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20V%C3%A4rnamo",
-        "pubdate": "Sun, 10 Nov 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hammarby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hammarby",
         "pubdate": "Sun, 10 Nov 2024 19:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "MFF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#MFF",
         "pubdate": "Sun, 10 Nov 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Baba vanga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Baba%20vanga",
-        "pubdate": "Sun, 10 Nov 2024 22:00:00 +0100"
       }
     ]
   ]
