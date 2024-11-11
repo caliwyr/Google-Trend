@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "11-11-2024 , 12:20:40",
+  "lastUpdate": "11-11-2024 , 12:54:42",
   "data": [
     [
       {
         "title": "ASSE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ASSE",
         "pubdate": "Mon, 11 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Etats Unis, Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Etats%20Unis,%20Donald%20Trump",
+        "pubdate": "Mon, 11 Nov 2024 07:00:00 +0100"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Etats Unis : Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Etats%20Unis%20:%20Donald%20Trump",
-        "pubdate": "Mon, 11 Nov 2024 07:00:00 +0100"
+        "title": "Neige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Neige",
+        "pubdate": "Mon, 11 Nov 2024 08:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Neige",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Neige",
-        "pubdate": "Mon, 11 Nov 2024 08:00:00 +0100"
+        "title": "Froid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Froid",
+        "pubdate": "Mon, 11 Nov 2024 00:00:00 +0100"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "Pierre Palmade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Palmade",
         "pubdate": "Mon, 11 Nov 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jannik%20Sinner",
+        "pubdate": "Mon, 11 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Gladiator 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gladiator%202",
         "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nice - Lille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nice%20-%20Lille",
-        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Patrick Sabatier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patrick%20Sabatier",
         "pubdate": "Sun, 10 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Le Havre – Reims",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Havre%20%E2%80%93%20Reims",
-        "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
       }
     ]
   ]
