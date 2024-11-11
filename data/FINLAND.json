@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-11-2024 , 20:40:38",
+  "lastUpdate": "11-11-2024 , 20:49:54",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla",
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla%20stock",
         "pubdate": "Mon, 11 Nov 2024 11:00:00 +0200"
       }
     ],
@@ -20,6 +20,13 @@
         "title": "RSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RSV",
         "pubdate": "Mon, 11 Nov 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "TTK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TTK",
+        "pubdate": "Mon, 11 Nov 2024 21:00:00 +0200"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "11.11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#11.11",
-        "pubdate": "Mon, 11 Nov 2024 21:00:00 +0200"
+        "title": "David Coote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#David%20Coote",
+        "pubdate": "Mon, 11 Nov 2024 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Man%20City",
         "pubdate": "Sun, 10 Nov 2024 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "One",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#One",
-        "pubdate": "Sun, 10 Nov 2024 17:00:00 +0200"
       }
     ]
   ]
