@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-11-2024 , 07:42:48",
+  "lastUpdate": "11-11-2024 , 07:52:04",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
-        "title": "Etats-Unis Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Etats-Unis%20Donald%20Trump",
+        "title": "Etats Unis: Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Etats%20Unis:%20Donald%20Trump",
         "pubdate": "Mon, 11 Nov 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Neige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Neige",
+        "pubdate": "Mon, 11 Nov 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pierre Palmade",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Palmade",
+        "pubdate": "Mon, 11 Nov 2024 02:00:00 +0100"
       }
     ],
     [
@@ -26,6 +40,13 @@
       {
         "title": "Real Sociedad – Barcelone",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real%20Sociedad%20%E2%80%93%20Barcelone",
+        "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gladiator 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gladiator%202",
         "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
       }
     ],
@@ -48,6 +69,13 @@
         "title": "Sandrine Bonnaire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sandrine%20Bonnaire",
         "pubdate": "Sun, 10 Nov 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Virtual Regatta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Virtual%20Regatta",
+        "pubdate": "Sun, 10 Nov 2024 12:00:00 +0100"
       }
     ],
     [
@@ -80,13 +108,6 @@
     ],
     [
       {
-        "title": "Patrick Sabatier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patrick%20Sabatier",
-        "pubdate": "Sun, 10 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sarah Saldmann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sarah%20Saldmann",
         "pubdate": "Sun, 10 Nov 2024 01:00:00 +0100"
@@ -94,16 +115,16 @@
     ],
     [
       {
-        "title": "Jordan Bardella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jordan%20Bardella",
-        "pubdate": "Sun, 10 Nov 2024 12:00:00 +0100"
+        "title": "Le Havre – Reims",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Havre%20%E2%80%93%20Reims",
+        "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Le Havre – Reims",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Havre%20%E2%80%93%20Reims",
-        "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
+        "title": "Jordan Bardella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jordan%20Bardella",
+        "pubdate": "Sun, 10 Nov 2024 12:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Armistice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Armistice",
         "pubdate": "Sun, 10 Nov 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "LOSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
-        "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Inter – Naples",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Inter%20%E2%80%93%20Naples",
-        "pubdate": "Sun, 10 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "11 novembre 1918",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#11%20novembre%201918",
-        "pubdate": "Sun, 10 Nov 2024 12:00:00 +0100"
       }
     ]
   ]
