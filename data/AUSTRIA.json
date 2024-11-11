@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-11-2024 , 01:41:28",
+  "lastUpdate": "11-11-2024 , 02:40:56",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Man%20City",
+        "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Heidenheim – Wolfsburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heidenheim%20%E2%80%93%20Wolfsburg",
         "pubdate": "Sun, 10 Nov 2024 20:00:00 +0100"
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Wegscheider",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wegscheider",
-        "pubdate": "Sun, 10 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Inter – Neapel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Inter%20%E2%80%93%20Neapel",
         "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "NFL München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NFL%20M%C3%BCnchen",
-        "pubdate": "Sun, 10 Nov 2024 14:00:00 +0100"
+        "title": "Silvan Wallner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Silvan%20Wallner",
+        "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
       }
     ]
   ]
