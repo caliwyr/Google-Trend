@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-11-2024 , 21:39:33",
+  "lastUpdate": "11-11-2024 , 21:49:07",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "RSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RSV",
         "pubdate": "Mon, 11 Nov 2024 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "TTK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TTK",
-        "pubdate": "Mon, 11 Nov 2024 21:00:00 +0200"
       }
     ],
     [
@@ -59,6 +52,13 @@
     ],
     [
       {
+        "title": "The Penguin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20Penguin",
+        "pubdate": "Mon, 11 Nov 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
         "pubdate": "Mon, 11 Nov 2024 19:00:00 +0200"
@@ -73,9 +73,16 @@
     ],
     [
       {
-        "title": "Father's day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Father's%20day",
-        "pubdate": "Sun, 10 Nov 2024 03:00:00 +0200"
+        "title": "Baku",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Baku",
+        "pubdate": "Mon, 11 Nov 2024 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jenelle Evans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jenelle%20Evans",
+        "pubdate": "Mon, 11 Nov 2024 12:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ivanka Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ivanka%20Trump",
         "pubdate": "Sun, 10 Nov 2024 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Man%20City",
-        "pubdate": "Sun, 10 Nov 2024 18:00:00 +0200"
       }
     ]
   ]
