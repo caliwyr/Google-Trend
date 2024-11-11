@@ -1,24 +1,10 @@
 {
-  "lastUpdate": "11-11-2024 , 02:40:55",
+  "lastUpdate": "11-11-2024 , 03:03:56",
   "data": [
     [
       {
         "title": "Chiefs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs",
-        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Giants vs Panthers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants%20vs%20Panthers",
-        "pubdate": "Sun, 10 Nov 2024 07:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Steelers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers",
         "pubdate": "Sun, 10 Nov 2024 11:00:00 -0800"
       }
     ],
@@ -31,8 +17,36 @@
     ],
     [
       {
+        "title": "Steelers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Steelers",
+        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Giants vs Panthers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Giants%20vs%20Panthers",
+        "pubdate": "Sun, 10 Nov 2024 07:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Vikings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Vikings",
+        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Eagles vs Cowboys",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles%20vs%20Cowboys",
+        "pubdate": "Sun, 10 Nov 2024 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "49ers vs Buccaneers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#49ers%20vs%20Buccaneers",
         "pubdate": "Sun, 10 Nov 2024 11:00:00 -0800"
       }
     ],
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "49ers vs Buccaneers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#49ers%20vs%20Buccaneers",
-        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Jets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jets",
         "pubdate": "Sun, 10 Nov 2024 14:00:00 -0800"
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Eagles vs Cowboys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles%20vs%20Cowboys",
-        "pubdate": "Sun, 10 Nov 2024 14:00:00 -0800"
+        "title": "Texans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texans",
+        "pubdate": "Sun, 10 Nov 2024 16:00:00 -0800"
       }
     ],
     [
@@ -87,16 +94,9 @@
     ],
     [
       {
-        "title": "Marine Corps Birthday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marine%20Corps%20Birthday",
-        "pubdate": "Sun, 10 Nov 2024 06:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Texans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texans",
-        "pubdate": "Sun, 10 Nov 2024 16:00:00 -0800"
+        "title": "Veterans Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Veterans%20Day",
+        "pubdate": "Sun, 10 Nov 2024 17:00:00 -0800"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Falcons vs Saints",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Falcons%20vs%20Saints",
         "pubdate": "Sun, 10 Nov 2024 11:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Veterans Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Veterans%20Day",
-        "pubdate": "Sun, 10 Nov 2024 17:00:00 -0800"
       }
     ],
     [
@@ -129,9 +122,9 @@
     ],
     [
       {
-        "title": "Bills vs Colts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bills%20vs%20Colts",
-        "pubdate": "Sun, 10 Nov 2024 11:00:00 -0800"
+        "title": "Marine Corps Birthday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Marine%20Corps%20Birthday",
+        "pubdate": "Sun, 10 Nov 2024 06:00:00 -0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nico Collins news",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nico%20Collins%20news",
         "pubdate": "Sun, 10 Nov 2024 10:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Russell Wilson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Russell%20Wilson",
+        "pubdate": "Sun, 10 Nov 2024 12:00:00 -0800"
       }
     ]
   ]
