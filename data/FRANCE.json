@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-11-2024 , 11:43:57",
+  "lastUpdate": "11-11-2024 , 11:53:13",
   "data": [
+    [
+      {
+        "title": "ASSE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#ASSE",
+        "pubdate": "Mon, 11 Nov 2024 10:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Bitcoin",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Etats-Unis : Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Etats-Unis%20:%20Donald%20Trump",
+        "title": "Etats Unis : Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Etats%20Unis%20:%20Donald%20Trump",
         "pubdate": "Mon, 11 Nov 2024 07:00:00 +0100"
       }
     ],
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Nice - Lille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nice%20-%20Lille",
+        "pubdate": "Sun, 10 Nov 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sandrine Bonnaire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Sandrine%20Bonnaire",
         "pubdate": "Sun, 10 Nov 2024 17:00:00 +0100"
@@ -90,6 +104,13 @@
         "title": "Virtual Regatta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Virtual%20Regatta",
         "pubdate": "Sun, 10 Nov 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Denzel Washington",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Denzel%20Washington",
+        "pubdate": "Sun, 10 Nov 2024 21:00:00 +0100"
       }
     ],
     [
@@ -117,27 +138,6 @@
       {
         "title": "Le Havre – Reims",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20Havre%20%E2%80%93%20Reims",
-        "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jordan Bardella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jordan%20Bardella",
-        "pubdate": "Sun, 10 Nov 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lens",
-        "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "LOSC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
         "pubdate": "Sun, 10 Nov 2024 18:00:00 +0100"
       }
     ]
