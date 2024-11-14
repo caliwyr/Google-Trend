@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "14-11-2024 , 23:42:26",
+  "lastUpdate": "14-11-2024 , 23:51:41",
   "data": [
-    [
-      {
-        "title": "The Onion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#The%20Onion",
-        "pubdate": "Thu, 14 Nov 2024 08:00:00 -0800"
-      }
-    ],
     [
       {
         "title": "Eagles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Eagles",
         "pubdate": "Thu, 14 Nov 2024 12:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Polymarket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Polymarket",
-        "pubdate": "Thu, 14 Nov 2024 10:00:00 -0800"
       }
     ],
     [
@@ -31,16 +17,16 @@
     ],
     [
       {
-        "title": "Craig Melvin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Craig%20Melvin",
-        "pubdate": "Thu, 14 Nov 2024 07:00:00 -0800"
+        "title": "Robert F. Kennedy Jr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20F.%20Kennedy%20Jr",
+        "pubdate": "Thu, 14 Nov 2024 14:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Jayden Daniels stats",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jayden%20Daniels%20stats",
-        "pubdate": "Thu, 14 Nov 2024 14:00:00 -0800"
+        "title": "Polymarket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Polymarket",
+        "pubdate": "Thu, 14 Nov 2024 10:00:00 -0800"
       }
     ],
     [
@@ -52,16 +38,30 @@
     ],
     [
       {
-        "title": "Anne Hathaway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anne%20Hathaway",
-        "pubdate": "Thu, 14 Nov 2024 09:00:00 -0800"
+        "title": "Craig Melvin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Craig%20Melvin",
+        "pubdate": "Thu, 14 Nov 2024 07:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Full moon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Full%20moon",
-        "pubdate": "Thu, 14 Nov 2024 07:00:00 -0800"
+        "title": "Venezuela  Brasil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Venezuela%20%20Brasil",
+        "pubdate": "Thu, 14 Nov 2024 13:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Jayden Daniels stats",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jayden%20Daniels%20stats",
+        "pubdate": "Thu, 14 Nov 2024 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Alex Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alex%20Jones",
+        "pubdate": "Thu, 14 Nov 2024 09:00:00 -0800"
       }
     ],
     [
@@ -73,6 +73,20 @@
     ],
     [
       {
+        "title": "Full moon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Full%20moon",
+        "pubdate": "Thu, 14 Nov 2024 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Anne Hathaway",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Anne%20Hathaway",
+        "pubdate": "Thu, 14 Nov 2024 09:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Robbie Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robbie%20Williams",
         "pubdate": "Thu, 14 Nov 2024 13:00:00 -0800"
@@ -80,23 +94,16 @@
     ],
     [
       {
-        "title": "Recess appointment",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Recess%20appointment",
-        "pubdate": "Thu, 14 Nov 2024 07:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Robert F. Kennedy Jr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Robert%20F.%20Kennedy%20Jr",
-        "pubdate": "Thu, 14 Nov 2024 14:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Greece vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Greece%20vs%20England",
         "pubdate": "Thu, 14 Nov 2024 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Recess appointment",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Recess%20appointment",
+        "pubdate": "Thu, 14 Nov 2024 07:00:00 -0800"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Social Security benefits",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Social%20Security%20benefits",
+        "pubdate": "Thu, 14 Nov 2024 14:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "UAP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UAP",
         "pubdate": "Thu, 14 Nov 2024 07:00:00 -0800"
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "Pedro Pascal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pedro%20Pascal",
-        "pubdate": "Thu, 14 Nov 2024 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Dick Van Dyke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dick%20Van%20Dyke",
-        "pubdate": "Thu, 14 Nov 2024 09:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Social Security benefits",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Social%20Security%20benefits",
+        "title": "Rachel Zegler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rachel%20Zegler",
         "pubdate": "Thu, 14 Nov 2024 14:00:00 -0800"
       }
     ]
