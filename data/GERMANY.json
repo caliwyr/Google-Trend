@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2024 , 11:37:22",
+  "lastUpdate": "14-11-2024 , 11:46:41",
   "data": [
     [
       {
@@ -17,9 +17,30 @@
     ],
     [
       {
+        "title": "Esslingen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Esslingen",
+        "pubdate": "Thu, 14 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "John Krasinski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#John%20Krasinski",
+        "pubdate": "Wed, 13 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Matt Gaetz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Matt%20Gaetz",
         "pubdate": "Wed, 13 Nov 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rivian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rivian",
+        "pubdate": "Wed, 13 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -31,23 +52,9 @@
     ],
     [
       {
-        "title": "Ford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Ford",
-        "pubdate": "Wed, 13 Nov 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Musk",
         "pubdate": "Wed, 13 Nov 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Siemens Energy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Siemens%20Energy",
-        "pubdate": "Wed, 13 Nov 2024 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Europa%20League",
         "pubdate": "Wed, 06 Nov 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Friedrich Merz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Friedrich%20Merz",
-        "pubdate": "Wed, 06 Nov 2024 17:00:00 +0100"
       }
     ]
   ]
