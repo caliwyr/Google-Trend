@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-11-2024 , 21:38:08",
+  "lastUpdate": "14-11-2024 , 21:47:32",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "TF1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#TF1",
+        "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Wembanyama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Wembanyama",
         "pubdate": "Thu, 14 Nov 2024 09:00:00 +0100"
@@ -27,13 +34,6 @@
         "title": "Mike Tyson Jake Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mike%20Tyson%20Jake%20Paul",
         "pubdate": "Thu, 14 Nov 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Belgique – Italie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Belgique%20%E2%80%93%20Italie",
-        "pubdate": "Thu, 14 Nov 2024 21:00:00 +0100"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Julien Doré",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Julien%20Dor%C3%A9",
         "pubdate": "Thu, 14 Nov 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Belgique Italie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Belgique%20Italie",
+        "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Malaga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Malaga",
         "pubdate": "Wed, 13 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Irak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Irak",
-        "pubdate": "Wed, 13 Nov 2024 14:00:00 +0100"
       }
     ]
   ]
