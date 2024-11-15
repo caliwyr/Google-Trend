@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-11-2024 , 07:40:12",
+  "lastUpdate": "15-11-2024 , 07:49:22",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Tulsi Gabbard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tulsi%20Gabbard",
-        "pubdate": "Thu, 14 Nov 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Ireland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland",
         "pubdate": "Thu, 14 Nov 2024 21:00:00 +0000"
@@ -59,8 +52,8 @@
     ],
     [
       {
-        "title": "Ireland Football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20Football",
+        "title": "Ireland football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ireland%20football",
         "pubdate": "Thu, 14 Nov 2024 19:00:00 +0000"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Australia vs Pakistan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Australia%20vs%20Pakistan",
         "pubdate": "Thu, 14 Nov 2024 12:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Venezuela vs Brazil",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Venezuela%20vs%20Brazil",
+        "pubdate": "Thu, 14 Nov 2024 22:00:00 +0000"
       }
     ]
   ]
