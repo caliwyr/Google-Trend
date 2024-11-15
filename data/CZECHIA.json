@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-11-2024 , 14:43:31",
+  "lastUpdate": "15-11-2024 , 14:52:58",
   "data": [
     [
       {
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Generace Z",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Generace%20Z",
-        "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Liga národů",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liga%20n%C3%A1rod%C5%AF",
         "pubdate": "Thu, 14 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rock for People 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rock%20for%20People%202024",
-        "pubdate": "Thu, 14 Nov 2024 15:00:00 +0100"
       }
     ],
     [
@@ -59,9 +45,23 @@
     ],
     [
       {
+        "title": "Rock for People 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rock%20for%20People%202024",
+        "pubdate": "Thu, 14 Nov 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pedro Pascal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pedro%20Pascal",
         "pubdate": "Thu, 14 Nov 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jan Ludvig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Ludvig",
+        "pubdate": "Thu, 14 Nov 2024 22:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Amelie Pokorná",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Amelie%20Pokorn%C3%A1",
+        "pubdate": "Thu, 14 Nov 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mike Tyson vs Jake Paul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mike%20Tyson%20vs%20Jake%20Paul",
         "pubdate": "Wed, 13 Nov 2024 19:00:00 +0100"
@@ -131,13 +138,6 @@
       {
         "title": "John Krasinski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#John%20Krasinski",
-        "pubdate": "Wed, 13 Nov 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marie Rottrová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marie%20Rottrov%C3%A1",
         "pubdate": "Wed, 13 Nov 2024 13:00:00 +0100"
       }
     ]
