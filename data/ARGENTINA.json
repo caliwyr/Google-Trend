@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-11-2024 , 13:48:23",
+  "lastUpdate": "16-11-2024 , 13:57:44",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "ESPN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#ESPN",
-        "pubdate": "Fri, 15 Nov 2024 12:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "UBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#UBA",
         "pubdate": "Fri, 15 Nov 2024 16:00:00 -0300"
@@ -139,6 +132,13 @@
         "title": "Pechuga de pollo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Pechuga%20de%20pollo",
         "pubdate": "Fri, 15 Nov 2024 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Rodrigo Aguirre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Rodrigo%20Aguirre",
+        "pubdate": "Fri, 15 Nov 2024 23:00:00 -0300"
       }
     ]
   ]
