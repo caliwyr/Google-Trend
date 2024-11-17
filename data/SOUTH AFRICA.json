@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-11-2024 , 12:33:53",
+  "lastUpdate": "17-11-2024 , 13:00:17",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Logan Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Logan%20Paul",
+        "pubdate": "Sat, 16 Nov 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Morocco FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Morocco%20FC",
         "pubdate": "Sat, 16 Nov 2024 00:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Darren Campher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Darren%20Campher",
         "pubdate": "Sat, 16 Nov 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mike Tyson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mike%20Tyson",
-        "pubdate": "Fri, 15 Nov 2024 08:00:00 +0200"
       }
     ]
   ]
