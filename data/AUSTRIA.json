@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-11-2024 , 22:44:52",
+  "lastUpdate": "17-11-2024 , 22:54:12",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "ÖFB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96FB",
+        "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Österreich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreich",
         "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
@@ -26,6 +33,13 @@
       {
         "title": "Italien – Frankreich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Italien%20%E2%80%93%20Frankreich",
+        "pubdate": "Sun, 17 Nov 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Denzel Washington",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Denzel%20Washington",
         "pubdate": "Sun, 17 Nov 2024 21:00:00 +0100"
       }
     ],
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Denzel Washington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Denzel%20Washington",
-        "pubdate": "Sun, 17 Nov 2024 21:00:00 +0100"
+        "title": "Brienz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brienz",
+        "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
       }
     ],
     [
@@ -62,13 +76,6 @@
         "title": "Jorge Martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jorge%20Martin",
         "pubdate": "Sun, 17 Nov 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brienz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Brienz",
-        "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Goldene Henne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Goldene%20Henne",
-        "pubdate": "Sun, 17 Nov 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Luke Littler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Luke%20Littler",
         "pubdate": "Sun, 17 Nov 2024 22:00:00 +0100"
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Österreich - Slowenien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreich%20-%20Slowenien",
+        "title": "Österreich Slowenien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96sterreich%20Slowenien",
         "pubdate": "Sat, 16 Nov 2024 18:00:00 +0100"
       }
     ]
