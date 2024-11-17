@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "17-11-2024 , 18:44:52",
+  "lastUpdate": "17-11-2024 , 18:54:17",
   "data": [
     [
       {
         "title": "Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Putin",
         "pubdate": "Sun, 17 Nov 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brynäs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
-        "pubdate": "Sun, 17 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Futsal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Futsal",
-        "pubdate": "Sun, 17 Nov 2024 04:00:00 +0100"
+        "title": "Brynäs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bryn%C3%A4s",
+        "pubdate": "Sun, 17 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Futsal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Futsal",
+        "pubdate": "Sun, 17 Nov 2024 04:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Modo Hockey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Modo%20Hockey",
         "pubdate": "Sun, 17 Nov 2024 11:00:00 +0100"
@@ -45,8 +45,22 @@
     ],
     [
       {
+        "title": "Glenn hysen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Glenn%20hysen",
+        "pubdate": "Sun, 17 Nov 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Viktor Gyökeres",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Viktor%20Gy%C3%B6keres",
+        "pubdate": "Sat, 16 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gyökeres",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gy%C3%B6keres",
         "pubdate": "Sat, 16 Nov 2024 21:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Frölunda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%B6lunda",
         "pubdate": "Sat, 16 Nov 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anna Magnusson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anna%20Magnusson",
-        "pubdate": "Sat, 16 Nov 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ska",
-        "pubdate": "Sat, 16 Nov 2024 11:00:00 +0100"
       }
     ]
   ]
