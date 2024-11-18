@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-11-2024 , 09:40:22",
+  "lastUpdate": "18-11-2024 , 09:49:39",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Ravens vs Steelers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ravens%20vs%20Steelers",
         "pubdate": "Sun, 17 Nov 2024 10:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Chiefs vs Bills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs%20vs%20Bills",
+        "pubdate": "Sun, 17 Nov 2024 13:00:00 -0800"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Chiefs vs Bills",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chiefs%20vs%20Bills",
-        "pubdate": "Sun, 17 Nov 2024 13:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Raiders vs Dolphins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Raiders%20vs%20Dolphins",
         "pubdate": "Sun, 17 Nov 2024 11:00:00 -0800"
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Supreme Leader Ayatollah Ali Khamenei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Supreme%20Leader%20Ayatollah%20Ali%20Khamenei",
+        "title": "Supreme Leader, Ayatollah Ali Khamenei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Supreme%20Leader,%20Ayatollah%20Ali%20Khamenei",
         "pubdate": "Sun, 17 Nov 2024 10:00:00 -0800"
       }
     ],
@@ -97,13 +97,6 @@
         "title": "Dune: Prophecy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Dune:%20Prophecy",
         "pubdate": "Sun, 17 Nov 2024 17:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Colts vs Jets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colts%20vs%20Jets",
-        "pubdate": "Sun, 17 Nov 2024 12:00:00 -0800"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Rams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rams",
+        "pubdate": "Sun, 17 Nov 2024 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Colts vs Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Colts%20vs%20Jets",
         "pubdate": "Sun, 17 Nov 2024 12:00:00 -0800"
       }
     ]

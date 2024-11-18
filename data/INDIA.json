@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-11-2024 , 09:40:28",
+  "lastUpdate": "18-11-2024 , 09:49:43",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "AQI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#AQI",
+        "pubdate": "Mon, 18 Nov 2024 14:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Bluesky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bluesky",
         "pubdate": "Mon, 18 Nov 2024 10:30:00 +0530"
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "ICSI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICSI",
-        "pubdate": "Mon, 18 Nov 2024 12:30:00 +0530"
+        "title": "Zinka Logistics IPO GMP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Zinka%20Logistics%20IPO%20GMP",
+        "pubdate": "Mon, 18 Nov 2024 11:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Zinka Logistics IPO GMP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Zinka%20Logistics%20IPO%20GMP",
-        "pubdate": "Mon, 18 Nov 2024 11:30:00 +0530"
+        "title": "ICSI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICSI",
+        "pubdate": "Mon, 18 Nov 2024 12:30:00 +0530"
       }
     ],
     [
@@ -66,15 +73,15 @@
     ],
     [
       {
-        "title": "GRAP-4",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#GRAP-4",
+        "title": "Dog",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dog",
         "pubdate": "Sun, 17 Nov 2024 22:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Dog",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dog",
+        "title": "GRAP-4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#GRAP-4",
         "pubdate": "Sun, 17 Nov 2024 22:30:00 +0530"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Nigeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nigeria",
         "pubdate": "Sun, 17 Nov 2024 23:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Nuclear weapons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Nuclear%20weapons",
-        "pubdate": "Sun, 17 Nov 2024 00:30:00 +0530"
       }
     ]
   ]
