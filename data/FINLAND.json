@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "18-11-2024 , 04:43:30",
+  "lastUpdate": "18-11-2024 , 04:54:20",
   "data": [
+    [
+      {
+        "title": "Snow warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snow%20warning",
+        "pubdate": "Mon, 18 Nov 2024 06:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "BESS",
@@ -132,13 +139,6 @@
         "title": "Predators",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Predators",
         "pubdate": "Sat, 16 Nov 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mike Tyson vs Jake Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mike%20Tyson%20vs%20Jake%20Paul",
-        "pubdate": "Fri, 15 Nov 2024 10:00:00 +0200"
       }
     ]
   ]
