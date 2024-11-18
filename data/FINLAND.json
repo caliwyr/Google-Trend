@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-11-2024 , 23:49:52",
+  "lastUpdate": "18-11-2024 , 23:59:11",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Cinia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cinia",
-        "pubdate": "Mon, 18 Nov 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Game Awards",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Game%20Awards",
         "pubdate": "Mon, 18 Nov 2024 23:00:00 +0200"
@@ -59,9 +52,23 @@
     ],
     [
       {
+        "title": "Cinia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cinia",
+        "pubdate": "Mon, 18 Nov 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "ATACMS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ATACMS",
         "pubdate": "Mon, 18 Nov 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fiddler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fiddler",
+        "pubdate": "Mon, 18 Nov 2024 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jutta Leerdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jutta%20Leerdam",
         "pubdate": "Sat, 16 Nov 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bluesky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bluesky",
-        "pubdate": "Sat, 16 Nov 2024 21:00:00 +0200"
       }
     ]
   ]
