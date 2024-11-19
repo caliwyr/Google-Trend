@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-11-2024 , 16:43:20",
+  "lastUpdate": "19-11-2024 , 16:54:17",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Test",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Test",
-        "pubdate": "Tue, 19 Nov 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Wero",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wero",
         "pubdate": "Tue, 19 Nov 2024 14:00:00 +0100"
@@ -31,16 +24,23 @@
     ],
     [
       {
-        "title": "Slimane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Slimane",
-        "pubdate": "Tue, 19 Nov 2024 04:00:00 +0100"
+        "title": "Test",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Test",
+        "pubdate": "Tue, 19 Nov 2024 03:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Guerre mondiale",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guerre%20mondiale",
-        "pubdate": "Tue, 19 Nov 2024 08:00:00 +0100"
+        "title": "Game Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Game%20Awards",
+        "pubdate": "Tue, 19 Nov 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Slimane",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Slimane",
+        "pubdate": "Tue, 19 Nov 2024 04:00:00 +0100"
       }
     ],
     [
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "Game Awards",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Game%20Awards",
-        "pubdate": "Tue, 19 Nov 2024 01:00:00 +0100"
+        "title": "Guerre mondiale",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Guerre%20mondiale",
+        "pubdate": "Tue, 19 Nov 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Graspop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Graspop",
+        "pubdate": "Tue, 19 Nov 2024 16:00:00 +0100"
       }
     ],
     [
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Game Awards 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Game%20Awards%202024",
-        "pubdate": "Tue, 19 Nov 2024 14:00:00 +0100"
+        "title": "Payconiq",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Payconiq",
+        "pubdate": "Tue, 19 Nov 2024 17:00:00 +0100"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Graspop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Graspop",
-        "pubdate": "Tue, 19 Nov 2024 16:00:00 +0100"
+        "title": "Gifi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gifi",
+        "pubdate": "Tue, 19 Nov 2024 17:00:00 +0100"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Sven Pichal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sven%20Pichal",
+        "pubdate": "Mon, 18 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Linkedin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Linkedin",
         "pubdate": "Mon, 18 Nov 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maroc – Lesotho",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Maroc%20%E2%80%93%20Lesotho",
-        "pubdate": "Mon, 18 Nov 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Office 365",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Office%20365",
-        "pubdate": "Mon, 18 Nov 2024 10:00:00 +0100"
       }
     ]
   ]
