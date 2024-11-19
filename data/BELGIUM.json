@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-11-2024 , 09:44:28",
+  "lastUpdate": "19-11-2024 , 09:53:46",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "Test",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Test",
-        "pubdate": "Tue, 19 Nov 2024 03:00:00 +0100"
+        "title": "Paul Teal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paul%20Teal",
+        "pubdate": "Tue, 19 Nov 2024 01:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Paul Teal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paul%20Teal",
-        "pubdate": "Tue, 19 Nov 2024 01:00:00 +0100"
+        "title": "Test",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Test",
+        "pubdate": "Tue, 19 Nov 2024 03:00:00 +0100"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Sven Pichal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sven%20Pichal",
         "pubdate": "Mon, 18 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "LinkedIn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#LinkedIn",
+        "pubdate": "Mon, 18 Nov 2024 14:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Dune : Prophecy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Dune%20:%20Prophecy",
         "pubdate": "Mon, 18 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Laurent de Funès",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Laurent%20de%20Fun%C3%A8s",
-        "pubdate": "Mon, 18 Nov 2024 10:00:00 +0100"
       }
     ]
   ]
