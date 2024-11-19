@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "18-11-2024 , 23:59:16",
+  "lastUpdate": "19-11-2024 , 01:54:34",
   "data": [
-    [
-      {
-        "title": "젠지",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%A0%EC%A7%80",
-        "pubdate": "Tue, 19 Nov 2024 02:00:00 +0900"
-      }
-    ],
     [
       {
         "title": "김도영",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EB%8F%84%EC%98%81",
         "pubdate": "Tue, 19 Nov 2024 00:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "롯데",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A1%AF%EB%8D%B0",
+        "pubdate": "Tue, 19 Nov 2024 10:00:00 +0900"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "민경훈",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%AF%BC%EA%B2%BD%ED%9B%88",
-        "pubdate": "Mon, 18 Nov 2024 00:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "최민희",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%EB%AF%BC%ED%9D%AC",
         "pubdate": "Mon, 18 Nov 2024 21:00:00 +0900"
@@ -139,6 +132,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#UFC",
         "pubdate": "Sat, 16 Nov 2024 16:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "김수정",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EA%B9%80%EC%88%98%EC%A0%95",
+        "pubdate": "Sat, 16 Nov 2024 14:00:00 +0900"
       }
     ]
   ]
