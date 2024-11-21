@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2024 , 20:37:10",
+  "lastUpdate": "21-11-2024 , 20:46:28",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "WRC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WRC",
+        "pubdate": "Thu, 21 Nov 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tatjana simic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tatjana%20simic",
         "pubdate": "Thu, 21 Nov 2024 12:00:00 +0100"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "WRC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#WRC",
-        "pubdate": "Thu, 21 Nov 2024 12:00:00 +0100"
+        "title": "Netanyahu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Netanyahu",
+        "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
       }
     ],
     [
@@ -52,16 +59,9 @@
     ],
     [
       {
-        "title": "Netanyahu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Netanyahu",
-        "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Thierry Neuville",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Thierry%20Neuville",
-        "pubdate": "Thu, 21 Nov 2024 14:00:00 +0100"
+        "title": "Stromae",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stromae",
+        "pubdate": "Thu, 21 Nov 2024 19:00:00 +0100"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Stromae",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stromae",
-        "pubdate": "Thu, 21 Nov 2024 19:00:00 +0100"
+        "title": "Gare de Mons",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gare%20de%20Mons",
+        "pubdate": "Thu, 21 Nov 2024 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Gare de Mons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Gare%20de%20Mons",
-        "pubdate": "Thu, 21 Nov 2024 09:00:00 +0100"
+        "title": "Forbes 30 Under 30",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Forbes%2030%20Under%2030",
+        "pubdate": "Thu, 21 Nov 2024 20:00:00 +0100"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "La Liste de Schindler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Liste%20de%20Schindler",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "ICC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ICC",
         "pubdate": "Thu, 21 Nov 2024 20:00:00 +0100"
@@ -115,9 +108,23 @@
     ],
     [
       {
+        "title": "La Liste de Schindler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#La%20Liste%20de%20Schindler",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ongeval Diepenbeek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ongeval%20Diepenbeek",
         "pubdate": "Thu, 21 Nov 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Asterix et obelix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Asterix%20et%20obelix",
+        "pubdate": "Thu, 21 Nov 2024 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Barbara Sarafian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barbara%20Sarafian",
         "pubdate": "Wed, 20 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "One Direction",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#One%20Direction",
-        "pubdate": "Wed, 20 Nov 2024 17:00:00 +0100"
       }
     ]
   ]
