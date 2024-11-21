@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-11-2024 , 19:48:10",
+  "lastUpdate": "21-11-2024 , 19:57:26",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "CPI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#CPI",
         "pubdate": "Thu, 21 Nov 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vladimir Poutine",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vladimir%20Poutine",
+        "pubdate": "Thu, 21 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -31,9 +38,23 @@
     ],
     [
       {
+        "title": "Nantes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nantes",
+        "pubdate": "Thu, 21 Nov 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pont de Cheviré",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pont%20de%20Chevir%C3%A9",
         "pubdate": "Thu, 21 Nov 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vigilance meteo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Vigilance%20meteo",
+        "pubdate": "Thu, 21 Nov 2024 08:00:00 +0100"
       }
     ],
     [
@@ -45,15 +66,15 @@
     ],
     [
       {
-        "title": "Missile intercontinental",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Missile%20intercontinental",
-        "pubdate": "Thu, 21 Nov 2024 18:00:00 +0100"
+        "title": "Coupure d'électricité",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Coupure%20d'%C3%A9lectricit%C3%A9",
+        "pubdate": "Thu, 21 Nov 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Meteo France",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Meteo%20France",
+        "title": "Neige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Neige",
         "pubdate": "Wed, 20 Nov 2024 17:00:00 +0100"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "Nvidia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Nvidia",
         "pubdate": "Wed, 20 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Starship",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Starship",
-        "pubdate": "Wed, 20 Nov 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Plus que jamais",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Plus%20que%20jamais",
-        "pubdate": "Wed, 20 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Meteo Caen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Meteo%20Caen",
-        "pubdate": "Wed, 20 Nov 2024 21:00:00 +0100"
       }
     ]
   ]
