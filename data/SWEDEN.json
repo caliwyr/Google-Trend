@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "21-11-2024 , 14:37:25",
+  "lastUpdate": "21-11-2024 , 14:47:15",
   "data": [
     [
       {
         "title": "UL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UL",
         "pubdate": "Thu, 21 Nov 2024 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ICC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#ICC",
+        "pubdate": "Thu, 21 Nov 2024 14:00:00 +0100"
       }
     ],
     [
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "ICC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#ICC",
-        "pubdate": "Thu, 21 Nov 2024 14:00:00 +0100"
+        "title": "Snöslunga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sn%C3%B6slunga",
+        "pubdate": "Thu, 21 Nov 2024 11:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Nanasi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nanasi",
-        "pubdate": "Tue, 19 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jonas Lagerström",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jonas%20Lagerstr%C3%B6m",
         "pubdate": "Tue, 19 Nov 2024 21:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Yasin Ayari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Yasin%20Ayari",
-        "pubdate": "Tue, 19 Nov 2024 21:00:00 +0100"
+        "title": "Nanasi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nanasi",
+        "pubdate": "Tue, 19 Nov 2024 22:00:00 +0100"
       }
     ]
   ]
