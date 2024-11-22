@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "22-11-2024 , 05:45:15",
+  "lastUpdate": "22-11-2024 , 05:54:29",
   "data": [
-    [
-      {
-        "title": "F1 Las Vegas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#F1%20Las%20Vegas",
-        "pubdate": "Fri, 22 Nov 2024 00:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Independiente  River Plate",
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Primera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera",
+        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Sergio Sarria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sergio%20Sarria",
         "pubdate": "Thu, 21 Nov 2024 11:00:00 -0300"
@@ -101,23 +101,9 @@
     ],
     [
       {
-        "title": "Milagros Maylin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Milagros%20Maylin",
-        "pubdate": "Thu, 21 Nov 2024 14:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Tabla de posiciones Liga Argentina 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tabla%20de%20posiciones%20Liga%20Argentina%202024",
         "pubdate": "Thu, 21 Nov 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Primera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera",
-        "pubdate": "Thu, 21 Nov 2024 00:00:00 -0300"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Jorge Lanata",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Jorge%20Lanata",
+        "pubdate": "Thu, 21 Nov 2024 22:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Victoria Villarruel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Victoria%20Villarruel",
         "pubdate": "Thu, 21 Nov 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Fernando Mengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Fernando%20Mengo",
+        "pubdate": "Thu, 21 Nov 2024 22:00:00 -0300"
       }
     ]
   ]
