@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "22-11-2024 , 22:37:59",
+  "lastUpdate": "22-11-2024 , 22:48:14",
   "data": [
     [
       {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#F1",
         "pubdate": "Sat, 23 Nov 2024 08:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket",
-        "pubdate": "Sat, 23 Nov 2024 00:00:00 +1300"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Cricket",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "France vs Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#France%20vs%20Argentina",
         "pubdate": "Sat, 23 Nov 2024 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "West Indies vs Bangladesh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#West%20Indies%20vs%20Bangladesh",
+        "pubdate": "Sat, 23 Nov 2024 11:00:00 +1300"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers",
-        "pubdate": "Fri, 22 Nov 2024 21:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Lydia Ko",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lydia%20Ko",
         "pubdate": "Fri, 22 Nov 2024 03:00:00 +1300"
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "ICC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ICC",
-        "pubdate": "Fri, 22 Nov 2024 18:00:00 +1300"
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers",
+        "pubdate": "Fri, 22 Nov 2024 21:00:00 +1300"
       }
     ],
     [
@@ -111,6 +111,13 @@
         "title": "Nitish Kumar Reddy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nitish%20Kumar%20Reddy",
         "pubdate": "Fri, 22 Nov 2024 23:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "ICC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#ICC",
+        "pubdate": "Fri, 22 Nov 2024 18:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "John Prescott",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#John%20Prescott",
         "pubdate": "Fri, 22 Nov 2024 15:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Coral",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Coral",
-        "pubdate": "Fri, 22 Nov 2024 00:00:00 +1300"
       }
     ]
   ]
