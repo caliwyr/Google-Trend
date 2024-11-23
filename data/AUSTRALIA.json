@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "23-11-2024 , 17:39:27",
+  "lastUpdate": "23-11-2024 , 17:48:44",
   "data": [
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal",
+        "pubdate": "Sun, 24 Nov 2024 03:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City",
+        "pubdate": "Sun, 24 Nov 2024 04:00:00 +1100"
+      }
+    ],
     [
       {
         "title": "Deiveson Figueiredo",
@@ -10,9 +24,9 @@
     ],
     [
       {
-        "title": "Arsenal vs nottm Forest",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal%20vs%20nottm%20Forest",
-        "pubdate": "Sun, 24 Nov 2024 03:00:00 +1100"
+        "title": "Championship",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Championship",
+        "pubdate": "Sun, 24 Nov 2024 04:00:00 +1100"
       }
     ],
     [
@@ -52,6 +66,13 @@
     ],
     [
       {
+        "title": "Wizard of Oz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wizard%20of%20Oz",
+        "pubdate": "Sat, 23 Nov 2024 20:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "XRP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#XRP",
         "pubdate": "Sat, 23 Nov 2024 10:00:00 +1100"
@@ -59,8 +80,8 @@
     ],
     [
       {
-        "title": "Maharashtra Election 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Maharashtra%20Election%202024",
+        "title": "Maharashtra election 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Maharashtra%20election%202024",
         "pubdate": "Sat, 23 Nov 2024 17:00:00 +1100"
       }
     ],
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Bundesliga",
-        "pubdate": "Sat, 23 Nov 2024 12:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Spellbound",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spellbound",
         "pubdate": "Sat, 23 Nov 2024 15:00:00 +1100"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Daniel Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daniel%20Jones",
-        "pubdate": "Sat, 23 Nov 2024 10:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Serie%20A",
         "pubdate": "Sat, 23 Nov 2024 22:00:00 +1100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Scott Bessent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Scott%20Bessent",
-        "pubdate": "Sat, 23 Nov 2024 18:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Las Vegas Grand Prix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Las%20Vegas%20Grand%20Prix",
-        "pubdate": "Sat, 23 Nov 2024 19:00:00 +1100"
+        "title": "Daniel Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Daniel%20Jones",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 +1100"
       }
     ]
   ]

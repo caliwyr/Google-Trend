@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "23-11-2024 , 17:39:31",
+  "lastUpdate": "23-11-2024 , 17:48:46",
   "data": [
+    [
+      {
+        "title": "Dortmund – Freiburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20%E2%80%93%20Freiburg",
+        "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "VfB Stuttgart – Bochum",
@@ -10,16 +17,9 @@
     ],
     [
       {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Formel-1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Formel-1",
-        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
+        "title": "Hoffenheim – RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hoffenheim%20%E2%80%93%20RB%20Leipzig",
+        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
       }
     ],
     [
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Hannover 96",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hannover%2096",
+        "title": "Düsseldorf – Elversberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#D%C3%BCsseldorf%20%E2%80%93%20Elversberg",
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
       }
     ],
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Harry Kane",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Harry%20Kane",
-        "pubdate": "Sat, 23 Nov 2024 00:00:00 +0100"
+        "title": "KSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KSC",
+        "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
       }
     ],
     [
@@ -62,13 +62,6 @@
         "title": "Baerbock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Baerbock",
         "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FC%20Bayern",
-        "pubdate": "Fri, 22 Nov 2024 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sinner",
         "pubdate": "Sun, 17 Nov 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Volkstrauertag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Volkstrauertag",
+        "pubdate": "Sat, 16 Nov 2024 22:00:00 +0100"
       }
     ]
   ]
