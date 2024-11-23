@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "23-11-2024 , 15:44:09",
+  "lastUpdate": "23-11-2024 , 15:52:35",
   "data": [
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Premier%20League",
-        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Lechia – Pogoń Szczecin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Lechia%20%E2%80%93%20Pogo%C5%84%20Szczecin",
         "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leicester – Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Leicester%20%E2%80%93%20Chelsea",
+        "pubdate": "Sat, 23 Nov 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Premier%20League",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Krztusiec",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Krztusiec",
+        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Szwajcaria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Szwajcaria",
         "pubdate": "Sat, 23 Nov 2024 12:00:00 +0100"
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chelsea",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Outlander",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Outlander",
         "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
@@ -62,6 +69,13 @@
         "title": "Edyta Górniak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Edyta%20G%C3%B3rniak",
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Arsenal",
+        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
       }
     ],
     [
@@ -87,16 +101,16 @@
     ],
     [
       {
-        "title": "Zagłębie Lubin – Motor Lublin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zag%C5%82%C4%99bie%20Lubin%20%E2%80%93%20Motor%20Lublin",
-        "pubdate": "Fri, 22 Nov 2024 18:00:00 +0100"
+        "title": "Trzaskowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trzaskowski",
+        "pubdate": "Fri, 22 Nov 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Trzaskowski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trzaskowski",
-        "pubdate": "Fri, 22 Nov 2024 20:00:00 +0100"
+        "title": "Zagłębie Lubin – Motor Lublin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zag%C5%82%C4%99bie%20Lubin%20%E2%80%93%20Motor%20Lublin",
+        "pubdate": "Fri, 22 Nov 2024 18:00:00 +0100"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bundesliga",
-        "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "1 liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#1%20liga",
         "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
@@ -122,9 +129,9 @@
     ],
     [
       {
-        "title": "Pam Bondi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pam%20Bondi",
-        "pubdate": "Fri, 22 Nov 2024 10:00:00 +0100"
+        "title": "Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Bundesliga",
+        "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#La%20Liga",
         "pubdate": "Fri, 22 Nov 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Simona Kossak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Simona%20Kossak",
-        "pubdate": "Fri, 22 Nov 2024 21:00:00 +0100"
       }
     ]
   ]
