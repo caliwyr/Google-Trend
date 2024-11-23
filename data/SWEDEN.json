@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-11-2024 , 19:47:44",
+  "lastUpdate": "23-11-2024 , 19:56:57",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1",
         "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
+        "pubdate": "Sat, 23 Nov 2024 19:00:00 +0100"
       }
     ],
     [
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Anders Lundin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anders%20Lundin",
-        "pubdate": "Sat, 23 Nov 2024 11:00:00 +0100"
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20a",
+        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Serie%20a",
-        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
+        "title": "Anders Lundin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anders%20Lundin",
+        "pubdate": "Sat, 23 Nov 2024 11:00:00 +0100"
       }
     ],
     [
@@ -73,16 +80,23 @@
     ],
     [
       {
-        "title": "Harpo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harpo",
-        "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
+        "title": "Therese Johaug",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Therese%20Johaug",
+        "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Therese Johaug",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Therese%20Johaug",
-        "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
+        "title": "Göran Skytte sjuk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#G%C3%B6ran%20Skytte%20sjuk",
+        "pubdate": "Sat, 23 Nov 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Harpo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Harpo",
+        "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Pär Lernström",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#P%C3%A4r%20Lernstr%C3%B6m",
         "pubdate": "Fri, 22 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marcus Hellner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marcus%20Hellner",
-        "pubdate": "Fri, 22 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gällivare",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#G%C3%A4llivare",
-        "pubdate": "Fri, 22 Nov 2024 21:00:00 +0100"
       }
     ]
   ]

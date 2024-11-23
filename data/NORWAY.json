@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "23-11-2024 , 19:47:42",
+  "lastUpdate": "23-11-2024 , 19:56:55",
   "data": [
     [
       {
-        "title": "Bodø/Glimt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8/Glimt",
+        "title": "Brann",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal mot Nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal%20mot%20Nottingham%20Forest",
         "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
       }
     ],
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Odd mot Bodø/Glimt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Odd%20mot%20Bod%C3%B8/Glimt",
-        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rosenborg mot Sarpsborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rosenborg%20mot%20Sarpsborg",
         "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
-        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
       }
     ],
     [
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
-        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
+        "title": "Lillestrøm mot Sandefjord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lillestr%C3%B8m%20mot%20Sandefjord",
+        "pubdate": "Sat, 23 Nov 2024 18:00:00 +0100"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Egersund - Kongsvinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Egersund%20-%20Kongsvinger",
-        "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
+        "title": "Matthew McConaughey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Matthew%20McConaughey",
+        "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Matthew McConaughey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Matthew%20McConaughey",
-        "pubdate": "Sat, 23 Nov 2024 01:00:00 +0100"
+        "title": "Nammo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nammo",
+        "pubdate": "Sat, 23 Nov 2024 20:00:00 +0100"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Emil Iversen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Emil%20Iversen",
+        "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Oslo Fashion Outlet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oslo%20Fashion%20Outlet",
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Eliteserien",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eliteserien",
+        "title": "Brann Molde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Brann%20Molde",
         "pubdate": "Fri, 22 Nov 2024 21:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Norske Talenter 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norske%20Talenter%202024",
         "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Conor McGregor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Conor%20McGregor",
-        "pubdate": "Fri, 22 Nov 2024 20:00:00 +0100"
       }
     ]
   ]
