@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-11-2024 , 21:48:12",
+  "lastUpdate": "24-11-2024 , 21:57:31",
   "data": [
     [
       {
         "title": "Abstimmungsresultate heute",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungsresultate%20heute",
         "pubdate": "Sun, 24 Nov 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leganés – Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Legan%C3%A9s%20%E2%80%93%20Real%20Madrid",
+        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
       }
     ],
     [
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "EFAS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EFAS",
-        "pubdate": "Sun, 24 Nov 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Abstimmungen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungen",
         "pubdate": "Sun, 24 Nov 2024 13:00:00 +0100"
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Leganés – Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Legan%C3%A9s%20%E2%80%93%20Real%20Madrid",
-        "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
-        "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lugano – Zürich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lugano%20%E2%80%93%20Z%C3%BCrich",
-        "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
+        "title": "EFAS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EFAS",
+        "pubdate": "Sun, 24 Nov 2024 13:00:00 +0100"
       }
     ],
     [
@@ -59,9 +45,23 @@
     ],
     [
       {
+        "title": "Lugano – Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lugano%20%E2%80%93%20Z%C3%BCrich",
+        "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Genderstern Zürich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Genderstern%20Z%C3%BCrich",
         "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FCSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCSG",
+        "pubdate": "Sun, 24 Nov 2024 17:00:00 +0100"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Abstimmung Zürich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung%20Z%C3%BCrich",
+        "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "FC Aarau – FC Wil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Aarau%20%E2%80%93%20FC%20Wil",
         "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
@@ -101,9 +108,16 @@
     ],
     [
       {
-        "title": "Abstimmungen November 2024 Resultate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmungen%20November%202024%20Resultate",
-        "pubdate": "Sun, 24 Nov 2024 15:00:00 +0100"
+        "title": "Virginie Grimaldi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Virginie%20Grimaldi",
+        "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bâle – servette",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#B%C3%A2le%20%E2%80%93%20servette",
+        "pubdate": "Sun, 24 Nov 2024 17:00:00 +0100"
       }
     ],
     [
@@ -115,22 +129,8 @@
     ],
     [
       {
-        "title": "Virginie Grimaldi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Virginie%20Grimaldi",
-        "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Abstimmung heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung%20heute",
-        "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zürich Abstimmung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Z%C3%BCrich%20Abstimmung",
+        "title": "Abstimmung Heute",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Abstimmung%20Heute",
         "pubdate": "Sun, 24 Nov 2024 18:00:00 +0100"
       }
     ],
