@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "24-11-2024 , 09:46:09",
+  "lastUpdate": "24-11-2024 , 09:55:22",
   "data": [
+    [
+      {
+        "title": "Star Academy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Star%20Academy",
+        "pubdate": "Sun, 24 Nov 2024 10:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid",
         "pubdate": "Sun, 24 Nov 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The Masked Singer 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Masked%20Singer%202024",
+        "pubdate": "Sun, 24 Nov 2024 09:00:00 +0100"
       }
     ],
     [
@@ -20,13 +34,6 @@
         "title": "FCB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FCB",
         "pubdate": "Sun, 24 Nov 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The Masked Singer 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#The%20Masked%20Singer%202024",
-        "pubdate": "Sun, 24 Nov 2024 09:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Leverkusen – Heidenheim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leverkusen%20%E2%80%93%20Heidenheim",
         "pubdate": "Sat, 23 Nov 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund – Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dortmund%20%E2%80%93%20Freiburg",
-        "pubdate": "Sat, 23 Nov 2024 16:00:00 +0100"
       }
     ]
   ]
