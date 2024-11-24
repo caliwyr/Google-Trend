@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "24-11-2024 , 03:47:33",
+  "lastUpdate": "24-11-2024 , 03:57:30",
   "data": [
     [
       {
         "title": "Fulham  Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Fulham%20%20Wolves",
         "pubdate": "Sat, 23 Nov 2024 09:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Madrid",
-        "pubdate": "Sat, 23 Nov 2024 12:00:00 -0600"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Racing",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Racing",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0600"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Real%20Madrid",
+        "pubdate": "Sat, 23 Nov 2024 12:00:00 -0600"
       }
     ],
     [
@@ -34,6 +27,13 @@
         "title": "Leicester City  Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Leicester%20City%20%20Chelsea",
         "pubdate": "Sat, 23 Nov 2024 07:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Racing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Racing",
+        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0600"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Aston Villa  Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aston%20Villa%20%20Crystal%20Palace",
-        "pubdate": "Sat, 23 Nov 2024 10:00:00 -0600"
+        "title": "Valencia CF  Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Valencia%20CF%20%20Betis",
+        "pubdate": "Sat, 23 Nov 2024 09:00:00 -0600"
       }
     ],
     [
       {
-        "title": "Valencia CF  Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Valencia%20CF%20%20Betis",
-        "pubdate": "Sat, 23 Nov 2024 09:00:00 -0600"
+        "title": "Aston Villa  Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aston%20Villa%20%20Crystal%20Palace",
+        "pubdate": "Sat, 23 Nov 2024 10:00:00 -0600"
       }
     ],
     [
@@ -115,20 +115,6 @@
     ],
     [
       {
-        "title": "F1 Las Vegas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#F1%20Las%20Vegas",
-        "pubdate": "Sat, 23 Nov 2024 00:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Parma - Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Parma%20-%20Atalanta",
-        "pubdate": "Sat, 23 Nov 2024 16:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Huracán  Boca Juniors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hurac%C3%A1n%20%20Boca%20Juniors",
         "pubdate": "Sat, 23 Nov 2024 20:00:00 -0600"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "UD Las Palmas  RCD Mallorca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#UD%20Las%20Palmas%20%20RCD%20Mallorca",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0600"
+        "title": "F1 Las Vegas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#F1%20Las%20Vegas",
+        "pubdate": "Sat, 23 Nov 2024 00:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Parma - Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Parma%20-%20Atalanta",
+        "pubdate": "Sat, 23 Nov 2024 16:00:00 -0600"
       }
     ]
   ]
