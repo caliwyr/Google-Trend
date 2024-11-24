@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "24-11-2024 , 17:50:35",
+  "lastUpdate": "24-11-2024 , 17:58:58",
   "data": [
-    [
-      {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Formula%201",
-        "pubdate": "Sun, 24 Nov 2024 00:00:00 -0800"
-      }
-    ],
     [
       {
         "title": "Ohio State game",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ohio%20State%20game",
         "pubdate": "Sun, 24 Nov 2024 08:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "SEC Championship Game",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#SEC%20Championship%20Game",
+        "pubdate": "Sun, 24 Nov 2024 07:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Max%20Verstappen",
+        "pubdate": "Sun, 24 Nov 2024 09:00:00 -0800"
       }
     ],
     [
@@ -108,23 +115,16 @@
     ],
     [
       {
-        "title": "Texas Tech football",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20Tech%20football",
-        "pubdate": "Sat, 23 Nov 2024 17:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Northwestern vs Michigan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Northwestern%20vs%20Michigan",
-        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool",
         "pubdate": "Sat, 23 Nov 2024 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Texas Tech football",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Texas%20Tech%20football",
+        "pubdate": "Sat, 23 Nov 2024 17:00:00 -0800"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#MLS",
-        "pubdate": "Sat, 23 Nov 2024 17:00:00 -0800"
+        "title": "Northwestern vs Michigan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Northwestern%20vs%20Michigan",
+        "pubdate": "Sat, 23 Nov 2024 14:00:00 -0800"
       }
     ]
   ]
