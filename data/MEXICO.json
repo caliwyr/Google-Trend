@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-11-2024 , 11:40:37",
+  "lastUpdate": "24-11-2024 , 11:49:52",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Laos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Laos",
         "pubdate": "Sun, 24 Nov 2024 01:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Celta de Vigo  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Celta%20de%20Vigo%20%20Barcelona",
-        "pubdate": "Sat, 23 Nov 2024 09:00:00 -0600"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "MLS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
+        "pubdate": "Sat, 23 Nov 2024 21:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "PSV  Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#PSV%20%20Groningen",
         "pubdate": "Sat, 23 Nov 2024 15:00:00 -0600"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "MLS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#MLS",
-        "pubdate": "Sat, 23 Nov 2024 21:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Aston Villa  Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Aston%20Villa%20%20Crystal%20Palace",
         "pubdate": "Sat, 23 Nov 2024 10:00:00 -0600"
@@ -138,6 +131,13 @@
       {
         "title": "Huracán  Boca Juniors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Hurac%C3%A1n%20%20Boca%20Juniors",
+        "pubdate": "Sat, 23 Nov 2024 20:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Jasper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Jasper",
         "pubdate": "Sat, 23 Nov 2024 20:00:00 -0600"
       }
     ]
