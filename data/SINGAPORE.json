@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-11-2024 , 02:44:19",
+  "lastUpdate": "24-11-2024 , 03:24:22",
   "data": [
     [
       {
@@ -19,13 +19,6 @@
       {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Serie%20A",
-        "pubdate": "Sun, 24 Nov 2024 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Wizard of Oz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Wizard%20of%20Oz",
         "pubdate": "Sun, 24 Nov 2024 01:00:00 +0800"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#F1",
         "pubdate": "Fri, 22 Nov 2024 22:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Methanol poisoning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Methanol%20poisoning",
+        "pubdate": "Fri, 22 Nov 2024 10:00:00 +0800"
       }
     ]
   ]
