@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "25-11-2024 , 01:47:13",
+  "lastUpdate": "25-11-2024 , 02:53:22",
   "data": [
-    [
-      {
-        "title": "Godoy Cruz  Vélez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Godoy%20Cruz%20%20V%C3%A9lez",
-        "pubdate": "Sun, 24 Nov 2024 02:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Gimnasia  Atlético Tucumán",
@@ -20,6 +13,13 @@
         "title": "Nueva Chicago  San Martín",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Nueva%20Chicago%20%20San%20Mart%C3%ADn",
         "pubdate": "Sun, 24 Nov 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Elecciones Uruguay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Elecciones%20Uruguay",
+        "pubdate": "Sun, 24 Nov 2024 20:00:00 -0300"
       }
     ],
     [
@@ -52,23 +52,9 @@
     ],
     [
       {
-        "title": "Final Copa Potrero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Final%20Copa%20Potrero",
-        "pubdate": "Sun, 24 Nov 2024 11:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Deportes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Deportes",
         "pubdate": "Sun, 24 Nov 2024 04:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Elecciones Uruguay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Elecciones%20Uruguay",
-        "pubdate": "Sun, 24 Nov 2024 20:00:00 -0300"
       }
     ],
     [
@@ -87,6 +73,20 @@
     ],
     [
       {
+        "title": "Albon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Albon",
+        "pubdate": "Sun, 24 Nov 2024 08:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Copa Potrero final",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Copa%20Potrero%20final",
+        "pubdate": "Sun, 24 Nov 2024 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Superliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Superliga",
         "pubdate": "Sun, 24 Nov 2024 01:00:00 -0300"
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Napoli  Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Napoli%20%20Roma",
-        "pubdate": "Sun, 24 Nov 2024 15:00:00 -0300"
+        "title": "Olimpia - Nacional",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Olimpia%20-%20Nacional",
+        "pubdate": "Sun, 24 Nov 2024 19:00:00 -0300"
       }
     ],
     [
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "Napoli  Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Napoli%20%20Roma",
+        "pubdate": "Sun, 24 Nov 2024 15:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Lanus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lanus",
+        "pubdate": "Sun, 24 Nov 2024 22:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Copa Argentina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Copa%20Argentina",
         "pubdate": "Sun, 24 Nov 2024 14:00:00 -0300"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Tuli Acosta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Tuli%20Acosta",
-        "pubdate": "Sun, 24 Nov 2024 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Sevilla - Rayo Vallecano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sevilla%20-%20Rayo%20Vallecano",
-        "pubdate": "Sun, 24 Nov 2024 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "La Joaqui",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#La%20Joaqui",
-        "pubdate": "Sun, 24 Nov 2024 16:00:00 -0300"
+        "title": "Las Vegas F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Las%20Vegas%20F1",
+        "pubdate": "Sun, 24 Nov 2024 10:00:00 -0300"
       }
     ]
   ]

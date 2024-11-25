@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-11-2024 , 01:47:21",
+  "lastUpdate": "25-11-2024 , 02:53:30",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
-        "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gif Sundsvall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gif%20Sundsvall",
         "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
@@ -34,6 +27,13 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
         "pubdate": "Sun, 24 Nov 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
+        "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
       }
     ],
     [
@@ -80,23 +80,9 @@
     ],
     [
       {
-        "title": "Simon Thern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Simon%20Thern",
-        "pubdate": "Sun, 24 Nov 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Carl Klingberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carl%20Klingberg",
         "pubdate": "Sun, 24 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Göran Skytte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#G%C3%B6ran%20Skytte",
-        "pubdate": "Sat, 23 Nov 2024 13:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
         "pubdate": "Sat, 23 Nov 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Anders Lundin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Anders%20Lundin",
+        "pubdate": "Sat, 23 Nov 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Edvin Anger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Edvin%20Anger",
+        "pubdate": "Sat, 23 Nov 2024 12:00:00 +0100"
       }
     ]
   ]
