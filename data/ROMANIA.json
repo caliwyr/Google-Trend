@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "25-11-2024 , 04:45:27",
+  "lastUpdate": "25-11-2024 , 04:54:49",
   "data": [
+    [
+      {
+        "title": "Stiri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stiri",
+        "pubdate": "Mon, 25 Nov 2024 06:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Republica",
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "TVR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#TVR",
+        "pubdate": "Mon, 25 Nov 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "FCSB - Unirea Slobozia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FCSB%20-%20Unirea%20Slobozia",
         "pubdate": "Sun, 24 Nov 2024 18:00:00 +0200"
@@ -59,6 +73,13 @@
     ],
     [
       {
+        "title": "George Simion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#George%20Simion",
+        "pubdate": "Sun, 24 Nov 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Petrolul - Dinamo București",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Petrolul%20-%20Dinamo%20Bucure%C8%99ti",
         "pubdate": "Sun, 24 Nov 2024 20:00:00 +0200"
@@ -69,13 +90,6 @@
         "title": "Leganés Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Legan%C3%A9s%20Real%20Madrid",
         "pubdate": "Sun, 24 Nov 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "George Simion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#George%20Simion",
-        "pubdate": "Sun, 24 Nov 2024 15:00:00 +0200"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Silviu Predoiu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Silviu%20Predoiu",
+        "title": "Klaus Iohannis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Klaus%20Iohannis",
         "pubdate": "Sun, 24 Nov 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Iohannis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iohannis",
-        "pubdate": "Sun, 24 Nov 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Realitatea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Realitatea",
-        "pubdate": "Sun, 24 Nov 2024 21:00:00 +0200"
       }
     ]
   ]
