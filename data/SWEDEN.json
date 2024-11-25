@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-11-2024 , 20:48:48",
+  "lastUpdate": "25-11-2024 , 20:58:07",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "Kristian Antila",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kristian%20Antila",
+        "pubdate": "Mon, 25 Nov 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kungen av Nostratien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kungen%20av%20Nostratien",
         "pubdate": "Mon, 25 Nov 2024 20:00:00 +0100"
       }
     ],
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Värnamo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4rnamo",
-        "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Stormen Bert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stormen%20Bert",
         "pubdate": "Sun, 24 Nov 2024 09:00:00 +0100"
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Värnamo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V%C3%A4rnamo",
+        "pubdate": "Sun, 24 Nov 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Man utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20utd",
         "pubdate": "Sun, 24 Nov 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Truls Möregårdh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Truls%20M%C3%B6reg%C3%A5rdh",
+        "pubdate": "Sun, 24 Nov 2024 19:00:00 +0100"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "IFK Värnamo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20V%C3%A4rnamo",
+        "pubdate": "Sun, 24 Nov 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Carl Klingberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Carl%20Klingberg",
         "pubdate": "Sun, 24 Nov 2024 21:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Ebba Andersson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20Andersson",
         "pubdate": "Sun, 24 Nov 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Från insidan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Fr%C3%A5n%20insidan",
-        "pubdate": "Sun, 24 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Göran Skytte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#G%C3%B6ran%20Skytte",
-        "pubdate": "Sat, 23 Nov 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#F1",
-        "pubdate": "Sat, 23 Nov 2024 10:00:00 +0100"
       }
     ]
   ]
