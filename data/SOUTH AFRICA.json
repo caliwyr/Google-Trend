@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-11-2024 , 18:52:00",
+  "lastUpdate": "25-11-2024 , 19:06:58",
   "data": [
     [
       {
@@ -31,6 +31,20 @@
     ],
     [
       {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle",
+        "pubdate": "Mon, 25 Nov 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al%20Nassr",
+        "pubdate": "Mon, 25 Nov 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Burnt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Burnt",
         "pubdate": "Mon, 25 Nov 2024 10:00:00 +0200"
@@ -48,6 +62,13 @@
         "title": "Poetry",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Poetry",
         "pubdate": "Mon, 25 Nov 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mandoza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mandoza",
+        "pubdate": "Mon, 25 Nov 2024 19:00:00 +0200"
       }
     ],
     [
@@ -73,23 +94,16 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Newcastle",
-        "pubdate": "Mon, 25 Nov 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Mandoza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Mandoza",
-        "pubdate": "Mon, 25 Nov 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Real Sociedad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Sociedad",
         "pubdate": "Mon, 25 Nov 2024 06:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Nick Frischke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nick%20Frischke",
+        "pubdate": "Mon, 25 Nov 2024 20:00:00 +0200"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Formula 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Formula%201",
-        "pubdate": "Sun, 24 Nov 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Breyten Breytenbach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Breyten%20Breytenbach",
         "pubdate": "Sun, 24 Nov 2024 18:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA%20Champions%20League",
         "pubdate": "Sun, 24 Nov 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Zimbabwe vs Pakistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zimbabwe%20vs%20Pakistan",
-        "pubdate": "Sun, 24 Nov 2024 11:00:00 +0200"
       }
     ]
   ]
