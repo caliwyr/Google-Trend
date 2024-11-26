@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2024 , 14:47:33",
+  "lastUpdate": "26-11-2024 , 14:56:50",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Helmond Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Helmond%20Sport",
+        "pubdate": "Tue, 26 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Stoute Pieten Bingo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Stoute%20Pieten%20Bingo",
         "pubdate": "Mon, 25 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Halina Reijn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Halina%20Reijn",
+        "pubdate": "Mon, 25 Nov 2024 20:00:00 +0100"
       }
     ],
     [
@@ -55,6 +69,13 @@
         "title": "Gisele Pelicot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gisele%20Pelicot",
         "pubdate": "Mon, 25 Nov 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jan van Setten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jan%20van%20Setten",
+        "pubdate": "Mon, 25 Nov 2024 19:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Eredivisie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eredivisie",
         "pubdate": "Fri, 22 Nov 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Davis Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Davis%20Cup",
-        "pubdate": "Fri, 22 Nov 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Verstappen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Verstappen",
-        "pubdate": "Fri, 22 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "F1 Las Vegas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#F1%20Las%20Vegas",
-        "pubdate": "Fri, 22 Nov 2024 09:00:00 +0100"
       }
     ]
   ]

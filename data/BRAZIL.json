@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-11-2024 , 14:47:27",
+  "lastUpdate": "26-11-2024 , 14:56:44",
   "data": [
+    [
+      {
+        "title": "Metro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Metro",
+        "pubdate": "Tue, 26 Nov 2024 08:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Warriors x Nets",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Metro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Metro",
-        "pubdate": "Tue, 26 Nov 2024 08:00:00 -0500"
+        "title": "Marcel Van Hattem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marcel%20Van%20Hattem",
+        "pubdate": "Tue, 26 Nov 2024 09:00:00 -0500"
       }
     ],
     [
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Champions%20League",
-        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Carrefour",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carrefour",
         "pubdate": "Mon, 25 Nov 2024 22:00:00 -0500"
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Champions%20League",
+        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "CNU resultado",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CNU%20resultado",
         "pubdate": "Mon, 25 Nov 2024 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Champions",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Champions",
+        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Tree",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tree",
         "pubdate": "Mon, 25 Nov 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Contracheque",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Contracheque",
-        "pubdate": "Mon, 25 Nov 2024 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Plural",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Plural",
-        "pubdate": "Mon, 25 Nov 2024 11:00:00 -0500"
       }
     ]
   ]
