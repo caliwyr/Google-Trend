@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2024 , 08:48:50",
+  "lastUpdate": "26-11-2024 , 08:58:05",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Maps",
+        "pubdate": "Mon, 25 Nov 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Banco nacion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Banco%20nacion",
         "pubdate": "Mon, 25 Nov 2024 11:00:00 -0300"
@@ -55,6 +62,13 @@
         "title": "Argentinos jrs.  Barracas Central",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Argentinos%20jrs.%20%20Barracas%20Central",
         "pubdate": "Mon, 25 Nov 2024 22:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Correo Argentino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Correo%20Argentino",
+        "pubdate": "Mon, 25 Nov 2024 12:00:00 -0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "LinkedIn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#LinkedIn",
         "pubdate": "Mon, 25 Nov 2024 18:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Black Friday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Black%20Friday",
-        "pubdate": "Mon, 25 Nov 2024 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Feriados 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Feriados%202025",
-        "pubdate": "Mon, 25 Nov 2024 13:00:00 -0300"
       }
     ]
   ]
