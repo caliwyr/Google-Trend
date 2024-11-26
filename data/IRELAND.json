@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-11-2024 , 13:45:14",
+  "lastUpdate": "26-11-2024 , 13:54:29",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "Weather warnings Ireland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Weather%20warnings%20Ireland",
+        "pubdate": "Mon, 25 Nov 2024 02:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Yang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Yang",
         "pubdate": "Mon, 25 Nov 2024 12:00:00 +0000"
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Jonbenet ramsey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jonbenet%20ramsey",
+        "title": "Jonbenet Ramsey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jonbenet%20Ramsey",
         "pubdate": "Mon, 25 Nov 2024 21:00:00 +0000"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "My Bloody Valentine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#My%20Bloody%20Valentine",
         "pubdate": "Mon, 25 Nov 2024 16:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Erin King",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Erin%20King",
-        "pubdate": "Mon, 25 Nov 2024 10:00:00 +0000"
       }
     ]
   ]
