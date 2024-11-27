@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-11-2024 , 10:39:57",
+  "lastUpdate": "27-11-2024 , 10:51:00",
   "data": [
     [
       {
@@ -33,13 +33,6 @@
       {
         "title": "DAZN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DAZN",
-        "pubdate": "Tue, 26 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
         "pubdate": "Tue, 26 Nov 2024 22:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "KSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#KSC",
         "pubdate": "Sat, 23 Nov 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Serie%20A",
+        "pubdate": "Fri, 22 Nov 2024 22:00:00 +0100"
       }
     ]
   ]
