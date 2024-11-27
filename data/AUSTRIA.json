@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "27-11-2024 , 01:56:51",
+  "lastUpdate": "27-11-2024 , 03:00:05",
   "data": [
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barcelona",
-        "pubdate": "Wed, 27 Nov 2024 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Leverkusen – RB Salzburg",
@@ -31,16 +24,16 @@
     ],
     [
       {
-        "title": "STS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#STS",
-        "pubdate": "Tue, 26 Nov 2024 16:00:00 +0100"
+        "title": "Man City – Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Man%20City%20%E2%80%93%20Feyenoord",
+        "pubdate": "Tue, 26 Nov 2024 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Man City – Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Man%20City%20%E2%80%93%20Feyenoord",
-        "pubdate": "Tue, 26 Nov 2024 22:00:00 +0100"
+        "title": "STS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#STS",
+        "pubdate": "Tue, 26 Nov 2024 16:00:00 +0100"
       }
     ],
     [
@@ -52,16 +45,23 @@
     ],
     [
       {
-        "title": "Red Bull Salzburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Red%20Bull%20Salzburg",
-        "pubdate": "Tue, 26 Nov 2024 22:00:00 +0100"
+        "title": "Fenster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenster",
+        "pubdate": "Tue, 26 Nov 2024 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Fenster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenster",
-        "pubdate": "Tue, 26 Nov 2024 17:00:00 +0100"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barcelona",
+        "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Austria Lustenau – Stripfing",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Austria%20Lustenau%20%E2%80%93%20Stripfing",
+        "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Barca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barca",
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal",
         "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
       }
     ]
