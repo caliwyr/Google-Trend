@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-11-2024 , 04:37:41",
+  "lastUpdate": "27-11-2024 , 04:50:49",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Chris Chan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chris%20Chan",
-        "pubdate": "Tue, 26 Nov 2024 02:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Angela Merkel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Angela%20Merkel",
         "pubdate": "Tue, 26 Nov 2024 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid",
         "pubdate": "Sun, 24 Nov 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Max Verstappen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Max%20Verstappen",
+        "pubdate": "Sun, 24 Nov 2024 17:00:00 +0200"
       }
     ]
   ]
