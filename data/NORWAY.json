@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2024 , 16:43:16",
+  "lastUpdate": "28-11-2024 , 16:55:40",
   "data": [
     [
       {
@@ -31,22 +31,8 @@
     ],
     [
       {
-        "title": "Elvia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elvia",
-        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "håndball-VM 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#h%C3%A5ndball-VM%202024",
-        "pubdate": "Thu, 28 Nov 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Elin Söderberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elin%20S%C3%B6derberg",
         "pubdate": "Thu, 28 Nov 2024 15:00:00 +0100"
       }
     ],
@@ -59,9 +45,16 @@
     ],
     [
       {
-        "title": "EM håndball 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#EM%20h%C3%A5ndball%202024",
-        "pubdate": "Thu, 28 Nov 2024 11:00:00 +0100"
+        "title": "Elin Söderberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elin%20S%C3%B6derberg",
+        "pubdate": "Thu, 28 Nov 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Elvia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Elvia",
+        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
       }
     ],
     [
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Håndball-EM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball-EM",
+        "title": "håndball-EM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#h%C3%A5ndball-EM",
         "pubdate": "Wed, 27 Nov 2024 23:00:00 +0100"
       }
     ],
@@ -138,6 +131,13 @@
       {
         "title": "Petter Olsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Olsen",
+        "pubdate": "Wed, 27 Nov 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Oskar Westerlin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Oskar%20Westerlin",
         "pubdate": "Wed, 27 Nov 2024 20:00:00 +0100"
       }
     ]
