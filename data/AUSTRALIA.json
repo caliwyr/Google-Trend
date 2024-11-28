@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2024 , 08:36:30",
+  "lastUpdate": "28-11-2024 , 08:51:29",
   "data": [
     [
       {
@@ -73,20 +73,6 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aston%20Villa",
-        "pubdate": "Thu, 28 Nov 2024 12:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Lfc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Lfc",
-        "pubdate": "Thu, 28 Nov 2024 12:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Beau Webster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Beau%20Webster",
         "pubdate": "Thu, 28 Nov 2024 17:00:00 +1100"
@@ -94,9 +80,16 @@
     ],
     [
       {
-        "title": "Dee Devlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Dee%20Devlin",
-        "pubdate": "Thu, 28 Nov 2024 01:00:00 +1100"
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Aston%20Villa",
+        "pubdate": "Thu, 28 Nov 2024 12:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Pakistan vs Zimbabwe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pakistan%20vs%20Zimbabwe",
+        "pubdate": "Thu, 28 Nov 2024 19:00:00 +1100"
       }
     ],
     [
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "CFMEU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#CFMEU",
-        "pubdate": "Thu, 28 Nov 2024 10:00:00 +1100"
+        "title": "Liverpool vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Liverpool%20vs%20Real%20Madrid",
+        "pubdate": "Wed, 27 Nov 2024 20:00:00 +1100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Phillip Hughes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Phillip%20Hughes",
         "pubdate": "Wed, 27 Nov 2024 11:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Spotify Wrapped 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Spotify%20Wrapped%202024",
+        "pubdate": "Wed, 27 Nov 2024 21:00:00 +1100"
       }
     ]
   ]
