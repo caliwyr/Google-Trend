@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "28-11-2024 , 11:58:40",
+  "lastUpdate": "28-11-2024 , 12:48:17",
   "data": [
     [
       {
         "title": "Thanksgiving",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Thanksgiving",
+        "pubdate": "Thu, 28 Nov 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marcus Signer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marcus%20Signer",
         "pubdate": "Thu, 28 Nov 2024 08:00:00 +0100"
       }
     ],
@@ -17,13 +24,6 @@
     ],
     [
       {
-        "title": "Marcus Signer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marcus%20Signer",
-        "pubdate": "Thu, 28 Nov 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Revier Saas-Fee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Revier%20Saas-Fee",
         "pubdate": "Thu, 28 Nov 2024 10:00:00 +0100"
@@ -31,9 +31,9 @@
     ],
     [
       {
-        "title": "Yvonne Woelke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yvonne%20Woelke",
-        "pubdate": "Thu, 28 Nov 2024 07:00:00 +0100"
+        "title": "Gerard Darmon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gerard%20Darmon",
+        "pubdate": "Thu, 28 Nov 2024 12:00:00 +0100"
       }
     ],
     [
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Gerard Darmon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gerard%20Darmon",
-        "pubdate": "Thu, 28 Nov 2024 12:00:00 +0100"
+        "title": "Yvonne Woelke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Yvonne%20Woelke",
+        "pubdate": "Thu, 28 Nov 2024 07:00:00 +0100"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aston%20Villa",
         "pubdate": "Wed, 27 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
-        "pubdate": "Wed, 27 Nov 2024 13:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelona",
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Spotify Wrapped",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Spotify%20Wrapped",
+        "pubdate": "Wed, 27 Nov 2024 20:00:00 +0100"
       }
     ]
   ]
