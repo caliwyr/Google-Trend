@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-11-2024 , 05:40:05",
+  "lastUpdate": "29-11-2024 , 05:49:24",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL",
-        "pubdate": "Thu, 28 Nov 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Catherine Zeta-Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Catherine%20Zeta-Jones",
         "pubdate": "Thu, 28 Nov 2024 23:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Spotify Wrapped 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Spotify%20Wrapped%202024",
         "pubdate": "Wed, 27 Nov 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
+        "pubdate": "Wed, 27 Nov 2024 21:00:00 +0100"
       }
     ]
   ]
