@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-11-2024 , 23:59:34",
+  "lastUpdate": "29-11-2024 , 01:56:39",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "BKK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BKK",
+        "pubdate": "Thu, 28 Nov 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Snoop Dogg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Snoop%20Dogg",
         "pubdate": "Thu, 28 Nov 2024 23:00:00 +0100"
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "BKK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BKK",
-        "pubdate": "Thu, 28 Nov 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Keira Knightley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Keira%20Knightley",
         "pubdate": "Thu, 28 Nov 2024 23:00:00 +0100"
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "Kormányinfó",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korm%C3%A1nyinf%C3%B3",
+        "title": "Gulyás Gergely",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Guly%C3%A1s%20Gergely",
         "pubdate": "Thu, 28 Nov 2024 12:00:00 +0100"
       }
     ],
@@ -94,8 +94,8 @@
     ],
     [
       {
-        "title": "El",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#El",
+        "title": "Női kézilabda Eb 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C5%91i%20k%C3%A9zilabda%20Eb%202024",
         "pubdate": "Thu, 28 Nov 2024 19:00:00 +0100"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Női kézilabda Eb 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#N%C5%91i%20k%C3%A9zilabda%20Eb%202024",
-        "pubdate": "Thu, 28 Nov 2024 19:00:00 +0100"
+        "title": "New York Kávéház",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#New%20York%20K%C3%A1v%C3%A9h%C3%A1z",
+        "pubdate": "Thu, 28 Nov 2024 09:00:00 +0100"
       }
     ]
   ]
