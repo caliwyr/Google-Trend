@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-11-2024 , 03:35:32",
+  "lastUpdate": "29-11-2024 , 03:53:11",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "General election",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#General%20election",
+        "pubdate": "Fri, 29 Nov 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Election Ireland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Election%20Ireland",
         "pubdate": "Fri, 29 Nov 2024 00:00:00 +0000"
       }
     ],
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Man United vs bodø/glimt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20United%20vs%20bod%C3%B8/glimt",
+        "title": "Man United vs Bodø/Glimt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20United%20vs%20Bod%C3%B8/Glimt",
         "pubdate": "Thu, 28 Nov 2024 18:00:00 +0000"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Ricky Gervais",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ricky%20Gervais",
         "pubdate": "Thu, 28 Nov 2024 18:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Happy thanksgiving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Happy%20thanksgiving",
-        "pubdate": "Thu, 28 Nov 2024 16:00:00 +0000"
       }
     ]
   ]
