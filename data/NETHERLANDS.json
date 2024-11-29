@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-11-2024 , 10:35:41",
+  "lastUpdate": "29-11-2024 , 10:48:14",
   "data": [
     [
       {
@@ -45,20 +45,6 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Manchester%20United",
-        "pubdate": "Thu, 28 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "BOOS Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BOOS%20Feyenoord",
-        "pubdate": "Thu, 28 Nov 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Besiktas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Besiktas",
         "pubdate": "Thu, 28 Nov 2024 20:00:00 +0100"
@@ -73,13 +59,6 @@
     ],
     [
       {
-        "title": "Staatssecretaris Maeijer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Staatssecretaris%20Maeijer",
-        "pubdate": "Thu, 28 Nov 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
         "pubdate": "Wed, 27 Nov 2024 10:00:00 +0100"
@@ -90,6 +69,13 @@
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Europa%20League",
         "pubdate": "Wed, 27 Nov 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "KNMI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNMI",
+        "pubdate": "Wed, 27 Nov 2024 13:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Morgan Freeman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Morgan%20Freeman",
         "pubdate": "Tue, 26 Nov 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Cambuur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
+        "pubdate": "Tue, 26 Nov 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Volendam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Volendam",
+        "pubdate": "Tue, 26 Nov 2024 14:00:00 +0100"
       }
     ]
   ]
