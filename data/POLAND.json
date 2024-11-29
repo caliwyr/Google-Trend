@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-11-2024 , 09:43:27",
+  "lastUpdate": "29-11-2024 , 09:52:45",
   "data": [
+    [
+      {
+        "title": "Sephora",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sephora",
+        "pubdate": "Fri, 29 Nov 2024 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Andrzejki",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Sephora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sephora",
-        "pubdate": "Fri, 29 Nov 2024 01:00:00 +0100"
+        "title": "Andrzejki 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzejki%202024",
+        "pubdate": "Fri, 29 Nov 2024 09:00:00 +0100"
       }
     ],
     [
@@ -94,23 +101,16 @@
     ],
     [
       {
-        "title": "Katarzyna Moś",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Katarzyna%20Mo%C5%9B",
-        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chopin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chopin",
-        "pubdate": "Thu, 28 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Imieniny Andrzeja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Imieniny%20Andrzeja",
         "pubdate": "Thu, 28 Nov 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Katarzyna Moś",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Katarzyna%20Mo%C5%9B",
+        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Thanksgiving",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Thanksgiving",
-        "pubdate": "Thu, 28 Nov 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Melatonina",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Melatonina",
         "pubdate": "Thu, 28 Nov 2024 17:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Polsat Box Go",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polsat%20Box%20Go",
-        "pubdate": "Thu, 28 Nov 2024 21:00:00 +0100"
+        "title": "Thanksgiving",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Thanksgiving",
+        "pubdate": "Thu, 28 Nov 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chopin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Chopin",
+        "pubdate": "Thu, 28 Nov 2024 22:00:00 +0100"
       }
     ]
   ]
