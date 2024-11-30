@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2024 , 11:46:43",
+  "lastUpdate": "30-11-2024 , 11:55:52",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Syria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Syria",
+        "title": "Bob Bryar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bob%20Bryar",
+        "pubdate": "Sat, 30 Nov 2024 09:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Aleppo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Aleppo",
         "pubdate": "Sat, 30 Nov 2024 05:00:00 +0000"
       }
     ],
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Bob Bryar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bob%20Bryar",
-        "pubdate": "Sat, 30 Nov 2024 09:00:00 +0000"
+        "title": "TUI flight aborted mid-air",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#TUI%20flight%20aborted%20mid-air",
+        "pubdate": "Sat, 30 Nov 2024 08:00:00 +0000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Hertz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Hertz",
         "pubdate": "Fri, 29 Nov 2024 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Les Battersby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Les%20Battersby",
-        "pubdate": "Fri, 29 Nov 2024 21:00:00 +0000"
       }
     ]
   ]
