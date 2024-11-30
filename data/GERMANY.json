@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2024 , 18:36:34",
+  "lastUpdate": "30-11-2024 , 18:48:05",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Dortmund – Bayern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20%E2%80%93%20Bayern",
+        "pubdate": "Fri, 29 Nov 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Borkum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borkum",
         "pubdate": "Fri, 29 Nov 2024 02:00:00 +0100"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Dortmund – Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20%E2%80%93%20Bayern",
-        "pubdate": "Fri, 29 Nov 2024 23:00:00 +0100"
+        "title": "Schalke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schalke",
+        "pubdate": "Fri, 29 Nov 2024 18:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Angela Merkel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Angela%20Merkel",
         "pubdate": "Tue, 26 Nov 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
-        "pubdate": "Tue, 26 Nov 2024 23:00:00 +0100"
       }
     ]
   ]
