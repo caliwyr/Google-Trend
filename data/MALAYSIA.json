@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2024 , 06:37:39",
+  "lastUpdate": "30-11-2024 , 06:50:10",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20Utd",
-        "pubdate": "Fri, 29 Nov 2024 07:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Syed Saddiq",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Syed%20Saddiq",
         "pubdate": "Fri, 29 Nov 2024 17:00:00 +0800"
@@ -80,9 +73,9 @@
     ],
     [
       {
-        "title": "UEFA Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#UEFA%20Europa%20League",
-        "pubdate": "Fri, 29 Nov 2024 00:00:00 +0800"
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Conference%20League",
+        "pubdate": "Fri, 29 Nov 2024 04:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "New Zealand vs England",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Zealand%20vs%20England",
         "pubdate": "Thu, 28 Nov 2024 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Thanksgiving 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Thanksgiving%202024",
+        "pubdate": "Thu, 28 Nov 2024 12:00:00 +0800"
       }
     ]
   ]
