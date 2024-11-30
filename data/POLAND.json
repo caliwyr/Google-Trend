@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-11-2024 , 05:43:08",
+  "lastUpdate": "30-11-2024 , 05:52:20",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Andrzejki 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Andrzejki%202024",
-        "pubdate": "Fri, 29 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sephora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sephora",
         "pubdate": "Fri, 29 Nov 2024 01:00:00 +0100"
@@ -45,8 +38,8 @@
     ],
     [
       {
-        "title": "Liga Konferencji Europy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liga%20Konferencji%20Europy",
+        "title": "Liga Konferencji europy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Liga%20Konferencji%20europy",
         "pubdate": "Fri, 29 Nov 2024 19:00:00 +0100"
       }
     ],
@@ -76,6 +69,13 @@
         "title": "Polska - Austria kobiety",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Polska%20-%20Austria%20kobiety",
         "pubdate": "Fri, 29 Nov 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gąska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#G%C4%85ska",
+        "pubdate": "Fri, 29 Nov 2024 18:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Gąska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#G%C4%85ska",
-        "pubdate": "Fri, 29 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Media Expert Black Friday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Media%20Expert%20Black%20Friday",
         "pubdate": "Fri, 29 Nov 2024 09:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Znicz Pruszków – Polonia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Znicz%20Pruszk%C3%B3w%20%E2%80%93%20Polonia",
         "pubdate": "Fri, 29 Nov 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ivan Lendl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ivan%20Lendl",
+        "pubdate": "Fri, 29 Nov 2024 16:00:00 +0100"
       }
     ]
   ]
