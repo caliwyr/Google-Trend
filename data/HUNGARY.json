@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2024 , 12:31:19",
+  "lastUpdate": "01-12-2024 , 13:01:47",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "December 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#December%201",
+        "pubdate": "Sun, 01 Dec 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "December",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#December",
         "pubdate": "Sun, 01 Dec 2024 10:00:00 +0100"
       }
     ],
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "F1 Katar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1%20Katar",
+        "pubdate": "Sat, 30 Nov 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Aleppo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Aleppo",
         "pubdate": "Sat, 30 Nov 2024 09:00:00 +0100"
@@ -94,8 +108,8 @@
     ],
     [
       {
-        "title": "F1 Katar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1%20Katar",
+        "title": "Liverpool - Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%20-%20Manchester%20City",
         "pubdate": "Sat, 30 Nov 2024 18:00:00 +0100"
       }
     ],
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Liverpool - Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool%20-%20Manchester%20City",
-        "pubdate": "Sat, 30 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bob Bryar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bob%20Bryar",
         "pubdate": "Sat, 30 Nov 2024 15:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Czakó Alexandra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Czak%C3%B3%20Alexandra",
         "pubdate": "Sat, 30 Nov 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tom%20Cruise",
-        "pubdate": "Sat, 30 Nov 2024 18:00:00 +0100"
       }
     ]
   ]
