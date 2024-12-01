@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2024 , 21:44:47",
+  "lastUpdate": "01-12-2024 , 21:53:59",
   "data": [
     [
       {
@@ -17,8 +17,22 @@
     ],
     [
       {
-        "title": "Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
+        "title": "Liverpool-Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool-Manchester%20City",
+        "pubdate": "Sun, 01 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Formule 1 Qatar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Formule%201%20Qatar",
+        "pubdate": "Sun, 01 Dec 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Sun, 01 Dec 2024 20:00:00 +0100"
       }
     ],
@@ -38,16 +52,16 @@
     ],
     [
       {
-        "title": "GP Qatar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#GP%20Qatar",
-        "pubdate": "Sun, 01 Dec 2024 10:00:00 +0100"
+        "title": "Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
+        "pubdate": "Sun, 01 Dec 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
-        "pubdate": "Sun, 01 Dec 2024 15:00:00 +0100"
+        "title": "Robert Doornbos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Robert%20Doornbos",
+        "pubdate": "Sun, 01 Dec 2024 21:00:00 +0100"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Liverpool",
-        "pubdate": "Sat, 30 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Eva Hermans-Kroot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eva%20Hermans-Kroot",
         "pubdate": "Sat, 30 Nov 2024 00:00:00 +0100"
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "PEC  Sparta Rotterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20%20Sparta%20Rotterdam",
-        "pubdate": "Sat, 30 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "NAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
         "pubdate": "Sat, 30 Nov 2024 15:00:00 +0100"
@@ -111,6 +111,13 @@
         "title": "NAC  Almere",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC%20%20Almere",
         "pubdate": "Sat, 30 Nov 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PEC Zwolle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PEC%20Zwolle",
+        "pubdate": "Sat, 30 Nov 2024 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Thu, 28 Nov 2024 20:00:00 +0100"
       }
     ]
   ]
