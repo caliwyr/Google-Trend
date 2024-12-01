@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-12-2024 , 09:39:07",
+  "lastUpdate": "01-12-2024 , 09:48:28",
   "data": [
+    [
+      {
+        "title": "Arouca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arouca",
+        "pubdate": "Sun, 01 Dec 2024 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Vasco",
@@ -33,13 +40,6 @@
       {
         "title": "Alverca  Vizela",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alverca%20%20Vizela",
-        "pubdate": "Sun, 01 Dec 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Arouca Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arouca%20Benfica",
         "pubdate": "Sun, 01 Dec 2024 00:00:00 +0000"
       }
     ],
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Victoria Guerra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Victoria%20Guerra",
-        "pubdate": "Sat, 30 Nov 2024 15:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Milan  Empoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan%20%20Empoli",
         "pubdate": "Sat, 30 Nov 2024 18:00:00 +0000"
@@ -139,6 +132,13 @@
         "title": "Al-Shabab  Al-Hilal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Al-Shabab%20%20Al-Hilal",
         "pubdate": "Sat, 30 Nov 2024 18:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Alepo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alepo",
+        "pubdate": "Sat, 30 Nov 2024 11:00:00 +0000"
       }
     ]
   ]
