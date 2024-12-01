@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-12-2024 , 05:44:00",
+  "lastUpdate": "01-12-2024 , 05:53:23",
   "data": [
+    [
+      {
+        "title": "Trouville",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trouville",
+        "pubdate": "Sun, 01 Dec 2024 04:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Charles Kushner",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Trouville",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Trouville",
-        "pubdate": "Sun, 01 Dec 2024 04:00:00 +0100"
+        "title": "Decathlon famille Mulliez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Decathlon%20famille%20Mulliez",
+        "pubdate": "Sun, 01 Dec 2024 06:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Soprano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Soprano",
         "pubdate": "Sat, 30 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "UBB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UBB",
-        "pubdate": "Sat, 30 Nov 2024 19:00:00 +0100"
       }
     ]
   ]

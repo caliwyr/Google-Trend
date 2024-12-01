@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2024 , 05:44:03",
+  "lastUpdate": "01-12-2024 , 05:53:27",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "West Ham vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#West%20Ham%20vs%20Arsenal",
         "pubdate": "Sun, 01 Dec 2024 09:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Advent calendar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Advent%20calendar",
+        "pubdate": "Sun, 01 Dec 2024 18:00:00 +1300"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Syria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Syria",
+        "pubdate": "Sun, 01 Dec 2024 18:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Auckland FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20FC",
         "pubdate": "Sat, 30 Nov 2024 17:00:00 +1300"
@@ -59,8 +73,8 @@
     ],
     [
       {
-        "title": "Dubai, Sevens 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dubai,%20Sevens%202024",
+        "title": "Dubai Sevens 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Dubai%20Sevens%202024",
         "pubdate": "Sat, 30 Nov 2024 22:00:00 +1300"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea",
         "pubdate": "Fri, 29 Nov 2024 09:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Auckland Airport security breach",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Auckland%20Airport%20security%20breach",
-        "pubdate": "Fri, 29 Nov 2024 18:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20utd",
-        "pubdate": "Fri, 29 Nov 2024 10:00:00 +1300"
       }
     ]
   ]
