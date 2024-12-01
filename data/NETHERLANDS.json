@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-12-2024 , 20:51:38",
+  "lastUpdate": "01-12-2024 , 21:06:45",
   "data": [
-    [
-      {
-        "title": "Utrecht  PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20%20PSV",
-        "pubdate": "Sun, 01 Dec 2024 12:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "NEC  Ajax",
@@ -17,8 +10,22 @@
     ],
     [
       {
+        "title": "Utrecht  PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht%20%20PSV",
+        "pubdate": "Sun, 01 Dec 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
+        "pubdate": "Sun, 01 Dec 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Edoardo Bove",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Edoardo%20Bove",
         "pubdate": "Sun, 01 Dec 2024 20:00:00 +0100"
       }
     ],
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Edoardo Bove",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Edoardo%20Bove",
-        "pubdate": "Sun, 01 Dec 2024 20:00:00 +0100"
+        "title": "Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
+        "pubdate": "Sun, 01 Dec 2024 15:00:00 +0100"
       }
     ],
     [
@@ -52,23 +59,9 @@
     ],
     [
       {
-        "title": "Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
-        "pubdate": "Sun, 01 Dec 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "December",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#December",
         "pubdate": "Sun, 01 Dec 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "De Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
-        "pubdate": "Sun, 01 Dec 2024 19:00:00 +0100"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Johnny Kraaijkamp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Johnny%20Kraaijkamp",
-        "pubdate": "Sat, 30 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Georgie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Georgie",
         "pubdate": "Sat, 30 Nov 2024 21:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Jeroen krabbe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jeroen%20krabbe",
         "pubdate": "Sat, 30 Nov 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Thu, 28 Nov 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
+        "pubdate": "Thu, 28 Nov 2024 20:00:00 +0100"
       }
     ]
   ]
