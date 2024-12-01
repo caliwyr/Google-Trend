@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2024 , 08:42:57",
+  "lastUpdate": "01-12-2024 , 08:52:17",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Globoplay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Globoplay",
+        "pubdate": "Sat, 30 Nov 2024 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Mundial de Clubes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mundial%20de%20Clubes",
         "pubdate": "Sat, 30 Nov 2024 18:00:00 -0500"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Alain Prost",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alain%20Prost",
-        "pubdate": "Sat, 30 Nov 2024 00:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Ciclone bomba",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ciclone%20bomba",
         "pubdate": "Sat, 30 Nov 2024 17:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "John Textor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#John%20Textor",
-        "pubdate": "Sat, 30 Nov 2024 18:00:00 -0500"
+        "title": "Alain Prost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alain%20Prost",
+        "pubdate": "Sat, 30 Nov 2024 00:00:00 -0500"
       }
     ]
   ]
