@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-12-2024 , 22:43:38",
+  "lastUpdate": "01-12-2024 , 22:52:51",
   "data": [
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus",
+        "pubdate": "Mon, 02 Dec 2024 01:00:00 +0300"
+      }
+    ],
     [
       {
         "title": "Man United vs Everton",
@@ -31,6 +38,13 @@
     ],
     [
       {
+        "title": "Chelsea FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
+        "pubdate": "Sun, 01 Dec 2024 19:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Arsenal f.c. standings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20f.c.%20standings",
         "pubdate": "Sun, 01 Dec 2024 20:00:00 +0300"
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Kash Patel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kash%20Patel",
-        "pubdate": "Sun, 01 Dec 2024 16:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "David Mayer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#David%20Mayer",
         "pubdate": "Sun, 01 Dec 2024 15:00:00 +0300"
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG",
-        "pubdate": "Sun, 01 Dec 2024 13:00:00 +0300"
+        "title": "Kash Patel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kash%20Patel",
+        "pubdate": "Sun, 01 Dec 2024 16:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Leicester%20City",
-        "pubdate": "Sun, 01 Dec 2024 16:00:00 +0300"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PSG",
+        "pubdate": "Sun, 01 Dec 2024 13:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Real Madrid vs Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid%20vs%20Getafe",
         "pubdate": "Sat, 30 Nov 2024 19:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Crystal Palace vs Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Crystal%20Palace%20vs%20Newcastle",
-        "pubdate": "Sat, 30 Nov 2024 06:00:00 +0300"
       }
     ]
   ]
