@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-12-2024 , 04:46:18",
+  "lastUpdate": "01-12-2024 , 04:55:36",
   "data": [
-    [
-      {
-        "title": "Maverick",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Maverick",
-        "pubdate": "Sun, 01 Dec 2024 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Ad Astra",
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Coop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Coop",
-        "pubdate": "Sat, 30 Nov 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Sophie Rain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sophie%20Rain",
         "pubdate": "Fri, 29 Nov 2024 16:00:00 +0200"
@@ -139,6 +125,20 @@
         "title": "Tottenham – Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Roma",
         "pubdate": "Fri, 29 Nov 2024 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manu – bodø/glimt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manu%20%E2%80%93%20bod%C3%B8/glimt",
+        "pubdate": "Thu, 28 Nov 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Thanksgiving 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Thanksgiving%202024",
+        "pubdate": "Thu, 28 Nov 2024 10:00:00 +0200"
       }
     ]
   ]
