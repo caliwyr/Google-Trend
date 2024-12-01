@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-12-2024 , 19:44:36",
+  "lastUpdate": "01-12-2024 , 19:54:12",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atletico%20Madrid",
+        "pubdate": "Sun, 01 Dec 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "December",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#December",
         "pubdate": "Sun, 01 Dec 2024 01:00:00 +0100"
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lazio",
+        "pubdate": "Sun, 01 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Saka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Saka",
         "pubdate": "Sun, 01 Dec 2024 17:00:00 +0100"
@@ -94,9 +108,23 @@
     ],
     [
       {
+        "title": "Chelsea f.c. standings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20f.c.%20standings",
+        "pubdate": "Sun, 01 Dec 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Advent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Advent",
         "pubdate": "Sun, 01 Dec 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Amad Diallo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Amad%20Diallo",
+        "pubdate": "Sun, 01 Dec 2024 19:00:00 +0100"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "Barcelona vs Las Palmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona%20vs%20Las%20Palmas",
         "pubdate": "Sat, 30 Nov 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20vs%20Man%20City",
-        "pubdate": "Sat, 30 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "West Ham vs Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#West%20Ham%20vs%20Arsenal",
-        "pubdate": "Sat, 30 Nov 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dortmund vs Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Dortmund%20vs%20Bayern",
-        "pubdate": "Sat, 30 Nov 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brentford vs Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Brentford%20vs%20Leicester%20City",
-        "pubdate": "Sat, 30 Nov 2024 16:00:00 +0100"
       }
     ]
   ]
