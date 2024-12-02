@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-12-2024 , 05:44:35",
+  "lastUpdate": "02-12-2024 , 05:54:03",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "KRC Genk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
+        "pubdate": "Sun, 01 Dec 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Antwerp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp",
         "pubdate": "Sun, 01 Dec 2024 18:00:00 +0100"
@@ -41,20 +48,6 @@
         "title": "Niels Arestrup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Niels%20Arestrup",
         "pubdate": "Sun, 01 Dec 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "KRC Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
-        "pubdate": "Sun, 01 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stvv  genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stvv%20%20genk",
-        "pubdate": "Sun, 01 Dec 2024 13:00:00 +0100"
       }
     ],
     [
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Chelsea – Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea%20%E2%80%93%20Aston%20Villa",
-        "pubdate": "Sun, 01 Dec 2024 15:00:00 +0100"
+        "title": "Marseille – Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marseille%20%E2%80%93%20Monaco",
+        "pubdate": "Sun, 01 Dec 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Marseille – Monaco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marseille%20%E2%80%93%20Monaco",
-        "pubdate": "Sun, 01 Dec 2024 21:00:00 +0100"
+        "title": "Chelsea – Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Chelsea%20%E2%80%93%20Aston%20Villa",
+        "pubdate": "Sun, 01 Dec 2024 15:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
         "pubdate": "Sun, 01 Dec 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Arsenal",
+        "pubdate": "Sun, 01 Dec 2024 18:00:00 +0100"
       }
     ]
   ]
