@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "02-12-2024 , 20:44:16",
+  "lastUpdate": "02-12-2024 , 20:53:24",
   "data": [
-    [
-      {
-        "title": "XRP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#XRP",
-        "pubdate": "Mon, 02 Dec 2024 11:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Al-Nassr vs Al-Sadd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Al-Nassr%20vs%20Al-Sadd",
         "pubdate": "Mon, 02 Dec 2024 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "XRP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#XRP",
+        "pubdate": "Mon, 02 Dec 2024 11:00:00 +0200"
       }
     ],
     [
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "Brics countries",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brics%20countries",
+        "title": "Roma vs Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Roma%20vs%20Atalanta",
+        "pubdate": "Mon, 02 Dec 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "BRICS countries",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#BRICS%20countries",
         "pubdate": "Mon, 02 Dec 2024 12:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Sporting CP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sporting%20CP",
         "pubdate": "Sun, 01 Dec 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
-        "pubdate": "Sun, 01 Dec 2024 18:00:00 +0200"
       }
     ]
   ]
