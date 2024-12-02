@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "02-12-2024 , 03:36:51",
+  "lastUpdate": "02-12-2024 , 03:55:17",
   "data": [
     [
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
         "pubdate": "Mon, 02 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Heidenheim – Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidenheim%20%E2%80%93%20Eintracht%20Frankfurt",
-        "pubdate": "Sun, 01 Dec 2024 17:00:00 +0100"
       }
     ],
     [
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Heidenheim – Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Heidenheim%20%E2%80%93%20Eintracht%20Frankfurt",
+        "pubdate": "Sun, 01 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
         "pubdate": "Sun, 01 Dec 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "1 Advent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1%20Advent",
+        "pubdate": "Sun, 01 Dec 2024 07:00:00 +0100"
       }
     ],
     [
@@ -52,20 +59,6 @@
     ],
     [
       {
-        "title": "1 Advent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1%20Advent",
-        "pubdate": "Sun, 01 Dec 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Shiffrin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Shiffrin",
-        "pubdate": "Sun, 01 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Lindner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
         "pubdate": "Sun, 01 Dec 2024 18:00:00 +0100"
@@ -73,16 +66,16 @@
     ],
     [
       {
-        "title": "Tatort: Schweigen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tatort:%20Schweigen",
-        "pubdate": "Sun, 01 Dec 2024 21:00:00 +0100"
+        "title": "Margot Robbie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Margot%20Robbie",
+        "pubdate": "Sun, 01 Dec 2024 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Margot Robbie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Margot%20Robbie",
-        "pubdate": "Sun, 01 Dec 2024 09:00:00 +0100"
+        "title": "Shiffrin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Shiffrin",
+        "pubdate": "Sun, 01 Dec 2024 07:00:00 +0100"
       }
     ],
     [
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "A1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#A1",
-        "pubdate": "Sat, 30 Nov 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Eintracht Braunschweig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Braunschweig",
         "pubdate": "Sat, 30 Nov 2024 15:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Borkum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borkum",
         "pubdate": "Fri, 29 Nov 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Aleppo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aleppo",
+        "pubdate": "Fri, 29 Nov 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lindner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
+        "pubdate": "Fri, 29 Nov 2024 15:00:00 +0100"
       }
     ]
   ]
