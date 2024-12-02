@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-12-2024 , 10:41:39",
+  "lastUpdate": "02-12-2024 , 10:52:03",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "1 de diciembre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#1%20de%20diciembre",
+        "pubdate": "Sun, 01 Dec 2024 11:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Utrecht  PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Utrecht%20%20PSV",
         "pubdate": "Sun, 01 Dec 2024 08:00:00 -0600"
@@ -132,13 +139,6 @@
         "title": "Dia del quimico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Dia%20del%20quimico",
         "pubdate": "Sun, 01 Dec 2024 10:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "GP Qatar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#GP%20Qatar",
-        "pubdate": "Sun, 01 Dec 2024 00:00:00 -0600"
       }
     ]
   ]
