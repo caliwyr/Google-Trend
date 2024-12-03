@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "03-12-2024 , 10:51:28",
+  "lastUpdate": "03-12-2024 , 11:07:02",
   "data": [
-    [
-      {
-        "title": "Telenet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Telenet",
-        "pubdate": "Tue, 03 Dec 2024 10:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Telenet storing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Telenet%20storing",
         "pubdate": "Tue, 03 Dec 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Telenet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Telenet",
+        "pubdate": "Tue, 03 Dec 2024 10:00:00 +0100"
       }
     ],
     [
@@ -54,13 +54,6 @@
       {
         "title": "Travel Tuesday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Travel%20Tuesday",
-        "pubdate": "Tue, 03 Dec 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bernard Quintin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bernard%20Quintin",
         "pubdate": "Tue, 03 Dec 2024 09:00:00 +0100"
       }
     ],
@@ -138,6 +131,13 @@
       {
         "title": "Kinderwoord van het Jaar 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kinderwoord%20van%20het%20Jaar%202024",
+        "pubdate": "Mon, 02 Dec 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Union Saint-Gilloise",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
         "pubdate": "Mon, 02 Dec 2024 18:00:00 +0100"
       }
     ]
