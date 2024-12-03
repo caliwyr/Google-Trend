@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "03-12-2024 , 11:44:35",
+  "lastUpdate": "03-12-2024 , 11:53:46",
   "data": [
     [
       {
         "title": "Polo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Polo",
+        "pubdate": "Tue, 03 Dec 2024 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Park Min Jae",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Park%20Min%20Jae",
         "pubdate": "Tue, 03 Dec 2024 00:00:00 -0500"
       }
     ],
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FA%20Cup",
-        "pubdate": "Tue, 03 Dec 2024 01:00:00 -0500"
+        "title": "Jerry Jeudy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jerry%20Jeudy",
+        "pubdate": "Tue, 03 Dec 2024 03:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Jerry Jeudy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jerry%20Jeudy",
-        "pubdate": "Tue, 03 Dec 2024 03:00:00 -0500"
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FA%20Cup",
+        "pubdate": "Tue, 03 Dec 2024 01:00:00 -0500"
       }
     ],
     [
@@ -66,23 +73,16 @@
     ],
     [
       {
-        "title": "Elton John",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elton%20John",
-        "pubdate": "Mon, 02 Dec 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "AC/DC TOUR DATES",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#AC/DC%20TOUR%20DATES",
-        "pubdate": "Mon, 02 Dec 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Broncos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Broncos",
         "pubdate": "Mon, 02 Dec 2024 21:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Elton John",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Elton%20John",
+        "pubdate": "Mon, 02 Dec 2024 08:00:00 -0500"
       }
     ],
     [
@@ -97,13 +97,6 @@
         "title": "Winnipeg Jets",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
         "pubdate": "Mon, 02 Dec 2024 04:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Browns vs Broncos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Browns%20vs%20Broncos",
-        "pubdate": "Mon, 02 Dec 2024 21:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Nosferatu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nosferatu",
         "pubdate": "Mon, 02 Dec 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vladimir Putin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vladimir%20Putin",
+        "pubdate": "Mon, 02 Dec 2024 14:00:00 -0500"
       }
     ]
   ]
