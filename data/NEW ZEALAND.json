@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-12-2024 , 06:45:32",
+  "lastUpdate": "03-12-2024 , 06:56:04",
   "data": [
     [
       {
@@ -62,6 +62,13 @@
         "title": "XRP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#XRP",
         "pubdate": "Mon, 02 Dec 2024 17:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Christmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Christmas",
+        "pubdate": "Mon, 02 Dec 2024 11:00:00 +1300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Apple Martin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Apple%20Martin",
         "pubdate": "Mon, 02 Dec 2024 20:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Fan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fan",
-        "pubdate": "Mon, 02 Dec 2024 19:00:00 +1300"
       }
     ]
   ]
