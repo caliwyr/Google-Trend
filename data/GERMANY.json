@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-12-2024 , 23:35:36",
+  "lastUpdate": "03-12-2024 , 23:44:53",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Bielefeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bielefeld",
+        "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
         "pubdate": "Mon, 02 Dec 2024 19:00:00 +0100"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "DFB-Frauen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Frauen",
-        "pubdate": "Mon, 02 Dec 2024 22:00:00 +0100"
+        "title": "Olaf Scholz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olaf%20Scholz",
+        "pubdate": "Mon, 02 Dec 2024 17:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "1. Advent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#1.%20Advent",
         "pubdate": "Fri, 29 Nov 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Borkum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Borkum",
-        "pubdate": "Fri, 29 Nov 2024 02:00:00 +0100"
       }
     ]
   ]
