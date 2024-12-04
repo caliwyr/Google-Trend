@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 17:34:35",
+  "lastUpdate": "04-12-2024 , 17:44:42",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Wrapped 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Wrapped%202024",
+        "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Eminem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Eminem",
         "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Donatella Versace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Donatella%20Versace",
-        "pubdate": "Wed, 04 Dec 2024 04:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Leicester%20City",
         "pubdate": "Wed, 04 Dec 2024 10:00:00 +0100"
@@ -73,9 +73,16 @@
     ],
     [
       {
-        "title": "Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liga",
-        "pubdate": "Wed, 04 Dec 2024 16:00:00 +0100"
+        "title": "Donatella Versace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Donatella%20Versace",
+        "pubdate": "Wed, 04 Dec 2024 04:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Coupe de Belgique",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20Belgique",
+        "pubdate": "Wed, 04 Dec 2024 03:00:00 +0100"
       }
     ],
     [
@@ -87,9 +94,9 @@
     ],
     [
       {
-        "title": "Coupe de Belgique",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Coupe%20de%20Belgique",
-        "pubdate": "Wed, 04 Dec 2024 03:00:00 +0100"
+        "title": "Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liga",
+        "pubdate": "Wed, 04 Dec 2024 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Patro Eisden  Club Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Patro%20Eisden%20%20Club%20Brugge",
         "pubdate": "Tue, 03 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tom Waes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tom%20Waes",
-        "pubdate": "Tue, 03 Dec 2024 20:00:00 +0100"
       }
     ]
   ]
