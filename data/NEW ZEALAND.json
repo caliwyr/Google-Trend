@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-12-2024 , 13:40:59",
+  "lastUpdate": "04-12-2024 , 13:50:29",
   "data": [
+    [
+      {
+        "title": "Spotify Wrapped",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Spotify%20Wrapped",
+        "pubdate": "Thu, 05 Dec 2024 02:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "Sophie Rain",
@@ -132,13 +139,6 @@
         "title": "Drake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Drake",
         "pubdate": "Tue, 03 Dec 2024 13:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Edie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Edie",
-        "pubdate": "Tue, 03 Dec 2024 09:00:00 +1300"
       }
     ]
   ]
