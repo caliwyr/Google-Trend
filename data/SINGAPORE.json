@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 15:43:53",
+  "lastUpdate": "04-12-2024 , 15:53:17",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Bayern Munich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
+        "pubdate": "Wed, 04 Dec 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "NTU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NTU",
         "pubdate": "Wed, 04 Dec 2024 11:00:00 +0800"
@@ -69,20 +76,6 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Barcelona",
         "pubdate": "Wed, 04 Dec 2024 04:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Asteroid hitting Earth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Asteroid%20hitting%20Earth",
-        "pubdate": "Wed, 04 Dec 2024 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Bayern%20Munich",
-        "pubdate": "Wed, 04 Dec 2024 08:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FA%20Cup",
         "pubdate": "Tue, 03 Dec 2024 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Elton John",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Elton%20John",
+        "pubdate": "Tue, 03 Dec 2024 12:00:00 +0800"
       }
     ]
   ]

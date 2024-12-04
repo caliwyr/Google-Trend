@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 15:43:45",
+  "lastUpdate": "04-12-2024 , 15:53:09",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Santa Barbara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Barbara",
         "pubdate": "Wed, 04 Dec 2024 05:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Embrapa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Embrapa",
+        "pubdate": "Wed, 04 Dec 2024 10:00:00 -0500"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Mega-Sena 2803",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202803",
+        "pubdate": "Tue, 03 Dec 2024 12:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Sport Club Corinthians Paulista",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport%20Club%20Corinthians%20Paulista",
         "pubdate": "Tue, 03 Dec 2024 20:00:00 -0500"
@@ -97,13 +111,6 @@
         "title": "Policial joga homem da ponte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Policial%20joga%20homem%20da%20ponte",
         "pubdate": "Tue, 03 Dec 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Mega-Sena 2803",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mega-Sena%202803",
-        "pubdate": "Tue, 03 Dec 2024 12:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Eduardo Tracanella Itaú",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eduardo%20Tracanella%20Ita%C3%BA",
         "pubdate": "Tue, 03 Dec 2024 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Canal Disney Channel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Canal%20Disney%20Channel",
-        "pubdate": "Tue, 03 Dec 2024 10:00:00 -0500"
       }
     ]
   ]
