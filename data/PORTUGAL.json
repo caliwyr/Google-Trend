@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 06:20:09",
+  "lastUpdate": "04-12-2024 , 06:44:21",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Globovac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Globovac",
-        "pubdate": "Tue, 03 Dec 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Portugal feminino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Portugal%20feminino",
         "pubdate": "Tue, 03 Dec 2024 19:00:00 +0000"
@@ -73,8 +66,15 @@
     ],
     [
       {
-        "title": "Bombeiros sapadores",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bombeiros%20sapadores",
+        "title": "Frio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Frio",
+        "pubdate": "Tue, 03 Dec 2024 08:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Bombeiros Sapadores",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bombeiros%20Sapadores",
         "pubdate": "Tue, 03 Dec 2024 15:00:00 +0000"
       }
     ],
