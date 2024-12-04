@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 10:39:12",
+  "lastUpdate": "04-12-2024 , 10:50:44",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Skeleton Crew",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Skeleton%20Crew",
+        "pubdate": "Tue, 03 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Northvolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Northvolt",
         "pubdate": "Tue, 03 Dec 2024 12:00:00 +0100"
@@ -61,14 +68,14 @@
       {
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Mon, 02 Dec 2024 19:00:00 +0100"
+        "pubdate": "Mon, 02 Dec 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Olaf Scholz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Olaf%20Scholz",
-        "pubdate": "Mon, 02 Dec 2024 17:00:00 +0100"
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Mon, 02 Dec 2024 19:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Fri, 29 Nov 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stuttgart",
-        "pubdate": "Thu, 28 Nov 2024 03:00:00 +0100"
       }
     ]
   ]

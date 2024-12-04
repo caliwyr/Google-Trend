@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-12-2024 , 10:39:10",
+  "lastUpdate": "04-12-2024 , 10:50:41",
   "data": [
+    [
+      {
+        "title": "Santa barbara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20barbara",
+        "pubdate": "Wed, 04 Dec 2024 05:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Corinthians x Bahia",
@@ -45,16 +52,23 @@
     ],
     [
       {
-        "title": "Leicester City x West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Leicester%20City%20x%20West%20Ham",
-        "pubdate": "Tue, 03 Dec 2024 15:00:00 -0500"
+        "title": "La Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#La%20Liga",
+        "pubdate": "Tue, 03 Dec 2024 20:00:00 -0500"
       }
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#La%20Liga",
-        "pubdate": "Tue, 03 Dec 2024 20:00:00 -0500"
+        "title": "Premio Multishow 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Premio%20Multishow%202024",
+        "pubdate": "Tue, 03 Dec 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#West%20Ham",
+        "pubdate": "Tue, 03 Dec 2024 16:00:00 -0500"
       }
     ],
     [
@@ -73,23 +87,16 @@
     ],
     [
       {
+        "title": "Memphis Depay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Memphis%20Depay",
+        "pubdate": "Tue, 03 Dec 2024 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Policial joga homem da ponte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Policial%20joga%20homem%20da%20ponte",
         "pubdate": "Tue, 03 Dec 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Flamengo ingressos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20ingressos",
-        "pubdate": "Tue, 03 Dec 2024 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Liniker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liniker",
-        "pubdate": "Tue, 03 Dec 2024 22:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "China",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#China",
         "pubdate": "Tue, 03 Dec 2024 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Eduardo Tracanella Itaú",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Eduardo%20Tracanella%20Ita%C3%BA",
-        "pubdate": "Tue, 03 Dec 2024 18:00:00 -0500"
       }
     ]
   ]
