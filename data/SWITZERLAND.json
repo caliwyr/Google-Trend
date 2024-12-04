@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-12-2024 , 22:45:39",
+  "lastUpdate": "04-12-2024 , 22:55:03",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Brian Thompson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brian%20Thompson",
-        "pubdate": "Wed, 04 Dec 2024 17:00:00 +0100"
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Premier%20League",
+        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
       }
     ],
     [
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "FC Basel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Basel",
-        "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
+        "title": "Brian Thompson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Brian%20Thompson",
+        "pubdate": "Wed, 04 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Schaffhausen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Schaffhausen",
+        "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
       }
     ],
     [
@@ -66,6 +73,27 @@
     ],
     [
       {
+        "title": "Newcastle – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Newcastle%20%E2%80%93%20Liverpool",
+        "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bâle – Sion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#B%C3%A2le%20%E2%80%93%20Sion",
+        "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Truman Capote",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Truman%20Capote",
+        "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Man City – Nottingham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City%20%E2%80%93%20Nottingham",
         "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
@@ -80,37 +108,9 @@
     ],
     [
       {
-        "title": "Truman Capote",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Truman%20Capote",
-        "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fcb",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fcb",
-        "pubdate": "Wed, 04 Dec 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Sion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Sion",
-        "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal – Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal%20%E2%80%93%20Manchester%20United",
-        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bâle – Sion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#B%C3%A2le%20%E2%80%93%20Sion",
-        "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
+        "title": "Koh-Lanta 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Koh-Lanta%202024",
+        "pubdate": "Wed, 04 Dec 2024 08:00:00 +0100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Gerhard Polt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gerhard%20Polt",
-        "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "OpenAI Zurich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OpenAI%20Zurich",
         "pubdate": "Wed, 04 Dec 2024 16:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Lykke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lykke",
-        "pubdate": "Wed, 04 Dec 2024 15:00:00 +0100"
+        "title": "Gerhard Polt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gerhard%20Polt",
+        "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chelsea",
+        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
       }
     ]
   ]
