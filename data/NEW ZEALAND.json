@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2024 , 16:50:18",
+  "lastUpdate": "05-12-2024 , 16:59:37",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Epl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epl",
         "pubdate": "Thu, 05 Dec 2024 14:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal%20vs%20Man%20United",
+        "pubdate": "Thu, 05 Dec 2024 09:00:00 +1300"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Arsenal vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal%20vs%20Man%20United",
-        "pubdate": "Thu, 05 Dec 2024 09:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Man City vs nottm Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City%20vs%20nottm%20Forest",
         "pubdate": "Thu, 05 Dec 2024 09:00:00 +1300"
@@ -87,20 +87,6 @@
     ],
     [
       {
-        "title": "Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20Utd",
-        "pubdate": "Thu, 05 Dec 2024 11:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Arsenal",
-        "pubdate": "Thu, 05 Dec 2024 12:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chelsea",
         "pubdate": "Thu, 05 Dec 2024 10:00:00 +1300"
@@ -111,6 +97,13 @@
         "title": "Oracle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Oracle",
         "pubdate": "Thu, 05 Dec 2024 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20Utd",
+        "pubdate": "Thu, 05 Dec 2024 11:00:00 +1300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Marsden Fund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Marsden%20Fund",
         "pubdate": "Thu, 05 Dec 2024 09:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Premier League standings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Premier%20League%20standings",
+        "pubdate": "Thu, 05 Dec 2024 15:00:00 +1300"
       }
     ]
   ]

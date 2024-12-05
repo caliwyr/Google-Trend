@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2024 , 16:50:12",
+  "lastUpdate": "05-12-2024 , 16:59:29",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Winter Storm Warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Winter%20Storm%20Warning",
-        "pubdate": "Wed, 04 Dec 2024 03:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Premier%20League",
         "pubdate": "Wed, 04 Dec 2024 14:00:00 -0800"
@@ -87,16 +80,16 @@
     ],
     [
       {
-        "title": "Atlas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Atlas",
-        "pubdate": "Wed, 04 Dec 2024 05:00:00 -0800"
+        "title": "Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Johnson",
+        "pubdate": "Wed, 04 Dec 2024 07:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Johnson",
-        "pubdate": "Wed, 04 Dec 2024 07:00:00 -0800"
+        "title": "Atlas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Atlas",
+        "pubdate": "Wed, 04 Dec 2024 05:00:00 -0800"
       }
     ],
     [
@@ -115,8 +108,8 @@
     ],
     [
       {
-        "title": "Rockefeller Tree Lighting",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rockefeller%20Tree%20Lighting",
+        "title": "Rockefeller tree lighting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rockefeller%20tree%20lighting",
         "pubdate": "Wed, 04 Dec 2024 15:00:00 -0800"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Man%20City",
         "pubdate": "Wed, 04 Dec 2024 19:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Echo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Echo",
+        "pubdate": "Wed, 04 Dec 2024 08:00:00 -0800"
       }
     ]
   ]
