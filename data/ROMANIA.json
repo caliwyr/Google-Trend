@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "05-12-2024 , 03:44:50",
+  "lastUpdate": "05-12-2024 , 03:56:43",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Chelsea",
+        "pubdate": "Thu, 05 Dec 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Sebastian Dobrincu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sebastian%20Dobrincu",
         "pubdate": "Thu, 05 Dec 2024 01:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Spotify Wrapped",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Spotify%20Wrapped",
-        "pubdate": "Wed, 04 Dec 2024 15:00:00 +0200"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Southampton - Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Southampton%20-%20Chelsea",
-        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ciolacu Lasconi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ciolacu%20Lasconi",
         "pubdate": "Wed, 04 Dec 2024 21:00:00 +0200"
@@ -90,13 +83,6 @@
         "title": "Jaf armat calarasi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jaf%20armat%20calarasi",
         "pubdate": "Wed, 04 Dec 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sfanta Varvara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfanta%20Varvara",
-        "pubdate": "Wed, 04 Dec 2024 15:00:00 +0200"
       }
     ],
     [
@@ -115,9 +101,9 @@
     ],
     [
       {
-        "title": "Mircea Badea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20Badea",
-        "pubdate": "Wed, 04 Dec 2024 10:00:00 +0200"
+        "title": "Sfanta Varvara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Sfanta%20Varvara",
+        "pubdate": "Wed, 04 Dec 2024 15:00:00 +0200"
       }
     ],
     [
@@ -125,6 +111,13 @@
         "title": "Newcastle–liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Newcastle%E2%80%93liverpool",
         "pubdate": "Wed, 04 Dec 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mircea Badea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mircea%20Badea",
+        "pubdate": "Wed, 04 Dec 2024 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Laponia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Laponia",
         "pubdate": "Wed, 04 Dec 2024 10:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Dinamo bucurești",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dinamo%20bucure%C8%99ti",
+        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0200"
       }
     ]
   ]
