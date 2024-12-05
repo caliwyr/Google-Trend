@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "05-12-2024 , 12:29:10",
+  "lastUpdate": "05-12-2024 , 13:05:06",
   "data": [
     [
       {
-        "title": "EPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#EPL",
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Premier%20League",
         "pubdate": "Thu, 05 Dec 2024 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Epl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Epl",
+        "pubdate": "Thu, 05 Dec 2024 06:00:00 +0800"
       }
     ],
     [
@@ -13,13 +20,6 @@
         "title": "Lazada 1212 Showdown",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lazada%201212%20Showdown",
         "pubdate": "Thu, 05 Dec 2024 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Premier%20League",
-        "pubdate": "Thu, 05 Dec 2024 05:00:00 +0800"
       }
     ],
     [
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Pushpa 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pushpa%202",
+        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Aston Villa vs Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Aston%20Villa%20vs%20Brentford",
         "pubdate": "Thu, 05 Dec 2024 06:00:00 +0800"
@@ -62,13 +69,6 @@
         "title": "MU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#MU",
         "pubdate": "Thu, 05 Dec 2024 06:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Pushpa 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pushpa%202",
-        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0800"
       }
     ],
     [
@@ -101,20 +101,6 @@
     ],
     [
       {
-        "title": "Pl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Pl",
-        "pubdate": "Thu, 05 Dec 2024 08:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Sophie Rain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sophie%20Rain",
-        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Intel CEO Pat Gelsinger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Intel%20CEO%20Pat%20Gelsinger",
         "pubdate": "Thu, 05 Dec 2024 11:00:00 +0800"
@@ -139,6 +125,20 @@
         "title": "Arsenal vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Arsenal%20vs%20Man%20United",
         "pubdate": "Wed, 04 Dec 2024 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Spotify Wrapped 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Spotify%20Wrapped%202024",
+        "pubdate": "Wed, 04 Dec 2024 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Athletic Club vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Athletic%20Club%20vs%20Real%20Madrid",
+        "pubdate": "Wed, 04 Dec 2024 14:00:00 +0800"
       }
     ]
   ]
