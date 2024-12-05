@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-12-2024 , 09:39:43",
+  "lastUpdate": "05-12-2024 , 09:48:57",
   "data": [
+    [
+      {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bitcoin",
+        "pubdate": "Thu, 05 Dec 2024 10:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Anora",
@@ -132,13 +139,6 @@
         "title": "Ørsted",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#%C3%98rsted",
         "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barry Keoghan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barry%20Keoghan",
-        "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
       }
     ]
   ]
