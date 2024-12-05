@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "05-12-2024 , 21:41:17",
+  "lastUpdate": "05-12-2024 , 21:50:39",
   "data": [
-    [
-      {
-        "title": "Lazio vs Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lazio%20vs%20Napoli",
-        "pubdate": "Fri, 06 Dec 2024 01:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Bournemouth vs Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bournemouth%20vs%20Tottenham",
         "pubdate": "Fri, 06 Dec 2024 03:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Lazio vs Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Lazio%20vs%20Napoli",
+        "pubdate": "Fri, 06 Dec 2024 01:00:00 +0700"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Realme C75",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Realme%20C75",
-        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#BTC",
         "pubdate": "Thu, 05 Dec 2024 12:00:00 +0700"
@@ -139,6 +132,13 @@
         "title": "AADI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#AADI",
         "pubdate": "Thu, 05 Dec 2024 12:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Everton",
+        "pubdate": "Thu, 05 Dec 2024 00:00:00 +0700"
       }
     ]
   ]
