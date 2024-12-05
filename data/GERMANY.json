@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "05-12-2024 , 15:40:05",
+  "lastUpdate": "05-12-2024 , 15:49:34",
   "data": [
     [
       {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bitcoin",
-        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0100"
+        "pubdate": "Thu, 05 Dec 2024 09:00:00 +0100"
       }
     ],
     [
@@ -13,6 +13,13 @@
         "title": "Wann ist Nikolaus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wann%20ist%20Nikolaus",
         "pubdate": "Thu, 05 Dec 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
       }
     ],
     [
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "Neuer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Neuer",
-        "pubdate": "Wed, 04 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sabrina Carpenter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Sabrina%20Carpenter",
         "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "DFB-Pokal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
-        "pubdate": "Tue, 03 Dec 2024 19:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Hertha BSC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Hertha%20BSC",
         "pubdate": "Fri, 29 Nov 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "D-Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#D-Day",
+        "pubdate": "Thu, 28 Nov 2024 20:00:00 +0100"
       }
     ]
   ]
