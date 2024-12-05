@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-12-2024 , 13:35:35",
+  "lastUpdate": "05-12-2024 , 13:47:50",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Intuit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Intuit",
         "pubdate": "Thu, 05 Dec 2024 08:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Pushpa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pushpa",
+        "pubdate": "Thu, 05 Dec 2024 12:00:00 +0000"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Pushpa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Pushpa",
-        "pubdate": "Thu, 05 Dec 2024 12:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Spotify Wrapped 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Spotify%20Wrapped%202024",
         "pubdate": "Wed, 04 Dec 2024 13:00:00 +0000"
@@ -59,23 +59,16 @@
     ],
     [
       {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League",
+        "pubdate": "Wed, 04 Dec 2024 19:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Arsenal",
         "pubdate": "Wed, 04 Dec 2024 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League",
-        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Newcastle%20vs%20Liverpool",
-        "pubdate": "Wed, 04 Dec 2024 19:00:00 +0000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Melvin Odoom",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Melvin%20Odoom",
         "pubdate": "Wed, 04 Dec 2024 19:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa vs Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Aston%20Villa%20vs%20Brentford",
+        "pubdate": "Wed, 04 Dec 2024 20:00:00 +0000"
       }
     ]
   ]

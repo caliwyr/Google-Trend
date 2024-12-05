@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "05-12-2024 , 13:35:28",
+  "lastUpdate": "05-12-2024 , 13:47:43",
   "data": [
     [
       {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bitcoin",
         "pubdate": "Thu, 05 Dec 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Epic Games",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Epic%20Games",
-        "pubdate": "Thu, 05 Dec 2024 00:00:00 +0100"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
-        "pubdate": "Thu, 05 Dec 2024 05:00:00 +0100"
+        "title": "Epic Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Epic%20Games",
+        "pubdate": "Thu, 05 Dec 2024 00:00:00 +0100"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Jack Veal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jack%20Veal",
         "pubdate": "Thu, 05 Dec 2024 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pajor András",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Pajor%20Andr%C3%A1s",
+        "pubdate": "Thu, 05 Dec 2024 14:00:00 +0100"
       }
     ],
     [
@@ -80,8 +80,22 @@
     ],
     [
       {
+        "title": "Polgár Árpád",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Polg%C3%A1r%20%C3%81rp%C3%A1d",
+        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Gryllus Dorka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Gryllus%20Dorka",
+        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal",
         "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Varga Judit Menczer Tamás",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Varga%20Judit%20Menczer%20Tam%C3%A1s",
         "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tisza Párt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tisza%20P%C3%A1rt",
-        "pubdate": "Wed, 04 Dec 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wolfsburg–Hoffenheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wolfsburg%E2%80%93Hoffenheim",
-        "pubdate": "Wed, 04 Dec 2024 18:00:00 +0100"
       }
     ]
   ]
