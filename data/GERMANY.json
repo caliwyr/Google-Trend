@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-12-2024 , 05:44:18",
+  "lastUpdate": "05-12-2024 , 05:53:36",
   "data": [
-    [
-      {
-        "title": "Spotify Wrapped",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Spotify%20Wrapped",
-        "pubdate": "Wed, 04 Dec 2024 10:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Köln – Hertha",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Frankreich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich",
-        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
+        "title": "Spotify Wrapped",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Spotify%20Wrapped",
+        "pubdate": "Wed, 04 Dec 2024 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Brian Thompson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Brian%20Thompson",
-        "pubdate": "Wed, 04 Dec 2024 17:00:00 +0100"
+        "title": "Frankreich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Frankreich",
+        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Aleppo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aleppo",
         "pubdate": "Fri, 29 Nov 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lindner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindner",
+        "pubdate": "Fri, 29 Nov 2024 15:00:00 +0100"
       }
     ]
   ]
