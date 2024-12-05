@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "05-12-2024 , 07:41:42",
+  "lastUpdate": "05-12-2024 , 07:51:04",
   "data": [
-    [
-      {
-        "title": "Liga Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liga%20Argentina",
-        "pubdate": "Thu, 05 Dec 2024 00:00:00 -0300"
-      }
-    ],
     [
       {
         "title": "Superliga",
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Primera División",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera%20Divisi%C3%B3n",
+        "pubdate": "Wed, 04 Dec 2024 23:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Aston Villa  Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Aston%20Villa%20%20Brentford",
         "pubdate": "Wed, 04 Dec 2024 18:00:00 -0300"
@@ -115,8 +115,8 @@
     ],
     [
       {
-        "title": "Vasco da Gama  Atlético Mineiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Vasco%20da%20Gama%20%20Atl%C3%A9tico%20Mineiro",
+        "title": "Vasco da Gama. Atlético Mineiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Vasco%20da%20Gama.%20Atl%C3%A9tico%20Mineiro",
         "pubdate": "Wed, 04 Dec 2024 19:00:00 -0300"
       }
     ],
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20United",
-        "pubdate": "Wed, 04 Dec 2024 18:00:00 -0300"
+        "title": "Premier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Premier",
+        "pubdate": "Wed, 04 Dec 2024 17:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Murió Guillermo Ferraro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Muri%C3%B3%20Guillermo%20Ferraro",
-        "pubdate": "Wed, 04 Dec 2024 21:00:00 -0300"
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Manchester%20United",
+        "pubdate": "Wed, 04 Dec 2024 18:00:00 -0300"
       }
     ]
   ]

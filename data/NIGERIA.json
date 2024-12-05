@@ -1,25 +1,11 @@
 {
-  "lastUpdate": "05-12-2024 , 07:41:50",
+  "lastUpdate": "05-12-2024 , 07:51:11",
   "data": [
     [
       {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tottenham",
         "pubdate": "Thu, 05 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20fixtures",
-        "pubdate": "Thu, 05 Dec 2024 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle%20vs%20Liverpool",
-        "pubdate": "Wed, 04 Dec 2024 16:00:00 +0100"
       }
     ],
     [
@@ -31,9 +17,16 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Arsenal",
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Premier%20League",
         "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle%20vs%20Liverpool",
+        "pubdate": "Wed, 04 Dec 2024 16:00:00 +0100"
       }
     ],
     [
@@ -48,13 +41,6 @@
         "title": "Man City vs nottm Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City%20vs%20nottm%20Forest",
         "pubdate": "Wed, 04 Dec 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Athletic Club vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Athletic%20Club%20vs%20Real%20Madrid",
-        "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Naira to dollar black market",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Naira%20to%20dollar%20black%20market",
         "pubdate": "Wed, 04 Dec 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eminem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Eminem",
+        "pubdate": "Wed, 04 Dec 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#DFB-Pokal",
+        "pubdate": "Wed, 04 Dec 2024 09:00:00 +0100"
       }
     ]
   ]
