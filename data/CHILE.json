@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "06-12-2024 , 02:42:11",
+  "lastUpdate": "06-12-2024 , 03:24:15",
   "data": [
     [
       {
         "title": "Union Española",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Union%20Espa%C3%B1ola",
         "pubdate": "Thu, 05 Dec 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Tiempo en Santiago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tiempo%20en%20Santiago",
-        "pubdate": "Thu, 05 Dec 2024 12:00:00 -0300"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "El tiempo Santiago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20tiempo%20Santiago",
+        "pubdate": "Thu, 05 Dec 2024 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Bournemouth - Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bournemouth%20-%20Tottenham",
         "pubdate": "Thu, 05 Dec 2024 18:00:00 -0300"
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Becas (Junaeb",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Becas%20(Junaeb",
+        "title": "Becas Junaeb",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Becas%20Junaeb",
         "pubdate": "Thu, 05 Dec 2024 15:00:00 -0300"
       }
     ],
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Liga Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liga%20Argentina",
-        "pubdate": "Thu, 05 Dec 2024 01:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Marvel Rivals",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Marvel%20Rivals",
         "pubdate": "Thu, 05 Dec 2024 16:00:00 -0300"
@@ -87,9 +80,30 @@
     ],
     [
       {
-        "title": "Fulham  Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fulham%20%20Brighton",
+        "title": "Liga Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liga%20Argentina",
+        "pubdate": "Thu, 05 Dec 2024 01:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Fulham-Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Fulham-Brighton",
         "pubdate": "Thu, 05 Dec 2024 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Premios MUSA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Premios%20MUSA",
+        "pubdate": "Thu, 05 Dec 2024 22:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Lazio  Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lazio%20%20Napoli",
+        "pubdate": "Thu, 05 Dec 2024 20:00:00 -0300"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Octavio Rivero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Octavio%20Rivero",
-        "pubdate": "Thu, 05 Dec 2024 13:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Once Caldas  América",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Once%20Caldas%20%20Am%C3%A9rica",
         "pubdate": "Thu, 05 Dec 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "PRIMERA DIVISIÓN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#PRIMERA%20DIVISI%C3%93N",
-        "pubdate": "Thu, 05 Dec 2024 07:00:00 -0300"
       }
     ]
   ]

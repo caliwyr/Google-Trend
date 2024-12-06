@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-12-2024 , 02:42:17",
+  "lastUpdate": "06-12-2024 , 03:24:21",
   "data": [
+    [
+      {
+        "title": "McDonald's",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#McDonald's",
+        "pubdate": "Fri, 06 Dec 2024 02:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Fígado",
@@ -20,6 +27,13 @@
         "title": "Black Doves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Black%20Doves",
         "pubdate": "Fri, 06 Dec 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "João Ricardo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jo%C3%A3o%20Ricardo",
+        "pubdate": "Fri, 06 Dec 2024 02:00:00 +0000"
       }
     ],
     [
@@ -52,6 +66,13 @@
     ],
     [
       {
+        "title": "InPost",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#InPost",
+        "pubdate": "Thu, 05 Dec 2024 02:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Manchester%20City",
         "pubdate": "Thu, 05 Dec 2024 08:00:00 +0000"
@@ -73,16 +94,16 @@
     ],
     [
       {
-        "title": "Fernando Madureira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Madureira",
-        "pubdate": "Thu, 05 Dec 2024 17:00:00 +0000"
+        "title": "Criciúma  Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Crici%C3%BAma%20%20Flamengo",
+        "pubdate": "Thu, 05 Dec 2024 00:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Criciúma  Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Crici%C3%BAma%20%20Flamengo",
-        "pubdate": "Thu, 05 Dec 2024 00:00:00 +0000"
+        "title": "Fernando Madureira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fernando%20Madureira",
+        "pubdate": "Thu, 05 Dec 2024 17:00:00 +0000"
       }
     ],
     [
@@ -117,27 +138,6 @@
       {
         "title": "Delta Force",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Delta%20Force",
-        "pubdate": "Thu, 05 Dec 2024 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "ETFs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#ETFs",
-        "pubdate": "Thu, 05 Dec 2024 10:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Infinity Nikki",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Infinity%20Nikki",
-        "pubdate": "Thu, 05 Dec 2024 14:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arsenal%20Manchester%20United",
         "pubdate": "Thu, 05 Dec 2024 10:00:00 +0000"
       }
     ]
