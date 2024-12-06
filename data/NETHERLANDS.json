@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-12-2024 , 06:43:36",
+  "lastUpdate": "06-12-2024 , 06:55:22",
   "data": [
+    [
+      {
+        "title": "Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
+        "pubdate": "Fri, 06 Dec 2024 07:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Bitcoin",
@@ -13,6 +20,13 @@
         "title": "Raisa Blommestijn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Raisa%20Blommestijn",
         "pubdate": "Thu, 05 Dec 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dionne Stax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dionne%20Stax",
+        "pubdate": "Thu, 05 Dec 2024 20:00:00 +0100"
       }
     ],
     [
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Joy Beune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Joy%20Beune",
-        "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Eredivisie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eredivisie",
         "pubdate": "Wed, 04 Dec 2024 21:00:00 +0100"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Bettina holwerda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bettina%20holwerda",
-        "pubdate": "Wed, 04 Dec 2024 23:00:00 +0100"
+        "title": "Langstudeerboete",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Langstudeerboete",
+        "pubdate": "Wed, 04 Dec 2024 20:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tom Waes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tom%20Waes",
         "pubdate": "Sat, 30 Nov 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eva Hermans-Kroot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eva%20Hermans-Kroot",
-        "pubdate": "Sat, 30 Nov 2024 00:00:00 +0100"
       }
     ]
   ]
