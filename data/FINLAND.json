@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2024 , 05:44:29",
+  "lastUpdate": "06-12-2024 , 05:53:44",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Premier%20League",
+        "pubdate": "Thu, 05 Dec 2024 04:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Paapa Essiedu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Paapa%20Essiedu",
         "pubdate": "Thu, 05 Dec 2024 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "CNN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
+        "pubdate": "Thu, 05 Dec 2024 23:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "NHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NHL",
         "pubdate": "Wed, 04 Dec 2024 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Premier%20League",
-        "pubdate": "Wed, 04 Dec 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Perplexity",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Perplexity",
-        "pubdate": "Wed, 04 Dec 2024 08:00:00 +0200"
       }
     ]
   ]

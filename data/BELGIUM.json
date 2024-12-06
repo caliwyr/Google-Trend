@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2024 , 05:44:27",
+  "lastUpdate": "06-12-2024 , 05:53:42",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "BTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BTC",
+        "pubdate": "Thu, 05 Dec 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ouigo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ouigo",
         "pubdate": "Thu, 05 Dec 2024 13:00:00 +0100"
@@ -101,16 +108,16 @@
     ],
     [
       {
-        "title": "Black Doves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Black%20Doves",
-        "pubdate": "Thu, 05 Dec 2024 19:00:00 +0100"
+        "title": "Blocage agriculteurs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Blocage%20agriculteurs",
+        "pubdate": "Thu, 05 Dec 2024 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Blocage agriculteurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Blocage%20agriculteurs",
-        "pubdate": "Thu, 05 Dec 2024 13:00:00 +0100"
+        "title": "Black Doves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Black%20Doves",
+        "pubdate": "Thu, 05 Dec 2024 19:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Johnny Hallyday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Johnny%20Hallyday",
         "pubdate": "Thu, 05 Dec 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Flakka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Flakka",
-        "pubdate": "Thu, 05 Dec 2024 00:00:00 +0100"
       }
     ]
   ]
