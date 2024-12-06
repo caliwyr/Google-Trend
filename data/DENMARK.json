@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-12-2024 , 21:39:09",
+  "lastUpdate": "06-12-2024 , 21:48:33",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Poe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Poe",
+        "pubdate": "Fri, 06 Dec 2024 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sinterklaas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sinterklaas",
         "pubdate": "Fri, 06 Dec 2024 11:00:00 +0100"
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "Poe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Poe",
-        "pubdate": "Fri, 06 Dec 2024 07:00:00 +0100"
+        "title": "Beetlejuice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Beetlejuice",
+        "pubdate": "Fri, 06 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Miho Nakayama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Miho%20Nakayama",
+        "pubdate": "Fri, 06 Dec 2024 17:00:00 +0100"
       }
     ],
     [
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Kevin Magnussen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kevin%20Magnussen",
-        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0100"
+        "title": "Black Doves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Black%20Doves",
+        "pubdate": "Thu, 05 Dec 2024 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Black Doves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Black%20Doves",
-        "pubdate": "Thu, 05 Dec 2024 19:00:00 +0100"
+        "title": "Kevin Magnussen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kevin%20Magnussen",
+        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0100"
       }
     ],
     [
@@ -83,13 +97,6 @@
         "title": "Anora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Anora",
         "pubdate": "Thu, 05 Dec 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bournemouth  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bournemouth%20%20Tottenham",
-        "pubdate": "Thu, 05 Dec 2024 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Delta Force",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Delta%20Force",
         "pubdate": "Thu, 05 Dec 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Spotify Wrapped 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Spotify%20Wrapped%202024",
-        "pubdate": "Wed, 04 Dec 2024 14:00:00 +0100"
       }
     ]
   ]
