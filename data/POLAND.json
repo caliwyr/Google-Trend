@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-12-2024 , 02:14:40",
+  "lastUpdate": "07-12-2024 , 03:09:36",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Zielona mila",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Zielona%20mila",
         "pubdate": "Fri, 06 Dec 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mikołaj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Miko%C5%82aj",
+        "pubdate": "Fri, 06 Dec 2024 06:00:00 +0100"
       }
     ],
     [
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "FAME MMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FAME%20MMA",
+        "title": "Fame MMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Fame%20MMA",
         "pubdate": "Fri, 06 Dec 2024 20:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Losowanie Pucharu Polski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Losowanie%20Pucharu%20Polski",
         "pubdate": "Fri, 06 Dec 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "TVN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#TVN",
-        "pubdate": "Fri, 06 Dec 2024 11:00:00 +0100"
       }
     ]
   ]
