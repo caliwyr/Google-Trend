@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-12-2024 , 00:38:07",
+  "lastUpdate": "07-12-2024 , 02:14:38",
   "data": [
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AC%20Milan",
-        "pubdate": "Sat, 07 Dec 2024 00:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "PSG",
@@ -20,6 +13,13 @@
         "title": "AZ Alkmaar vs Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AZ%20Alkmaar%20vs%20Ajax",
         "pubdate": "Sat, 07 Dec 2024 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "JKUAT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#JKUAT",
+        "pubdate": "Sat, 07 Dec 2024 03:00:00 +0300"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Al-Ittihad vs Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Al-Ittihad%20vs%20Al-Nassr",
-        "pubdate": "Fri, 06 Dec 2024 15:00:00 +0300"
+        "title": "Atalanta vs Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Atalanta%20vs%20Milan",
+        "pubdate": "Fri, 06 Dec 2024 16:00:00 +0300"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Al Ittihad vs Al Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Al%20Ittihad%20vs%20Al%20Nassr",
+        "pubdate": "Fri, 06 Dec 2024 15:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20Milan",
         "pubdate": "Fri, 06 Dec 2024 22:00:00 +0300"
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Fulham vs Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fulham%20vs%20Brighton",
-        "pubdate": "Thu, 05 Dec 2024 12:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Premier League standings",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Premier%20League%20standings",
         "pubdate": "Thu, 05 Dec 2024 01:00:00 +0300"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "FPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FPL",
-        "pubdate": "Thu, 05 Dec 2024 21:00:00 +0300"
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bitcoin",
+        "pubdate": "Thu, 05 Dec 2024 15:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Live",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Live",
-        "pubdate": "Thu, 05 Dec 2024 01:00:00 +0300"
+        "title": "FPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FPL",
+        "pubdate": "Thu, 05 Dec 2024 21:00:00 +0300"
       }
     ]
   ]

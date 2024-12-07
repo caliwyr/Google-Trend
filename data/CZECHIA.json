@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "07-12-2024 , 00:38:04",
+  "lastUpdate": "07-12-2024 , 02:14:34",
   "data": [
     [
       {
         "title": "Emma Dumont",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emma%20Dumont",
+        "pubdate": "Sat, 07 Dec 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Auxerre – PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Auxerre%20%E2%80%93%20PSG",
         "pubdate": "Sat, 07 Dec 2024 00:00:00 +0100"
       }
     ],
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Richard Genzer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Richard%20Genzer",
-        "pubdate": "Fri, 06 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Keira Knightley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Keira%20Knightley",
         "pubdate": "Fri, 06 Dec 2024 18:00:00 +0100"
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Richard Genzer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Richard%20Genzer",
+        "pubdate": "Fri, 06 Dec 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Elektra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Elektra",
         "pubdate": "Fri, 06 Dec 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Airbus A380 v Praze",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Airbus%20A380%20v%20Praze",
+        "pubdate": "Fri, 06 Dec 2024 00:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bitcoin",
         "pubdate": "Thu, 05 Dec 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Plzeň – Teplice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plze%C5%88%20%E2%80%93%20Teplice",
-        "pubdate": "Thu, 05 Dec 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Krampus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Krampus",
-        "pubdate": "Thu, 05 Dec 2024 11:00:00 +0100"
       }
     ]
   ]
