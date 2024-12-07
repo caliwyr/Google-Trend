@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-12-2024 , 14:44:55",
+  "lastUpdate": "07-12-2024 , 14:54:11",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool",
         "pubdate": "Sat, 07 Dec 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20FC",
+        "pubdate": "Sat, 07 Dec 2024 14:00:00 +0100"
       }
     ],
     [
@@ -31,16 +38,9 @@
     ],
     [
       {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20FC",
+        "title": "Crystal Palace vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Crystal%20Palace%20vs%20Man%20City",
         "pubdate": "Sat, 07 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Al-Nassr vs Al-Ittihad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al-Nassr%20vs%20Al-Ittihad",
-        "pubdate": "Sat, 07 Dec 2024 08:00:00 +0100"
       }
     ],
     [
@@ -59,9 +59,16 @@
     ],
     [
       {
-        "title": "Crystal Palace vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Crystal%20Palace%20vs%20Man%20City",
+        "title": "Atlanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atlanta",
         "pubdate": "Sat, 07 Dec 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Storm Darragh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Storm%20Darragh",
+        "pubdate": "Sat, 07 Dec 2024 15:00:00 +0100"
       }
     ],
     [
@@ -69,6 +76,13 @@
         "title": "Muyideen Bello",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Muyideen%20Bello",
         "pubdate": "Fri, 06 Dec 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Al-Ittihad vs Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Al-Ittihad%20vs%20Al-Nassr",
+        "pubdate": "Fri, 06 Dec 2024 18:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Funds",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Funds",
         "pubdate": "Fri, 06 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Sociedad",
-        "pubdate": "Fri, 06 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jonathan Tah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jonathan%20Tah",
-        "pubdate": "Fri, 06 Dec 2024 12:00:00 +0100"
       }
     ]
   ]
