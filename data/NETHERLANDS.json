@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-12-2024 , 04:38:56",
+  "lastUpdate": "08-12-2024 , 04:50:01",
   "data": [
+    [
+      {
+        "title": "Damascus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Damascus",
+        "pubdate": "Sun, 08 Dec 2024 04:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Tarwekamp Den Haag",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "RKC-Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC-Feyenoord",
+        "title": "RKC  Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC%20%20Feyenoord",
         "pubdate": "Sat, 07 Dec 2024 20:00:00 +0100"
       }
     ],
@@ -41,6 +48,13 @@
         "title": "Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
         "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Sat, 07 Dec 2024 06:00:00 +0100"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Assad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Assad",
-        "pubdate": "Fri, 06 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ajax Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Utrecht",
         "pubdate": "Wed, 04 Dec 2024 02:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Dieuwertje Blok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dieuwertje%20Blok",
         "pubdate": "Tue, 03 Dec 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nederland - Verenigde Staten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nederland%20-%20Verenigde%20Staten",
-        "pubdate": "Tue, 03 Dec 2024 21:00:00 +0100"
       }
     ]
   ]
