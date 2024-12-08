@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2024 , 16:46:34",
+  "lastUpdate": "08-12-2024 , 16:56:01",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
-        "pubdate": "Sun, 08 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Magyar Hang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyar%20Hang",
         "pubdate": "Sun, 08 Dec 2024 13:00:00 +0100"
@@ -48,20 +41,6 @@
         "title": "Advent második vasárnapja",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Advent%20m%C3%A1sodik%20vas%C3%A1rnapja",
         "pubdate": "Sun, 08 Dec 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sárközi Roland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#S%C3%A1rk%C3%B6zi%20Roland",
-        "pubdate": "Sun, 08 Dec 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fiorentina–Cagliari",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Fiorentina%E2%80%93Cagliari",
-        "pubdate": "Sun, 08 Dec 2024 13:00:00 +0100"
       }
     ],
     [
@@ -94,9 +73,23 @@
     ],
     [
       {
+        "title": "Borenich Péter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Borenich%20P%C3%A9ter",
+        "pubdate": "Sun, 08 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Clint Eastwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Clint%20Eastwood",
         "pubdate": "Sun, 08 Dec 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wolfsburg–Mainz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Wolfsburg%E2%80%93Mainz",
+        "pubdate": "Sun, 08 Dec 2024 17:00:00 +0100"
       }
     ],
     [
@@ -136,8 +129,15 @@
     ],
     [
       {
-        "title": "AbuDhabi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AbuDhabi",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
+        "pubdate": "Sat, 07 Dec 2024 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Abu Dhabi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Abu%20Dhabi",
         "pubdate": "Sat, 07 Dec 2024 16:00:00 +0100"
       }
     ]
