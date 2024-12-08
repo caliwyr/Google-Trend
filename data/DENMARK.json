@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2024 , 06:45:18",
+  "lastUpdate": "08-12-2024 , 06:54:34",
   "data": [
     [
       {
@@ -17,30 +17,16 @@
     ],
     [
       {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
+        "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
         "pubdate": "Sat, 07 Dec 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
-        "pubdate": "Sat, 07 Dec 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "John Travolta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Travolta",
-        "pubdate": "Sat, 07 Dec 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Girona Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Girona%20Real%20Madrid",
-        "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
       }
     ],
     [
@@ -52,9 +38,16 @@
     ],
     [
       {
-        "title": "Crystal Palace  man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Crystal%20Palace%20%20man%20City",
+        "title": "Crystal Palace  Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Crystal%20Palace%20%20Man%20City",
         "pubdate": "Sat, 07 Dec 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "John Travolta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Travolta",
+        "pubdate": "Sat, 07 Dec 2024 22:00:00 +0100"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Betis  Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Betis%20%20Barcelona",
         "pubdate": "Sat, 07 Dec 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Faceoff 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Faceoff%202024",
+        "pubdate": "Sat, 07 Dec 2024 12:00:00 +0100"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Faceoff 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Faceoff%202024",
-        "pubdate": "Sat, 07 Dec 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Iron Maiden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iron%20Maiden",
         "pubdate": "Sat, 07 Dec 2024 22:00:00 +0100"
@@ -108,9 +101,9 @@
     ],
     [
       {
-        "title": "Faceoff",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Faceoff",
-        "pubdate": "Sat, 07 Dec 2024 14:00:00 +0100"
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City",
+        "pubdate": "Sat, 07 Dec 2024 18:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool%20FC",
         "pubdate": "Sat, 07 Dec 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Path of Exile 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Path%20of%20Exile%202",
+        "pubdate": "Fri, 06 Dec 2024 02:00:00 +0100"
       }
     ]
   ]
