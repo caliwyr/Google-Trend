@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2024 , 05:47:25",
+  "lastUpdate": "08-12-2024 , 05:56:43",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Emmanuel moire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Emmanuel%20moire",
-        "pubdate": "Sun, 08 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Camille Lellouche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Camille%20Lellouche",
         "pubdate": "Sun, 08 Dec 2024 01:00:00 +0100"
@@ -34,6 +27,13 @@
         "title": "Mariah Carey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mariah%20Carey",
         "pubdate": "Sun, 08 Dec 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bashar al assad",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bashar%20al%20assad",
+        "pubdate": "Sun, 08 Dec 2024 06:00:00 +0100"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UFC",
         "pubdate": "Sat, 07 Dec 2024 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Twitch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Twitch",
+        "pubdate": "Sat, 07 Dec 2024 20:00:00 +0100"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "DTR Fight",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#DTR%20Fight",
-        "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "KRC Genk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KRC%20Genk",
         "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
       }
     ]

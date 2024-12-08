@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-12-2024 , 05:47:33",
+  "lastUpdate": "08-12-2024 , 05:56:51",
   "data": [
-    [
-      {
-        "title": "UFC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC",
-        "pubdate": "Sat, 07 Dec 2024 15:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Margaux Flavet",
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "Notre Dame",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Notre%20Dame",
+        "title": "UFC 310",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#UFC%20310",
+        "pubdate": "Sat, 07 Dec 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Notre-Dame",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Notre-Dame",
         "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
       }
     ],
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Beck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Beck",
-        "pubdate": "Fri, 06 Dec 2024 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Finlands självständighetsdag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Finlands%20sj%C3%A4lvst%C3%A4ndighetsdag",
         "pubdate": "Fri, 06 Dec 2024 08:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Indiana Jones and the great circle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Indiana%20Jones%20and%20the%20great%20circle",
         "pubdate": "Fri, 06 Dec 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AMF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AMF",
+        "pubdate": "Fri, 06 Dec 2024 12:00:00 +0100"
       }
     ]
   ]
