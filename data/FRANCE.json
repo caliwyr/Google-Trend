@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "08-12-2024 , 11:43:47",
+  "lastUpdate": "08-12-2024 , 11:53:13",
   "data": [
     [
       {
         "title": "OL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OL",
         "pubdate": "Sun, 08 Dec 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Emmanuel moire",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Emmanuel%20moire",
-        "pubdate": "Sun, 08 Dec 2024 00:00:00 +0100"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "F2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#F2",
+        "pubdate": "Sun, 08 Dec 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Viollet-le-Duc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Viollet-le-Duc",
         "pubdate": "Sun, 08 Dec 2024 00:00:00 +0100"
@@ -52,9 +52,9 @@
     ],
     [
       {
-        "title": "Notre-Dame de Paris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Notre-Dame%20de%20Paris",
-        "pubdate": "Sat, 07 Dec 2024 10:00:00 +0100"
+        "title": "Orgue",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Orgue",
+        "pubdate": "Sun, 08 Dec 2024 12:00:00 +0100"
       }
     ],
     [
@@ -62,6 +62,13 @@
         "title": "Girona – Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Girona%20%E2%80%93%20Real%20Madrid",
         "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DTR Fight",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#DTR%20Fight",
+        "pubdate": "Sat, 07 Dec 2024 04:00:00 +0100"
       }
     ],
     [
@@ -80,20 +87,6 @@
     ],
     [
       {
-        "title": "DTR Fight",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#DTR%20Fight",
-        "pubdate": "Sat, 07 Dec 2024 04:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elon%20Musk",
-        "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Salma Hayek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Salma%20Hayek",
         "pubdate": "Sat, 07 Dec 2024 19:00:00 +0100"
@@ -101,15 +94,15 @@
     ],
     [
       {
-        "title": "New York",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#New%20York",
-        "pubdate": "Sat, 07 Dec 2024 09:00:00 +0100"
+        "title": "Paris FC – PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris%20FC%20%E2%80%93%20PSG",
+        "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Paris FC – PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Paris%20FC%20%E2%80%93%20PSG",
+        "title": "Castelbajac",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Castelbajac",
         "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
       }
     ],
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Liverpool",
-        "pubdate": "Sat, 07 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jean-Charles de Castelbajac",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Charles%20de%20Castelbajac",
         "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Amir",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Amir",
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Manchester%20City",
+        "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Camille Lellouche",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Camille%20Lellouche",
         "pubdate": "Sat, 07 Dec 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Météo neige",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#M%C3%A9t%C3%A9o%20neige",
+        "pubdate": "Sat, 07 Dec 2024 02:00:00 +0100"
       }
     ]
   ]
