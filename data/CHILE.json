@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-12-2024 , 08:41:26",
+  "lastUpdate": "08-12-2024 , 08:51:04",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis",
-        "pubdate": "Sat, 07 Dec 2024 15:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Brentford - Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brentford%20-%20Newcastle",
         "pubdate": "Sat, 07 Dec 2024 14:00:00 -0300"
@@ -139,6 +132,13 @@
         "title": "TNT Sports",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TNT%20Sports",
         "pubdate": "Sat, 07 Dec 2024 20:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "UD Las Palmas  Valladolid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UD%20Las%20Palmas%20%20Valladolid",
+        "pubdate": "Sat, 07 Dec 2024 12:00:00 -0300"
       }
     ]
   ]
