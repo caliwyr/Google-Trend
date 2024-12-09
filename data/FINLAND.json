@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-12-2024 , 18:42:40",
+  "lastUpdate": "09-12-2024 , 18:53:56",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Juan Soto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Juan%20Soto",
         "pubdate": "Mon, 09 Dec 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Polio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Polio",
+        "pubdate": "Mon, 09 Dec 2024 20:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Everton – Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Everton%20%E2%80%93%20Liverpool",
         "pubdate": "Sat, 07 Dec 2024 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Notre Dame",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Notre%20Dame",
-        "pubdate": "Sat, 07 Dec 2024 20:00:00 +0200"
       }
     ]
   ]
