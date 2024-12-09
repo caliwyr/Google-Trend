@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-12-2024 , 04:43:51",
+  "lastUpdate": "09-12-2024 , 04:53:38",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "John Travolta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Travolta",
-        "pubdate": "Sat, 07 Dec 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Girona Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Girona%20Real%20Madrid",
         "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Brentford  Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brentford%20%20Newcastle",
         "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Iron Maiden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iron%20Maiden",
+        "pubdate": "Sat, 07 Dec 2024 22:00:00 +0100"
       }
     ]
   ]
