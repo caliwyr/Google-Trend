@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-12-2024 , 23:59:16",
+  "lastUpdate": "09-12-2024 , 02:02:05",
   "data": [
+    [
+      {
+        "title": "Robyn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robyn",
+        "pubdate": "Sun, 08 Dec 2024 21:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Tottenham  Chelsea",
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
-        "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
         "pubdate": "Sat, 07 Dec 2024 09:00:00 +0100"
@@ -94,9 +94,23 @@
     ],
     [
       {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
+        "pubdate": "Sat, 07 Dec 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "John Travolta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#John%20Travolta",
         "pubdate": "Sat, 07 Dec 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Girona Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Girona%20Real%20Madrid",
+        "pubdate": "Sat, 07 Dec 2024 21:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Michail Antonio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Michail%20Antonio",
         "pubdate": "Sat, 07 Dec 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brentford  Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brentford%20%20Newcastle",
-        "pubdate": "Sat, 07 Dec 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Iron Maiden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Iron%20Maiden",
-        "pubdate": "Sat, 07 Dec 2024 22:00:00 +0100"
       }
     ]
   ]
