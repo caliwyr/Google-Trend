@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-12-2024 , 05:45:29",
+  "lastUpdate": "09-12-2024 , 05:54:51",
   "data": [
     [
       {
         "title": "Movimento 5 Stelle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Movimento%205%20Stelle",
         "pubdate": "Mon, 09 Dec 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Francesco Cerroni",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Francesco%20Cerroni",
+        "pubdate": "Mon, 09 Dec 2024 06:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Siria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Siria",
-        "pubdate": "Sun, 08 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Verona-Empoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Verona-Empoli",
         "pubdate": "Sun, 08 Dec 2024 15:00:00 +0100"
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Sassuolo-Sampdoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sassuolo-Sampdoria",
+        "title": "Sassuolo  Sampdoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Sassuolo%20%20Sampdoria",
         "pubdate": "Sun, 08 Dec 2024 17:00:00 +0100"
       }
     ],
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Papa Francesco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Papa%20Francesco",
-        "pubdate": "Sun, 08 Dec 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Catanzaro Brescia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Catanzaro%20Brescia",
         "pubdate": "Sun, 08 Dec 2024 16:00:00 +0100"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Real%20Madrid",
-        "pubdate": "Sun, 08 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Atlético Madrid-Siviglia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Atl%C3%A9tico%20Madrid-Siviglia",
         "pubdate": "Sun, 08 Dec 2024 22:00:00 +0100"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Real%20Madrid",
+        "pubdate": "Sun, 08 Dec 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Alessandra Celentano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alessandra%20Celentano",
         "pubdate": "Sun, 08 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The Last Duel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#The%20Last%20Duel",
+        "pubdate": "Sun, 08 Dec 2024 21:00:00 +0100"
       }
     ]
   ]
