@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "10-12-2024 , 20:33:56",
+  "lastUpdate": "10-12-2024 , 20:45:19",
   "data": [
+    [
+      {
+        "title": "Girona  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Girona%20%20Liverpool",
+        "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Champions League",
@@ -132,13 +139,6 @@
         "title": "Tottenham  Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tottenham%20%20Chelsea",
         "pubdate": "Sun, 08 Dec 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fulham  Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fulham%20%20Arsenal",
-        "pubdate": "Sun, 08 Dec 2024 15:00:00 +0100"
       }
     ]
   ]
