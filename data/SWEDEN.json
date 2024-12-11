@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 02:40:16",
+  "lastUpdate": "11-12-2024 , 03:23:36",
   "data": [
     [
       {
@@ -19,14 +19,14 @@
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
-        "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
+        "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
       }
     ],
     [
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
-        "pubdate": "Tue, 10 Dec 2024 20:00:00 +0100"
+        "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "SSAB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SSAB",
         "pubdate": "Tue, 10 Dec 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nya körkortet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nya%20k%C3%B6rkortet",
+        "pubdate": "Tue, 10 Dec 2024 15:00:00 +0100"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Sverige Finland innebandy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20Finland%20innebandy",
+        "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nobelfesten 2024 svt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nobelfesten%202024%20svt",
         "pubdate": "Tue, 10 Dec 2024 20:00:00 +0100"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Nobelmiddag 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nobelmiddag%202024",
-        "pubdate": "Mon, 09 Dec 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Emil Hansius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Emil%20Hansius",
         "pubdate": "Mon, 09 Dec 2024 18:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Alfred Nobel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alfred%20Nobel",
         "pubdate": "Mon, 09 Dec 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jay-Z",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jay-Z",
-        "pubdate": "Mon, 09 Dec 2024 07:00:00 +0100"
       }
     ]
   ]

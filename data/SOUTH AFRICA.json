@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 02:40:16",
+  "lastUpdate": "11-12-2024 , 03:23:35",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Secret Level",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Secret%20Level",
         "pubdate": "Wed, 11 Dec 2024 03:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Girona vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Girona%20vs%20Liverpool",
+        "pubdate": "Tue, 10 Dec 2024 05:00:00 +0200"
       }
     ],
     [
@@ -73,22 +80,29 @@
     ],
     [
       {
-        "title": "Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Celtic",
+        "title": "Dinamo Zagreb vs Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dinamo%20Zagreb%20vs%20Celtic",
         "pubdate": "Tue, 10 Dec 2024 21:00:00 +0200"
       }
     ],
     [
       {
-        "title": "RB Salzburg vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#RB%20Salzburg%20vs%20PSG",
-        "pubdate": "Tue, 10 Dec 2024 22:00:00 +0200"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSG",
+        "pubdate": "Tue, 10 Dec 2024 20:00:00 +0200"
       }
     ],
     [
       {
         "title": "PSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PSV",
+        "pubdate": "Tue, 10 Dec 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "UEFA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UEFA",
         "pubdate": "Tue, 10 Dec 2024 21:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Championship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Championship",
         "pubdate": "Tue, 10 Dec 2024 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Heatwave",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Heatwave",
-        "pubdate": "Tue, 10 Dec 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Getafe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Getafe",
-        "pubdate": "Tue, 10 Dec 2024 07:00:00 +0200"
       }
     ]
   ]
