@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-12-2024 , 16:32:35",
+  "lastUpdate": "11-12-2024 , 16:51:13",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "AirTrunk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AirTrunk",
         "pubdate": "Wed, 11 Dec 2024 14:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Europa%20League",
+        "pubdate": "Wed, 11 Dec 2024 11:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sora",
         "pubdate": "Tue, 10 Dec 2024 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Secret Level",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Secret%20Level",
-        "pubdate": "Tue, 10 Dec 2024 21:00:00 +1100"
       }
     ]
   ]
