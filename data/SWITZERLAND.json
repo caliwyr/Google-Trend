@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "11-12-2024 , 03:23:36",
+  "lastUpdate": "11-12-2024 , 03:48:24",
   "data": [
     [
       {
         "title": "Police Lausanne",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Police%20Lausanne",
+        "pubdate": "Wed, 11 Dec 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Champions League 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Champions%20League%202024",
         "pubdate": "Wed, 11 Dec 2024 00:00:00 +0100"
       }
     ],
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Girona – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Girona%20%E2%80%93%20Liverpool",
-        "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
+        "title": "Leverkusen – Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leverkusen%20%E2%80%93%20Inter",
+        "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Leverkusen – Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Leverkusen%20%E2%80%93%20Inter",
-        "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
+        "title": "Girona – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Girona%20%E2%80%93%20Liverpool",
+        "pubdate": "Tue, 10 Dec 2024 19:00:00 +0100"
       }
     ],
     [
@@ -62,13 +69,6 @@
         "title": "Hellfest 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Hellfest%202025",
         "pubdate": "Tue, 10 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "UEFA Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#UEFA%20Champions%20League",
-        "pubdate": "Tue, 10 Dec 2024 20:00:00 +0100"
       }
     ],
     [
@@ -108,8 +108,8 @@
     ],
     [
       {
-        "title": "Ldc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ldc",
+        "title": "LDC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LDC",
         "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
       }
     ],
