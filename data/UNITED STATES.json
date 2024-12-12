@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "12-12-2024 , 07:41:58",
+  "lastUpdate": "12-12-2024 , 07:51:24",
   "data": [
-    [
-      {
-        "title": "AI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AI",
-        "pubdate": "Wed, 11 Dec 2024 17:00:00 -0800"
-      }
-    ],
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barcelona",
         "pubdate": "Wed, 11 Dec 2024 12:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "AI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#AI",
+        "pubdate": "Wed, 11 Dec 2024 17:00:00 -0800"
       }
     ],
     [
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Knicks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
+        "pubdate": "Wed, 11 Dec 2024 19:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Facebook down",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Facebook%20down",
         "pubdate": "Wed, 11 Dec 2024 11:00:00 -0800"
@@ -45,9 +52,16 @@
     ],
     [
       {
-        "title": "Knicks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Knicks",
-        "pubdate": "Wed, 11 Dec 2024 19:00:00 -0800"
+        "title": "ChatGPT down",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#ChatGPT%20down",
+        "pubdate": "Wed, 11 Dec 2024 17:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Benny Blanco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Benny%20Blanco",
+        "pubdate": "Wed, 11 Dec 2024 22:00:00 -0800"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Benny Blanco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Benny%20Blanco",
-        "pubdate": "Wed, 11 Dec 2024 22:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Maria Callas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Maria%20Callas",
         "pubdate": "Wed, 11 Dec 2024 14:00:00 -0800"
@@ -97,13 +104,6 @@
         "title": "Paralympics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Paralympics",
         "pubdate": "Wed, 11 Dec 2024 07:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Is ChatGPT down",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Is%20ChatGPT%20down",
-        "pubdate": "Wed, 11 Dec 2024 17:00:00 -0800"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Corbin Burnes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Corbin%20Burnes",
-        "pubdate": "Wed, 11 Dec 2024 01:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Gladys Knight",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gladys%20Knight",
         "pubdate": "Wed, 11 Dec 2024 20:00:00 -0800"
@@ -139,6 +132,13 @@
         "title": "Bidwell Mansion",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bidwell%20Mansion",
         "pubdate": "Wed, 11 Dec 2024 14:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Corbin Burnes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Corbin%20Burnes",
+        "pubdate": "Wed, 11 Dec 2024 01:00:00 -0800"
       }
     ]
   ]
