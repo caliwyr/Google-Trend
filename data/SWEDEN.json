@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2024 , 13:40:20",
+  "lastUpdate": "12-12-2024 , 13:50:03",
   "data": [
     [
       {
@@ -59,23 +59,9 @@
     ],
     [
       {
-        "title": "Hallands Nyheter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Hallands%20Nyheter",
-        "pubdate": "Wed, 11 Dec 2024 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Facebook problem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Facebook%20problem",
-        "pubdate": "Wed, 11 Dec 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Svenska kraftnät",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Svenska%20kraftn%C3%A4t",
-        "pubdate": "Wed, 11 Dec 2024 22:00:00 +0100"
+        "title": "CL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CL",
+        "pubdate": "Wed, 11 Dec 2024 01:00:00 +0100"
       }
     ],
     [
@@ -94,6 +80,13 @@
     ],
     [
       {
+        "title": "Falkenberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Falkenberg",
+        "pubdate": "Wed, 11 Dec 2024 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Musikhjälpen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Musikhj%C3%A4lpen",
         "pubdate": "Tue, 10 Dec 2024 20:00:00 +0100"
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
+        "title": "Elpris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elpris",
         "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Elpris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Elpris",
-        "pubdate": "Tue, 10 Dec 2024 21:00:00 +0100"
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
+        "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Han Kang",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Han%20Kang",
         "pubdate": "Tue, 10 Dec 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
       }
     ]
   ]

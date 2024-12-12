@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "12-12-2024 , 13:40:19",
+  "lastUpdate": "12-12-2024 , 13:50:02",
   "data": [
-    [
-      {
-        "title": "Gemini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gemini",
-        "pubdate": "Thu, 12 Dec 2024 10:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Juventus vs Man City",
@@ -20,6 +13,13 @@
         "title": "Arsenal vs Monaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal%20vs%20Monaco",
         "pubdate": "Thu, 12 Dec 2024 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Gemini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Gemini",
+        "pubdate": "Thu, 12 Dec 2024 11:00:00 +0800"
       }
     ],
     [
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "Sora Ma husband",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sora%20Ma%20husband",
+        "title": "Sora Ma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sora%20Ma",
         "pubdate": "Wed, 11 Dec 2024 13:00:00 +0800"
       }
     ],
@@ -83,13 +83,6 @@
         "title": "UCL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UCL",
         "pubdate": "Wed, 11 Dec 2024 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
-        "pubdate": "Wed, 11 Dec 2024 08:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "China Taiwan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#China%20Taiwan",
         "pubdate": "Tue, 10 Dec 2024 08:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia%20stock",
+        "pubdate": "Tue, 10 Dec 2024 15:00:00 +0800"
       }
     ]
   ]

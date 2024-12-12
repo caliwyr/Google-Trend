@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-12-2024 , 13:40:19",
+  "lastUpdate": "12-12-2024 , 13:50:01",
   "data": [
+    [
+      {
+        "title": "Digi Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Digi%20Portugal",
+        "pubdate": "Thu, 12 Dec 2024 00:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "Benny Blanco",
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Ai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ai",
+        "title": "AI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AI",
         "pubdate": "Thu, 12 Dec 2024 02:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Marcelo Rebelo de Sousa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Marcelo%20Rebelo%20de%20Sousa",
+        "pubdate": "Thu, 12 Dec 2024 13:00:00 +0000"
       }
     ],
     [
@@ -48,6 +62,13 @@
         "title": "iOS 18.2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#iOS%2018.2",
         "pubdate": "Thu, 12 Dec 2024 02:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Argentina",
+        "pubdate": "Thu, 12 Dec 2024 13:00:00 +0000"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Fugitivos Vale de Judeus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Fugitivos%20Vale%20de%20Judeus",
         "pubdate": "Wed, 11 Dec 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Atlético Madrid  Slovan Bratislava",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico%20Madrid%20%20Slovan%20Bratislava",
-        "pubdate": "Wed, 11 Dec 2024 18:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Jogo do Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20do%20Benfica",
-        "pubdate": "Wed, 11 Dec 2024 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Lukashenko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lukashenko",
-        "pubdate": "Wed, 11 Dec 2024 12:00:00 +0000"
       }
     ]
   ]
