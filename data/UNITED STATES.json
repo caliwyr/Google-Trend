@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-12-2024 , 14:41:08",
+  "lastUpdate": "12-12-2024 , 14:50:26",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Gemini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gemini",
-        "pubdate": "Wed, 11 Dec 2024 17:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Benny Blanco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Benny%20Blanco",
         "pubdate": "Wed, 11 Dec 2024 22:00:00 -0800"
@@ -45,15 +38,15 @@
     ],
     [
       {
-        "title": "Facebook down",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Facebook%20down",
-        "pubdate": "Wed, 11 Dec 2024 11:00:00 -0800"
+        "title": "Gemini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Gemini",
+        "pubdate": "Wed, 11 Dec 2024 17:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Randy Moss health",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Randy%20Moss%20health",
+        "title": "Randy Moss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Randy%20Moss",
         "pubdate": "Wed, 11 Dec 2024 03:00:00 -0800"
       }
     ],
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Time Person of the Year 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Time%20Person%20of%20the%20Year%202024",
+        "title": "TIME Person of the Year 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#TIME%20Person%20of%20the%20Year%202024",
         "pubdate": "Wed, 11 Dec 2024 17:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Aaron Taylor-Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Taylor-Johnson",
+        "pubdate": "Wed, 11 Dec 2024 22:00:00 -0800"
       }
     ]
   ]
