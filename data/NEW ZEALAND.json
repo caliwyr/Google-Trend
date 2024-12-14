@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "14-12-2024 , 18:31:38",
+  "lastUpdate": "14-12-2024 , 18:46:09",
   "data": [
+    [
+      {
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Earthquake",
+        "pubdate": "Sun, 15 Dec 2024 07:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "New Zealand vs England",
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Fan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fan",
+        "pubdate": "Sat, 14 Dec 2024 23:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "LeBron James",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#LeBron%20James",
         "pubdate": "Sat, 14 Dec 2024 00:00:00 +1300"
@@ -125,20 +139,6 @@
         "title": "Balatro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Balatro",
         "pubdate": "Sat, 14 Dec 2024 01:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Malcolm in the Middle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Malcolm%20in%20the%20Middle",
-        "pubdate": "Sat, 14 Dec 2024 22:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Real",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Real",
-        "pubdate": "Sat, 14 Dec 2024 21:00:00 +1300"
       }
     ]
   ]
