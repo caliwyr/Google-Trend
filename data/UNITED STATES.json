@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2024 , 11:43:35",
+  "lastUpdate": "15-12-2024 , 11:52:50",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Tornado warning San Francisco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tornado%20warning%20San%20Francisco",
         "pubdate": "Sat, 14 Dec 2024 07:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Bucks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks",
-        "pubdate": "Sat, 14 Dec 2024 16:00:00 -0800"
       }
     ],
     [
@@ -38,9 +31,16 @@
     ],
     [
       {
-        "title": "Rockets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rockets",
-        "pubdate": "Sat, 14 Dec 2024 19:00:00 -0800"
+        "title": "Bucks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Bucks",
+        "pubdate": "Sat, 14 Dec 2024 18:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Tennessee basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tennessee%20basketball",
+        "pubdate": "Sat, 14 Dec 2024 17:00:00 -0800"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Karen Friedman Agnifilo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Karen%20Friedman%20Agnifilo",
-        "pubdate": "Sat, 14 Dec 2024 08:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Pachuca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pachuca",
         "pubdate": "Sat, 14 Dec 2024 12:00:00 -0800"
@@ -80,16 +73,9 @@
     ],
     [
       {
-        "title": "Illinois basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Illinois%20basketball",
-        "pubdate": "Sat, 14 Dec 2024 18:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Incarnate Word",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Incarnate%20Word",
-        "pubdate": "Sat, 14 Dec 2024 11:00:00 -0800"
+        "title": "Karen Friedman Agnifilo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Karen%20Friedman%20Agnifilo",
+        "pubdate": "Sat, 14 Dec 2024 08:00:00 -0800"
       }
     ],
     [
@@ -101,9 +87,23 @@
     ],
     [
       {
+        "title": "Incarnate Word",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Incarnate%20Word",
+        "pubdate": "Sat, 14 Dec 2024 11:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Purdue basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Purdue%20basketball",
         "pubdate": "Sat, 14 Dec 2024 11:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Rockets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Rockets",
+        "pubdate": "Sat, 14 Dec 2024 19:00:00 -0800"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Auburn basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Auburn%20basketball",
+        "pubdate": "Sat, 14 Dec 2024 13:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "George Stephanopoulos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#George%20Stephanopoulos",
         "pubdate": "Sat, 14 Dec 2024 19:00:00 -0800"
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "UConn basketball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#UConn%20basketball",
-        "pubdate": "Sat, 14 Dec 2024 20:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool  Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liverpool%20%20Fulham",
-        "pubdate": "Sat, 14 Dec 2024 10:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Jackson State",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jackson%20State",
         "pubdate": "Sat, 14 Dec 2024 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Alabama basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Alabama%20basketball",
+        "pubdate": "Sat, 14 Dec 2024 20:00:00 -0800"
       }
     ]
   ]
