@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2024 , 21:44:21",
+  "lastUpdate": "15-12-2024 , 21:53:38",
   "data": [
     [
       {
@@ -10,9 +10,16 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
+        "title": "Barcelona  Leganés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona%20%20Legan%C3%A9s",
         "pubdate": "Sun, 15 Dec 2024 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
+        "pubdate": "Sun, 15 Dec 2024 12:00:00 -0300"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Chelsea - Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea%20-%20Brentford",
-        "pubdate": "Sun, 15 Dec 2024 16:00:00 -0300"
+        "title": "Isak Andic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Isak%20Andic",
+        "pubdate": "Sun, 15 Dec 2024 12:00:00 -0300"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juventus",
-        "pubdate": "Sun, 15 Dec 2024 16:00:00 -0300"
+        "title": "Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis",
+        "pubdate": "Sun, 15 Dec 2024 18:00:00 -0300"
       }
     ],
     [
@@ -87,15 +94,8 @@
     ],
     [
       {
-        "title": "Isak Andic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Isak%20Andic",
-        "pubdate": "Sun, 15 Dec 2024 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Rayo Vallecano - Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rayo%20Vallecano%20-%20Real%20Madrid",
+        "title": "Rayo Vallecano  Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rayo%20Vallecano%20%20Real%20Madrid",
         "pubdate": "Sat, 14 Dec 2024 17:00:00 -0300"
       }
     ],
