@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2024 , 03:11:11",
+  "lastUpdate": "15-12-2024 , 03:45:36",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Liverpool  Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool%20%20Fulham",
-        "pubdate": "Sat, 14 Dec 2024 12:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Racing  River Plate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Racing%20%20River%20Plate",
         "pubdate": "Sat, 14 Dec 2024 21:00:00 -0300"
@@ -31,16 +24,23 @@
     ],
     [
       {
-        "title": "Copa Intercontinental",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Intercontinental",
-        "pubdate": "Sat, 14 Dec 2024 18:00:00 -0300"
+        "title": "Liverpool  Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool%20%20Fulham",
+        "pubdate": "Sat, 14 Dec 2024 12:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Liga Argentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liga%20Argentina",
+        "title": "Liga argentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liga%20argentina",
         "pubdate": "Sat, 14 Dec 2024 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Copa Intercontinental",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Copa%20Intercontinental",
+        "pubdate": "Sat, 14 Dec 2024 18:00:00 -0300"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Juventus  Venezia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juventus%20%20Venezia",
-        "pubdate": "Sat, 14 Dec 2024 18:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Primera división",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20divisi%C3%B3n",
         "pubdate": "Sat, 14 Dec 2024 21:00:00 -0300"
@@ -87,9 +80,16 @@
     ],
     [
       {
-        "title": "Newcastle  Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20Leicester%20City",
-        "pubdate": "Sat, 14 Dec 2024 15:00:00 -0300"
+        "title": "Juventus  Venezia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juventus%20%20Venezia",
+        "pubdate": "Sat, 14 Dec 2024 18:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Licencia de conducir digital",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Licencia%20de%20conducir%20digital",
+        "pubdate": "Sat, 14 Dec 2024 19:00:00 -0300"
       }
     ],
     [
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Licencia de conducir digital",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Licencia%20de%20conducir%20digital",
-        "pubdate": "Sat, 14 Dec 2024 19:00:00 -0300"
+        "title": "Newcastle  Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Newcastle%20%20Leicester%20City",
+        "pubdate": "Sat, 14 Dec 2024 15:00:00 -0300"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Temblor hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy",
-        "pubdate": "Fri, 13 Dec 2024 21:00:00 -0300"
+        "title": "Udinese  Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Udinese%20%20Napoli",
+        "pubdate": "Fri, 13 Dec 2024 22:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Udinese  Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Udinese%20%20Napoli",
-        "pubdate": "Fri, 13 Dec 2024 22:00:00 -0300"
+        "title": "Temblor hoy Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy%20Chile",
+        "pubdate": "Fri, 13 Dec 2024 21:00:00 -0300"
       }
     ]
   ]
