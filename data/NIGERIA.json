@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2024 , 02:02:05",
+  "lastUpdate": "15-12-2024 , 03:11:16",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "OS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#OS",
         "pubdate": "Sun, 15 Dec 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting",
+        "pubdate": "Sun, 15 Dec 2024 03:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Film",
         "pubdate": "Sat, 14 Dec 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Yahaya Bello",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Yahaya%20Bello",
-        "pubdate": "Fri, 13 Dec 2024 17:00:00 +0100"
       }
     ]
   ]
