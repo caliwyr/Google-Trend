@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2024 , 04:40:22",
+  "lastUpdate": "15-12-2024 , 04:50:01",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Primera división",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Primera%20divisi%C3%B3n",
-        "pubdate": "Sat, 14 Dec 2024 21:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Juventus  Venezia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Juventus%20%20Venezia",
         "pubdate": "Sat, 14 Dec 2024 18:00:00 -0300"
@@ -139,6 +132,13 @@
         "title": "Temblor hoy Chile",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Temblor%20hoy%20Chile",
         "pubdate": "Fri, 13 Dec 2024 21:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Aruba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aruba",
+        "pubdate": "Fri, 13 Dec 2024 10:00:00 -0300"
       }
     ]
   ]
