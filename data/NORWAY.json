@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2024 , 23:56:33",
+  "lastUpdate": "16-12-2024 , 01:38:15",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Håndball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball",
+        "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
         "pubdate": "Sun, 15 Dec 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea mot Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea%20mot%20Brentford",
+        "pubdate": "Sun, 15 Dec 2024 20:00:00 +0100"
       }
     ],
     [
@@ -55,13 +69,6 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
         "pubdate": "Sun, 15 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Håndball-EM 2024 kvinner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5ndball-EM%202024%20kvinner",
-        "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Taylor Swift",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Taylor%20Swift",
         "pubdate": "Sat, 14 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Blue Ivy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Blue%20Ivy",
-        "pubdate": "Sat, 14 Dec 2024 21:00:00 +0100"
       }
     ]
   ]

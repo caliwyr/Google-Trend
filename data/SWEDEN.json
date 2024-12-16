@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-12-2024 , 23:56:35",
+  "lastUpdate": "16-12-2024 , 01:38:17",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
         "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
+        "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
       }
     ],
     [
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "Ski Classics",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ski%20Classics",
+        "pubdate": "Sat, 14 Dec 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pawel Cibicki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pawel%20Cibicki",
         "pubdate": "Sat, 14 Dec 2024 13:00:00 +0100"
@@ -76,13 +90,6 @@
         "title": "Ella Halvarsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ella%20Halvarsson",
         "pubdate": "Sat, 14 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stina Nilsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Stina%20Nilsson",
-        "pubdate": "Sat, 14 Dec 2024 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Lucianoz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lucianoz",
         "pubdate": "Fri, 13 Dec 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aaron Taylor Johnson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Aaron%20Taylor%20Johnson",
-        "pubdate": "Fri, 13 Dec 2024 07:00:00 +0100"
       }
     ]
   ]
