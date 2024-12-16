@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "16-12-2024 , 06:44:52",
+  "lastUpdate": "16-12-2024 , 06:56:09",
   "data": [
     [
       {
         "title": "Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Roma",
         "pubdate": "Mon, 16 Dec 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20City",
+        "pubdate": "Sun, 15 Dec 2024 12:00:00 +0100"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Manchester City vs Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Manchester%20City%20vs%20Manchester%20United",
-        "pubdate": "Sun, 15 Dec 2024 18:00:00 +0100"
+        "title": "Brighton vs Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Brighton%20vs%20Crystal%20Palace",
+        "pubdate": "Sun, 15 Dec 2024 14:00:00 +0100"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Atalanta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Atalanta",
         "pubdate": "Sun, 15 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Celtic vs Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Celtic%20vs%20Rangers",
-        "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
       }
     ],
     [
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Crystal%20Palace",
-        "pubdate": "Sun, 15 Dec 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting",
         "pubdate": "Sun, 15 Dec 2024 03:00:00 +0100"
@@ -90,6 +83,13 @@
         "title": "Kemi Badenoch Nigeria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kemi%20Badenoch%20Nigeria",
         "pubdate": "Sun, 15 Dec 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Celtic",
+        "pubdate": "Sun, 15 Dec 2024 20:00:00 +0100"
       }
     ],
     [
