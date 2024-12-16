@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2024 , 18:41:30",
+  "lastUpdate": "16-12-2024 , 18:53:15",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Rosenbauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rosenbauer",
+        "pubdate": "Mon, 16 Dec 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Oscar Pistorius",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Oscar%20Pistorius",
         "pubdate": "Mon, 16 Dec 2024 07:00:00 +0100"
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Florian Wirtz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Florian%20Wirtz",
-        "pubdate": "Mon, 16 Dec 2024 14:00:00 +0100"
+        "title": "Besiktas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Besiktas",
+        "pubdate": "Mon, 16 Dec 2024 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Rosenbauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rosenbauer",
-        "pubdate": "Mon, 16 Dec 2024 18:00:00 +0100"
+        "title": "Florian Wirtz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Florian%20Wirtz",
+        "pubdate": "Mon, 16 Dec 2024 14:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Weihnachtsgrüße",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Weihnachtsgr%C3%BC%C3%9Fe",
-        "pubdate": "Mon, 16 Dec 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Vertrauensfrage Scholz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vertrauensfrage%20Scholz",
         "pubdate": "Mon, 16 Dec 2024 18:00:00 +0100"
@@ -87,8 +87,15 @@
     ],
     [
       {
-        "title": "Barcelona – leganés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barcelona%20%E2%80%93%20legan%C3%A9s",
+        "title": "Weihnachtsgrüße",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Weihnachtsgr%C3%BC%C3%9Fe",
+        "pubdate": "Mon, 16 Dec 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona – Leganés",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Barcelona%20%E2%80%93%20Legan%C3%A9s",
         "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "RB Leipzig – Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RB%20Leipzig%20%E2%80%93%20Eintracht%20Frankfurt",
         "pubdate": "Sun, 15 Dec 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Heidenheim – VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heidenheim%20%E2%80%93%20VfB%20Stuttgart",
-        "pubdate": "Sun, 15 Dec 2024 16:00:00 +0100"
       }
     ]
   ]
