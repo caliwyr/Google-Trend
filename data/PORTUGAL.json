@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2024 , 03:38:51",
+  "lastUpdate": "16-12-2024 , 03:55:55",
   "data": [
     [
       {
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City",
+        "pubdate": "Sun, 15 Dec 2024 19:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Atlético Madrid  Getafe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Atl%C3%A9tico%20Madrid%20%20Getafe",
         "pubdate": "Sun, 15 Dec 2024 14:00:00 +0000"
@@ -132,13 +139,6 @@
         "title": "AFS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#AFS",
         "pubdate": "Sun, 15 Dec 2024 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Southampton  Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Southampton%20%20Tottenham",
-        "pubdate": "Sun, 15 Dec 2024 20:00:00 +0000"
       }
     ]
   ]
