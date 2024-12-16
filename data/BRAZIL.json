@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-12-2024 , 11:44:26",
+  "lastUpdate": "16-12-2024 , 11:53:47",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liverpool",
         "pubdate": "Sun, 15 Dec 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "PSG x Lyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG%20x%20Lyon",
-        "pubdate": "Sun, 15 Dec 2024 14:00:00 -0500"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSG",
+        "pubdate": "Sun, 15 Dec 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Atletico de Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atletico%20de%20Madrid",
         "pubdate": "Sun, 15 Dec 2024 08:00:00 -0500"
@@ -66,15 +66,15 @@
     ],
     [
       {
-        "title": "Fabio junior",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fabio%20junior",
+        "title": "Velez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Velez",
         "pubdate": "Sun, 15 Dec 2024 19:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Velez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Velez",
+        "title": "Fabio junior",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fabio%20junior",
         "pubdate": "Sun, 15 Dec 2024 19:00:00 -0500"
       }
     ],
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Lakers x Grizzlies",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers%20x%20Grizzlies",
+        "pubdate": "Sun, 15 Dec 2024 23:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Roberto Carlos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Roberto%20Carlos",
         "pubdate": "Sun, 15 Dec 2024 19:00:00 -0500"
@@ -132,13 +139,6 @@
         "title": "As Marcianas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#As%20Marcianas",
         "pubdate": "Sun, 15 Dec 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lakers x Grizzlies",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers%20x%20Grizzlies",
-        "pubdate": "Sun, 15 Dec 2024 23:00:00 -0500"
       }
     ]
   ]
