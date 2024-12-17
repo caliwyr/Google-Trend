@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2024 , 11:46:23",
+  "lastUpdate": "17-12-2024 , 11:55:41",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "George Clooney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#George%20Clooney",
+        "pubdate": "Mon, 16 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bournemouth  West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bournemouth%20%20West%20Ham",
         "pubdate": "Mon, 16 Dec 2024 22:00:00 +0100"
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Man City  Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Man%20utd",
+        "title": "Man City  Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20%20Man%20Utd",
         "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Chelsea  Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea%20%20Brentford",
         "pubdate": "Sun, 15 Dec 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mayotte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mayotte",
-        "pubdate": "Sun, 15 Dec 2024 10:00:00 +0100"
       }
     ]
   ]
