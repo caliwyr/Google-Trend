@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2024 , 09:41:21",
+  "lastUpdate": "17-12-2024 , 09:50:54",
   "data": [
     [
       {
@@ -26,6 +26,13 @@
       {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tottenham",
+        "pubdate": "Mon, 16 Dec 2024 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Carabao Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Carabao%20Cup",
         "pubdate": "Mon, 16 Dec 2024 01:00:00 +0300"
       }
     ],
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Marc Cucurella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Marc%20Cucurella",
-        "pubdate": "Mon, 16 Dec 2024 00:00:00 +0300"
+        "title": "Nyama Villa Kayole demolition",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nyama%20Villa%20Kayole%20demolition",
+        "pubdate": "Mon, 16 Dec 2024 22:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Nyama Villa Kayole demolition",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nyama%20Villa%20Kayole%20demolition",
-        "pubdate": "Mon, 16 Dec 2024 22:00:00 +0300"
+        "title": "Marc Cucurella",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Marc%20Cucurella",
+        "pubdate": "Mon, 16 Dec 2024 00:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rashford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Rashford",
         "pubdate": "Sun, 15 Dec 2024 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Brentford",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Brentford",
-        "pubdate": "Sun, 15 Dec 2024 23:00:00 +0300"
       }
     ]
   ]

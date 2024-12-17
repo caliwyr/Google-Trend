@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-12-2024 , 09:41:22",
+  "lastUpdate": "17-12-2024 , 09:50:55",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Sol Heilo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sol%20Heilo",
         "pubdate": "Mon, 16 Dec 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hver gang vi møtes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hver%20gang%20vi%20m%C3%B8tes",
+        "pubdate": "Mon, 16 Dec 2024 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Mayotte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mayotte",
         "pubdate": "Sun, 15 Dec 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20City",
-        "pubdate": "Sun, 15 Dec 2024 20:00:00 +0100"
       }
     ]
   ]
