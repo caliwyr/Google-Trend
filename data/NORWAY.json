@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "17-12-2024 , 00:44:20",
+  "lastUpdate": "17-12-2024 , 02:18:06",
   "data": [
     [
       {
         "title": "Sol Heilo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sol%20Heilo",
         "pubdate": "Mon, 16 Dec 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sopra Steria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sopra%20Steria",
-        "pubdate": "Mon, 16 Dec 2024 17:00:00 +0100"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Håkon Taagerud Ski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5kon%20Taagerud%20Ski",
+        "pubdate": "Mon, 16 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hardanger Folkeblad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hardanger%20Folkeblad",
         "pubdate": "Mon, 16 Dec 2024 05:00:00 +0100"
@@ -48,13 +48,6 @@
         "title": "God jul",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#God%20jul",
         "pubdate": "Mon, 16 Dec 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Håkon Taagerud Ski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#H%C3%A5kon%20Taagerud%20Ski",
-        "pubdate": "Mon, 16 Dec 2024 17:00:00 +0100"
       }
     ],
     [
@@ -83,13 +76,6 @@
         "title": "Camilla Herrem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Camilla%20Herrem",
         "pubdate": "Sun, 15 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man City mot Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Man%20City%20mot%20Man%20United",
-        "pubdate": "Sun, 15 Dec 2024 17:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Chelsea mot Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chelsea%20mot%20Brentford",
         "pubdate": "Sun, 15 Dec 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
+        "pubdate": "Sun, 15 Dec 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ronny Deila",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ronny%20Deila",
+        "pubdate": "Sun, 15 Dec 2024 23:00:00 +0100"
       }
     ]
   ]
