@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-12-2024 , 12:30:57",
+  "lastUpdate": "18-12-2024 , 13:03:12",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Juventus",
+        "pubdate": "Tue, 17 Dec 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Cseh Katalin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cseh%20Katalin",
         "pubdate": "Tue, 17 Dec 2024 06:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Vírus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%ADrus",
         "pubdate": "Mon, 16 Dec 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sydney Sweeney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sydney%20Sweeney",
-        "pubdate": "Mon, 16 Dec 2024 09:00:00 +0100"
       }
     ]
   ]
