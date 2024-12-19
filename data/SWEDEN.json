@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-12-2024 , 19:41:02",
+  "lastUpdate": "19-12-2024 , 19:50:19",
   "data": [
     [
       {
         "title": "Pelicot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pelicot",
-        "pubdate": "Thu, 19 Dec 2024 11:00:00 +0100"
+        "pubdate": "Thu, 19 Dec 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Räntebesked",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%A4ntebesked",
+        "pubdate": "Thu, 19 Dec 2024 10:00:00 +0100"
       }
     ],
     [
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Räntebesked",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#R%C3%A4ntebesked",
+        "title": "Styrränta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Styrr%C3%A4nta",
         "pubdate": "Thu, 19 Dec 2024 10:00:00 +0100"
       }
     ],
@@ -34,6 +41,13 @@
         "title": "Strömavbrott Norrköping",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Str%C3%B6mavbrott%20Norrk%C3%B6ping",
         "pubdate": "Thu, 19 Dec 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Robinson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Robinson",
+        "pubdate": "Thu, 19 Dec 2024 20:00:00 +0100"
       }
     ],
     [
@@ -94,13 +108,6 @@
     ],
     [
       {
-        "title": "Ejendal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ejendal",
-        "pubdate": "Wed, 18 Dec 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
         "pubdate": "Wed, 18 Dec 2024 23:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "CHL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#CHL",
         "pubdate": "Tue, 17 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Utbetalning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Utbetalning",
-        "pubdate": "Tue, 17 Dec 2024 20:00:00 +0100"
       }
     ]
   ]
