@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-12-2024 , 08:25:30",
+  "lastUpdate": "19-12-2024 , 08:43:43",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Fomc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fomc",
+        "pubdate": "Thu, 19 Dec 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid – Pachuca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid%20%E2%80%93%20Pachuca",
         "pubdate": "Wed, 18 Dec 2024 18:00:00 +0100"
@@ -41,13 +48,6 @@
         "title": "Sanija Ameti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sanija%20Ameti",
         "pubdate": "Wed, 18 Dec 2024 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Giorgio Contini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Giorgio%20Contini",
-        "pubdate": "Wed, 18 Dec 2024 15:00:00 +0100"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Real Madrid vs Pachuca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Real%20Madrid%20vs%20Pachuca",
-        "pubdate": "Wed, 18 Dec 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fed",
         "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
@@ -104,6 +97,13 @@
         "title": "Sugus-Häuser Zürich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sugus-H%C3%A4user%20Z%C3%BCrich",
         "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Contini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Contini",
+        "pubdate": "Wed, 18 Dec 2024 15:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Bazenheid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bazenheid",
-        "pubdate": "Wed, 18 Dec 2024 22:00:00 +0100"
+        "title": "LHC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LHC",
+        "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "LHC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LHC",
-        "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
+        "title": "EFL Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EFL%20Cup",
+        "pubdate": "Wed, 18 Dec 2024 23:00:00 +0100"
       }
     ]
   ]

@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "19-12-2024 , 08:25:23",
+  "lastUpdate": "19-12-2024 , 08:43:35",
   "data": [
     [
       {
-        "title": "S&P 500",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%26P%20500",
+        "title": "Gisele Pelicot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gisele%20Pelicot",
         "pubdate": "Thu, 19 Dec 2024 08:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Gisele Pelicot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gisele%20Pelicot",
+        "title": "S&P 500",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#S%26P%20500",
         "pubdate": "Thu, 19 Dec 2024 08:00:00 +0100"
       }
     ],
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Liverpool",
+        "pubdate": "Wed, 18 Dec 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Szigeti",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Szigeti",
         "pubdate": "Wed, 18 Dec 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fed",
+        "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
       }
     ],
     [
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Fed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fed",
-        "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
+        "title": "Sabine Baar-Baarenfels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sabine%20Baar-Baarenfels",
+        "pubdate": "Wed, 18 Dec 2024 23:00:00 +0100"
       }
     ],
     [
@@ -104,13 +118,6 @@
         "title": "Mufasa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mufasa",
         "pubdate": "Wed, 18 Dec 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "League Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#League%20Cup",
-        "pubdate": "Wed, 18 Dec 2024 23:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Banksy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Banksy",
         "pubdate": "Wed, 18 Dec 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Demenz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Demenz",
-        "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
       }
     ]
   ]

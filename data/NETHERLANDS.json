@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-12-2024 , 08:25:27",
+  "lastUpdate": "19-12-2024 , 08:43:40",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Sparta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
+        "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Perez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Perez",
         "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
-        "pubdate": "Wed, 18 Dec 2024 21:00:00 +0100"
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Wed, 18 Dec 2024 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Paarse Vrijdag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Paarse%20Vrijdag",
         "pubdate": "Thu, 12 Dec 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
-        "pubdate": "Thu, 12 Dec 2024 18:00:00 +0100"
       }
     ]
   ]
