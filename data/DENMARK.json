@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-12-2024 , 02:44:24",
+  "lastUpdate": "19-12-2024 , 03:19:21",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "FIFA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FIFA",
         "pubdate": "Wed, 18 Dec 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Norovirus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Norovirus",
+        "pubdate": "Wed, 18 Dec 2024 10:00:00 +0100"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Wham!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wham!",
+        "pubdate": "Tue, 17 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tom Cruise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tom%20Cruise",
         "pubdate": "Tue, 17 Dec 2024 15:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Last Christmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Last%20Christmas",
         "pubdate": "Tue, 17 Dec 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SKAM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SKAM",
-        "pubdate": "Tue, 17 Dec 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Natalie Rupnow",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Natalie%20Rupnow",
-        "pubdate": "Tue, 17 Dec 2024 11:00:00 +0100"
       }
     ]
   ]
