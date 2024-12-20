@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "20-12-2024 , 14:35:10",
+  "lastUpdate": "20-12-2024 , 14:44:39",
   "data": [
-    [
-      {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tottenham",
-        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Crypto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Crypto",
-        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Justice",
@@ -31,16 +17,16 @@
     ],
     [
       {
-        "title": "De slimste mens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20slimste%20mens",
-        "pubdate": "Thu, 19 Dec 2024 12:00:00 +0100"
+        "title": "Miet Smet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Miet%20Smet",
+        "pubdate": "Thu, 19 Dec 2024 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Miet Smet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Miet%20Smet",
-        "pubdate": "Thu, 19 Dec 2024 11:00:00 +0100"
+        "title": "De slimste mens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#De%20slimste%20mens",
+        "pubdate": "Thu, 19 Dec 2024 12:00:00 +0100"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Putain",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Putain",
+        "pubdate": "Thu, 19 Dec 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sylvie Kreusch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sylvie%20Kreusch",
         "pubdate": "Thu, 19 Dec 2024 08:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Bart Dhondt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bart%20Dhondt",
         "pubdate": "Thu, 19 Dec 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Donald%20Trump",
+        "pubdate": "Thu, 19 Dec 2024 18:00:00 +0100"
       }
     ]
   ]
