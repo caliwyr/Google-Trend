@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "20-12-2024 , 21:36:08",
+  "lastUpdate": "20-12-2024 , 21:45:23",
   "data": [
-    [
-      {
-        "title": "Bayern – RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20%E2%80%93%20RB%20Leipzig",
-        "pubdate": "Fri, 20 Dec 2024 17:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Magdeburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Magdeburg",
         "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bayern – RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20%E2%80%93%20RB%20Leipzig",
+        "pubdate": "Fri, 20 Dec 2024 17:00:00 +0100"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Novo Nordisk-Aktie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novo%20Nordisk-Aktie",
-        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Fenerbahce",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
         "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
@@ -62,6 +55,13 @@
         "title": "Christian Schlögelhofer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christian%20Schl%C3%B6gelhofer",
         "pubdate": "Fri, 20 Dec 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Novo Nordisk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Novo%20Nordisk",
+        "pubdate": "Fri, 20 Dec 2024 16:00:00 +0100"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "ARD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ARD",
+        "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tottenham",
         "pubdate": "Fri, 20 Dec 2024 00:00:00 +0100"
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbah%C3%A7e",
+        "title": "Elversberg – Schalke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Elversberg%20%E2%80%93%20Schalke",
         "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
       }
     ],
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "Elversberg – Schalke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Elversberg%20%E2%80%93%20Schalke",
-        "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
+        "title": "Ski Alpin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ski%20Alpin",
+        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ski Alpin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ski%20Alpin",
-        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
+        "title": "Daniel Danklmaier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Daniel%20Danklmaier",
+        "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Udo Jürgens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Udo%20J%C3%BCrgens",
         "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Daniel Danklmaier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Daniel%20Danklmaier",
-        "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
       }
     ]
   ]
