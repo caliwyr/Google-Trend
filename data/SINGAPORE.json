@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2024 , 08:39:18",
+  "lastUpdate": "20-12-2024 , 08:49:44",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
+        "title": "Stephen Curry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Stephen%20Curry",
+        "pubdate": "Fri, 20 Dec 2024 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Carabao Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Carabao%20Cup",
-        "pubdate": "Thu, 19 Dec 2024 08:00:00 +0800"
+        "pubdate": "Thu, 19 Dec 2024 20:00:00 +0800"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Sergio Perez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sergio%20Perez",
         "pubdate": "Thu, 19 Dec 2024 12:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "League Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#League%20Cup",
+        "pubdate": "Thu, 19 Dec 2024 08:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
         "pubdate": "Mon, 16 Dec 2024 05:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Zakir Hussain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zakir%20Hussain",
-        "pubdate": "Mon, 16 Dec 2024 03:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Mayotte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mayotte",
-        "pubdate": "Mon, 16 Dec 2024 18:00:00 +0800"
       }
     ]
   ]
