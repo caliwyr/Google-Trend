@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-12-2024 , 14:21:18",
+  "lastUpdate": "20-12-2024 , 14:35:17",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "A7",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#A7",
-        "pubdate": "Fri, 20 Dec 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Superman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Superman",
         "pubdate": "Fri, 20 Dec 2024 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aeroport iasi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aeroport%20iasi",
-        "pubdate": "Fri, 20 Dec 2024 08:00:00 +0200"
       }
     ],
     [
@@ -45,9 +31,16 @@
     ],
     [
       {
+        "title": "A7",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#A7",
+        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Rapid Bucureşti CFR Cluj",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rapid%20Bucure%C5%9Fti%20CFR%20Cluj",
-        "pubdate": "Thu, 19 Dec 2024 20:00:00 +0200"
+        "pubdate": "Thu, 19 Dec 2024 15:00:00 +0200"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Incendiu Spitalul Colentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20Spitalul%20Colentina",
-        "pubdate": "Thu, 19 Dec 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Halep",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Halep",
         "pubdate": "Thu, 19 Dec 2024 09:00:00 +0200"
@@ -122,15 +108,15 @@
     ],
     [
       {
-        "title": "Squid Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Squid%20Game",
-        "pubdate": "Thu, 19 Dec 2024 20:00:00 +0200"
+        "title": "Bulgaria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bulgaria",
+        "pubdate": "Thu, 19 Dec 2024 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Bulgaria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bulgaria",
+        "title": "Robert Fico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Robert%20Fico",
         "pubdate": "Thu, 19 Dec 2024 22:00:00 +0200"
       }
     ],
@@ -139,6 +125,20 @@
         "title": "AUR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#AUR",
         "pubdate": "Thu, 19 Dec 2024 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Incendiu Spitalul Colentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Incendiu%20Spitalul%20Colentina",
+        "pubdate": "Thu, 19 Dec 2024 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Marcus Rashford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marcus%20Rashford",
+        "pubdate": "Thu, 19 Dec 2024 09:00:00 +0200"
       }
     ]
   ]
