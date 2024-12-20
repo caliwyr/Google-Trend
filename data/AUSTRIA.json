@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "20-12-2024 , 19:41:37",
+  "lastUpdate": "20-12-2024 , 19:50:59",
   "data": [
+    [
+      {
+        "title": "Bayern – RB Leipzig",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20%E2%80%93%20RB%20Leipzig",
+        "pubdate": "Fri, 20 Dec 2024 19:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Zagreb",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zagreb",
+        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Riesenhai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Riesenhai",
         "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
       }
     ],
@@ -17,6 +31,20 @@
     ],
     [
       {
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
+        "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Herbert Föttinger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Herbert%20F%C3%B6ttinger",
+        "pubdate": "Fri, 20 Dec 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Christian Schlögelhofer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christian%20Schl%C3%B6gelhofer",
         "pubdate": "Fri, 20 Dec 2024 12:00:00 +0100"
@@ -24,23 +52,9 @@
     ],
     [
       {
-        "title": "Bayern München",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20M%C3%BCnchen",
-        "pubdate": "Fri, 20 Dec 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Wintersonnenwende",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wintersonnenwende",
         "pubdate": "Fri, 20 Dec 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
-        "pubdate": "Fri, 20 Dec 2024 18:00:00 +0100"
       }
     ],
     [
@@ -80,20 +94,6 @@
     ],
     [
       {
-        "title": "Herbert Föttinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Herbert%20F%C3%B6ttinger",
-        "pubdate": "Fri, 20 Dec 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ski Alpin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ski%20Alpin",
-        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hartlauer Schneewette",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hartlauer%20Schneewette",
         "pubdate": "Fri, 20 Dec 2024 12:00:00 +0100"
@@ -108,23 +108,16 @@
     ],
     [
       {
-        "title": "Krypto news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Krypto%20news",
+        "title": "Ski Alpin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ski%20Alpin",
         "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "BIG AIR Klagenfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BIG%20AIR%20Klagenfurt",
-        "pubdate": "Fri, 20 Dec 2024 06:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wladimir Klitschko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wladimir%20Klitschko",
-        "pubdate": "Fri, 20 Dec 2024 13:00:00 +0100"
+        "title": "Udo Jürgens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Udo%20J%C3%BCrgens",
+        "pubdate": "Fri, 20 Dec 2024 20:00:00 +0100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Superman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Superman",
-        "pubdate": "Fri, 20 Dec 2024 12:00:00 +0100"
+        "title": "Krypto news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Krypto%20news",
+        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BIG AIR Klagenfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#BIG%20AIR%20Klagenfurt",
+        "pubdate": "Fri, 20 Dec 2024 06:00:00 +0100"
       }
     ]
   ]
