@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "21-12-2024 , 01:41:58",
+  "lastUpdate": "21-12-2024 , 02:37:40",
   "data": [
-    [
-      {
-        "title": "Oceanario Lisboa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oceanario%20Lisboa",
-        "pubdate": "Sat, 21 Dec 2024 00:00:00 +0000"
-      }
-    ],
     [
       {
         "title": "Mathias Lessort",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "SZA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SZA",
+        "title": "Oceanario Lisboa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Oceanario%20Lisboa",
         "pubdate": "Sat, 21 Dec 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Rolex",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Rolex",
+        "pubdate": "Sat, 21 Dec 2024 01:00:00 +0000"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Chelsea",
         "pubdate": "Fri, 20 Dec 2024 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Mayotte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mayotte",
-        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0000"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Liga Inglaterra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20Inglaterra",
         "pubdate": "Fri, 20 Dec 2024 09:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Novo Nordisk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Novo%20Nordisk",
+        "pubdate": "Fri, 20 Dec 2024 22:00:00 +0000"
       }
     ]
   ]
