@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-12-2024 , 22:39:06",
+  "lastUpdate": "21-12-2024 , 22:48:30",
   "data": [
     [
       {
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Leverkusen",
+        "title": "Tyson Fury",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Tyson%20Fury",
+        "pubdate": "Sat, 21 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Verstehen Sie Spaß",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Verstehen%20Sie%20Spa%C3%9F",
         "pubdate": "Sat, 21 Dec 2024 21:00:00 +0100"
       }
     ],
@@ -47,7 +54,7 @@
       {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Elon%20Musk",
-        "pubdate": "Fri, 20 Dec 2024 14:00:00 +0100"
+        "pubdate": "Fri, 20 Dec 2024 15:00:00 +0100"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Lindsey Vonn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Lindsey%20Vonn",
-        "pubdate": "Fri, 20 Dec 2024 15:00:00 +0100"
+        "title": "Attentat Magdeburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Attentat%20Magdeburg",
+        "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA%20Champions%20League",
         "pubdate": "Tue, 10 Dec 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA",
-        "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
       }
     ]
   ]
