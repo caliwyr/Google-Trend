@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2024 , 12:22:00",
+  "lastUpdate": "22-12-2024 , 12:51:12",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Hunger Games",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hunger%20Games",
+        "pubdate": "Sat, 21 Dec 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Novo Nordisk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20Nordisk",
         "pubdate": "Fri, 20 Dec 2024 13:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Mariah Carey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mariah%20Carey",
         "pubdate": "Fri, 20 Dec 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gaboro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gaboro",
-        "pubdate": "Fri, 20 Dec 2024 04:00:00 +0100"
       }
     ]
   ]
