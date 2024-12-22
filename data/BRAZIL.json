@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2024 , 07:42:16",
+  "lastUpdate": "22-12-2024 , 07:51:47",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Verao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Verao",
-        "pubdate": "Sat, 21 Dec 2024 07:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Stranger Things",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Stranger%20Things",
         "pubdate": "Sat, 21 Dec 2024 10:00:00 -0500"
@@ -139,6 +132,13 @@
         "title": "Firmino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Firmino",
         "pubdate": "Sat, 21 Dec 2024 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Caldas Novas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Caldas%20Novas",
+        "pubdate": "Sat, 21 Dec 2024 16:00:00 -0500"
       }
     ]
   ]
