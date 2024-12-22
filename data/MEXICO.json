@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2024 , 05:39:57",
+  "lastUpdate": "22-12-2024 , 05:49:32",
   "data": [
     [
       {
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lazio",
+        "pubdate": "Sat, 21 Dec 2024 16:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "Ipswich  Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Ipswich%20%20Newcastle",
         "pubdate": "Sat, 21 Dec 2024 11:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Chivas vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chivas%20vs",
+        "pubdate": "Sat, 21 Dec 2024 20:00:00 -0600"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Stranger Things",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Stranger%20Things",
-        "pubdate": "Sat, 21 Dec 2024 02:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Rickey Henderson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Rickey%20Henderson",
         "pubdate": "Sat, 21 Dec 2024 17:00:00 -0600"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lazio",
-        "pubdate": "Sat, 21 Dec 2024 16:00:00 -0600"
-      }
-    ],
-    [
-      {
-        "title": "Chivas vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Chivas%20vs",
-        "pubdate": "Sat, 21 Dec 2024 20:00:00 -0600"
+        "title": "Stranger Things",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Stranger%20Things",
+        "pubdate": "Sat, 21 Dec 2024 02:00:00 -0600"
       }
     ]
   ]
