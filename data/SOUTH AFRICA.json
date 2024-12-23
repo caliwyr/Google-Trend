@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2024 , 21:49:35",
+  "lastUpdate": "23-12-2024 , 21:58:59",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus",
         "pubdate": "Mon, 23 Dec 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Inter vs Como",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20vs%20Como",
+        "pubdate": "Mon, 23 Dec 2024 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Earthquake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Earthquake",
         "pubdate": "Sun, 22 Dec 2024 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20FC",
-        "pubdate": "Sun, 22 Dec 2024 20:00:00 +0200"
       }
     ]
   ]
