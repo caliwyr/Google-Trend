@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-12-2024 , 23:58:13",
+  "lastUpdate": "23-12-2024 , 01:43:10",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Liverpool",
+        "pubdate": "Sun, 22 Dec 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Martin Schindler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Martin%20Schindler",
         "pubdate": "Sun, 22 Dec 2024 21:00:00 +0100"
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "VfB Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB%20Stuttgart",
-        "pubdate": "Sat, 21 Dec 2024 17:00:00 +0100"
+        "title": "Werder Bremen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
+        "pubdate": "Sat, 21 Dec 2024 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Werder Bremen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
-        "pubdate": "Sat, 21 Dec 2024 18:00:00 +0100"
+        "title": "VfB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#VfB",
+        "pubdate": "Sat, 21 Dec 2024 17:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA%20Champions%20League",
         "pubdate": "Tue, 10 Dec 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "UEFA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#UEFA",
-        "pubdate": "Tue, 10 Dec 2024 22:00:00 +0100"
       }
     ]
   ]
