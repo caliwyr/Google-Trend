@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-12-2024 , 22:43:38",
+  "lastUpdate": "23-12-2024 , 22:53:02",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Giáng sinh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1ng%20sinh",
         "pubdate": "Mon, 23 Dec 2024 23:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid vs Sevilla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid%20vs%20Sevilla",
-        "pubdate": "Mon, 23 Dec 2024 02:00:00 +0700"
       }
     ],
     [
@@ -52,8 +45,15 @@
     ],
     [
       {
-        "title": "Lời chúc Giáng sinh",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%9Di%20ch%C3%BAc%20Gi%C3%A1ng%20sinh",
+        "title": "Real Madrid vs Sevilla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20Madrid%20vs%20Sevilla",
+        "pubdate": "Mon, 23 Dec 2024 02:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Lời chúc giáng sinh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#L%E1%BB%9Di%20ch%C3%BAc%20gi%C3%A1ng%20sinh",
         "pubdate": "Mon, 23 Dec 2024 14:00:00 +0700"
       }
     ],
@@ -62,13 +62,6 @@
         "title": "Giá vàng miếng SJC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Gi%C3%A1%20v%C3%A0ng%20mi%E1%BA%BFng%20SJC",
         "pubdate": "Mon, 23 Dec 2024 08:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Kênh đào Panama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#K%C3%AAnh%20%C4%91%C3%A0o%20Panama",
-        "pubdate": "Mon, 23 Dec 2024 19:00:00 +0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Metro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Metro",
         "pubdate": "Sun, 22 Dec 2024 18:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ngày 22/12",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C3%A0y%2022/12",
+        "pubdate": "Sun, 22 Dec 2024 11:00:00 +0700"
       }
     ]
   ]
