@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-12-2024 , 23:40:07",
+  "lastUpdate": "24-12-2024 , 23:49:22",
   "data": [
     [
       {
@@ -17,15 +17,15 @@
     ],
     [
       {
-        "title": "Grinch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Grinch",
+        "title": "Harry Potter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Potter",
         "pubdate": "Tue, 24 Dec 2024 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Harry Potter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Harry%20Potter",
+        "title": "Grinch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Grinch",
         "pubdate": "Tue, 24 Dec 2024 18:00:00 +0200"
       }
     ],
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "BESS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#BESS",
+        "pubdate": "Tue, 24 Dec 2024 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dune: Prophecy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dune:%20Prophecy",
         "pubdate": "Tue, 24 Dec 2024 01:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Cristiano Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cristiano%20Ronaldo",
         "pubdate": "Mon, 23 Dec 2024 14:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Merry Christmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Merry%20Christmas",
-        "pubdate": "Mon, 23 Dec 2024 13:00:00 +0200"
       }
     ]
   ]
