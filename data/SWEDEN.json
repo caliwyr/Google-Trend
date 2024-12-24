@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "24-12-2024 , 08:49:05",
+  "lastUpdate": "24-12-2024 , 08:58:36",
   "data": [
+    [
+      {
+        "title": "TV4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#TV4",
+        "pubdate": "Tue, 24 Dec 2024 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Art Evans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Art%20Evans",
         "pubdate": "Tue, 24 Dec 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Triss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Triss",
+        "pubdate": "Tue, 24 Dec 2024 02:00:00 +0100"
       }
     ],
     [
@@ -87,13 +101,6 @@
     ],
     [
       {
-        "title": "Bingolottos uppesittarkväll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bingolottos%20uppesittarkv%C3%A4ll",
-        "pubdate": "Mon, 23 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rim",
         "pubdate": "Mon, 23 Dec 2024 21:00:00 +0100"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Bingolotto uppesittarkväll",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bingolotto%20uppesittarkv%C3%A4ll",
-        "pubdate": "Sun, 22 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Uppesittarkväll 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Uppesittarkv%C3%A4ll%202024",
         "pubdate": "Sun, 22 Dec 2024 12:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
-        "pubdate": "Sun, 22 Dec 2024 19:00:00 +0100"
+        "title": "Bingolotto uppesittarkväll",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bingolotto%20uppesittarkv%C3%A4ll",
+        "pubdate": "Sun, 22 Dec 2024 14:00:00 +0100"
       }
     ]
   ]
