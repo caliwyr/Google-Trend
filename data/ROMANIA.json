@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "24-12-2024 , 22:41:35",
+  "lastUpdate": "24-12-2024 , 22:50:50",
   "data": [
+    [
+      {
+        "title": "Home Alone",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Home%20Alone",
+        "pubdate": "Wed, 25 Dec 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Turnul Eiffel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Turnul%20Eiffel",
+        "pubdate": "Wed, 25 Dec 2024 00:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Steaua sus rasare",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Steaua%20sus%20rasare",
         "pubdate": "Tue, 24 Dec 2024 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Craciun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Craciun",
+        "pubdate": "Tue, 24 Dec 2024 19:00:00 +0200"
       }
     ],
     [
@@ -17,9 +38,9 @@
     ],
     [
       {
-        "title": "NORAD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#NORAD",
-        "pubdate": "Tue, 24 Dec 2024 19:00:00 +0200"
+        "title": "Cristela Georgescu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Cristela%20Georgescu",
+        "pubdate": "Tue, 24 Dec 2024 22:00:00 +0200"
       }
     ],
     [
@@ -45,9 +66,9 @@
     ],
     [
       {
-        "title": "Marcel Ciolacu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Marcel%20Ciolacu",
-        "pubdate": "Tue, 24 Dec 2024 01:00:00 +0200"
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Michael%20Schumacher",
+        "pubdate": "Tue, 24 Dec 2024 11:00:00 +0200"
       }
     ],
     [
@@ -55,13 +76,6 @@
         "title": "The Hum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#The%20Hum",
         "pubdate": "Tue, 24 Dec 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Michael%20Schumacher",
-        "pubdate": "Tue, 24 Dec 2024 11:00:00 +0200"
       }
     ],
     [
@@ -87,8 +101,15 @@
     ],
     [
       {
-        "title": "Sărbători fericite",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#S%C4%83rb%C4%83tori%20fericite",
+        "title": "City Park mall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#City%20Park%20mall",
+        "pubdate": "Tue, 24 Dec 2024 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Razvan Sava",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Razvan%20Sava",
         "pubdate": "Tue, 24 Dec 2024 19:00:00 +0200"
       }
     ],
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Colinde craciun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Colinde%20craciun",
-        "pubdate": "Tue, 24 Dec 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Strasbourg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Strasbourg",
         "pubdate": "Tue, 24 Dec 2024 21:00:00 +0200"
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Colinde craciun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Colinde%20craciun",
+        "pubdate": "Tue, 24 Dec 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bill Clinton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bill%20Clinton",
         "pubdate": "Tue, 24 Dec 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Vivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vivo",
-        "pubdate": "Tue, 24 Dec 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Craciun fericit!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Craciun%20fericit!",
-        "pubdate": "Mon, 23 Dec 2024 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Poli Iași - FCSB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Poli%20Ia%C8%99i%20-%20FCSB",
-        "pubdate": "Mon, 23 Dec 2024 20:00:00 +0200"
       }
     ]
   ]
