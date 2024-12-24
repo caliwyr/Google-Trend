@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-12-2024 , 16:47:11",
+  "lastUpdate": "24-12-2024 , 16:56:34",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Tháp Eiffel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%C3%A1p%20Eiffel",
+        "title": "Tháp Eiffel bốc cháy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Th%C3%A1p%20Eiffel%20b%E1%BB%91c%20ch%C3%A1y",
         "pubdate": "Tue, 24 Dec 2024 20:00:00 +0700"
       }
     ],
@@ -38,9 +38,16 @@
     ],
     [
       {
+        "title": "Jingle Bell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Jingle%20Bell",
+        "pubdate": "Tue, 24 Dec 2024 14:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Chúc mừng giáng sinh 2024",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ch%C3%BAc%20m%E1%BB%ABng%20gi%C3%A1ng%20sinh%202024",
-        "pubdate": "Tue, 24 Dec 2024 11:00:00 +0700"
+        "pubdate": "Tue, 24 Dec 2024 13:00:00 +0700"
       }
     ],
     [
@@ -80,23 +87,9 @@
     ],
     [
       {
-        "title": "Vietnam vs Singapore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Vietnam%20vs%20Singapore",
-        "pubdate": "Tue, 24 Dec 2024 12:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "DXG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#DXG",
         "pubdate": "Tue, 24 Dec 2024 14:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Nhà thờ Đức Bà",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nh%C3%A0%20th%E1%BB%9D%20%C4%90%E1%BB%A9c%20B%C3%A0",
-        "pubdate": "Tue, 24 Dec 2024 21:00:00 +0700"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Jujutsu Kaisen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Jujutsu%20Kaisen",
         "pubdate": "Tue, 24 Dec 2024 21:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ngày Giáng sinh",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ng%C3%A0y%20Gi%C3%A1ng%20sinh",
+        "pubdate": "Tue, 24 Dec 2024 20:00:00 +0700"
       }
     ]
   ]
