@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2024 , 22:41:52",
+  "lastUpdate": "25-12-2024 , 22:51:15",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "iPhone 16",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#iPhone%2016",
         "pubdate": "Wed, 25 Dec 2024 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lotto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lotto",
+        "pubdate": "Wed, 25 Dec 2024 23:00:00 +0100"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "PlayStation 5",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PlayStation%205",
-        "pubdate": "Wed, 25 Dec 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gladiator 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gladiator%202",
         "pubdate": "Wed, 25 Dec 2024 20:00:00 +0100"
@@ -66,15 +66,15 @@
     ],
     [
       {
-        "title": "Robbie Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robbie%20Williams",
-        "pubdate": "Wed, 25 Dec 2024 17:00:00 +0100"
+        "title": "PlayStation 5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PlayStation%205",
+        "pubdate": "Wed, 25 Dec 2024 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Nintendo Switch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nintendo%20Switch",
+        "title": "Robbie Williams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Robbie%20Williams",
         "pubdate": "Wed, 25 Dec 2024 17:00:00 +0100"
       }
     ],
@@ -83,6 +83,13 @@
         "title": "Squid Game 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Squid%20Game%202",
         "pubdate": "Wed, 25 Dec 2024 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nintendo Switch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nintendo%20Switch",
+        "pubdate": "Wed, 25 Dec 2024 17:00:00 +0100"
       }
     ],
     [
@@ -101,9 +108,23 @@
     ],
     [
       {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NFL",
+        "pubdate": "Wed, 25 Dec 2024 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Dr Martens",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dr%20Martens",
         "pubdate": "Wed, 25 Dec 2024 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Embraer 190",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Embraer%20190",
+        "pubdate": "Wed, 25 Dec 2024 11:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Clarks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clarks",
         "pubdate": "Wed, 25 Dec 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Embraer 190",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Embraer%20190",
-        "pubdate": "Wed, 25 Dec 2024 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Elon%20Musk",
-        "pubdate": "Wed, 25 Dec 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Forrest Gump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Forrest%20Gump",
-        "pubdate": "Wed, 25 Dec 2024 17:00:00 +0100"
       }
     ]
   ]
