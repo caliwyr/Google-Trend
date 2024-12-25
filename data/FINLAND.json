@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2024 , 07:46:59",
+  "lastUpdate": "25-12-2024 , 07:56:28",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "George Michael",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#George%20Michael",
-        "pubdate": "Tue, 24 Dec 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Cristiano Ronaldo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Cristiano%20Ronaldo",
         "pubdate": "Mon, 23 Dec 2024 14:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Merry Christmas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Merry%20Christmas",
         "pubdate": "Mon, 23 Dec 2024 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Christmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Christmas",
+        "pubdate": "Mon, 23 Dec 2024 19:00:00 +0200"
       }
     ]
   ]
