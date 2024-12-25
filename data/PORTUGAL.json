@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-12-2024 , 17:49:18",
+  "lastUpdate": "25-12-2024 , 17:58:33",
   "data": [
     [
       {
         "title": "Grinch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Grinch",
         "pubdate": "Wed, 25 Dec 2024 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Saldos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Saldos",
+        "pubdate": "Wed, 25 Dec 2024 11:00:00 +0000"
       }
     ],
     [
@@ -24,6 +31,20 @@
     ],
     [
       {
+        "title": "Campus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Campus",
+        "pubdate": "Wed, 25 Dec 2024 17:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Samba",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Samba",
+        "pubdate": "Wed, 25 Dec 2024 17:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Sophie Hediger",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sophie%20Hediger",
         "pubdate": "Wed, 25 Dec 2024 00:00:00 +0000"
@@ -38,13 +59,6 @@
     ],
     [
       {
-        "title": "Torre Eiffel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Torre%20Eiffel",
-        "pubdate": "Wed, 25 Dec 2024 02:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Goucha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Goucha",
         "pubdate": "Wed, 25 Dec 2024 16:00:00 +0000"
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "Onde esta o Pai Natal agora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Onde%20esta%20o%20Pai%20Natal%20agora",
-        "pubdate": "Wed, 25 Dec 2024 01:00:00 +0000"
+        "title": "Torre Eiffel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Torre%20Eiffel",
+        "pubdate": "Wed, 25 Dec 2024 02:00:00 +0000"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Ceia de Natal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ceia%20de%20Natal",
         "pubdate": "Tue, 24 Dec 2024 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Mickael Carreira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mickael%20Carreira",
-        "pubdate": "Tue, 24 Dec 2024 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Starlink",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Starlink",
-        "pubdate": "Tue, 24 Dec 2024 20:00:00 +0000"
       }
     ]
   ]
