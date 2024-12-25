@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2024 , 10:51:35",
+  "lastUpdate": "25-12-2024 , 11:04:46",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Santa Claus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Santa%20Claus",
         "pubdate": "Wed, 25 Dec 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Papst Franziskus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Papst%20Franziskus",
+        "pubdate": "Wed, 25 Dec 2024 11:00:00 +0100"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Stille Nacht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stille%20Nacht",
-        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0100"
+        "title": "Graz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Graz",
+        "pubdate": "Tue, 24 Dec 2024 08:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Graz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Graz",
-        "pubdate": "Tue, 24 Dec 2024 08:00:00 +0100"
+        "title": "Stille Nacht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stille%20Nacht",
+        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0100"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Kevin Allein zu Haus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Kevin%20Allein%20zu%20Haus",
         "pubdate": "Tue, 24 Dec 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Weihnachtsgrüsse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Weihnachtsgr%C3%BCsse",
-        "pubdate": "Tue, 24 Dec 2024 09:00:00 +0100"
       }
     ],
     [
@@ -94,23 +94,9 @@
     ],
     [
       {
-        "title": "Trump Grönland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Trump%20Gr%C3%B6nland",
-        "pubdate": "Tue, 24 Dec 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Heiligabend",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Heiligabend",
         "pubdate": "Tue, 24 Dec 2024 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Joyeux Noël",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Joyeux%20No%C3%ABl",
-        "pubdate": "Tue, 24 Dec 2024 12:00:00 +0100"
       }
     ],
     [
@@ -122,13 +108,6 @@
     ],
     [
       {
-        "title": "Oh Tannenbaum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oh%20Tannenbaum",
-        "pubdate": "Tue, 24 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Aschenbrödel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Aschenbr%C3%B6del",
         "pubdate": "Tue, 24 Dec 2024 17:00:00 +0100"
@@ -136,9 +115,30 @@
     ],
     [
       {
+        "title": "Oh Tannenbaum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Oh%20Tannenbaum",
+        "pubdate": "Tue, 24 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Stromausfall Flims",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Stromausfall%20Flims",
         "pubdate": "Tue, 24 Dec 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Weihnachtsgrüße",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Weihnachtsgr%C3%BC%C3%9Fe",
+        "pubdate": "Tue, 24 Dec 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Fröhliche Weihnachten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fr%C3%B6hliche%20Weihnachten",
+        "pubdate": "Tue, 24 Dec 2024 14:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-12-2024 , 10:51:28",
+  "lastUpdate": "25-12-2024 , 11:04:40",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Clarks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clarks",
         "pubdate": "Wed, 25 Dec 2024 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ugg tasman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ugg%20tasman",
+        "pubdate": "Wed, 25 Dec 2024 01:00:00 +0100"
       }
     ],
     [
@@ -80,15 +87,22 @@
     ],
     [
       {
-        "title": "Bethlehem",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bethlehem",
-        "pubdate": "Tue, 24 Dec 2024 22:00:00 +0100"
+        "title": "Peter Pan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Peter%20Pan",
+        "pubdate": "Tue, 24 Dec 2024 17:00:00 +0100"
       }
     ],
     [
       {
         "title": "West Side Story",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#West%20Side%20Story",
+        "pubdate": "Tue, 24 Dec 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bethlehem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bethlehem",
         "pubdate": "Tue, 24 Dec 2024 22:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "And",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#And",
         "pubdate": "Mon, 23 Dec 2024 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mariah Carey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mariah%20Carey",
-        "pubdate": "Mon, 23 Dec 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bruce Willis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bruce%20Willis",
-        "pubdate": "Mon, 23 Dec 2024 09:00:00 +0100"
       }
     ]
   ]
