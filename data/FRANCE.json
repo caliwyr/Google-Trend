@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-12-2024 , 02:39:57",
+  "lastUpdate": "26-12-2024 , 03:03:03",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Chapon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Chapon",
-        "pubdate": "Tue, 24 Dec 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pere noel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pere%20noel",
         "pubdate": "Tue, 24 Dec 2024 19:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Cargo russe mediterranee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cargo%20russe%20mediterranee",
         "pubdate": "Tue, 24 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tour Eiffel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tour%20Eiffel",
+        "pubdate": "Tue, 24 Dec 2024 18:00:00 +0100"
       }
     ]
   ]
