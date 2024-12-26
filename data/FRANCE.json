@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-12-2024 , 13:49:34",
+  "lastUpdate": "26-12-2024 , 13:58:52",
   "data": [
+    [
+      {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#NBA",
+        "pubdate": "Thu, 26 Dec 2024 10:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "NFL",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "Avalanches aux Arcs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Avalanches%20aux%20Arcs",
-        "pubdate": "Thu, 26 Dec 2024 11:00:00 +0100"
+        "title": "Boxing Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Boxing%20Day",
+        "pubdate": "Thu, 26 Dec 2024 09:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Boxing Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Boxing%20Day",
-        "pubdate": "Thu, 26 Dec 2024 09:00:00 +0100"
+        "title": "Avalanches aux Arcs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Avalanches%20aux%20Arcs",
+        "pubdate": "Thu, 26 Dec 2024 11:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Pierre Niney",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierre%20Niney",
-        "pubdate": "Wed, 25 Dec 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Goa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Goa",
         "pubdate": "Wed, 25 Dec 2024 21:00:00 +0100"
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "NBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#NBA",
-        "pubdate": "Tue, 24 Dec 2024 17:00:00 +0100"
+        "title": "Patrick Bruel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Patrick%20Bruel",
+        "pubdate": "Wed, 25 Dec 2024 16:00:00 +0100"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Wembanyama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Wembanyama",
+        "pubdate": "Tue, 24 Dec 2024 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pere noel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pere%20noel",
         "pubdate": "Tue, 24 Dec 2024 19:00:00 +0100"
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Cargo russe mediterranee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cargo%20russe%20mediterranee",
+        "title": "Cargo russe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cargo%20russe",
         "pubdate": "Tue, 24 Dec 2024 17:00:00 +0100"
       }
     ],
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Noël",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#No%C3%ABl",
-        "pubdate": "Tue, 24 Dec 2024 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Gouvernement Bayrou",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gouvernement%20Bayrou",
-        "pubdate": "Mon, 23 Dec 2024 19:00:00 +0100"
+        "title": "Noel 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Noel%202024",
+        "pubdate": "Tue, 24 Dec 2024 15:00:00 +0100"
       }
     ]
   ]
