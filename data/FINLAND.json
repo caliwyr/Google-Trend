@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "26-12-2024 , 08:49:15",
+  "lastUpdate": "26-12-2024 , 08:58:40",
   "data": [
     [
       {
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "NBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NBA",
+        "pubdate": "Thu, 26 Dec 2024 07:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tom Hanks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tom%20Hanks",
         "pubdate": "Thu, 26 Dec 2024 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Hudson Meek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hudson%20Meek",
+        "pubdate": "Thu, 26 Dec 2024 10:00:00 +0200"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Boxing Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Boxing%20Day",
+        "pubdate": "Wed, 25 Dec 2024 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Stanley Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Stanley%20Cup",
         "pubdate": "Wed, 25 Dec 2024 10:00:00 +0200"
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Boxing Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Boxing%20Day",
-        "pubdate": "Wed, 25 Dec 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Elf movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elf%20movie",
         "pubdate": "Wed, 25 Dec 2024 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Squid Game' Season 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Squid%20Game'%20Season%202",
-        "pubdate": "Tue, 24 Dec 2024 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Interstellar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Interstellar",
-        "pubdate": "Tue, 24 Dec 2024 01:00:00 +0200"
       }
     ]
   ]
