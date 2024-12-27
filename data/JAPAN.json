@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "27-12-2024 , 09:41:07",
+  "lastUpdate": "27-12-2024 , 09:50:32",
   "data": [
     [
       {
         "title": "ぐるナイ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%81%90%E3%82%8B%E3%83%8A%E3%82%A4",
+        "pubdate": "Fri, 27 Dec 2024 00:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "Mステ タイムテーブル",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#M%E3%82%B9%E3%83%86%20%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB",
+        "pubdate": "Fri, 27 Dec 2024 02:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "星ひとみ 占い",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%98%9F%E3%81%B2%E3%81%A8%E3%81%BF%20%E5%8D%A0%E3%81%84",
         "pubdate": "Fri, 27 Dec 2024 00:00:00 +0900"
       }
     ],
@@ -24,6 +38,13 @@
     ],
     [
       {
+        "title": "マンチェスターシティ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%9E%E3%83%B3%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%86%E3%82%A3",
+        "pubdate": "Fri, 27 Dec 2024 01:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "プロセカ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%97%E3%83%AD%E3%82%BB%E3%82%AB",
         "pubdate": "Fri, 27 Dec 2024 09:00:00 +0900"
@@ -38,16 +59,16 @@
     ],
     [
       {
-        "title": "牧野フライス",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%89%A7%E9%87%8E%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B9",
-        "pubdate": "Fri, 27 Dec 2024 16:00:00 +0900"
+        "title": "ナカイの窓",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%8A%E3%82%AB%E3%82%A4%E3%81%AE%E7%AA%93",
+        "pubdate": "Fri, 27 Dec 2024 17:00:00 +0900"
       }
     ],
     [
       {
-        "title": "ナカイの窓",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%8A%E3%82%AB%E3%82%A4%E3%81%AE%E7%AA%93",
-        "pubdate": "Fri, 27 Dec 2024 17:00:00 +0900"
+        "title": "牧野フライス",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%89%A7%E9%87%8E%E3%83%95%E3%83%A9%E3%82%A4%E3%82%B9",
+        "pubdate": "Fri, 27 Dec 2024 16:00:00 +0900"
       }
     ],
     [
@@ -62,13 +83,6 @@
         "title": "JAL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#JAL",
         "pubdate": "Thu, 26 Dec 2024 11:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "Mステ タイムテーブル",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#M%E3%82%B9%E3%83%86%20%E3%82%BF%E3%82%A4%E3%83%A0%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB",
-        "pubdate": "Thu, 26 Dec 2024 21:00:00 +0900"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "ホラン千秋",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%9B%E3%83%A9%E3%83%B3%E5%8D%83%E7%A7%8B",
-        "pubdate": "Thu, 26 Dec 2024 22:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "氷川きよし",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%B0%B7%E5%B7%9D%E3%81%8D%E3%82%88%E3%81%97",
         "pubdate": "Thu, 26 Dec 2024 23:00:00 +0900"
@@ -132,13 +139,6 @@
         "title": "中居正広",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%B8%AD%E5%B1%85%E6%AD%A3%E5%BA%83",
         "pubdate": "Wed, 25 Dec 2024 20:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "田中将大",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%94%B0%E4%B8%AD%E5%B0%86%E5%A4%A7",
-        "pubdate": "Wed, 25 Dec 2024 23:00:00 +0900"
       }
     ]
   ]
