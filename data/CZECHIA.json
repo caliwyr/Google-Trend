@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2024 , 11:45:10",
+  "lastUpdate": "27-12-2024 , 11:54:22",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Hokej dnes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hokej%20dnes",
         "pubdate": "Fri, 27 Dec 2024 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Premier%20League",
+        "pubdate": "Thu, 26 Dec 2024 15:00:00 +0100"
       }
     ],
     [
@@ -131,13 +138,6 @@
       {
         "title": "Newcastle – Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Newcastle%20%E2%80%93%20Aston%20Villa",
-        "pubdate": "Thu, 26 Dec 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20City",
         "pubdate": "Thu, 26 Dec 2024 18:00:00 +0100"
       }
     ]
