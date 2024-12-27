@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2024 , 19:43:05",
+  "lastUpdate": "27-12-2024 , 19:52:24",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Sismo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sismo",
+        "pubdate": "Fri, 27 Dec 2024 14:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "PPR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#PPR",
         "pubdate": "Fri, 27 Dec 2024 14:00:00 +0000"
       }
     ],
@@ -66,6 +73,13 @@
     ],
     [
       {
+        "title": "OpenAI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#OpenAI",
+        "pubdate": "Fri, 27 Dec 2024 11:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Aursnes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Aursnes",
         "pubdate": "Fri, 27 Dec 2024 15:00:00 +0000"
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Baba Vanga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Baba%20Vanga",
+        "pubdate": "Fri, 27 Dec 2024 19:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Wolves  Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Wolves%20%20Manchester%20United",
         "pubdate": "Thu, 26 Dec 2024 17:00:00 +0000"
@@ -108,37 +129,16 @@
     ],
     [
       {
+        "title": "Lotaria de Natal 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lotaria%20de%20Natal%202024",
+        "pubdate": "Thu, 26 Dec 2024 18:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Premier%20League",
         "pubdate": "Thu, 26 Dec 2024 14:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "City  Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#City%20%20Everton",
-        "pubdate": "Thu, 26 Dec 2024 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Mango",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Mango",
-        "pubdate": "Thu, 26 Dec 2024 14:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Bershka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Bershka",
-        "pubdate": "Thu, 26 Dec 2024 14:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool  Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool%20%20Leicester%20City",
-        "pubdate": "Thu, 26 Dec 2024 20:00:00 +0000"
       }
     ]
   ]
