@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2024 , 14:49:35",
+  "lastUpdate": "27-12-2024 , 14:58:53",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Cunha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Cunha",
+        "pubdate": "Fri, 27 Dec 2024 02:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "LaLiga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#LaLiga",
         "pubdate": "Fri, 27 Dec 2024 01:00:00 +0300"
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Matheus Cunha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Matheus%20Cunha",
-        "pubdate": "Fri, 27 Dec 2024 09:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Crystal%20Palace",
         "pubdate": "Fri, 27 Dec 2024 02:00:00 +0300"
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Liverpool vs Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20vs%20Leicester%20City",
-        "pubdate": "Thu, 26 Dec 2024 15:00:00 +0300"
+        "title": "Man City vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Everton",
+        "pubdate": "Thu, 26 Dec 2024 10:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Man City vs Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Everton",
-        "pubdate": "Thu, 26 Dec 2024 10:00:00 +0300"
+        "title": "Liverpool vs Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20vs%20Leicester%20City",
+        "pubdate": "Thu, 26 Dec 2024 15:00:00 +0300"
       }
     ],
     [
@@ -108,8 +108,15 @@
     ],
     [
       {
-        "title": "Squid Game Season 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Squid%20Game%20Season%202",
+        "title": "Premier League standings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Premier%20League%20standings",
+        "pubdate": "Thu, 26 Dec 2024 21:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Squid Game season 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Squid%20Game%20season%202",
         "pubdate": "Thu, 26 Dec 2024 09:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NBA",
         "pubdate": "Thu, 26 Dec 2024 15:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "English Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#English%20Premier%20League",
-        "pubdate": "Thu, 26 Dec 2024 21:00:00 +0300"
       }
     ]
   ]
