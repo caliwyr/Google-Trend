@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-12-2024 , 15:32:46",
+  "lastUpdate": "27-12-2024 , 15:42:01",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "OpenAI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OpenAI",
+        "pubdate": "Fri, 27 Dec 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Marcali",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marcali",
         "pubdate": "Fri, 27 Dec 2024 08:00:00 +0100"
@@ -48,6 +55,13 @@
         "title": "Lada Niva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lada%20Niva",
         "pubdate": "Fri, 27 Dec 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Parkolás Budapest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Parkol%C3%A1s%20Budapest",
+        "pubdate": "Fri, 27 Dec 2024 15:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Jude Law",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jude%20Law",
         "pubdate": "Thu, 26 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Donald%20Trump",
-        "pubdate": "Thu, 26 Dec 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Szilveszteri programok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szilveszteri%20programok",
-        "pubdate": "Thu, 26 Dec 2024 12:00:00 +0100"
       }
     ]
   ]
