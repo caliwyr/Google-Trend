@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "28-12-2024 , 17:37:01",
+  "lastUpdate": "28-12-2024 , 17:46:15",
   "data": [
     [
       {
         "title": "Semmering",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Semmering",
         "pubdate": "Sat, 28 Dec 2024 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bormio-Abfahrt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bormio-Abfahrt",
-        "pubdate": "Sat, 28 Dec 2024 11:00:00 +0100"
       }
     ],
     [
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Bormio-Abfahrt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bormio-Abfahrt",
+        "pubdate": "Sat, 28 Dec 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Magnus Carlsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Magnus%20Carlsen",
         "pubdate": "Sat, 28 Dec 2024 12:00:00 +0100"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Schnee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schnee",
-        "pubdate": "Sat, 28 Dec 2024 01:00:00 +0100"
+        "title": "Prinz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Prinz",
+        "pubdate": "Sat, 28 Dec 2024 14:00:00 +0100"
       }
     ],
     [
@@ -73,8 +73,15 @@
     ],
     [
       {
-        "title": "Flugzeugabsturz Aserbaidschan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Flugzeugabsturz%20Aserbaidschan",
+        "title": "Oberstdorf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Oberstdorf",
+        "pubdate": "Sat, 28 Dec 2024 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Flugzeugabsturz aserbaidschan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Flugzeugabsturz%20aserbaidschan",
         "pubdate": "Sat, 28 Dec 2024 17:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Elon Musk Wikipedia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Elon%20Musk%20Wikipedia",
         "pubdate": "Fri, 27 Dec 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Squid Game Staffel 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Squid%20Game%20Staffel%203",
-        "pubdate": "Fri, 27 Dec 2024 01:00:00 +0100"
       }
     ]
   ]
