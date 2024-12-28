@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-12-2024 , 14:39:42",
+  "lastUpdate": "28-12-2024 , 14:49:08",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Et",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Et",
         "pubdate": "Sat, 28 Dec 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Magnus Carlsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Magnus%20Carlsen",
+        "pubdate": "Sat, 28 Dec 2024 15:00:00 +0100"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Daniel Mathy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Daniel%20Mathy",
+        "pubdate": "Fri, 27 Dec 2024 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ongeval Mechelen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ongeval%20Mechelen",
         "pubdate": "Fri, 27 Dec 2024 14:00:00 +0100"
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Loenhout cross",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Loenhout%20cross",
+        "pubdate": "Fri, 27 Dec 2024 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Cecilia Sala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cecilia%20Sala",
         "pubdate": "Fri, 27 Dec 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Knokke Off 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Knokke%20Off%202",
-        "pubdate": "Fri, 27 Dec 2024 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mechelen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Mechelen",
-        "pubdate": "Fri, 27 Dec 2024 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Will Tura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Will%20Tura",
-        "pubdate": "Fri, 27 Dec 2024 00:00:00 +0100"
       }
     ]
   ]
