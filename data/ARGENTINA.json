@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-12-2024 , 03:39:01",
+  "lastUpdate": "28-12-2024 , 03:48:18",
   "data": [
+    [
+      {
+        "title": "Clima Mendoza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Clima%20Mendoza",
+        "pubdate": "Sat, 28 Dec 2024 00:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Arsenal - Ipswich",
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "Gordo de Navidad 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gordo%20de%20Navidad%202024",
+        "pubdate": "Fri, 27 Dec 2024 22:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Brighton  Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brighton%20%20Brentford",
         "pubdate": "Fri, 27 Dec 2024 17:00:00 -0300"
@@ -34,13 +48,6 @@
         "title": "Culpa mia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Culpa%20mia",
         "pubdate": "Fri, 27 Dec 2024 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Gordo de Navidad 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Gordo%20de%20Navidad%202024",
-        "pubdate": "Fri, 27 Dec 2024 22:00:00 -0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Liverpool  Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Liverpool%20%20Leicester%20City",
         "pubdate": "Thu, 26 Dec 2024 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea - Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Chelsea%20-%20Fulham",
-        "pubdate": "Thu, 26 Dec 2024 12:00:00 -0300"
       }
     ]
   ]
