@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-12-2024 , 11:36:23",
+  "lastUpdate": "28-12-2024 , 11:45:41",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "New York Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#New%20York%20Times",
         "pubdate": "Sat, 28 Dec 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Klepp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Klepp",
+        "pubdate": "Sat, 28 Dec 2024 11:00:00 +0100"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Ina Wroldsen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ina%20Wroldsen",
-        "pubdate": "Fri, 27 Dec 2024 00:00:00 +0100"
+        "title": "Bormio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bormio",
+        "pubdate": "Fri, 27 Dec 2024 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Bormio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bormio",
-        "pubdate": "Fri, 27 Dec 2024 20:00:00 +0100"
+        "title": "Ina Wroldsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ina%20Wroldsen",
+        "pubdate": "Fri, 27 Dec 2024 00:00:00 +0100"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Vol.no",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vol.no",
+        "pubdate": "Fri, 27 Dec 2024 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hadsel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hadsel",
         "pubdate": "Thu, 26 Dec 2024 15:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Liverpool mot Leicester",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20mot%20Leicester",
         "pubdate": "Thu, 26 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool",
-        "pubdate": "Thu, 26 Dec 2024 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jonas Gahr Støre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Jonas%20Gahr%20St%C3%B8re",
-        "pubdate": "Thu, 26 Dec 2024 17:00:00 +0100"
       }
     ]
   ]
