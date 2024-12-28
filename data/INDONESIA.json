@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-12-2024 , 07:43:35",
+  "lastUpdate": "28-12-2024 , 07:52:47",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Oxford United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Oxford%20United",
+        "pubdate": "Fri, 27 Dec 2024 00:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Bournemouth",
         "pubdate": "Fri, 27 Dec 2024 00:00:00 +0700"
@@ -132,13 +139,6 @@
         "title": "Cole Palmer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Cole%20Palmer",
         "pubdate": "Fri, 27 Dec 2024 11:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Wolves vs Man Utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Wolves%20vs%20Man%20Utd",
-        "pubdate": "Thu, 26 Dec 2024 22:00:00 +0700"
       }
     ]
   ]
