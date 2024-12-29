@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2024 , 05:39:15",
+  "lastUpdate": "29-12-2024 , 05:48:31",
   "data": [
     [
       {
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Culpa Tuya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Culpa%20Tuya",
-        "pubdate": "Fri, 27 Dec 2024 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "IIHF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#IIHF",
         "pubdate": "Fri, 27 Dec 2024 12:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Eagle S",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eagle%20S",
         "pubdate": "Thu, 26 Dec 2024 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Premier%20League",
+        "pubdate": "Thu, 26 Dec 2024 15:00:00 +0200"
       }
     ]
   ]
