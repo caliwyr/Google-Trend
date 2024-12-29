@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2024 , 22:41:21",
+  "lastUpdate": "29-12-2024 , 22:50:41",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
+        "pubdate": "Sun, 29 Dec 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Tottenham x Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Tottenham%20x%20Wolves",
         "pubdate": "Sun, 29 Dec 2024 10:00:00 -0500"
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
+        "title": "Sporting x Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting%20x%20Benfica",
         "pubdate": "Sun, 29 Dec 2024 13:00:00 -0500"
       }
     ],
@@ -52,15 +59,8 @@
     ],
     [
       {
-        "title": "Sporting x Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting%20x%20Benfica",
-        "pubdate": "Sun, 29 Dec 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Ruyter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ruyter",
+        "title": "Ruyter Poubel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ruyter%20Poubel",
         "pubdate": "Sun, 29 Dec 2024 13:00:00 -0500"
       }
     ],
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Voldemort",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Voldemort",
-        "pubdate": "Sun, 29 Dec 2024 13:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Braga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Braga",
         "pubdate": "Sun, 29 Dec 2024 15:00:00 -0500"
@@ -87,9 +80,16 @@
     ],
     [
       {
-        "title": "Udinese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Udinese",
-        "pubdate": "Sun, 29 Dec 2024 09:00:00 -0500"
+        "title": "Voldemort",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Voldemort",
+        "pubdate": "Sun, 29 Dec 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Jimmy Carter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jimmy%20Carter",
+        "pubdate": "Sun, 29 Dec 2024 17:00:00 -0500"
       }
     ],
     [
@@ -97,6 +97,13 @@
         "title": "Nottingham Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nottingham%20Forest",
         "pubdate": "Sun, 29 Dec 2024 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Udinese",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Udinese",
+        "pubdate": "Sun, 29 Dec 2024 09:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Inter de Milão",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
         "pubdate": "Sat, 28 Dec 2024 09:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Peru ondas gigantes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Peru%20ondas%20gigantes",
-        "pubdate": "Sat, 28 Dec 2024 14:00:00 -0500"
       }
     ]
   ]
