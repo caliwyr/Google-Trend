@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-12-2024 , 03:25:11",
+  "lastUpdate": "29-12-2024 , 03:42:54",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Ember Márk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ember%20M%C3%A1rk",
         "pubdate": "Sat, 28 Dec 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Balázs Klári",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bal%C3%A1zs%20Kl%C3%A1ri",
-        "pubdate": "Sat, 28 Dec 2024 20:00:00 +0100"
       }
     ],
     [
@@ -66,6 +59,13 @@
     ],
     [
       {
+        "title": "Korda György",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Korda%20Gy%C3%B6rgy",
+        "pubdate": "Sat, 28 Dec 2024 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Szlovákia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szlov%C3%A1kia",
         "pubdate": "Sat, 28 Dec 2024 12:00:00 +0100"
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Cecilia Sala",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Cecilia%20Sala",
-        "pubdate": "Sat, 28 Dec 2024 02:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Beer Miklós",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Beer%20Mikl%C3%B3s",
         "pubdate": "Sat, 28 Dec 2024 01:00:00 +0100"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Schäfer András",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sch%C3%A4fer%20Andr%C3%A1s",
-        "pubdate": "Sat, 28 Dec 2024 06:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Koncz Zsófia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Koncz%20Zs%C3%B3fia",
         "pubdate": "Sat, 28 Dec 2024 22:00:00 +0100"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Schäfer András",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sch%C3%A4fer%20Andr%C3%A1s",
+        "pubdate": "Sat, 28 Dec 2024 06:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tündérkert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%BCnd%C3%A9rkert",
         "pubdate": "Sat, 28 Dec 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Herendi Gábor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Herendi%20G%C3%A1bor",
+        "pubdate": "Sat, 28 Dec 2024 20:00:00 +0100"
       }
     ]
   ]
