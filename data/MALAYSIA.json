@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-12-2024 , 18:48:38",
+  "lastUpdate": "31-12-2024 , 18:58:01",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Time",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Time",
+        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Clock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Clock",
         "pubdate": "Wed, 01 Jan 2025 01:00:00 +0800"
       }
     ],
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "New Zealand vs Sri Lanka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#New%20Zealand%20vs%20Sri%20Lanka",
-        "pubdate": "Mon, 30 Dec 2024 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Benjamin Netanyahu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Benjamin%20Netanyahu",
-        "pubdate": "Mon, 30 Dec 2024 11:00:00 +0800"
+        "title": "BPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#BPL",
+        "pubdate": "Mon, 30 Dec 2024 16:00:00 +0800"
       }
     ]
   ]
