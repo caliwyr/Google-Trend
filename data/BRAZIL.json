@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "31-12-2024 , 07:30:23",
+  "lastUpdate": "31-12-2024 , 07:39:37",
   "data": [
+    [
+      {
+        "title": "Véspera de Ano Novo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#V%C3%A9spera%20de%20Ano%20Novo",
+        "pubdate": "Tue, 31 Dec 2024 01:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Mega da Virada",
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Aston VIlla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aston%20VIlla",
-        "pubdate": "Mon, 30 Dec 2024 08:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Reveillon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Reveillon",
         "pubdate": "Mon, 30 Dec 2024 22:00:00 -0500"
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Sobremesa Ano Novo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sobremesa%20Ano%20Novo",
-        "pubdate": "Mon, 30 Dec 2024 12:00:00 -0500"
+        "title": "Aston VIlla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aston%20VIlla",
+        "pubdate": "Mon, 30 Dec 2024 08:00:00 -0500"
       }
     ],
     [
@@ -108,9 +108,16 @@
     ],
     [
       {
-        "title": "Como fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Como%20fc",
+        "title": "Como F.C",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Como%20F.C",
         "pubdate": "Mon, 30 Dec 2024 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#United",
+        "pubdate": "Mon, 30 Dec 2024 17:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "João Fonseca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jo%C3%A3o%20Fonseca",
         "pubdate": "Mon, 30 Dec 2024 22:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Everton",
-        "pubdate": "Mon, 30 Dec 2024 08:00:00 -0500"
       }
     ]
   ]
