@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "01-01-2025 , 14:55:12",
+  "lastUpdate": "01-01-2025 , 14:59:30",
   "data": [
     [
       {
         "title": "New Orleans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20Orleans",
         "pubdate": "Wed, 01 Jan 2025 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Auld lang syne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Auld%20lang%20syne",
-        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0800"
       }
     ],
     [
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "New Year 2025 greetings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20Year%202025%20greetings",
-        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0800"
+        "title": "Auld lang syne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Auld%20lang%20syne",
+        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "South Korea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#South%20Korea",
         "pubdate": "Sat, 28 Dec 2024 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Magnus Carlsen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Magnus%20Carlsen",
+        "pubdate": "Sat, 28 Dec 2024 17:00:00 +0800"
       }
     ]
   ]
