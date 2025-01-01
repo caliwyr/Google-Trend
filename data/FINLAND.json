@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2025 , 21:50:03",
+  "lastUpdate": "01-01-2025 , 21:59:21",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Fireworks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fireworks",
+        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Clock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Clock",
         "pubdate": "Wed, 01 Jan 2025 01:00:00 +0200"
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Happy New Year 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Happy%20New%20Year%202025",
+        "title": "Happy New Year - 2025!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Happy%20New%20Year%20-%202025!",
         "pubdate": "Tue, 31 Dec 2024 12:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Intrum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Intrum",
         "pubdate": "Tue, 31 Dec 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tina",
-        "pubdate": "Tue, 31 Dec 2024 21:00:00 +0200"
       }
     ]
   ]
