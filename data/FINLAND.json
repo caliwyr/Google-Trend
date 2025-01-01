@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-01-2025 , 11:49:03",
+  "lastUpdate": "01-01-2025 , 11:58:33",
   "data": [
+    [
+      {
+        "title": "Fireworks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fireworks",
+        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Clock",
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Happy New Year 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Happy%20New%20Year%202025",
+        "title": "Happy New Year - 2025!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Happy%20New%20Year%20-%202025!",
         "pubdate": "Tue, 31 Dec 2024 12:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "IIHF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#IIHF",
         "pubdate": "Mon, 30 Dec 2024 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Adenovirus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Adenovirus",
-        "pubdate": "Mon, 30 Dec 2024 22:00:00 +0200"
       }
     ]
   ]
