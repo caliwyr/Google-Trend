@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-01-2025 , 04:54:11",
+  "lastUpdate": "01-01-2025 , 05:12:52",
   "data": [
     [
       {
         "title": "Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin",
         "pubdate": "Tue, 31 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Silvester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Silvester",
+        "pubdate": "Tue, 31 Dec 2024 11:00:00 +0100"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Feuerwerk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Feuerwerk",
         "pubdate": "Tue, 31 Dec 2024 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Berlin Silvester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin%20Silvester",
-        "pubdate": "Tue, 31 Dec 2024 21:00:00 +0100"
       }
     ],
     [
