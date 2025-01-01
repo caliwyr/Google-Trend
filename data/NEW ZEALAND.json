@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-01-2025 , 22:53:19",
+  "lastUpdate": "01-01-2025 , 23:10:07",
   "data": [
-    [
-      {
-        "title": "New Orleans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Orleans",
-        "pubdate": "Thu, 02 Jan 2025 08:00:00 +1300"
-      }
-    ],
     [
       {
         "title": "Jocelyn Wildenstein",
@@ -55,6 +48,13 @@
         "title": "A-League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#A-League",
         "pubdate": "Wed, 01 Jan 2025 17:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "New Orleans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Orleans",
+        "pubdate": "Wed, 01 Jan 2025 09:00:00 +1300"
       }
     ],
     [
@@ -129,8 +129,8 @@
     ],
     [
       {
-        "title": "Nz time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nz%20time",
+        "title": "NZ time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZ%20time",
         "pubdate": "Wed, 01 Jan 2025 01:00:00 +1300"
       }
     ],
