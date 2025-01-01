@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2025 , 08:50:55",
+  "lastUpdate": "01-01-2025 , 09:00:16",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Angelo Ricchi e Poveri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angelo%20Ricchi%20e%20Poveri",
+        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "LDA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#LDA",
         "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
@@ -66,15 +73,15 @@
     ],
     [
       {
-        "title": "Orario",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Orario",
+        "title": "Angelo Sotgiu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angelo%20Sotgiu",
         "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Angelo Sotgiu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angelo%20Sotgiu",
+        "title": "Orario",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Orario",
         "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
       }
     ],
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Vasco Rossi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vasco%20Rossi",
-        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
+        "title": "Alemanno",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Alemanno",
+        "pubdate": "Wed, 01 Jan 2025 08:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Angelo Ricchi e Poveri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Angelo%20Ricchi%20e%20Poveri",
-        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
+        "title": "Vasco Rossi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Vasco%20Rossi",
+        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "TAXI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#TAXI",
-        "pubdate": "Wed, 01 Jan 2025 04:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pino Daniele",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Pino%20Daniele",
         "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Ocean's Eleven",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Ocean's%20Eleven",
-        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
+        "title": "TAXI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#TAXI",
+        "pubdate": "Wed, 01 Jan 2025 04:00:00 +0100"
       }
     ]
   ]

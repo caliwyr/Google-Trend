@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2025 , 08:50:55",
+  "lastUpdate": "01-01-2025 , 09:00:16",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#2025",
+        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "箱根駅伝2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%AE%B1%E6%A0%B9%E9%A7%85%E4%BC%9D2025",
         "pubdate": "Wed, 01 Jan 2025 06:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "FGO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#FGO",
+        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0900"
       }
     ],
     [
@@ -45,20 +59,6 @@
     ],
     [
       {
-        "title": "HAPPY NEW YEAR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#HAPPY%20NEW%20YEAR",
-        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "初売り 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%88%9D%E5%A3%B2%E3%82%8A%202025",
-        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "伊勢神宮",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%BC%8A%E5%8B%A2%E7%A5%9E%E5%AE%AE",
         "pubdate": "Wed, 01 Jan 2025 14:00:00 +0900"
@@ -80,23 +80,16 @@
     ],
     [
       {
+        "title": "氷川きよし 紅白",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%B0%B7%E5%B7%9D%E3%81%8D%E3%82%88%E3%81%97%20%E7%B4%85%E7%99%BD",
+        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "鈴木千裕",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%88%B4%E6%9C%A8%E5%8D%83%E8%A3%95",
         "pubdate": "Wed, 01 Jan 2025 02:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "星野源 ばらばら",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%98%9F%E9%87%8E%E6%BA%90%20%E3%81%B0%E3%82%89%E3%81%B0%E3%82%89",
-        "pubdate": "Wed, 01 Jan 2025 02:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "お年玉",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%81%8A%E5%B9%B4%E7%8E%89",
-        "pubdate": "Wed, 01 Jan 2025 09:00:00 +0900"
       }
     ],
     [
@@ -111,6 +104,13 @@
         "title": "Fate/strange Fake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#Fate/strange%20Fake",
         "pubdate": "Wed, 01 Jan 2025 11:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "花園ラグビー",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E8%8A%B1%E5%9C%92%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC",
+        "pubdate": "Wed, 01 Jan 2025 17:00:00 +0900"
       }
     ],
     [
