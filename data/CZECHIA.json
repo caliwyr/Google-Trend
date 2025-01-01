@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2025 , 09:53:34",
+  "lastUpdate": "01-01-2025 , 10:11:58",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Cas",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cas",
         "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Horoskop 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Horoskop%202025",
+        "pubdate": "Wed, 01 Jan 2025 02:00:00 +0100"
       }
     ],
     [
@@ -38,16 +45,9 @@
     ],
     [
       {
-        "title": "Marek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Marek",
+        "title": "Slovenska hymna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slovenska%20hymna",
         "pubdate": "Wed, 01 Jan 2025 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cesko svedsko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cesko%20svedsko",
-        "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
       }
     ],
     [
@@ -55,13 +55,6 @@
         "title": "Ilona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ilona",
         "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Slovenska hymna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slovenska%20hymna",
-        "pubdate": "Wed, 01 Jan 2025 02:00:00 +0100"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Pf 2025 přání",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pf%202025%20p%C5%99%C3%A1n%C3%AD",
+        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Skala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Skala",
         "pubdate": "Wed, 01 Jan 2025 03:00:00 +0100"
@@ -89,6 +89,13 @@
       {
         "title": "Nový rok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nov%C3%BD%20rok",
+        "pubdate": "Tue, 31 Dec 2024 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Stastny novy rok!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Stastny%20novy%20rok!",
         "pubdate": "Tue, 31 Dec 2024 11:00:00 +0100"
       }
     ],
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Eurojackpot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eurojackpot",
-        "pubdate": "Tue, 31 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Čert ví proč",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8Cert%20v%C3%AD%20pro%C4%8D",
         "pubdate": "Tue, 31 Dec 2024 19:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#2025",
-        "pubdate": "Tue, 31 Dec 2024 11:00:00 +0100"
+        "title": "Ohňostroj",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oh%C5%88ostroj",
+        "pubdate": "Tue, 31 Dec 2024 14:00:00 +0100"
       }
     ]
   ]
