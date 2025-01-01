@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-01-2025 , 01:50:12",
+  "lastUpdate": "01-01-2025 , 02:49:14",
   "data": [
     [
       {
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "BPL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#BPL",
-        "pubdate": "Mon, 30 Dec 2024 16:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Benjamin Netanyahu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Benjamin%20Netanyahu",
         "pubdate": "Mon, 30 Dec 2024 11:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Zakat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Zakat",
         "pubdate": "Mon, 30 Dec 2024 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nottingham%20Forest",
+        "pubdate": "Mon, 30 Dec 2024 09:00:00 +0800"
       }
     ]
   ]
