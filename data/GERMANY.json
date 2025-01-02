@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2025 , 14:57:53",
+  "lastUpdate": "02-01-2025 , 15:20:20",
   "data": [
     [
       {
@@ -45,9 +45,16 @@
     ],
     [
       {
-        "title": "Darts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Darts",
+        "title": "Traumschiff",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Traumschiff",
         "pubdate": "Wed, 01 Jan 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Schnee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schnee",
+        "pubdate": "Wed, 01 Jan 2025 18:00:00 +0100"
       }
     ],
     [
@@ -62,6 +69,13 @@
         "title": "Russland Ukraine",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Russland%20Ukraine",
         "pubdate": "Wed, 01 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Florian Silbereisen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Florian%20Silbereisen",
+        "pubdate": "Tue, 31 Dec 2024 21:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "MDR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#MDR",
         "pubdate": "Fri, 20 Dec 2024 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vertrauensfrage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vertrauensfrage",
-        "pubdate": "Mon, 16 Dec 2024 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mpox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mpox",
-        "pubdate": "Mon, 16 Dec 2024 18:00:00 +0100"
       }
     ]
   ]
