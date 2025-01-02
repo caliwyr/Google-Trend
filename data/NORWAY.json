@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2025 , 04:58:13",
+  "lastUpdate": "02-01-2025 , 05:19:58",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Havnaa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Havnaa",
-        "pubdate": "Wed, 01 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal",
         "pubdate": "Wed, 01 Jan 2025 19:00:00 +0100"
@@ -33,6 +26,13 @@
       {
         "title": "Nordlys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nordlys",
+        "pubdate": "Wed, 01 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Havnaa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Havnaa",
         "pubdate": "Wed, 01 Jan 2025 19:00:00 +0100"
       }
     ],
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Wolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wolt",
-        "pubdate": "Wed, 01 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Nyttårskonsert 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nytt%C3%A5rskonsert%202025",
         "pubdate": "Wed, 01 Jan 2025 13:00:00 +0100"
@@ -101,16 +94,16 @@
     ],
     [
       {
-        "title": "Nyttårsforsett",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nytt%C3%A5rsforsett",
-        "pubdate": "Wed, 01 Jan 2025 02:00:00 +0100"
+        "title": "Gypsy Rose",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gypsy%20Rose",
+        "pubdate": "Wed, 01 Jan 2025 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Gypsy Rose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gypsy%20Rose",
-        "pubdate": "Wed, 01 Jan 2025 22:00:00 +0100"
+        "title": "Nyttårsforsett",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Nytt%C3%A5rsforsett",
+        "pubdate": "Wed, 01 Jan 2025 02:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Magnus Carlsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Magnus%20Carlsen",
         "pubdate": "Tue, 31 Dec 2024 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Astrid Øyre Slind",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Astrid%20%C3%98yre%20Slind",
+        "pubdate": "Tue, 31 Dec 2024 17:00:00 +0100"
       }
     ]
   ]

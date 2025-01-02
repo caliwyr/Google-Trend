@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2025 , 04:58:11",
+  "lastUpdate": "02-01-2025 , 05:19:56",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "New Orleans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#New%20Orleans",
+        "pubdate": "Wed, 01 Jan 2025 13:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Darts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Darts",
         "pubdate": "Wed, 01 Jan 2025 15:00:00 +0000"
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Sophie Ellis Bextor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sophie%20Ellis%20Bextor",
+        "title": "Sophie Ellis-Bextor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Sophie%20Ellis-Bextor",
         "pubdate": "Wed, 01 Jan 2025 00:00:00 +0000"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
-        "title": "We Live in Time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#We%20Live%20in%20Time",
-        "pubdate": "Wed, 01 Jan 2025 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Time",
-        "pubdate": "Wed, 01 Jan 2025 00:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Guinness truck stolen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Guinness%20truck%20stolen",
         "pubdate": "Wed, 01 Jan 2025 23:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "We Live in Time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#We%20Live%20in%20Time",
+        "pubdate": "Wed, 01 Jan 2025 20:00:00 +0000"
       }
     ]
   ]
