@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2025 , 19:55:38",
+  "lastUpdate": "02-01-2025 , 20:16:25",
   "data": [
     [
       {
@@ -13,20 +13,6 @@
         "title": "NTTドコモ サイバー攻撃",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#NTT%E3%83%89%E3%82%B3%E3%83%A2%20%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83",
         "pubdate": "Thu, 02 Jan 2025 16:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "スロウトレイン",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%82%B9%E3%83%AD%E3%82%A6%E3%83%88%E3%83%AC%E3%82%A4%E3%83%B3",
-        "pubdate": "Thu, 02 Jan 2025 15:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "大学ラグビー",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A7%E5%AD%A6%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC",
-        "pubdate": "Thu, 02 Jan 2025 15:00:00 +0900"
       }
     ],
     [
@@ -45,6 +31,13 @@
     ],
     [
       {
+        "title": "大学ラグビー",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%A7%E5%AD%A6%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC",
+        "pubdate": "Thu, 02 Jan 2025 15:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "高野山",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E9%AB%98%E9%87%8E%E5%B1%B1",
         "pubdate": "Thu, 02 Jan 2025 16:00:00 +0900"
@@ -55,13 +48,6 @@
         "title": "箱根駅伝 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E7%AE%B1%E6%A0%B9%E9%A7%85%E4%BC%9D%202025",
         "pubdate": "Wed, 01 Jan 2025 06:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "JO1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#JO1",
-        "pubdate": "Wed, 01 Jan 2025 20:00:00 +0900"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "仲里依紗",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E4%BB%B2%E9%87%8C%E4%BE%9D%E7%B4%97",
         "pubdate": "Wed, 01 Jan 2025 20:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "太宰府天満宮",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%A4%AA%E5%AE%B0%E5%BA%9C%E5%A4%A9%E6%BA%80%E5%AE%AE",
+        "pubdate": "Wed, 01 Jan 2025 16:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "年末ジャンボ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B9%B4%E6%9C%AB%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%9C",
+        "pubdate": "Tue, 31 Dec 2024 10:00:00 +0900"
       }
     ]
   ]

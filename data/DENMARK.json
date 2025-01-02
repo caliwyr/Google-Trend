@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2025 , 19:55:36",
+  "lastUpdate": "02-01-2025 , 20:16:22",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Docs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
-        "pubdate": "Thu, 02 Jan 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Su",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Su",
         "pubdate": "Thu, 02 Jan 2025 09:00:00 +0100"
@@ -115,13 +108,6 @@
     ],
     [
       {
-        "title": "Go",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Go",
-        "pubdate": "Thu, 02 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "DAO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#DAO",
         "pubdate": "Thu, 02 Jan 2025 14:00:00 +0100"
@@ -129,9 +115,23 @@
     ],
     [
       {
+        "title": "Go",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Go",
+        "pubdate": "Thu, 02 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mail",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Mail",
         "pubdate": "Thu, 02 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "LVMH",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#LVMH",
+        "pubdate": "Thu, 02 Jan 2025 13:00:00 +0100"
       }
     ],
     [
