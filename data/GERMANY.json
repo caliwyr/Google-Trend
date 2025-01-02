@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2025 , 06:50:03",
+  "lastUpdate": "02-01-2025 , 06:59:37",
   "data": [
     [
       {
@@ -38,20 +38,6 @@
     ],
     [
       {
-        "title": "Michael van Gerwen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Michael%20van%20Gerwen",
-        "pubdate": "Wed, 01 Jan 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nachrichten Berlin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nachrichten%20Berlin",
-        "pubdate": "Wed, 01 Jan 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Cybertruck",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Cybertruck",
         "pubdate": "Wed, 01 Jan 2025 23:00:00 +0100"
@@ -62,6 +48,13 @@
         "title": "Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Berlin",
         "pubdate": "Tue, 31 Dec 2024 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#2025",
+        "pubdate": "Tue, 31 Dec 2024 09:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Vertrauensfrage",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Vertrauensfrage",
         "pubdate": "Mon, 16 Dec 2024 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mpox",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Mpox",
+        "pubdate": "Mon, 16 Dec 2024 18:00:00 +0100"
       }
     ]
   ]
