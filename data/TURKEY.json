@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2025 , 16:00:08",
+  "lastUpdate": "02-01-2025 , 16:28:55",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Aralık ayı enflasyon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Aral%C4%B1k%20ay%C4%B1%20enflasyon",
-        "pubdate": "Thu, 02 Jan 2025 15:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "MTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#MTV",
         "pubdate": "Thu, 02 Jan 2025 17:00:00 +0300"
@@ -62,6 +55,20 @@
         "title": "Şivlilik",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C5%9Eivlilik",
         "pubdate": "Thu, 02 Jan 2025 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Olgun Özdemir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Olgun%20%C3%96zdemir",
+        "pubdate": "Thu, 02 Jan 2025 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Aralık ayı enflasyon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Aral%C4%B1k%20ay%C4%B1%20enflasyon",
+        "pubdate": "Thu, 02 Jan 2025 15:00:00 +0300"
       }
     ],
     [
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "Gassal 2. Sezon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gassal%202.%20Sezon",
+        "title": "Gassal 2. sezon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gassal%202.%20sezon",
         "pubdate": "Wed, 01 Jan 2025 19:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "New Orleans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#New%20Orleans",
         "pubdate": "Wed, 01 Jan 2025 17:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Ceza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Ceza",
-        "pubdate": "Wed, 01 Jan 2025 02:00:00 +0300"
       }
     ]
   ]
