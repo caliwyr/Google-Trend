@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "02-01-2025 , 08:51:34",
+  "lastUpdate": "02-01-2025 , 09:08:08",
   "data": [
+    [
+      {
+        "title": "Trafikverket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trafikverket",
+        "pubdate": "Thu, 02 Jan 2025 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Montenegro",
@@ -38,16 +45,16 @@
     ],
     [
       {
-        "title": "Edvin Anger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Edvin%20Anger",
-        "pubdate": "Wed, 01 Jan 2025 11:00:00 +0100"
+        "title": "New Orleans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#New%20Orleans",
+        "pubdate": "Wed, 01 Jan 2025 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "New Orleans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#New%20Orleans",
-        "pubdate": "Wed, 01 Jan 2025 15:00:00 +0100"
+        "title": "Edvin Anger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Edvin%20Anger",
+        "pubdate": "Wed, 01 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tobiasregistret",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tobiasregistret",
         "pubdate": "Tue, 31 Dec 2024 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#2025",
-        "pubdate": "Tue, 31 Dec 2024 00:00:00 +0100"
       }
     ]
   ]
