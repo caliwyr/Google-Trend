@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "02-01-2025 , 17:56:46",
+  "lastUpdate": "02-01-2025 , 18:24:42",
   "data": [
-    [
-      {
-        "title": "Avanza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Avanza",
-        "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Nosferatu",
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Ebba Busch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20Busch",
+        "pubdate": "Thu, 02 Jan 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Drive",
         "pubdate": "Thu, 02 Jan 2025 17:00:00 +0100"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Ebba Busch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ebba%20Busch",
-        "pubdate": "Thu, 02 Jan 2025 15:00:00 +0100"
+        "title": "Prison break",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Prison%20break",
+        "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -73,6 +73,20 @@
     ],
     [
       {
+        "title": "Mikkey Dee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mikkey%20Dee",
+        "pubdate": "Thu, 02 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tomas Nordenskiöld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tomas%20Nordenski%C3%B6ld",
+        "pubdate": "Thu, 02 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Amelia Adamo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Amelia%20Adamo",
         "pubdate": "Thu, 02 Jan 2025 17:00:00 +0100"
@@ -80,16 +94,16 @@
     ],
     [
       {
-        "title": "JVM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JVM",
-        "pubdate": "Wed, 01 Jan 2025 09:00:00 +0100"
+        "title": "Thea Booysen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Thea%20Booysen",
+        "pubdate": "Thu, 02 Jan 2025 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Arbetsförmedlingen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Arbetsf%C3%B6rmedlingen",
-        "pubdate": "Wed, 01 Jan 2025 23:00:00 +0100"
+        "title": "JVM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#JVM",
+        "pubdate": "Wed, 01 Jan 2025 09:00:00 +0100"
       }
     ],
     [
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "Edvin Anger",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Edvin%20Anger",
+        "pubdate": "Wed, 01 Jan 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tour de Ski 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tour%20de%20Ski%202025",
         "pubdate": "Wed, 01 Jan 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jocelyn Wildenstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jocelyn%20Wildenstein",
-        "pubdate": "Wed, 01 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tesla Cybertruck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tesla%20Cybertruck",
-        "pubdate": "Wed, 01 Jan 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Norrsken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Norrsken",
-        "pubdate": "Wed, 01 Jan 2025 19:00:00 +0100"
       }
     ]
   ]
