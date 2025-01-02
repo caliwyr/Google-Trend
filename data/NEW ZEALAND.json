@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-01-2025 , 23:54:04",
+  "lastUpdate": "02-01-2025 , 00:59:37",
   "data": [
+    [
+      {
+        "title": "New Orleans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Orleans",
+        "pubdate": "Thu, 02 Jan 2025 08:00:00 +1300"
+      }
+    ],
     [
       {
         "title": "Jocelyn Wildenstein",
@@ -24,6 +31,13 @@
     ],
     [
       {
+        "title": "News NZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#News%20NZ",
+        "pubdate": "Wed, 01 Jan 2025 17:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Lyn Fleming",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lyn%20Fleming",
         "pubdate": "Wed, 01 Jan 2025 15:00:00 +1300"
@@ -38,23 +52,9 @@
     ],
     [
       {
-        "title": "Hakaraia Wilson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Hakaraia%20Wilson",
-        "pubdate": "Wed, 01 Jan 2025 17:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "A-League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#A-League",
         "pubdate": "Wed, 01 Jan 2025 17:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "New Orleans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20Orleans",
-        "pubdate": "Wed, 01 Jan 2025 09:00:00 +1300"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Time",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Time",
         "pubdate": "Wed, 01 Jan 2025 01:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Time in New York",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Time%20in%20New%20York",
-        "pubdate": "Wed, 01 Jan 2025 17:00:00 +1300"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "News NZ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#News%20NZ",
-        "pubdate": "Wed, 01 Jan 2025 23:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Naomi Osaka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Naomi%20Osaka",
         "pubdate": "Wed, 01 Jan 2025 19:00:00 +1300"
@@ -129,9 +115,16 @@
     ],
     [
       {
-        "title": "NZ time",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#NZ%20time",
+        "title": "Nz time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Nz%20time",
         "pubdate": "Wed, 01 Jan 2025 01:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Time in New York",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Time%20in%20New%20York",
+        "pubdate": "Wed, 01 Jan 2025 17:00:00 +1300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Uber",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Uber",
         "pubdate": "Wed, 01 Jan 2025 03:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "New York Time",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#New%20York%20Time",
+        "pubdate": "Wed, 01 Jan 2025 20:00:00 +1300"
       }
     ]
   ]
