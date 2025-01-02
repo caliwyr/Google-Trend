@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2025 , 11:53:19",
+  "lastUpdate": "02-01-2025 , 12:20:43",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Montenegro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Montenegro",
         "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Novak%20Djokovic",
+        "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Jour de l'an",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jour%20de%20l'an",
+        "title": "Jour de l'An",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jour%20de%20l'An",
         "pubdate": "Wed, 01 Jan 2025 01:00:00 +0100"
       }
     ],
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Elon Musk Maximus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elon%20Musk%20Maximus",
-        "pubdate": "Wed, 01 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Olmo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Olmo",
         "pubdate": "Wed, 01 Jan 2025 08:00:00 +0100"
@@ -90,6 +90,13 @@
         "title": "Soprano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Soprano",
         "pubdate": "Wed, 01 Jan 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "France 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%202",
+        "pubdate": "Wed, 01 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Pierrefitte",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Pierrefitte",
-        "pubdate": "Wed, 01 Jan 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Voeux nouvelle année",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Voeux%20nouvelle%20ann%C3%A9e",
-        "pubdate": "Wed, 01 Jan 2025 11:00:00 +0100"
+        "title": "Soldes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Soldes",
+        "pubdate": "Wed, 01 Jan 2025 22:00:00 +0100"
       }
     ]
   ]
