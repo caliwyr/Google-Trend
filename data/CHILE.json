@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 19:09:44",
+  "lastUpdate": "03-01-2025 , 19:21:39",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Suede",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Suede",
+        "pubdate": "Fri, 03 Jan 2025 14:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Sheridan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Sheridan",
         "pubdate": "Fri, 03 Jan 2025 00:00:00 -0300"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Brayan Cortés",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Brayan%20Cort%C3%A9s",
-        "pubdate": "Fri, 03 Jan 2025 04:00:00 -0300"
+        "title": "Maite Orsini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Maite%20Orsini",
+        "pubdate": "Fri, 03 Jan 2025 12:00:00 -0300"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Dos hermanos mueren ahogados",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dos%20hermanos%20mueren%20ahogados",
-        "pubdate": "Thu, 02 Jan 2025 23:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "IPC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#IPC",
         "pubdate": "Thu, 02 Jan 2025 13:00:00 -0300"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "John Capodice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#John%20Capodice",
-        "pubdate": "Thu, 02 Jan 2025 20:00:00 -0300"
+        "title": "Mauricio Ojeda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Mauricio%20Ojeda",
+        "pubdate": "Thu, 02 Jan 2025 22:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tesla",
-        "pubdate": "Thu, 02 Jan 2025 13:00:00 -0300"
+        "title": "John Capodice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#John%20Capodice",
+        "pubdate": "Thu, 02 Jan 2025 20:00:00 -0300"
       }
     ]
   ]
