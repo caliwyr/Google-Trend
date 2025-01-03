@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 15:56:50",
+  "lastUpdate": "03-01-2025 , 16:22:16",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "IIHF",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#IIHF",
         "pubdate": "Fri, 03 Jan 2025 05:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mistrovství světa v hokeji",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mistrovstv%C3%AD%20sv%C4%9Bta%20v%20hokeji",
+        "pubdate": "Fri, 03 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -31,9 +38,23 @@
     ],
     [
       {
+        "title": "Škoda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0koda",
+        "pubdate": "Fri, 03 Jan 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Littler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Littler",
         "pubdate": "Fri, 03 Jan 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maxa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maxa",
+        "pubdate": "Fri, 03 Jan 2025 16:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "ČEZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CEZ",
         "pubdate": "Thu, 02 Jan 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cybertruck",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Cybertruck",
-        "pubdate": "Thu, 02 Jan 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "ČNB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CNB",
-        "pubdate": "Thu, 02 Jan 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Atogepant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Atogepant",
-        "pubdate": "Thu, 02 Jan 2025 19:00:00 +0100"
       }
     ]
   ]
