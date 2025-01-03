@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 13:47:33",
+  "lastUpdate": "03-01-2025 , 13:56:54",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Dow Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dow%20Jones",
-        "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
+        "title": "Loredana",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Loredana",
+        "pubdate": "Fri, 03 Jan 2025 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Loredana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Loredana",
-        "pubdate": "Fri, 03 Jan 2025 11:00:00 +0100"
+        "title": "Dow Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dow%20Jones",
+        "pubdate": "Fri, 03 Jan 2025 00:00:00 +0100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Jelmoli Zürich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jelmoli%20Z%C3%BCrich",
-        "pubdate": "Thu, 02 Jan 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Meteosuisse",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meteosuisse",
         "pubdate": "Thu, 02 Jan 2025 09:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
         "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jobs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jobs",
+        "pubdate": "Thu, 02 Jan 2025 19:00:00 +0100"
       }
     ]
   ]
