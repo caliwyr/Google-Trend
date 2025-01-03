@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 15:47:38",
+  "lastUpdate": "03-01-2025 , 15:56:49",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus",
+        "pubdate": "Fri, 03 Jan 2025 00:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Milionária",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milion%C3%A1ria",
         "pubdate": "Fri, 03 Jan 2025 00:00:00 -0500"
@@ -27,6 +34,13 @@
         "title": "Concurso público",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Concurso%20p%C3%BAblico",
         "pubdate": "Fri, 03 Jan 2025 07:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Saque-aniversário 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Saque-anivers%C3%A1rio%202025",
+        "pubdate": "Fri, 03 Jan 2025 09:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Fies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fies",
         "pubdate": "Thu, 02 Jan 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Senai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Senai",
-        "pubdate": "Thu, 02 Jan 2025 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "ICMBio concurso",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#ICMBio%20concurso",
-        "pubdate": "Thu, 02 Jan 2025 12:00:00 -0500"
       }
     ]
   ]
