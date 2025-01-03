@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 19:40:35",
+  "lastUpdate": "03-01-2025 , 19:49:49",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20stock",
-        "pubdate": "Fri, 03 Jan 2025 00:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Ben Yeo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Ben%20Yeo",
         "pubdate": "Fri, 03 Jan 2025 18:00:00 +0800"
@@ -62,6 +55,13 @@
         "title": "Yoon Suk Yeol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Yoon%20Suk%20Yeol",
         "pubdate": "Fri, 03 Jan 2025 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
+        "pubdate": "Thu, 02 Jan 2025 06:00:00 +0800"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "January",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#January",
+        "pubdate": "Thu, 02 Jan 2025 18:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "New Year's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20Year's%20Day",
         "pubdate": "Wed, 01 Jan 2025 01:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "New Year's Eve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20Year's%20Eve",
         "pubdate": "Tue, 31 Dec 2024 01:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Happy New Year 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Happy%20New%20Year%202025",
-        "pubdate": "Tue, 31 Dec 2024 11:00:00 +0800"
       }
     ]
   ]
