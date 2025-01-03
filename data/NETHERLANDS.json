@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-01-2025 , 23:54:09",
+  "lastUpdate": "03-01-2025 , 01:00:33",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "IJsselmonde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#IJsselmonde",
+        "pubdate": "Thu, 02 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Gasprijs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gasprijs",
         "pubdate": "Thu, 02 Jan 2025 21:00:00 +0100"
@@ -41,13 +48,6 @@
         "title": "Sneeuw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuw",
         "pubdate": "Thu, 02 Jan 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "IJsselmonde",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#IJsselmonde",
-        "pubdate": "Thu, 02 Jan 2025 19:00:00 +0100"
       }
     ],
     [
@@ -69,6 +69,13 @@
         "title": "Bunq",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bunq",
         "pubdate": "Thu, 02 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "WK darts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WK%20darts",
+        "pubdate": "Wed, 01 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "RTV Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RTV%20Utrecht",
-        "pubdate": "Wed, 01 Jan 2025 03:00:00 +0100"
+        "title": "Nieuwjaarsconcert!",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuwjaarsconcert!",
+        "pubdate": "Wed, 01 Jan 2025 13:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Oudejaarsconference",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oudejaarsconference",
         "pubdate": "Mon, 30 Dec 2024 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Carbidschieten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Carbidschieten",
-        "pubdate": "Mon, 30 Dec 2024 21:00:00 +0100"
       }
     ]
   ]

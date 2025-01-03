@@ -1,6 +1,27 @@
 {
-  "lastUpdate": "02-01-2025 , 23:54:05",
+  "lastUpdate": "03-01-2025 , 01:00:28",
   "data": [
+    [
+      {
+        "title": "Tv5",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tv5",
+        "pubdate": "Fri, 03 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "The old way",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#The%20old%20way",
+        "pubdate": "Fri, 03 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "airBaltic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#airBaltic",
+        "pubdate": "Fri, 03 Jan 2025 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Maps",
@@ -80,44 +101,9 @@
     ],
     [
       {
-        "title": "Squid Game Season 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Squid%20Game%20Season%203",
+        "title": "Squid Game season 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Squid%20Game%20season%203",
         "pubdate": "Thu, 02 Jan 2025 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Varma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Varma",
-        "pubdate": "Thu, 02 Jan 2025 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Shamsud-Din Jabbar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shamsud-Din%20Jabbar",
-        "pubdate": "Thu, 02 Jan 2025 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Ghost movie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ghost%20movie",
-        "pubdate": "Thu, 02 Jan 2025 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Santander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Santander",
-        "pubdate": "Thu, 02 Jan 2025 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "TE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TE",
-        "pubdate": "Thu, 02 Jan 2025 15:00:00 +0200"
       }
     ],
     [
@@ -129,15 +115,29 @@
     ],
     [
       {
-        "title": "Lily-Rose Depp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lily-Rose%20Depp",
-        "pubdate": "Thu, 02 Jan 2025 20:00:00 +0200"
+        "title": "Shamsud-Din Jabbar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shamsud-Din%20Jabbar",
+        "pubdate": "Thu, 02 Jan 2025 11:00:00 +0200"
       }
     ],
     [
       {
-        "title": "GM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#GM",
+        "title": "Santander",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Santander",
+        "pubdate": "Thu, 02 Jan 2025 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ghost movie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ghost%20movie",
+        "pubdate": "Thu, 02 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "TE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TE",
         "pubdate": "Thu, 02 Jan 2025 15:00:00 +0200"
       }
     ]
