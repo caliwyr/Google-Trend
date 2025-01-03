@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "03-01-2025 , 05:50:26",
+  "lastUpdate": "03-01-2025 , 05:59:39",
   "data": [
     [
       {
         "title": "CRA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CRA",
         "pubdate": "Thu, 02 Jan 2025 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Toronto Maple Leafs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Toronto%20Maple%20Leafs",
+        "pubdate": "Thu, 02 Jan 2025 23:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "India vs Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#India%20vs%20Australia",
+        "pubdate": "Thu, 02 Jan 2025 23:00:00 -0500"
       }
     ],
     [
@@ -31,9 +45,23 @@
     ],
     [
       {
+        "title": "Czechia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Czechia",
+        "pubdate": "Thu, 02 Jan 2025 20:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Service Canada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Service%20Canada",
         "pubdate": "Thu, 02 Jan 2025 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Winnipeg Jets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Winnipeg%20Jets",
+        "pubdate": "Thu, 02 Jan 2025 23:00:00 -0500"
       }
     ],
     [
@@ -48,13 +76,6 @@
         "title": "Wayne Osmond",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Wayne%20Osmond",
         "pubdate": "Thu, 02 Jan 2025 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Czechia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Czechia",
-        "pubdate": "Thu, 02 Jan 2025 20:00:00 -0500"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Enbridge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Enbridge",
-        "pubdate": "Thu, 02 Jan 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "New York shooting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#New%20York%20shooting",
         "pubdate": "Thu, 02 Jan 2025 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Adobe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Adobe",
-        "pubdate": "Thu, 02 Jan 2025 21:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Jaden Ivey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jaden%20Ivey",
-        "pubdate": "Thu, 02 Jan 2025 11:00:00 -0500"
       }
     ]
   ]
