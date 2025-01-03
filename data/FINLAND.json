@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "03-01-2025 , 11:55:05",
+  "lastUpdate": "03-01-2025 , 12:28:29",
   "data": [
     [
       {
         "title": "Tv5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tv5",
         "pubdate": "Fri, 03 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "U20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#U20",
+        "pubdate": "Fri, 03 Jan 2025 10:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Hell Let Loose",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hell%20Let%20Loose",
+        "pubdate": "Thu, 02 Jan 2025 22:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Lily-Rose Depp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lily-Rose%20Depp",
         "pubdate": "Thu, 02 Jan 2025 20:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Ghost movie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Ghost%20movie",
         "pubdate": "Thu, 02 Jan 2025 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Te",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Te",
-        "pubdate": "Thu, 02 Jan 2025 15:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Robbie Williams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Robbie%20Williams",
-        "pubdate": "Thu, 02 Jan 2025 23:00:00 +0200"
       }
     ]
   ]
