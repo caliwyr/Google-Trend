@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-01-2025 , 09:59:58",
+  "lastUpdate": "03-01-2025 , 10:24:50",
   "data": [
     [
       {
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Leeds United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leeds%20United",
-        "pubdate": "Wed, 01 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "New Orleans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#New%20Orleans",
         "pubdate": "Wed, 01 Jan 2025 23:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "New Year's Eve",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#New%20Year's%20Eve",
         "pubdate": "Tue, 31 Dec 2024 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Happy New Year wishes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Happy%20New%20Year%20wishes",
+        "pubdate": "Tue, 31 Dec 2024 06:00:00 +0100"
       }
     ]
   ]
