@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 07:53:34",
+  "lastUpdate": "04-01-2025 , 08:13:43",
   "data": [
     [
       {
@@ -24,23 +24,9 @@
     ],
     [
       {
-        "title": "Copinha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copinha",
-        "pubdate": "Fri, 03 Jan 2025 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#La%20Liga",
+        "title": "La liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#La%20liga",
         "pubdate": "Fri, 03 Jan 2025 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
-        "pubdate": "Fri, 03 Jan 2025 10:00:00 -0500"
       }
     ],
     [
@@ -52,6 +38,13 @@
     ],
     [
       {
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Porto",
+        "pubdate": "Fri, 03 Jan 2025 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Sporting",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sporting",
         "pubdate": "Fri, 03 Jan 2025 12:00:00 -0500"
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Warriors x 76ers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Warriors%20x%2076ers",
-        "pubdate": "Fri, 03 Jan 2025 00:00:00 -0500"
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers",
+        "pubdate": "Fri, 03 Jan 2025 11:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lakers",
-        "pubdate": "Fri, 03 Jan 2025 11:00:00 -0500"
+        "title": "Palmeiras Copinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Palmeiras%20Copinha",
+        "pubdate": "Fri, 03 Jan 2025 16:00:00 -0500"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Ilhados com a Sogra",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ilhados%20com%20a%20Sogra",
         "pubdate": "Fri, 03 Jan 2025 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "HMPV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#HMPV",
+        "pubdate": "Fri, 03 Jan 2025 22:00:00 -0500"
       }
     ]
   ]
