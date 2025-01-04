@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "04-01-2025 , 22:40:56",
+  "lastUpdate": "04-01-2025 , 22:50:23",
   "data": [
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Premier%20League",
+        "pubdate": "Sat, 04 Jan 2025 19:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Jeff Baena",
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Sport 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sport%202024",
+        "pubdate": "Sat, 04 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Chelsea",
         "pubdate": "Sat, 04 Jan 2025 17:00:00 +0100"
@@ -66,23 +80,9 @@
     ],
     [
       {
-        "title": "Sport 2024",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sport%202024",
-        "pubdate": "Sat, 04 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brighton  Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Brighton%20%20Arsenal",
-        "pubdate": "Sat, 04 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zendaya",
-        "pubdate": "Sat, 04 Jan 2025 09:00:00 +0100"
+        "title": "Hall of Fame",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hall%20of%20Fame",
+        "pubdate": "Sat, 04 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -94,9 +94,9 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FC%20Barcelona",
-        "pubdate": "Sat, 04 Jan 2025 18:00:00 +0100"
+        "title": "Zendaya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zendaya",
+        "pubdate": "Sat, 04 Jan 2025 09:00:00 +0100"
       }
     ],
     [
@@ -104,13 +104,6 @@
         "title": "Ed Pettifer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ed%20Pettifer",
         "pubdate": "Sat, 04 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hall of Fame",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Hall%20of%20Fame",
-        "pubdate": "Sat, 04 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#La%20Liga",
         "pubdate": "Fri, 03 Jan 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Opelka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Opelka",
+        "pubdate": "Fri, 03 Jan 2025 14:00:00 +0100"
       }
     ]
   ]
