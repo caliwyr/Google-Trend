@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 03:01:10",
+  "lastUpdate": "04-01-2025 , 03:26:52",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Mike Johnson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mike%20Johnson",
+        "pubdate": "Sat, 04 Jan 2025 02:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Simen Agdestein",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Simen%20Agdestein",
         "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Valencia mot Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Valencia%20mot%20Real%20Madrid",
+        "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Herman Flesvig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Herman%20Flesvig",
         "pubdate": "Fri, 03 Jan 2025 14:00:00 +0100"
@@ -48,13 +62,6 @@
         "title": "The Voice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Voice",
         "pubdate": "Fri, 03 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Valencia mot Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Valencia%20mot%20Real%20Madrid",
-        "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Luke Littler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Luke%20Littler",
         "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tesla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tesla",
-        "pubdate": "Thu, 02 Jan 2025 14:00:00 +0100"
       }
     ]
   ]
