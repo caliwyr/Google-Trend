@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "04-01-2025 , 05:18:35",
+  "lastUpdate": "04-01-2025 , 05:32:22",
   "data": [
     [
       {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AC%20Milan",
+        "pubdate": "Sat, 04 Jan 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "MvG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#MvG",
         "pubdate": "Sat, 04 Jan 2025 00:00:00 +0100"
       }
     ],
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Presse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Presse",
-        "pubdate": "Fri, 03 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Annalena Baerbock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Annalena%20Baerbock",
         "pubdate": "Fri, 03 Jan 2025 23:00:00 +0100"
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Luke Littler Freundin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Luke%20Littler%20Freundin",
-        "pubdate": "Fri, 03 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Loredana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Loredana",
         "pubdate": "Fri, 03 Jan 2025 17:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "ZiB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZiB",
         "pubdate": "Fri, 03 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Besiktas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Besiktas",
+        "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
       }
     ]
   ]
