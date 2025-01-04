@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 11:46:26",
+  "lastUpdate": "04-01-2025 , 11:55:49",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Tottenham",
+        "pubdate": "Sat, 04 Jan 2025 17:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Porto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Porto",
         "pubdate": "Sat, 04 Jan 2025 08:00:00 +0700"
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Khi điện thoại đổ chuông Tập 11",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Khi%20%C4%91i%E1%BB%87n%20tho%E1%BA%A1i%20%C4%91%E1%BB%95%20chu%C3%B4ng%20T%E1%BA%ADp%2011",
-        "pubdate": "Fri, 03 Jan 2025 10:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus",
         "pubdate": "Fri, 03 Jan 2025 00:00:00 +0700"
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "Đặng Hồng Đức",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%E1%BA%B7ng%20H%E1%BB%93ng%20%C4%90%E1%BB%A9c",
-        "pubdate": "Fri, 03 Jan 2025 19:00:00 +0700"
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter",
+        "pubdate": "Fri, 03 Jan 2025 04:00:00 +0700"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Inter vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Inter%20vs",
-        "pubdate": "Fri, 03 Jan 2025 05:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Vàng SJC Giá vàng hôm nay",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C3%A0ng%20SJC%20Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay",
         "pubdate": "Fri, 03 Jan 2025 21:00:00 +0700"
@@ -138,6 +131,13 @@
       {
         "title": "AQI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#AQI",
+        "pubdate": "Fri, 03 Jan 2025 17:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Đoàn Văn Hậu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90o%C3%A0n%20V%C4%83n%20H%E1%BA%ADu",
         "pubdate": "Fri, 03 Jan 2025 17:00:00 +0700"
       }
     ]
