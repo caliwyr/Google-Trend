@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-01-2025 , 23:39:55",
+  "lastUpdate": "04-01-2025 , 23:49:18",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Boavista-Arouca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Boavista-Arouca",
+        "pubdate": "Sat, 04 Jan 2025 20:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Tottenham  Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tottenham%20%20Newcastle",
         "pubdate": "Sat, 04 Jan 2025 13:00:00 +0000"
@@ -41,13 +48,6 @@
         "title": "Crystal Palace  Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Crystal%20Palace%20%20Chelsea",
         "pubdate": "Sat, 04 Jan 2025 15:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Sport Lisboa e Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
-        "pubdate": "Sat, 04 Jan 2025 03:00:00 +0000"
       }
     ],
     [
@@ -66,9 +66,23 @@
     ],
     [
       {
+        "title": "Slbenfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Slbenfica",
+        "pubdate": "Sat, 04 Jan 2025 03:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Jimmy Carter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jimmy%20Carter",
         "pubdate": "Sat, 04 Jan 2025 16:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Sergio conceicao",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sergio%20conceicao",
+        "pubdate": "Sat, 04 Jan 2025 01:00:00 +0000"
       }
     ],
     [
@@ -87,6 +101,13 @@
     ],
     [
       {
+        "title": "Gás natural",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#G%C3%A1s%20natural",
+        "pubdate": "Sat, 04 Jan 2025 18:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Eça de Queiroz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#E%C3%A7a%20de%20Queiroz",
         "pubdate": "Sat, 04 Jan 2025 15:00:00 +0000"
@@ -101,9 +122,9 @@
     ],
     [
       {
-        "title": "Gás natural",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#G%C3%A1s%20natural",
-        "pubdate": "Sat, 04 Jan 2025 18:00:00 +0000"
+        "title": "Tondela  Leiria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tondela%20%20Leiria",
+        "pubdate": "Sat, 04 Jan 2025 20:00:00 +0000"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Tondela  Leiria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Tondela%20%20Leiria",
-        "pubdate": "Sat, 04 Jan 2025 20:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Liga 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%203",
         "pubdate": "Sat, 04 Jan 2025 18:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Taj Mahal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taj%20Mahal",
-        "pubdate": "Sat, 04 Jan 2025 15:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Serie%20a",
-        "pubdate": "Sat, 04 Jan 2025 13:00:00 +0000"
       }
     ]
   ]
