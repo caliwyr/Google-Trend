@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "05-01-2025 , 05:40:34",
+  "lastUpdate": "05-01-2025 , 05:49:53",
   "data": [
     [
       {
         "title": "Liverpool weather",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20weather",
-        "pubdate": "Sun, 05 Jan 2025 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Nwaneri",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nwaneri",
         "pubdate": "Sun, 05 Jan 2025 00:00:00 +0000"
       }
     ],
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Arsenal",
+        "title": "Nwaneri",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nwaneri",
+        "pubdate": "Sun, 05 Jan 2025 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League",
         "pubdate": "Sat, 04 Jan 2025 17:00:00 +0000"
       }
     ],
@@ -34,13 +34,6 @@
         "title": "Tottenham vs Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Tottenham%20vs%20Newcastle",
         "pubdate": "Sat, 04 Jan 2025 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Premier%20League",
-        "pubdate": "Sat, 04 Jan 2025 22:00:00 +0000"
       }
     ],
     [
@@ -90,6 +83,13 @@
         "title": "Elvis Presley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Elvis%20Presley",
         "pubdate": "Sat, 04 Jan 2025 14:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "EPL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#EPL",
+        "pubdate": "Sat, 04 Jan 2025 21:00:00 +0000"
       }
     ],
     [

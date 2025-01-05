@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "05-01-2025 , 05:40:24",
+  "lastUpdate": "05-01-2025 , 05:49:45",
   "data": [
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Premier%20League",
+        "title": "Manchester City  West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Manchester%20City%20%20West%20Ham",
         "pubdate": "Sat, 04 Jan 2025 16:00:00 +0100"
       }
     ],
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Man%20City",
-        "pubdate": "Sat, 04 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Hector",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hector",
         "pubdate": "Sat, 04 Jan 2025 22:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Copa del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Copa%20del%20Rey",
         "pubdate": "Sat, 04 Jan 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Superprestige Gullegem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Superprestige%20Gullegem",
+        "pubdate": "Sat, 04 Jan 2025 16:00:00 +0100"
       }
     ]
   ]
