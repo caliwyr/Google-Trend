@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-01-2025 , 20:42:10",
+  "lastUpdate": "05-01-2025 , 20:51:26",
   "data": [
     [
       {
@@ -26,6 +26,13 @@
       {
         "title": "Αρησ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CF%81%CE%B7%CF%83",
+        "pubdate": "Sun, 05 Jan 2025 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Αρησ ΟΦΗ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CF%81%CE%B7%CF%83%20%CE%9F%CE%A6%CE%97",
         "pubdate": "Sun, 05 Jan 2025 13:00:00 +0200"
       }
     ],
@@ -52,6 +59,13 @@
     ],
     [
       {
+        "title": "Σπυροσ σταμου",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CF%80%CF%85%CF%81%CE%BF%CF%83%20%CF%83%CF%84%CE%B1%CE%BC%CE%BF%CF%85",
+        "pubdate": "Sun, 05 Jan 2025 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Λεβαδειακοσ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9B%CE%B5%CE%B2%CE%B1%CE%B4%CE%B5%CE%B9%CE%B1%CE%BA%CE%BF%CF%83",
         "pubdate": "Sun, 05 Jan 2025 17:00:00 +0200"
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "ΟΦΗ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9F%CE%A6%CE%97",
-        "pubdate": "Sun, 05 Jan 2025 18:00:00 +0200"
+        "title": "ΑΤΡΟΜΗΤΟΣ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%91%CE%A4%CE%A1%CE%9F%CE%9C%CE%97%CE%A4%CE%9F%CE%A3",
+        "pubdate": "Sun, 05 Jan 2025 21:00:00 +0200"
       }
     ],
     [
@@ -76,13 +90,6 @@
         "title": "Κάλαντα των Φώτων",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%9A%CE%AC%CE%BB%CE%B1%CE%BD%CF%84%CE%B1%20%CF%84%CF%89%CE%BD%20%CE%A6%CF%8E%CF%84%CF%89%CE%BD",
         "pubdate": "Sun, 05 Jan 2025 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Σπυροσ σταμου",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A3%CF%80%CF%85%CF%81%CE%BF%CF%83%20%CF%83%CF%84%CE%B1%CE%BC%CE%BF%CF%85",
-        "pubdate": "Sun, 05 Jan 2025 18:00:00 +0200"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Βανα μπαρμπα",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%92%CE%B1%CE%BD%CE%B1%20%CE%BC%CF%80%CE%B1%CF%81%CE%BC%CF%80%CE%B1",
+        "pubdate": "Sun, 05 Jan 2025 11:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "ΠΑΟΚ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#%CE%A0%CE%91%CE%9F%CE%9A",
         "pubdate": "Sat, 04 Jan 2025 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "HMPV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#HMPV",
-        "pubdate": "Sat, 04 Jan 2025 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Superleague",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GR#Superleague",
-        "pubdate": "Sat, 04 Jan 2025 16:00:00 +0200"
       }
     ]
   ]
