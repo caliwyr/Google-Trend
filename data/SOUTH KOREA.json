@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-01-2025 , 03:58:22",
+  "lastUpdate": "05-01-2025 , 04:24:10",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "MBC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#MBC",
+        "pubdate": "Fri, 03 Jan 2025 13:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "유성우",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A0%EC%84%B1%EC%9A%B0",
         "pubdate": "Fri, 03 Jan 2025 23:00:00 +0900"
@@ -132,13 +139,6 @@
         "title": "병산서원",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B3%91%EC%82%B0%EC%84%9C%EC%9B%90",
         "pubdate": "Fri, 03 Jan 2025 09:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "JTBC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#JTBC",
-        "pubdate": "Fri, 03 Jan 2025 13:00:00 +0900"
       }
     ]
   ]
