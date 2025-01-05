@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-01-2025 , 21:40:35",
+  "lastUpdate": "05-01-2025 , 21:49:48",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "FC Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
-        "pubdate": "Sun, 05 Jan 2025 17:00:00 +0100"
+        "title": "Napoleon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Napoleon",
+        "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -38,9 +38,16 @@
     ],
     [
       {
-        "title": "Drie koningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Drie%20koningen",
-        "pubdate": "Sun, 05 Jan 2025 20:00:00 +0100"
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Sun, 05 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The Vivienne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20Vivienne",
+        "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Michael van Gerwen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Michael%20van%20Gerwen",
         "pubdate": "Tue, 31 Dec 2024 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Van Gerwen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Gerwen",
-        "pubdate": "Tue, 31 Dec 2024 07:00:00 +0100"
       }
     ]
   ]
