@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "04-01-2025 , 23:58:35",
+  "lastUpdate": "05-01-2025 , 01:50:40",
   "data": [
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
-        "pubdate": "Sat, 04 Jan 2025 13:00:00 +0100"
+        "title": "Jeff Baena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jeff%20Baena",
+        "pubdate": "Sat, 04 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tottenham",
+        "pubdate": "Sat, 04 Jan 2025 14:00:00 +0100"
       }
     ],
     [
@@ -13,13 +20,6 @@
         "title": "Jessica Andersson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jessica%20Andersson",
         "pubdate": "Sat, 04 Jan 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jeff Baena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jeff%20Baena",
-        "pubdate": "Sat, 04 Jan 2025 17:00:00 +0100"
       }
     ],
     [
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Christoffer nyqvist",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Christoffer%20nyqvist",
+        "title": "Christoffer Nyqvist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Christoffer%20Nyqvist",
         "pubdate": "Fri, 03 Jan 2025 21:00:00 +0100"
       }
     ],
@@ -97,13 +97,6 @@
         "title": "Ludvig Åberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ludvig%20%C3%85berg",
         "pubdate": "Fri, 03 Jan 2025 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Thåström",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Th%C3%A5str%C3%B6m",
-        "pubdate": "Fri, 03 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Wallace and Gromit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wallace%20and%20Gromit",
+        "pubdate": "Fri, 03 Jan 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Juventus",
         "pubdate": "Fri, 03 Jan 2025 22:00:00 +0100"
       }
     ]
