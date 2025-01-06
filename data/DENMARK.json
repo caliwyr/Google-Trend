@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-01-2025 , 18:45:54",
+  "lastUpdate": "06-01-2025 , 18:55:16",
   "data": [
+    [
+      {
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Maps",
+        "pubdate": "Mon, 06 Jan 2025 14:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "ChatGPT",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Maps",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Maps",
-        "pubdate": "Mon, 06 Jan 2025 14:00:00 +0100"
+        "title": "Docs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
+        "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Docs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Docs",
-        "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Outlook",
+        "pubdate": "Mon, 06 Jan 2025 19:00:00 +0100"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Nikki Glaser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nikki%20Glaser",
+        "pubdate": "Mon, 06 Jan 2025 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Word",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Word",
         "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Timothée Chalamet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Timoth%C3%A9e%20Chalamet",
+        "pubdate": "Mon, 06 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "NT$",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#NT$",
         "pubdate": "Mon, 06 Jan 2025 06:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#AI",
         "pubdate": "Mon, 06 Jan 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Map",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Map",
-        "pubdate": "Mon, 06 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Timothée Chalamet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Timoth%C3%A9e%20Chalamet",
-        "pubdate": "Mon, 06 Jan 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Shogun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Shogun",
-        "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
       }
     ]
   ]
