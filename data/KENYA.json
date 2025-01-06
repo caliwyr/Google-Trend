@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-01-2025 , 00:45:56",
+  "lastUpdate": "06-01-2025 , 02:12:21",
   "data": [
     [
       {
@@ -10,16 +10,9 @@
     ],
     [
       {
-        "title": "Epl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Epl",
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Premier%20League",
         "pubdate": "Sun, 05 Jan 2025 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Premier League standings",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Premier%20League%20standings",
-        "pubdate": "Sun, 05 Jan 2025 03:00:00 +0300"
       }
     ],
     [
@@ -27,13 +20,6 @@
         "title": "George Soros",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#George%20Soros",
         "pubdate": "Sun, 05 Jan 2025 10:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Amad Diallo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Amad%20Diallo",
-        "pubdate": "Sun, 05 Jan 2025 07:00:00 +0300"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tottenham",
         "pubdate": "Sat, 04 Jan 2025 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "HMPV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#HMPV",
+        "pubdate": "Sat, 04 Jan 2025 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
+        "pubdate": "Sat, 04 Jan 2025 19:00:00 +0300"
       }
     ]
   ]

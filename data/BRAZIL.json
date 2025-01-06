@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-01-2025 , 00:45:52",
+  "lastUpdate": "06-01-2025 , 02:12:17",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Fulham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fulham",
         "pubdate": "Sun, 05 Jan 2025 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Charlie: Um Cachorro Especial",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Charlie:%20Um%20Cachorro%20Especial",
+        "pubdate": "Sun, 05 Jan 2025 15:00:00 -0500"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Charlie: Um Cachorro Especial",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Charlie:%20Um%20Cachorro%20Especial",
-        "pubdate": "Sun, 05 Jan 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Dia de Reis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20de%20Reis",
         "pubdate": "Sun, 05 Jan 2025 18:00:00 -0500"
@@ -48,6 +48,13 @@
         "title": "Nintendo Switch 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nintendo%20Switch%202",
         "pubdate": "Sun, 05 Jan 2025 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lazio",
+        "pubdate": "Sun, 05 Jan 2025 18:00:00 -0500"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fenerbah%C3%A7e",
-        "pubdate": "Sun, 05 Jan 2025 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Fernanda Montenegro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fernanda%20Montenegro",
         "pubdate": "Sun, 05 Jan 2025 17:00:00 -0500"
@@ -87,30 +87,9 @@
     ],
     [
       {
-        "title": "Michael Schumacher",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Michael%20Schumacher",
-        "pubdate": "Sun, 05 Jan 2025 08:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Olympique de Marseille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Olympique%20de%20Marseille",
-        "pubdate": "Sun, 05 Jan 2025 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Independence Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Independence%20Day",
-        "pubdate": "Sun, 05 Jan 2025 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Mathias Acuña",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mathias%20Acu%C3%B1a",
-        "pubdate": "Sun, 05 Jan 2025 08:00:00 -0500"
+        "title": "Fenerbahçe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fenerbah%C3%A7e",
+        "pubdate": "Sun, 05 Jan 2025 12:00:00 -0500"
       }
     ],
     [
@@ -122,23 +101,44 @@
     ],
     [
       {
+        "title": "Olympique de Marseille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Olympique%20de%20Marseille",
+        "pubdate": "Sun, 05 Jan 2025 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Michael Schumacher",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Michael%20Schumacher",
+        "pubdate": "Sun, 05 Jan 2025 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Independence Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Independence%20Day",
+        "pubdate": "Sun, 05 Jan 2025 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Oscar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Oscar",
+        "pubdate": "Sun, 05 Jan 2025 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Mathias Acuña",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mathias%20Acu%C3%B1a",
+        "pubdate": "Sun, 05 Jan 2025 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Gremio Copinha",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gremio%20Copinha",
         "pubdate": "Sun, 05 Jan 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Lewis Hamilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lewis%20Hamilton",
-        "pubdate": "Sun, 05 Jan 2025 07:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Botafogo-PB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-PB",
-        "pubdate": "Sun, 05 Jan 2025 07:00:00 -0500"
       }
     ]
   ]
