@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-01-2025 , 13:40:54",
+  "lastUpdate": "06-01-2025 , 13:50:10",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Avisa Oslo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Avisa%20Oslo",
-        "pubdate": "Mon, 06 Jan 2025 10:00:00 +0100"
+        "title": "FVN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FVN",
+        "pubdate": "Mon, 06 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "Timer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Timer",
         "pubdate": "Mon, 06 Jan 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Golden Globes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Golden%20Globes",
+        "pubdate": "Mon, 06 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -52,9 +59,16 @@
     ],
     [
       {
-        "title": "Zendaya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zendaya",
-        "pubdate": "Mon, 06 Jan 2025 13:00:00 +0100"
+        "title": "Chrome",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Chrome",
+        "pubdate": "Mon, 06 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Forsvaret",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Forsvaret",
+        "pubdate": "Mon, 06 Jan 2025 14:00:00 +0100"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Mike Tullberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mike%20Tullberg",
-        "pubdate": "Sun, 05 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Petter Northug",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Petter%20Northug",
         "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Mika Vermeulen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mika%20Vermeulen",
         "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vestfold",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vestfold",
-        "pubdate": "Sun, 05 Jan 2025 21:00:00 +0100"
       }
     ]
   ]
