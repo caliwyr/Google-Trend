@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "06-01-2025 , 10:47:23",
+  "lastUpdate": "06-01-2025 , 10:56:34",
   "data": [
     [
       {
         "title": "Tři králové",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#T%C5%99i%20kr%C3%A1lov%C3%A9",
         "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Minimální mzda 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Minim%C3%A1ln%C3%AD%20mzda%202025",
+        "pubdate": "Mon, 06 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -17,16 +24,16 @@
     ],
     [
       {
-        "title": "Will Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Will%20Smith",
-        "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
+        "title": "ČEZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CEZ",
+        "pubdate": "Mon, 06 Jan 2025 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Jakub Štancl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jakub%20%C5%A0tancl",
-        "pubdate": "Mon, 06 Jan 2025 00:00:00 +0100"
+        "title": "Radiožurnál",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radio%C5%BEurn%C3%A1l",
+        "pubdate": "Mon, 06 Jan 2025 07:00:00 +0100"
       }
     ],
     [
@@ -34,6 +41,20 @@
         "title": "CES 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#CES%202025",
         "pubdate": "Mon, 06 Jan 2025 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Will Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Will%20Smith",
+        "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Emilia perez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Emilia%20perez",
+        "pubdate": "Mon, 06 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Josie Goldberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Josie%20Goldberg",
         "pubdate": "Sun, 05 Jan 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Machac",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Machac",
-        "pubdate": "Sun, 05 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Office",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Office",
-        "pubdate": "Sun, 05 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Spořitelna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Spo%C5%99itelna",
-        "pubdate": "Sun, 05 Jan 2025 13:00:00 +0100"
       }
     ]
   ]
