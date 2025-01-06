@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "06-01-2025 , 06:41:37",
+  "lastUpdate": "06-01-2025 , 06:51:39",
   "data": [
+    [
+      {
+        "title": "CES 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#CES%202025",
+        "pubdate": "Mon, 06 Jan 2025 07:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "MS hokej U20",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#MS%20hokej%20U20",
         "pubdate": "Sun, 05 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Letiste Praha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Letiste%20Praha",
+        "pubdate": "Sun, 05 Jan 2025 18:00:00 +0100"
       }
     ],
     [
@@ -17,15 +31,15 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
+        "title": "Strava",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Strava",
         "pubdate": "Sun, 05 Jan 2025 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Strava",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Strava",
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Liverpool",
         "pubdate": "Sun, 05 Jan 2025 18:00:00 +0100"
       }
     ],
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Letiste Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Letiste%20Praha",
-        "pubdate": "Sat, 04 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tottenham",
         "pubdate": "Sat, 04 Jan 2025 14:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Piráti z Karibiku",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pir%C3%A1ti%20z%20Karibiku",
         "pubdate": "Sat, 04 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Premier%20League",
-        "pubdate": "Sat, 04 Jan 2025 22:00:00 +0100"
       }
     ]
   ]
