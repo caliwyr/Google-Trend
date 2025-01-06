@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-01-2025 , 03:31:55",
+  "lastUpdate": "06-01-2025 , 03:46:56",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Paris-sg – Monaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paris-sg%20%E2%80%93%20Monaco",
         "pubdate": "Sun, 05 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Roma – Lazio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Roma%20%E2%80%93%20Lazio",
+        "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ann Telnaes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ann%20Telnaes",
         "pubdate": "Sun, 05 Jan 2025 02:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "BEFANA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BEFANA",
-        "pubdate": "Sun, 05 Jan 2025 20:00:00 +0100"
       }
     ]
   ]

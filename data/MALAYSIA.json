@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-01-2025 , 03:31:52",
+  "lastUpdate": "06-01-2025 , 03:46:53",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#PSG",
         "pubdate": "Mon, 06 Jan 2025 01:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Article",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Article",
+        "pubdate": "Mon, 06 Jan 2025 07:00:00 +0800"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Barcelona",
-        "pubdate": "Sun, 05 Jan 2025 01:00:00 +0800"
+        "title": "Items",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Items",
+        "pubdate": "Sun, 05 Jan 2025 13:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Items",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Items",
-        "pubdate": "Sun, 05 Jan 2025 13:00:00 +0800"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Barcelona",
+        "pubdate": "Sun, 05 Jan 2025 01:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#La%20Liga",
         "pubdate": "Sat, 04 Jan 2025 08:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Solo Leveling Season 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Solo%20Leveling%20Season%202",
-        "pubdate": "Sat, 04 Jan 2025 13:00:00 +0800"
       }
     ]
   ]

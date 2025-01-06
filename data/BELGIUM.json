@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-01-2025 , 03:31:48",
+  "lastUpdate": "06-01-2025 , 03:46:49",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Bestemming X",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bestemming%20X",
+        "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Paris-sg – Monaco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Paris-sg%20%E2%80%93%20Monaco",
         "pubdate": "Sun, 05 Jan 2025 18:00:00 +0100"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Nouvelle epidemie en Chine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nouvelle%20epidemie%20en%20Chine",
-        "pubdate": "Sun, 05 Jan 2025 19:00:00 +0100"
+        "title": "The Vivienne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Vivienne",
+        "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -48,13 +55,6 @@
         "title": "Verloren Maandag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Verloren%20Maandag",
         "pubdate": "Sun, 05 Jan 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "The Vivienne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Vivienne",
-        "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "VTM Bestemming X",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#VTM%20Bestemming%20X",
-        "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Stuttgart Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stuttgart%20Ajax",
         "pubdate": "Sun, 05 Jan 2025 16:00:00 +0100"
@@ -117,6 +110,13 @@
       {
         "title": "The Fabelmans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Fabelmans",
+        "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Golden Globes 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Golden%20Globes%202025",
         "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Golden Globes 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Golden%20Globes%202025",
-        "pubdate": "Sun, 05 Jan 2025 22:00:00 +0100"
+        "title": "Jada Lynch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jada%20Lynch",
+        "pubdate": "Sun, 05 Jan 2025 18:00:00 +0100"
       }
     ]
   ]
