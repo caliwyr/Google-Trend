@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-01-2025 , 09:46:22",
+  "lastUpdate": "07-01-2025 , 09:55:38",
   "data": [
+    [
+      {
+        "title": "Szarvas Andi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szarvas%20Andi",
+        "pubdate": "Tue, 07 Jan 2025 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Nottingham Forest",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "Szarvas Andi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szarvas%20Andi",
-        "pubdate": "Tue, 07 Jan 2025 08:00:00 +0100"
+        "title": "Lewis Hamilton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lewis%20Hamilton",
+        "pubdate": "Tue, 07 Jan 2025 10:00:00 +0100"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "One",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#One",
         "pubdate": "Mon, 06 Jan 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Magyarorszag.hu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyarorszag.hu",
-        "pubdate": "Mon, 06 Jan 2025 19:00:00 +0100"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Dióssy Klári",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Di%C3%B3ssy%20Kl%C3%A1ri",
+        "pubdate": "Mon, 06 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Xantus Barbara",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Xantus%20Barbara",
         "pubdate": "Mon, 06 Jan 2025 12:00:00 +0100"
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "Dióssy Klári",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Di%C3%B3ssy%20Kl%C3%A1ri",
-        "pubdate": "Mon, 06 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Timothée Chalamet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Timoth%C3%A9e%20Chalamet",
+        "title": "Timothée chalamet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Timoth%C3%A9e%20chalamet",
         "pubdate": "Mon, 06 Jan 2025 13:00:00 +0100"
       }
     ]
