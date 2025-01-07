@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "07-01-2025 , 03:51:14",
+  "lastUpdate": "07-01-2025 , 04:08:55",
   "data": [
+    [
+      {
+        "title": "News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#News",
+        "pubdate": "Tue, 07 Jan 2025 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Maps",
@@ -132,13 +139,6 @@
         "title": "Word",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Word",
         "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Timothée Chalamet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Timoth%C3%A9e%20Chalamet",
-        "pubdate": "Mon, 06 Jan 2025 14:00:00 +0100"
       }
     ]
   ]
