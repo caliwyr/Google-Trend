@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2025 , 04:51:45",
+  "lastUpdate": "07-01-2025 , 05:08:15",
   "data": [
     [
       {
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "Canadiens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canadiens",
+        "pubdate": "Mon, 06 Jan 2025 20:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Office 365",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Office%20365",
         "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Canucks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
+        "pubdate": "Mon, 06 Jan 2025 23:00:00 -0500"
       }
     ],
     [
@@ -73,13 +87,6 @@
     ],
     [
       {
-        "title": "CTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CTV",
-        "pubdate": "Mon, 06 Jan 2025 11:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Global News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Global%20News",
         "pubdate": "Mon, 06 Jan 2025 12:00:00 -0500"
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Vancouver Canucks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Vancouver%20Canucks",
+        "pubdate": "Mon, 06 Jan 2025 23:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Timothee Chalamet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Timothee%20Chalamet",
         "pubdate": "Mon, 06 Jan 2025 12:00:00 -0500"
@@ -101,9 +115,9 @@
     ],
     [
       {
-        "title": "Canucks vs Canadiens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks%20vs%20Canadiens",
-        "pubdate": "Mon, 06 Jan 2025 20:00:00 -0500"
+        "title": "CES 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CES%202025",
+        "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
       }
     ],
     [
@@ -111,13 +125,6 @@
         "title": "Adrien Brody",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Adrien%20Brody",
         "pubdate": "Mon, 06 Jan 2025 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "CES 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CES%202025",
-        "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Drive",
         "pubdate": "Mon, 06 Jan 2025 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Teams",
-        "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
       }
     ]
   ]
