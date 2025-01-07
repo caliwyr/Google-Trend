@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2025 , 22:55:12",
+  "lastUpdate": "07-01-2025 , 23:13:24",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Nvidia",
+        "title": "NVIDIA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#NVIDIA",
         "pubdate": "Tue, 07 Jan 2025 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "RTX 5090",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#RTX%205090",
+        "pubdate": "Tue, 07 Jan 2025 12:00:00 +0200"
       }
     ],
     [
@@ -38,6 +45,13 @@
     ],
     [
       {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Arsenal",
+        "pubdate": "Tue, 07 Jan 2025 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ctp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ctp",
         "pubdate": "Tue, 07 Jan 2025 14:00:00 +0200"
@@ -48,6 +62,13 @@
         "title": "Calin Georgescu sondaje",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Calin%20Georgescu%20sondaje",
         "pubdate": "Tue, 07 Jan 2025 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Transnistria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Transnistria",
+        "pubdate": "Tue, 07 Jan 2025 20:00:00 +0200"
       }
     ],
     [
@@ -66,23 +87,9 @@
     ],
     [
       {
-        "title": "Transnistria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Transnistria",
-        "pubdate": "Tue, 07 Jan 2025 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Flori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Flori",
         "pubdate": "Tue, 07 Jan 2025 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Arsenal",
-        "pubdate": "Tue, 07 Jan 2025 23:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "David Popovici",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#David%20Popovici",
         "pubdate": "Mon, 06 Jan 2025 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Justin Trudeau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Justin%20Trudeau",
-        "pubdate": "Mon, 06 Jan 2025 17:00:00 +0200"
       }
     ]
   ]
