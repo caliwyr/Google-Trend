@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2025 , 12:30:13",
+  "lastUpdate": "07-01-2025 , 13:01:17",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "WWE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#WWE",
+        "pubdate": "Tue, 07 Jan 2025 12:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Annabelle Wallis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Annabelle%20Wallis",
         "pubdate": "Tue, 07 Jan 2025 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Carabao Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Carabao%20Cup",
+        "pubdate": "Tue, 07 Jan 2025 12:00:00 +0000"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Timothee Chalamet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Timothee%20Chalamet",
-        "pubdate": "Mon, 06 Jan 2025 12:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "West Ham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#West%20Ham",
         "pubdate": "Mon, 06 Jan 2025 21:00:00 +0000"
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Real%20Madrid",
-        "pubdate": "Mon, 06 Jan 2025 20:00:00 +0000"
+        "title": "Timothee Chalamet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Timothee%20Chalamet",
+        "pubdate": "Mon, 06 Jan 2025 12:00:00 +0000"
       }
     ],
     [
@@ -104,6 +111,20 @@
         "title": "Coronation Street",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Coronation%20Street",
         "pubdate": "Mon, 06 Jan 2025 22:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Teams",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Teams",
+        "pubdate": "Mon, 06 Jan 2025 09:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Real%20Madrid",
+        "pubdate": "Mon, 06 Jan 2025 20:00:00 +0000"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Silent Witness",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Silent%20Witness",
         "pubdate": "Mon, 06 Jan 2025 22:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Nikki Glaser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Nikki%20Glaser",
-        "pubdate": "Mon, 06 Jan 2025 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "School closures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#School%20closures",
-        "pubdate": "Mon, 06 Jan 2025 07:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#AC%20Milan",
-        "pubdate": "Mon, 06 Jan 2025 23:00:00 +0000"
       }
     ]
   ]

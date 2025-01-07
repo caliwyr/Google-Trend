@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2025 , 12:30:03",
+  "lastUpdate": "07-01-2025 , 13:01:09",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Copasa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copasa",
+        "pubdate": "Tue, 07 Jan 2025 07:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Intranet",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Intranet",
         "pubdate": "Tue, 07 Jan 2025 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Consulta processo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Consulta%20processo",
+        "pubdate": "Tue, 07 Jan 2025 07:00:00 -0500"
       }
     ],
     [
@@ -52,6 +66,13 @@
     ],
     [
       {
+        "title": "Arsenio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Arsenio",
+        "pubdate": "Mon, 06 Jan 2025 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Nottingham Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nottingham%20Forest",
         "pubdate": "Mon, 06 Jan 2025 15:00:00 -0500"
@@ -80,13 +101,6 @@
     ],
     [
       {
-        "title": "Bolo envenenado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bolo%20envenenado",
-        "pubdate": "Mon, 06 Jan 2025 08:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Calendario 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Calendario%202025",
         "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
@@ -94,9 +108,9 @@
     ],
     [
       {
-        "title": "Detran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Detran",
-        "pubdate": "Mon, 06 Jan 2025 12:00:00 -0500"
+        "title": "Gov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gov",
+        "pubdate": "Mon, 06 Jan 2025 19:00:00 -0500"
       }
     ],
     [
@@ -104,6 +118,13 @@
         "title": "Feriados 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Feriados%202025",
         "pubdate": "Mon, 06 Jan 2025 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Enel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enel",
+        "pubdate": "Mon, 06 Jan 2025 13:00:00 -0500"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Simples Nacional",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Simples%20Nacional",
         "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Justin Trudeau",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Justin%20Trudeau",
-        "pubdate": "Mon, 06 Jan 2025 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Unimed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Unimed",
-        "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "FGV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#FGV",
-        "pubdate": "Mon, 06 Jan 2025 16:00:00 -0500"
       }
     ]
   ]
