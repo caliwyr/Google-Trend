@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "07-01-2025 , 00:35:30",
+  "lastUpdate": "07-01-2025 , 02:06:31",
   "data": [
-    [
-      {
-        "title": "NVDA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#NVDA",
-        "pubdate": "Tue, 07 Jan 2025 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Zendaya",
@@ -66,6 +59,20 @@
     ],
     [
       {
+        "title": "CES 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CES%202025",
+        "pubdate": "Mon, 06 Jan 2025 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Fock Siew Wah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fock%20Siew%20Wah",
+        "pubdate": "Mon, 06 Jan 2025 23:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Lawrence Wong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Lawrence%20Wong",
         "pubdate": "Mon, 06 Jan 2025 14:00:00 +0800"
@@ -80,23 +87,9 @@
     ],
     [
       {
-        "title": "CES 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CES%202025",
-        "pubdate": "Mon, 06 Jan 2025 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Downtown Line",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Downtown%20Line",
         "pubdate": "Mon, 06 Jan 2025 10:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Fock Siew Wah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fock%20Siew%20Wah",
-        "pubdate": "Mon, 06 Jan 2025 23:00:00 +0800"
       }
     ],
     [
@@ -125,6 +118,13 @@
         "title": "SIT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#SIT",
         "pubdate": "Mon, 06 Jan 2025 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia",
+        "pubdate": "Mon, 06 Jan 2025 23:00:00 +0800"
       }
     ],
     [
