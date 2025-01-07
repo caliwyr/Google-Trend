@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "06-01-2025 , 23:51:15",
+  "lastUpdate": "07-01-2025 , 00:35:29",
   "data": [
+    [
+      {
+        "title": "Norge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Norge",
+        "pubdate": "Tue, 07 Jan 2025 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Nav",
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Agderposten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Agderposten",
-        "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
+        "title": "FVN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#FVN",
+        "pubdate": "Mon, 06 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Flytoget",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Flytoget",
-        "pubdate": "Mon, 06 Jan 2025 08:00:00 +0100"
+        "title": "Grønland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gr%C3%B8nland",
+        "pubdate": "Mon, 06 Jan 2025 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Grønland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gr%C3%B8nland",
-        "pubdate": "Mon, 06 Jan 2025 22:00:00 +0100"
+        "title": "Flytoget",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Flytoget",
+        "pubdate": "Mon, 06 Jan 2025 08:00:00 +0100"
       }
     ],
     [
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Strømbrudd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Str%C3%B8mbrudd",
-        "pubdate": "Mon, 06 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "AI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#AI",
         "pubdate": "Mon, 06 Jan 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sandnesposten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sandnesposten",
-        "pubdate": "Mon, 06 Jan 2025 18:00:00 +0100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Bergen kommune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bergen%20kommune",
-        "pubdate": "Mon, 06 Jan 2025 11:00:00 +0100"
+        "title": "Røst",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#R%C3%B8st",
+        "pubdate": "Mon, 06 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Umarell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Umarell",
+        "pubdate": "Mon, 06 Jan 2025 13:00:00 +0100"
       }
     ]
   ]
