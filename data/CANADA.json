@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "07-01-2025 , 17:51:44",
+  "lastUpdate": "07-01-2025 , 18:11:05",
   "data": [
     [
       {
-        "title": "NVIDIA Stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#NVIDIA%20Stock",
+        "title": "Nvidia stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nvidia%20stock",
         "pubdate": "Tue, 07 Jan 2025 04:00:00 -0500"
       }
     ],
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Cole Caufield",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cole%20Caufield",
-        "pubdate": "Tue, 07 Jan 2025 00:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Jean-Marie Le Pen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Jean-Marie%20Le%20Pen",
         "pubdate": "Tue, 07 Jan 2025 09:00:00 -0500"
@@ -31,9 +24,30 @@
     ],
     [
       {
+        "title": "Cole Caufield",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cole%20Caufield",
+        "pubdate": "Tue, 07 Jan 2025 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sutton Foster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sutton%20Foster",
+        "pubdate": "Tue, 07 Jan 2025 07:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Greenland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Greenland",
         "pubdate": "Tue, 07 Jan 2025 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "LNH",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#LNH",
+        "pubdate": "Tue, 07 Jan 2025 09:00:00 -0500"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Canucks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
-        "pubdate": "Mon, 06 Jan 2025 20:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "CBC News",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#CBC%20News",
         "pubdate": "Mon, 06 Jan 2025 11:00:00 -0500"
@@ -69,6 +76,13 @@
         "title": "Zendaya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Zendaya",
         "pubdate": "Mon, 06 Jan 2025 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Canucks",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks",
+        "pubdate": "Mon, 06 Jan 2025 21:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Office 365",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Office%20365",
         "pubdate": "Mon, 06 Jan 2025 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Nvidia",
-        "pubdate": "Mon, 06 Jan 2025 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Globe and Mail",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Globe%20and%20Mail",
-        "pubdate": "Mon, 06 Jan 2025 00:00:00 -0500"
       }
     ]
   ]
