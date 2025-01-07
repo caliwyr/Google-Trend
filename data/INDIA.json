@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-01-2025 , 21:49:44",
+  "lastUpdate": "07-01-2025 , 21:58:50",
   "data": [
     [
       {
@@ -59,23 +59,16 @@
     ],
     [
       {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#AC%20Milan",
-        "pubdate": "Tue, 07 Jan 2025 10:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "UGC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#UGC",
-        "pubdate": "Tue, 07 Jan 2025 09:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "EFL Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#EFL%20Cup",
         "pubdate": "Tue, 07 Jan 2025 21:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#AC%20Milan",
+        "pubdate": "Tue, 07 Jan 2025 10:30:00 +0530"
       }
     ],
     [
@@ -87,8 +80,8 @@
     ],
     [
       {
-        "title": "HMPV Virus cases",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#HMPV%20Virus%20cases",
+        "title": "HMPV Virus Cases",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#HMPV%20Virus%20Cases",
         "pubdate": "Mon, 06 Jan 2025 16:30:00 +0530"
       }
     ],
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Quadrant Future Tek IPO GMP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Quadrant%20Future%20Tek%20IPO%20GMP",
-        "pubdate": "Mon, 06 Jan 2025 08:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Share market Today",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Share%20market%20Today",
         "pubdate": "Mon, 06 Jan 2025 16:30:00 +0530"
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "Standard Glass Lining IPO GMP today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Standard%20Glass%20Lining%20IPO%20GMP%20today",
-        "pubdate": "Mon, 06 Jan 2025 11:30:00 +0530"
+        "title": "Quadrant Future Tek IPO GMP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Quadrant%20Future%20Tek%20IPO%20GMP",
+        "pubdate": "Mon, 06 Jan 2025 08:30:00 +0530"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
-        "title": "Torres",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Torres",
-        "pubdate": "Mon, 06 Jan 2025 23:30:00 +0530"
+        "title": "Standard Glass Lining IPO GMP today",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Standard%20Glass%20Lining%20IPO%20GMP%20today",
+        "pubdate": "Mon, 06 Jan 2025 11:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Quadrant Future Tek IPO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Quadrant%20Future%20Tek%20IPO",
+        "pubdate": "Mon, 06 Jan 2025 13:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "HPMV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#HPMV",
+        "pubdate": "Mon, 06 Jan 2025 16:30:00 +0530"
       }
     ]
   ]
