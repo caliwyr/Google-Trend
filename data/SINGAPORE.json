@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "07-01-2025 , 10:47:52",
+  "lastUpdate": "07-01-2025 , 10:57:15",
   "data": [
     [
       {
         "title": "Zendaya",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zendaya",
         "pubdate": "Tue, 07 Jan 2025 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Tibet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tibet",
+        "pubdate": "Tue, 07 Jan 2025 16:00:00 +0800"
       }
     ],
     [
@@ -24,13 +31,6 @@
     ],
     [
       {
-        "title": "Tibet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tibet",
-        "pubdate": "Tue, 07 Jan 2025 16:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Nvidia stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nvidia%20stock",
         "pubdate": "Tue, 07 Jan 2025 11:00:00 +0800"
@@ -45,16 +45,16 @@
     ],
     [
       {
-        "title": "Timothee Chalamet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Timothee%20Chalamet",
-        "pubdate": "Tue, 07 Jan 2025 00:00:00 +0800"
+        "title": "Carabao Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Carabao%20Cup",
+        "pubdate": "Tue, 07 Jan 2025 07:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Carabao Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Carabao%20Cup",
-        "pubdate": "Tue, 07 Jan 2025 07:00:00 +0800"
+        "title": "Timothee Chalamet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Timothee%20Chalamet",
+        "pubdate": "Tue, 07 Jan 2025 00:00:00 +0800"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Katong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Katong",
         "pubdate": "Tue, 07 Jan 2025 08:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Shin Tae-yong",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Shin%20Tae-yong",
-        "pubdate": "Tue, 07 Jan 2025 00:00:00 +0800"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "CES 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CES%202025",
         "pubdate": "Mon, 06 Jan 2025 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Demi Moore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Demi%20Moore",
+        "pubdate": "Mon, 06 Jan 2025 16:00:00 +0800"
       }
     ]
   ]
