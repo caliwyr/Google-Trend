@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2025 , 19:46:16",
+  "lastUpdate": "08-01-2025 , 19:55:35",
   "data": [
     [
       {
@@ -10,22 +10,15 @@
     ],
     [
       {
+        "title": "Nationaal Archief",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nationaal%20Archief",
+        "pubdate": "Wed, 08 Jan 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
-        "pubdate": "Wed, 08 Jan 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sneeuw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuw",
-        "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Koen Schuiling",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Koen%20Schuiling",
         "pubdate": "Wed, 08 Jan 2025 11:00:00 +0100"
       }
     ],
@@ -41,6 +34,13 @@
         "title": "Los Angeles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Los%20Angeles",
         "pubdate": "Wed, 08 Jan 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pickleball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Pickleball",
+        "pubdate": "Wed, 08 Jan 2025 20:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Rotterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rotterdam",
-        "pubdate": "Wed, 01 Jan 2025 07:00:00 +0100"
+        "title": "Darts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Darts",
+        "pubdate": "Wed, 01 Jan 2025 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Nieuwjaarsconcert!",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nieuwjaarsconcert!",
-        "pubdate": "Wed, 01 Jan 2025 13:00:00 +0100"
+        "title": "Rotterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rotterdam",
+        "pubdate": "Wed, 01 Jan 2025 07:00:00 +0100"
       }
     ]
   ]
