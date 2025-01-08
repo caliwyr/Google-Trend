@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-01-2025 , 15:46:53",
+  "lastUpdate": "08-01-2025 , 15:56:06",
   "data": [
+    [
+      {
+        "title": "Discord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Discord",
+        "pubdate": "Wed, 08 Jan 2025 16:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Elvis Presley",
@@ -13,6 +20,13 @@
         "title": "Guardian",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Guardian",
         "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trump Greenland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump%20Greenland",
+        "pubdate": "Tue, 07 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -38,6 +52,13 @@
     ],
     [
       {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
+        "pubdate": "Tue, 07 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jean-Marie Le Pen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jean-Marie%20Le%20Pen",
         "pubdate": "Tue, 07 Jan 2025 14:00:00 +0100"
@@ -52,8 +73,8 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump",
+        "title": "Fox News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fox%20News",
         "pubdate": "Tue, 07 Jan 2025 19:00:00 +0100"
       }
     ],
@@ -73,15 +94,8 @@
     ],
     [
       {
-        "title": "Fox News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fox%20News",
-        "pubdate": "Tue, 07 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "New york times",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20york%20times",
+        "title": "New York times",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#New%20York%20times",
         "pubdate": "Tue, 07 Jan 2025 17:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Alaska",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alaska",
         "pubdate": "Tue, 07 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Washington Post",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Washington%20Post",
-        "pubdate": "Tue, 07 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Calculator",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Calculator",
-        "pubdate": "Tue, 07 Jan 2025 06:00:00 +0100"
       }
     ]
   ]

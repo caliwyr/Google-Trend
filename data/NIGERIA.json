@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "08-01-2025 , 15:46:57",
+  "lastUpdate": "08-01-2025 , 15:56:11",
   "data": [
     [
       {
         "title": "John Mahama",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#John%20Mahama",
-        "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Valencia",
         "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
       }
     ],
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Valencia",
+        "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kobbie Mainoo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kobbie%20Mainoo",
         "pubdate": "Wed, 08 Jan 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Tottenham%20vs%20Liverpool",
+        "pubdate": "Wed, 08 Jan 2025 16:00:00 +0100"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "Sporting cp",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting%20cp",
-        "pubdate": "Tue, 07 Jan 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Greenland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Greenland",
         "pubdate": "Tue, 07 Jan 2025 22:00:00 +0100"
@@ -87,8 +87,8 @@
     ],
     [
       {
-        "title": "Porto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Porto",
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sporting",
         "pubdate": "Tue, 07 Jan 2025 23:00:00 +0100"
       }
     ],
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Copa del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Copa%20del%20Rey",
+        "title": "Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Madrid",
         "pubdate": "Mon, 06 Jan 2025 20:00:00 +0100"
       }
     ]
