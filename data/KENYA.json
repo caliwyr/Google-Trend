@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2025 , 16:51:21",
+  "lastUpdate": "08-01-2025 , 17:05:48",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Champions%20League",
-        "pubdate": "Wed, 08 Jan 2025 11:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Sporting Lisbon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Sporting%20Lisbon",
         "pubdate": "Wed, 08 Jan 2025 02:00:00 +0300"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Champions%20League",
+        "pubdate": "Wed, 08 Jan 2025 11:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20FC",
         "pubdate": "Wed, 08 Jan 2025 13:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Kobbie Mainoo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Kobbie%20Mainoo",
+        "pubdate": "Wed, 08 Jan 2025 19:00:00 +0300"
       }
     ],
     [
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Human metapneumovirus HMPV virus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Human%20metapneumovirus%20HMPV%20virus",
+        "title": "Human Metapneumovirus HMPV virus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Human%20Metapneumovirus%20HMPV%20virus",
         "pubdate": "Tue, 07 Jan 2025 19:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Billy Mwangi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Billy%20Mwangi",
         "pubdate": "Mon, 06 Jan 2025 12:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "KCSE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#KCSE",
-        "pubdate": "Mon, 06 Jan 2025 13:00:00 +0300"
       }
     ]
   ]
