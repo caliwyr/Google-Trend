@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-01-2025 , 06:46:30",
+  "lastUpdate": "08-01-2025 , 06:55:47",
   "data": [
     [
       {
         "title": "Post",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Post",
         "pubdate": "Wed, 08 Jan 2025 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leo",
+        "pubdate": "Wed, 08 Jan 2025 07:00:00 +0100"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "OnePlus 13",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#OnePlus%2013",
         "pubdate": "Wed, 08 Jan 2025 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bad Friedrichshall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bad%20Friedrichshall",
+        "pubdate": "Wed, 08 Jan 2025 07:00:00 +0100"
       }
     ],
     [
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Outlook",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Outlook",
-        "pubdate": "Tue, 07 Jan 2025 11:00:00 +0100"
+        "title": "Arsenal – Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal%20%E2%80%93%20Newcastle",
+        "pubdate": "Tue, 07 Jan 2025 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Arsenal – Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Arsenal%20%E2%80%93%20Newcastle",
-        "pubdate": "Tue, 07 Jan 2025 21:00:00 +0100"
+        "title": "Outlook",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Outlook",
+        "pubdate": "Tue, 07 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Drei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Drei",
-        "pubdate": "Tue, 07 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Susanne Raab",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Susanne%20Raab",
         "pubdate": "Tue, 07 Jan 2025 15:00:00 +0100"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Drei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Drei",
+        "pubdate": "Tue, 07 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lamborghini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lamborghini",
         "pubdate": "Tue, 07 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rudi Fußi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rudi%20Fu%C3%9Fi",
-        "pubdate": "Tue, 07 Jan 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Anton",
-        "pubdate": "Tue, 07 Jan 2025 11:00:00 +0100"
       }
     ]
   ]
