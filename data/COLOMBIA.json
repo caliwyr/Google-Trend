@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-01-2025 , 21:51:47",
+  "lastUpdate": "08-01-2025 , 22:07:39",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Barcelona",
+        "pubdate": "Wed, 08 Jan 2025 14:00:00 -0500"
+      }
+    ],
     [
       {
         "title": "Discord",
@@ -13,13 +20,6 @@
         "title": "Movistar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Movistar",
         "pubdate": "Wed, 08 Jan 2025 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#FC%20Barcelona",
-        "pubdate": "Wed, 08 Jan 2025 14:00:00 -0500"
       }
     ],
     [
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Iberia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Iberia",
-        "pubdate": "Wed, 08 Jan 2025 00:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Jery Sandoval",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Jery%20Sandoval",
         "pubdate": "Wed, 08 Jan 2025 13:00:00 -0500"
@@ -52,9 +45,23 @@
     ],
     [
       {
+        "title": "Iberia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Iberia",
+        "pubdate": "Wed, 08 Jan 2025 00:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Aire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Aire",
         "pubdate": "Wed, 08 Jan 2025 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Los Angeles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Los%20Angeles",
+        "pubdate": "Wed, 08 Jan 2025 16:00:00 -0500"
       }
     ],
     [
@@ -68,7 +75,7 @@
       {
         "title": "Tottenham  Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Tottenham%20%20Liverpool",
-        "pubdate": "Tue, 07 Jan 2025 17:00:00 -0500"
+        "pubdate": "Tue, 07 Jan 2025 11:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Claro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Claro",
         "pubdate": "Tue, 07 Jan 2025 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Copa del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CO#Copa%20del%20Rey",
-        "pubdate": "Tue, 07 Jan 2025 09:00:00 -0500"
       }
     ]
   ]
