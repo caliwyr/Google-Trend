@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "08-01-2025 , 20:51:00",
+  "lastUpdate": "08-01-2025 , 21:00:31",
   "data": [
     [
       {
         "title": "Tygo Gernandt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tygo%20Gernandt",
-        "pubdate": "Wed, 08 Jan 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nationaal Archief",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nationaal%20Archief",
         "pubdate": "Wed, 08 Jan 2025 09:00:00 +0100"
       }
     ],
@@ -24,9 +17,16 @@
     ],
     [
       {
-        "title": "Haller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Haller",
-        "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
+        "title": "Nationaal Archief",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nationaal%20Archief",
+        "pubdate": "Wed, 08 Jan 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sneeuw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sneeuw",
+        "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Los Angeles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Los%20Angeles",
         "pubdate": "Wed, 08 Jan 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Haller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Haller",
+        "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Darts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Darts",
         "pubdate": "Wed, 01 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rotterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rotterdam",
-        "pubdate": "Wed, 01 Jan 2025 07:00:00 +0100"
       }
     ]
   ]
