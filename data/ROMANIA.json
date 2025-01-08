@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2025 , 23:40:12",
+  "lastUpdate": "08-01-2025 , 23:49:29",
   "data": [
     [
       {
@@ -24,8 +24,15 @@
     ],
     [
       {
-        "title": "Bilbao  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bilbao%20%20Barcelona",
+        "title": "Bilbao,  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bilbao,%20%20Barcelona",
+        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
         "pubdate": "Wed, 08 Jan 2025 21:00:00 +0200"
       }
     ],
@@ -34,13 +41,6 @@
         "title": "Radio ZU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Radio%20ZU",
         "pubdate": "Wed, 08 Jan 2025 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona",
-        "pubdate": "Wed, 08 Jan 2025 22:00:00 +0200"
       }
     ],
     [
@@ -66,8 +66,8 @@
     ],
     [
       {
-        "title": "Virusul hMPV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Virusul%20hMPV",
+        "title": "Virusul HMPV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Virusul%20HMPV",
         "pubdate": "Wed, 08 Jan 2025 01:00:00 +0200"
       }
     ],
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#FC%20Barcelona",
-        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Aziz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aziz",
         "pubdate": "Wed, 08 Jan 2025 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "BVB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#BVB",
         "pubdate": "Wed, 08 Jan 2025 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Avocatul Poporului",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Avocatul%20Poporului",
+        "pubdate": "Wed, 08 Jan 2025 06:00:00 +0200"
       }
     ]
   ]
