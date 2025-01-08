@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2025 , 13:45:06",
+  "lastUpdate": "08-01-2025 , 13:54:24",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Los Angeles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Los%20Angeles",
+        "pubdate": "Wed, 08 Jan 2025 12:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "School closures",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#School%20closures",
         "pubdate": "Wed, 08 Jan 2025 08:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Met eireann weather warnings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Met%20eireann%20weather%20warnings",
+        "pubdate": "Wed, 08 Jan 2025 11:00:00 +0000"
       }
     ],
     [
@@ -31,13 +45,6 @@
     ],
     [
       {
-        "title": "Hulk Hogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hulk%20Hogan",
-        "pubdate": "Wed, 08 Jan 2025 00:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Tom McKibbin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Tom%20McKibbin",
         "pubdate": "Wed, 08 Jan 2025 11:00:00 +0000"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Los Angeles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Los%20Angeles",
-        "pubdate": "Wed, 08 Jan 2025 12:00:00 +0000"
+        "title": "Hulk Hogan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Hulk%20Hogan",
+        "pubdate": "Wed, 08 Jan 2025 00:00:00 +0000"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Weather warning",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Weather%20warning",
-        "pubdate": "Tue, 07 Jan 2025 17:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Greenland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Greenland",
         "pubdate": "Tue, 07 Jan 2025 14:00:00 +0000"
@@ -73,9 +73,16 @@
     ],
     [
       {
-        "title": "Dublin City Half Marathon 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dublin%20City%20Half%20Marathon%202025",
+        "title": "Dublin City half Marathon 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Dublin%20City%20half%20Marathon%202025",
         "pubdate": "Tue, 07 Jan 2025 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Weather warning",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Weather%20warning",
+        "pubdate": "Tue, 07 Jan 2025 17:00:00 +0000"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Red Eye",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Red%20Eye",
         "pubdate": "Tue, 07 Jan 2025 23:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "River Camac Dublin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#River%20Camac%20Dublin",
-        "pubdate": "Tue, 07 Jan 2025 00:00:00 +0000"
       }
     ]
   ]
