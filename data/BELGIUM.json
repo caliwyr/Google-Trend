@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "08-01-2025 , 22:41:07",
+  "lastUpdate": "08-01-2025 , 22:50:34",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
+        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Ath Bilbao – Barcelone",
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Tottenham – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tottenham%20%E2%80%93%20Liverpool",
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
         "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
       }
     ],
@@ -52,30 +59,9 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tupperware",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tupperware",
         "pubdate": "Wed, 08 Jan 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool",
-        "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Elvis Presley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elvis%20Presley",
-        "pubdate": "Wed, 08 Jan 2025 19:00:00 +0100"
       }
     ],
     [
@@ -87,9 +73,30 @@
     ],
     [
       {
+        "title": "Elvis Presley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elvis%20Presley",
+        "pubdate": "Wed, 08 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "David Bowie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#David%20Bowie",
+        "pubdate": "Wed, 08 Jan 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Didier Deschamps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Didier%20Deschamps",
         "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Glass",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Glass",
+        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -104,13 +111,6 @@
         "title": "Freya Van den Bossche",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Freya%20Van%20den%20Bossche",
         "pubdate": "Wed, 08 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Union Saint-Gilloise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Union%20Saint-Gilloise",
-        "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Grippe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Grippe",
-        "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
+        "title": "Nick Celis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nick%20Celis",
+        "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
       }
     ]
   ]
