@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "08-01-2025 , 17:46:40",
+  "lastUpdate": "08-01-2025 , 17:56:01",
   "data": [
-    [
-      {
-        "title": "Darty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Darty",
-        "pubdate": "Wed, 08 Jan 2025 16:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Didier Deschamps",
@@ -48,6 +41,13 @@
         "title": "Brigitte Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brigitte%20Macron",
         "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Donald%20Trump",
+        "pubdate": "Wed, 08 Jan 2025 08:00:00 +0100"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Timberland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Timberland",
-        "pubdate": "Wed, 08 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bruno Retailleau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bruno%20Retailleau",
         "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Jean-Marie Le Pen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Marie%20Le%20Pen",
         "pubdate": "Tue, 07 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Charlie Hebdo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Charlie%20Hebdo",
+        "pubdate": "Tue, 07 Jan 2025 13:00:00 +0100"
       }
     ]
   ]
