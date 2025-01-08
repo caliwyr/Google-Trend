@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "08-01-2025 , 18:41:33",
+  "lastUpdate": "08-01-2025 , 18:50:48",
   "data": [
-    [
-      {
-        "title": "Sam Altman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sam%20Altman",
-        "pubdate": "Wed, 08 Jan 2025 05:00:00 -0800"
-      }
-    ],
     [
       {
         "title": "Lincoln",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Lincoln",
+        "pubdate": "Wed, 08 Jan 2025 08:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Elvis Presley",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elvis%20Presley",
         "pubdate": "Wed, 08 Jan 2025 08:00:00 -0800"
       }
     ],
@@ -24,16 +24,23 @@
     ],
     [
       {
-        "title": "Elvis Presley",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Elvis%20Presley",
-        "pubdate": "Wed, 08 Jan 2025 08:00:00 -0800"
+        "title": "Sunny Hostin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sunny%20Hostin",
+        "pubdate": "Wed, 08 Jan 2025 07:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Sunny Hostin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sunny%20Hostin",
-        "pubdate": "Wed, 08 Jan 2025 07:00:00 -0800"
+        "title": "Florida basketball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Florida%20basketball",
+        "pubdate": "Wed, 08 Jan 2025 06:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Trump Canada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trump%20Canada",
+        "pubdate": "Wed, 08 Jan 2025 10:00:00 -0800"
       }
     ],
     [
@@ -66,23 +73,9 @@
     ],
     [
       {
-        "title": "Sutton Foster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sutton%20Foster",
-        "pubdate": "Tue, 07 Jan 2025 00:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Girl Scout cookies retired",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Girl%20Scout%20cookies%20retired",
         "pubdate": "Tue, 07 Jan 2025 13:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Mark Zuckerberg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mark%20Zuckerberg",
-        "pubdate": "Tue, 07 Jan 2025 08:00:00 -0800"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "California",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#California",
-        "pubdate": "Tue, 07 Jan 2025 21:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Jerry Springer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jerry%20Springer",
         "pubdate": "Tue, 07 Jan 2025 14:00:00 -0800"
@@ -139,6 +125,20 @@
         "title": "Tennessee basketball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Tennessee%20basketball",
         "pubdate": "Tue, 07 Jan 2025 18:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Hugh Jackman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Hugh%20Jackman",
+        "pubdate": "Tue, 07 Jan 2025 06:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Jimmy Carter children",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Jimmy%20Carter%20children",
+        "pubdate": "Tue, 07 Jan 2025 15:00:00 -0800"
       }
     ]
   ]
