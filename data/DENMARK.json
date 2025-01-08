@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2025 , 14:50:54",
+  "lastUpdate": "08-01-2025 , 15:00:15",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Donald%20Trump",
-        "pubdate": "Tue, 07 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jean-Marie Le Pen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jean-Marie%20Le%20Pen",
         "pubdate": "Tue, 07 Jan 2025 14:00:00 +0100"
@@ -55,6 +48,13 @@
         "title": "Sutton Foster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sutton%20Foster",
         "pubdate": "Tue, 07 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Trump",
+        "pubdate": "Tue, 07 Jan 2025 19:00:00 +0100"
       }
     ],
     [
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "FOX News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FOX%20News",
+        "title": "Fox News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fox%20News",
         "pubdate": "Tue, 07 Jan 2025 19:00:00 +0100"
       }
     ],
