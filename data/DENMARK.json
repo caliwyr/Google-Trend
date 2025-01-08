@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-01-2025 , 12:55:04",
+  "lastUpdate": "08-01-2025 , 13:21:09",
   "data": [
     [
       {
         "title": "Elvis Presley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Elvis%20Presley",
         "pubdate": "Wed, 08 Jan 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Guardian",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Guardian",
+        "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Arsenal  Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Arsenal%20%20Newcastle",
         "pubdate": "Tue, 07 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "CNN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CNN",
-        "pubdate": "Tue, 07 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Parkinson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Parkinson",
-        "pubdate": "Tue, 07 Jan 2025 20:00:00 +0100"
+        "title": "Fox News",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fox%20News",
+        "pubdate": "Tue, 07 Jan 2025 19:00:00 +0100"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Parkinson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Parkinson",
+        "pubdate": "Tue, 07 Jan 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Nicole Kidman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Nicole%20Kidman",
         "pubdate": "Tue, 07 Jan 2025 15:00:00 +0100"
@@ -87,30 +94,9 @@
     ],
     [
       {
-        "title": "The guardian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#The%20guardian",
-        "pubdate": "Tue, 07 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fox News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Fox%20News",
-        "pubdate": "Tue, 07 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jerry Springer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jerry%20Springer",
         "pubdate": "Tue, 07 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Novo nordisk stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Novo%20nordisk%20stock",
-        "pubdate": "Tue, 07 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Alaska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alaska",
+        "pubdate": "Tue, 07 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Washington Post",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Washington%20Post",
         "pubdate": "Tue, 07 Jan 2025 20:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Calculator",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Calculator",
         "pubdate": "Tue, 07 Jan 2025 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Adam Brody",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Adam%20Brody",
+        "pubdate": "Tue, 07 Jan 2025 08:00:00 +0100"
       }
     ]
   ]
