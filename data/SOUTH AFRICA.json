@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-01-2025 , 05:50:40",
+  "lastUpdate": "08-01-2025 , 06:00:00",
   "data": [
     [
       {
         "title": "Greenland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Greenland",
         "pubdate": "Wed, 08 Jan 2025 05:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Royal AM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Royal%20AM",
+        "pubdate": "Wed, 08 Jan 2025 07:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Golden Globes 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Golden%20Globes%202025",
         "pubdate": "Mon, 06 Jan 2025 07:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Canva",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Canva",
-        "pubdate": "Mon, 06 Jan 2025 14:00:00 +0200"
       }
     ]
   ]
