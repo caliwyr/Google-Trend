@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2025 , 11:43:36",
+  "lastUpdate": "08-01-2025 , 11:53:13",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Copa del Rey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Copa%20del%20Rey",
-        "pubdate": "Tue, 07 Jan 2025 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Chinese actor Wang Xing",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Chinese%20actor%20Wang%20Xing",
         "pubdate": "Tue, 07 Jan 2025 02:00:00 +0800"
@@ -101,8 +94,15 @@
     ],
     [
       {
-        "title": "NVIDIA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#NVIDIA",
+        "title": "Copa del Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Copa%20del%20Rey",
+        "pubdate": "Tue, 07 Jan 2025 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Nvidia",
         "pubdate": "Tue, 07 Jan 2025 12:00:00 +0800"
       }
     ],

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2025 , 11:43:40",
+  "lastUpdate": "08-01-2025 , 11:53:16",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Erzurum deprem",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Erzurum%20deprem",
+        "pubdate": "Wed, 08 Jan 2025 05:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "HMPV virüsü",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#HMPV%20vir%C3%BCs%C3%BC",
         "pubdate": "Wed, 08 Jan 2025 07:00:00 +0300"
@@ -41,6 +48,13 @@
         "title": "Coşkun Göğen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Co%C5%9Fkun%20G%C3%B6%C4%9Fen",
         "pubdate": "Wed, 08 Jan 2025 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Hakan Fidan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Hakan%20Fidan",
+        "pubdate": "Wed, 08 Jan 2025 14:00:00 +0300"
       }
     ],
     [
@@ -87,8 +101,8 @@
     ],
     [
       {
-        "title": "Antalyaspor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Antalyaspor",
+        "title": "Kocaelispor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kocaelispor",
         "pubdate": "Tue, 07 Jan 2025 21:00:00 +0300"
       }
     ],
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Milan",
-        "pubdate": "Tue, 07 Jan 2025 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Tibet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Tibet",
-        "pubdate": "Tue, 07 Jan 2025 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Nvidia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Nvidia",
-        "pubdate": "Tue, 07 Jan 2025 13:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Kerimcan Durmaz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Kerimcan%20Durmaz",
         "pubdate": "Tue, 07 Jan 2025 14:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Milan",
+        "pubdate": "Tue, 07 Jan 2025 00:00:00 +0300"
       }
     ]
   ]
