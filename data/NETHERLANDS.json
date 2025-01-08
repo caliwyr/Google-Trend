@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2025 , 07:46:06",
+  "lastUpdate": "08-01-2025 , 07:55:33",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
-        "pubdate": "Mon, 06 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "ASML",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
         "pubdate": "Mon, 06 Jan 2025 13:00:00 +0100"
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Elon musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Elon%20musk",
-        "pubdate": "Mon, 06 Jan 2025 21:00:00 +0100"
+        "title": "Blue Monday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Blue%20Monday",
+        "pubdate": "Mon, 06 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Darts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Darts",
         "pubdate": "Wed, 01 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rotterdam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rotterdam",
+        "pubdate": "Wed, 01 Jan 2025 07:00:00 +0100"
       }
     ]
   ]
