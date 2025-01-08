@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-01-2025 , 04:52:59",
+  "lastUpdate": "08-01-2025 , 05:10:42",
   "data": [
     [
       {
@@ -62,6 +62,13 @@
         "title": "Nationaal Archief",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Nationaal%20Archief",
         "pubdate": "Mon, 06 Jan 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The Brutalist",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20Brutalist",
+        "pubdate": "Mon, 06 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Radio 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
         "pubdate": "Thu, 02 Jan 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Darts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Darts",
-        "pubdate": "Wed, 01 Jan 2025 21:00:00 +0100"
       }
     ]
   ]
