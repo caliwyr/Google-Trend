@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2025 , 04:47:26",
+  "lastUpdate": "09-01-2025 , 04:56:52",
   "data": [
     [
       {
@@ -73,6 +73,13 @@
     ],
     [
       {
+        "title": "Doxa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Doxa",
+        "pubdate": "Wed, 08 Jan 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FA%20Cup",
         "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Northvolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Northvolt",
         "pubdate": "Tue, 07 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ozempic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ozempic",
-        "pubdate": "Tue, 07 Jan 2025 21:00:00 +0100"
       }
     ]
   ]

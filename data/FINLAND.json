@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2025 , 04:47:20",
+  "lastUpdate": "09-01-2025 , 04:56:46",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
-        "pubdate": "Wed, 08 Jan 2025 00:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Lux",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lux",
         "pubdate": "Wed, 08 Jan 2025 19:00:00 +0200"
@@ -90,13 +83,6 @@
         "title": "RTX 5070",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#RTX%205070",
         "pubdate": "Tue, 07 Jan 2025 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "NVIDIA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NVIDIA",
-        "pubdate": "Tue, 07 Jan 2025 07:00:00 +0200"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Noushin Faraji",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Noushin%20Faraji",
         "pubdate": "Tue, 07 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Classroom",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Classroom",
+        "pubdate": "Tue, 07 Jan 2025 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal – Newcastle United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal%20%E2%80%93%20Newcastle%20United",
+        "pubdate": "Tue, 07 Jan 2025 22:00:00 +0200"
       }
     ]
   ]
