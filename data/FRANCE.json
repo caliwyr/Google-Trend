@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "09-01-2025 , 16:45:12",
+  "lastUpdate": "09-01-2025 , 16:54:25",
   "data": [
     [
       {
         "title": "Biathlon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Biathlon",
+        "pubdate": "Thu, 09 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Joseph Aoun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joseph%20Aoun",
         "pubdate": "Thu, 09 Jan 2025 16:00:00 +0100"
       }
     ],
@@ -20,13 +27,6 @@
         "title": "Tchad",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tchad",
         "pubdate": "Thu, 09 Jan 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Joseph Aoun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Joseph%20Aoun",
-        "pubdate": "Thu, 09 Jan 2025 16:00:00 +0100"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Tottenham – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tottenham%20%E2%80%93%20Liverpool",
-        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Donald%20Trump",
         "pubdate": "Wed, 08 Jan 2025 08:00:00 +0100"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Supercoupe d'Espagne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Supercoupe%20d'Espagne",
-        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Brigitte Macron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brigitte%20Macron",
         "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Barca",
         "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Switch 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Switch%202",
+        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Elsbeth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elsbeth",
+        "pubdate": "Wed, 08 Jan 2025 20:00:00 +0100"
       }
     ]
   ]
