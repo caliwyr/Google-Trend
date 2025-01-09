@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "09-01-2025 , 05:41:14",
+  "lastUpdate": "09-01-2025 , 05:50:31",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
+        "pubdate": "Thu, 09 Jan 2025 06:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Tottenham – Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tottenham%20%E2%80%93%20Liverpool",
         "pubdate": "Wed, 08 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bachelor Česko",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Bachelor%20%C4%8Cesko",
-        "pubdate": "Wed, 08 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Skoda Auto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Skoda%20Auto",
-        "pubdate": "Wed, 08 Jan 2025 19:00:00 +0100"
+        "title": "Los Angeles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Los%20Angeles",
+        "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Los Angeles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Los%20Angeles",
-        "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
+        "title": "Skoda Auto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Skoda%20Auto",
+        "pubdate": "Wed, 08 Jan 2025 19:00:00 +0100"
       }
     ],
     [
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "NATO",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#NATO",
-        "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "RTX 5070",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#RTX%205070",
         "pubdate": "Tue, 07 Jan 2025 03:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Tom Holland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%20Holland",
         "pubdate": "Tue, 07 Jan 2025 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pardubice litvinov",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pardubice%20litvinov",
+        "pubdate": "Tue, 07 Jan 2025 23:00:00 +0100"
       }
     ]
   ]
