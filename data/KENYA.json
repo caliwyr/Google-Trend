@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2025 , 17:39:42",
+  "lastUpdate": "09-01-2025 , 17:49:11",
   "data": [
     [
       {
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Service",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Service",
+        "title": "Checking",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Checking",
+        "pubdate": "Thu, 09 Jan 2025 15:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Portal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Portal",
         "pubdate": "Thu, 09 Jan 2025 14:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Checking",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Checking",
-        "pubdate": "Thu, 09 Jan 2025 15:00:00 +0300"
+        "title": "Service",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Service",
+        "pubdate": "Thu, 09 Jan 2025 14:00:00 +0300"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Try",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Try",
+        "pubdate": "Thu, 09 Jan 2025 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Citizen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Citizen",
         "pubdate": "Thu, 09 Jan 2025 14:00:00 +0300"
@@ -83,13 +97,6 @@
         "title": "Your",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Your",
         "pubdate": "Thu, 09 Jan 2025 16:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Try",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Try",
-        "pubdate": "Thu, 09 Jan 2025 17:00:00 +0300"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Antonín kinský",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Anton%C3%ADn%20kinsk%C3%BD",
-        "pubdate": "Thu, 09 Jan 2025 10:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Everton vs Peterborough",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Everton%20vs%20Peterborough",
         "pubdate": "Thu, 09 Jan 2025 19:00:00 +0300"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Julen Lopetegui",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Julen%20Lopetegui",
-        "pubdate": "Thu, 09 Jan 2025 19:00:00 +0300"
+        "title": "Antonín kinský",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Anton%C3%ADn%20kinsk%C3%BD",
+        "pubdate": "Thu, 09 Jan 2025 10:00:00 +0300"
       }
     ],
     [
       {
-        "title": "Tottenham vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Tottenham%20vs%20Liverpool",
-        "pubdate": "Wed, 08 Jan 2025 11:00:00 +0300"
+        "title": "Real Madrid vs Mallorca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Real%20Madrid%20vs%20Mallorca",
+        "pubdate": "Thu, 09 Jan 2025 20:00:00 +0300"
       }
     ]
   ]
