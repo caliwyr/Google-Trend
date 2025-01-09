@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2025 , 22:45:31",
+  "lastUpdate": "09-01-2025 , 22:54:44",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "Jimmy Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jimmy%20Carter",
-        "pubdate": "Thu, 09 Jan 2025 18:00:00 +0100"
+        "title": "Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Everton",
+        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Everton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Everton",
+        "title": "Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fulham",
         "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rangers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Rangers",
+        "pubdate": "Thu, 09 Jan 2025 23:00:00 +0100"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Film",
         "pubdate": "Thu, 09 Jan 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Fulham",
-        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20FC",
+        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mubarak Bala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mubarak%20Bala",
         "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
@@ -117,13 +124,6 @@
       {
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Celtic",
-        "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liverpool FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Liverpool%20FC",
         "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
       }
     ],
