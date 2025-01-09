@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-01-2025 , 23:38:13",
+  "lastUpdate": "09-01-2025 , 23:47:38",
   "data": [
+    [
+      {
+        "title": "First Bank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#First%20Bank",
+        "pubdate": "Fri, 10 Jan 2025 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Everton vs Peterborough",
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barcelona",
-        "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Los Angeles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Los%20Angeles",
         "pubdate": "Wed, 08 Jan 2025 21:00:00 +0100"
@@ -115,6 +115,20 @@
     ],
     [
       {
+        "title": "Barca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Barca",
+        "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FC%20Barcelona",
+        "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mubarak Bala",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mubarak%20Bala",
         "pubdate": "Wed, 08 Jan 2025 14:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Celtic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Celtic",
         "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kobbie Mainoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Kobbie%20Mainoo",
-        "pubdate": "Wed, 08 Jan 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "John Mahama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#John%20Mahama",
-        "pubdate": "Wed, 08 Jan 2025 00:00:00 +0100"
       }
     ]
   ]

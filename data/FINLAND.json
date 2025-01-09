@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "09-01-2025 , 23:38:09",
+  "lastUpdate": "09-01-2025 , 23:47:34",
   "data": [
-    [
-      {
-        "title": "Jimmy Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jimmy%20Carter",
-        "pubdate": "Thu, 09 Jan 2025 16:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Adam Brody",
@@ -52,13 +45,6 @@
     ],
     [
       {
-        "title": "Hollywood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hollywood",
-        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Anthony Hopkins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Anthony%20Hopkins",
         "pubdate": "Thu, 09 Jan 2025 23:00:00 +0200"
@@ -83,6 +69,13 @@
         "title": "Los Angeles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Los%20Angeles",
         "pubdate": "Wed, 08 Jan 2025 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jimmy Carter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Jimmy%20Carter",
+        "pubdate": "Wed, 08 Jan 2025 04:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Outlook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Outlook",
         "pubdate": "Tue, 07 Jan 2025 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Office 365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Office%20365",
+        "pubdate": "Tue, 07 Jan 2025 11:00:00 +0200"
       }
     ]
   ]
