@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "09-01-2025 , 09:42:46",
+  "lastUpdate": "09-01-2025 , 09:52:02",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Barcelona",
         "pubdate": "Thu, 09 Jan 2025 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maria Callas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Maria%20Callas",
+        "pubdate": "Thu, 09 Jan 2025 09:00:00 +0100"
       }
     ],
     [
@@ -75,13 +82,6 @@
       {
         "title": "Pod hladinou",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Pod%20hladinou",
-        "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Srdce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Srdce",
         "pubdate": "Wed, 08 Jan 2025 22:00:00 +0100"
       }
     ],
