@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-01-2025 , 02:12:55",
+  "lastUpdate": "09-01-2025 , 03:15:31",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Discord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Discord",
         "pubdate": "Wed, 08 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
+        "pubdate": "Wed, 08 Jan 2025 18:00:00 +0100"
       }
     ],
     [
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "Kickl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kickl",
-        "pubdate": "Sun, 05 Jan 2025 21:00:00 +0100"
+        "title": "FPÖ Österreich",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FP%C3%96%20%C3%96sterreich",
+        "pubdate": "Sun, 05 Jan 2025 12:00:00 +0100"
       }
     ],
     [
       {
-        "title": "FPÖ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#FP%C3%96",
-        "pubdate": "Sun, 05 Jan 2025 12:00:00 +0100"
+        "title": "Kickl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kickl",
+        "pubdate": "Sun, 05 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Kugelbombe Silvester",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kugelbombe%20Silvester",
+        "title": "Was sind Kugelbomben",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Was%20sind%20Kugelbomben",
         "pubdate": "Wed, 01 Jan 2025 11:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Südkorea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#S%C3%BCdkorea",
         "pubdate": "Sun, 29 Dec 2024 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Squid Game",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Squid%20Game",
-        "pubdate": "Wed, 25 Dec 2024 20:00:00 +0100"
       }
     ]
   ]
