@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-01-2025 , 01:24:58",
+  "lastUpdate": "10-01-2025 , 02:38:00",
   "data": [
-    [
-      {
-        "title": "MI Cape Town",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#MI%20Cape%20Town",
-        "pubdate": "Fri, 10 Jan 2025 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Real Madrid vs Mallorca",
@@ -24,13 +17,6 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FA%20Cup",
-        "pubdate": "Thu, 09 Jan 2025 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Ndlozi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Ndlozi",
         "pubdate": "Thu, 09 Jan 2025 10:00:00 +0200"
@@ -41,6 +27,20 @@
         "title": "SA20",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#SA20",
         "pubdate": "Thu, 09 Jan 2025 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FA%20Cup",
+        "pubdate": "Thu, 09 Jan 2025 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Everton vs Peterborough",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton%20vs%20Peterborough",
+        "pubdate": "Thu, 09 Jan 2025 22:00:00 +0200"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "Nedbank Cup draw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nedbank%20Cup%20draw",
         "pubdate": "Thu, 09 Jan 2025 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Delano Potgieter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Delano%20Potgieter",
+        "pubdate": "Thu, 09 Jan 2025 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Benfica",
         "pubdate": "Thu, 09 Jan 2025 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sunrisers Eastern Cape",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sunrisers%20Eastern%20Cape",
-        "pubdate": "Thu, 09 Jan 2025 22:00:00 +0200"
       }
     ]
   ]
