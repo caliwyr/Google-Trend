@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "10-01-2025 , 23:44:53",
+  "lastUpdate": "10-01-2025 , 23:54:13",
   "data": [
-    [
-      {
-        "title": "Aston Villa – West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Aston%20Villa%20%E2%80%93%20West%20Ham",
-        "pubdate": "Sat, 11 Jan 2025 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Dortmund – Leverkusen",
@@ -139,6 +132,13 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump",
         "pubdate": "Wed, 08 Jan 2025 04:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Alaska",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Alaska",
+        "pubdate": "Wed, 08 Jan 2025 23:00:00 +0200"
       }
     ]
   ]
