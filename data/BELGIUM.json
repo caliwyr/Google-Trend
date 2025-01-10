@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2025 , 08:42:49",
+  "lastUpdate": "10-01-2025 , 08:52:14",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#FA%20Cup",
         "pubdate": "Fri, 10 Jan 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Stephane Plaza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stephane%20Plaza",
+        "pubdate": "Fri, 10 Jan 2025 08:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Stephane Plaza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Stephane%20Plaza",
-        "pubdate": "Fri, 10 Jan 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "TEC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#TEC",
         "pubdate": "Thu, 09 Jan 2025 08:00:00 +0100"
@@ -45,9 +45,16 @@
     ],
     [
       {
+        "title": "Beerschot",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot",
+        "pubdate": "Thu, 09 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Anderlecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Anderlecht",
-        "pubdate": "Thu, 09 Jan 2025 16:00:00 +0100"
+        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Al-Nassr",
+        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tygo Gernandt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tygo%20Gernandt",
         "pubdate": "Thu, 09 Jan 2025 07:00:00 +0100"
@@ -115,30 +129,16 @@
     ],
     [
       {
-        "title": "Joseph Aoun",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joseph%20Aoun",
-        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fenerbahce",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fenerbahce",
-        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jessica Alba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jessica%20Alba",
-        "pubdate": "Thu, 09 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Alice Weidel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Alice%20Weidel",
         "pubdate": "Thu, 09 Jan 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Joseph Aoun",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Joseph%20Aoun",
+        "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
       }
     ]
   ]
