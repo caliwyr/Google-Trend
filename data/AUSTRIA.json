@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "10-01-2025 , 11:46:42",
+  "lastUpdate": "10-01-2025 , 11:55:56",
   "data": [
-    [
-      {
-        "title": "AfD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#AfD",
-        "pubdate": "Fri, 10 Jan 2025 10:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Tesla Model Y",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tesla%20Model%20Y",
         "pubdate": "Fri, 10 Jan 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Deutsche Bundesliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Deutsche%20Bundesliga",
+        "pubdate": "Fri, 10 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Demo Wien heute",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Demo%20Wien%20heute",
-        "pubdate": "Thu, 09 Jan 2025 11:00:00 +0100"
+        "title": "Wilfried Haslauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wilfried%20Haslauer",
+        "pubdate": "Thu, 09 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -55,6 +55,13 @@
         "title": "Sturmwarnung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturmwarnung",
         "pubdate": "Thu, 09 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alexander Schallenberg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alexander%20Schallenberg",
+        "pubdate": "Thu, 09 Jan 2025 08:00:00 +0100"
       }
     ],
     [
@@ -80,6 +87,13 @@
     ],
     [
       {
+        "title": "Fenerbahce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Fenerbahce",
+        "pubdate": "Thu, 09 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Georg Dornauer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Georg%20Dornauer",
         "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
@@ -90,6 +104,13 @@
         "title": "Christian Lindner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Christian%20Lindner",
         "pubdate": "Thu, 09 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Demo Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Demo%20Wien",
+        "pubdate": "Thu, 09 Jan 2025 18:00:00 +0100"
       }
     ],
     [
@@ -108,37 +129,16 @@
     ],
     [
       {
+        "title": "American Primeval",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#American%20Primeval",
+        "pubdate": "Thu, 09 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "U6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#U6",
         "pubdate": "Thu, 09 Jan 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jessica Alba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Jessica%20Alba",
-        "pubdate": "Thu, 09 Jan 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Keller Fornes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Keller%20Fornes",
-        "pubdate": "Thu, 09 Jan 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tupperware",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tupperware",
-        "pubdate": "Thu, 09 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alaba",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alaba",
-        "pubdate": "Thu, 09 Jan 2025 13:00:00 +0100"
       }
     ]
   ]
