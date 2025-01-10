@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2025 , 18:29:17",
+  "lastUpdate": "10-01-2025 , 18:45:22",
   "data": [
     [
       {
@@ -13,20 +13,6 @@
         "title": "Singapore weather",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20weather",
         "pubdate": "Fri, 10 Jan 2025 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Weather forecast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Weather%20forecast",
-        "pubdate": "Fri, 10 Jan 2025 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#FA%20Cup",
-        "pubdate": "Fri, 10 Jan 2025 17:00:00 +0800"
       }
     ],
     [
@@ -45,6 +31,13 @@
     ],
     [
       {
+        "title": "Game Changer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Game%20Changer",
+        "pubdate": "Fri, 10 Jan 2025 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Tesla Model Y",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20Model%20Y",
         "pubdate": "Fri, 10 Jan 2025 14:00:00 +0800"
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Game Changer review",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Game%20Changer%20review",
-        "pubdate": "Fri, 10 Jan 2025 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "North-South Line",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#North-South%20Line",
         "pubdate": "Fri, 10 Jan 2025 19:00:00 +0800"
@@ -76,13 +62,6 @@
         "title": "Rain",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rain",
         "pubdate": "Fri, 10 Jan 2025 22:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Paris Hilton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Paris%20Hilton",
-        "pubdate": "Fri, 10 Jan 2025 12:00:00 +0800"
       }
     ],
     [
@@ -139,6 +118,27 @@
         "title": "Micron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Micron",
         "pubdate": "Wed, 08 Jan 2025 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Special Economic Zone Johor-Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Special%20Economic%20Zone%20Johor-Singapore",
+        "pubdate": "Wed, 08 Jan 2025 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
+        "pubdate": "Tue, 07 Jan 2025 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "EFL Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#EFL%20Cup",
+        "pubdate": "Tue, 07 Jan 2025 16:00:00 +0800"
       }
     ]
   ]
