@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2025 , 10:40:06",
+  "lastUpdate": "10-01-2025 , 10:49:22",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Tesla",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tesla",
+        "pubdate": "Fri, 10 Jan 2025 23:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Tottenham vs Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tottenham%20vs%20Liverpool",
         "pubdate": "Thu, 09 Jan 2025 09:00:00 +1300"
@@ -132,13 +139,6 @@
         "title": "Rottnest Island seaplane crash",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Rottnest%20Island%20seaplane%20crash",
         "pubdate": "Thu, 09 Jan 2025 02:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Migrant worker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Migrant%20worker",
-        "pubdate": "Thu, 09 Jan 2025 14:00:00 +1300"
       }
     ]
   ]
