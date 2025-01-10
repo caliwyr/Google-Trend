@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-01-2025 , 17:39:39",
+  "lastUpdate": "10-01-2025 , 17:48:58",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Borussia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
+        "pubdate": "Fri, 10 Jan 2025 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Gui Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Gui%20Santos",
         "pubdate": "Fri, 10 Jan 2025 09:00:00 -0500"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Borussia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Borussia",
-        "pubdate": "Fri, 10 Jan 2025 11:00:00 -0500"
+        "title": "UEL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UEL",
+        "pubdate": "Fri, 10 Jan 2025 12:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Everton",
         "pubdate": "Thu, 09 Jan 2025 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Peruibe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Peruibe",
-        "pubdate": "Thu, 09 Jan 2025 11:00:00 -0500"
       }
     ]
   ]
