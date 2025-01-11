@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "11-01-2025 , 05:42:45",
+  "lastUpdate": "11-01-2025 , 05:52:06",
   "data": [
+    [
+      {
+        "title": "Excelsior",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
+        "pubdate": "Sat, 11 Jan 2025 02:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Eredivisie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eredivisie",
         "pubdate": "Fri, 10 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fortuna Sittard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
-        "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -24,15 +24,8 @@
     ],
     [
       {
-        "title": "Excelsior  Dordrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior%20%20Dordrecht",
-        "pubdate": "Fri, 10 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jutta Leerdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jutta%20Leerdam",
+        "title": "Fortuna Sittard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fortuna%20Sittard",
         "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
       }
     ],
@@ -48,13 +41,6 @@
         "title": "Bosbranden Los Angeles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bosbranden%20Los%20Angeles",
         "pubdate": "Thu, 09 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
-        "pubdate": "Thu, 09 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Michael van Gerwen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Michael%20van%20Gerwen",
         "pubdate": "Thu, 02 Jan 2025 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Luke Littler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Luke%20Littler",
+        "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Radio 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
+        "pubdate": "Thu, 02 Jan 2025 10:00:00 +0100"
       }
     ]
   ]
