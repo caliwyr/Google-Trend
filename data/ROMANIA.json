@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2025 , 05:33:28",
+  "lastUpdate": "11-01-2025 , 05:42:46",
   "data": [
     [
       {
@@ -31,23 +31,9 @@
     ],
     [
       {
-        "title": "Hamburger SV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hamburger%20SV",
-        "pubdate": "Fri, 10 Jan 2025 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Al Hilal United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Al%20Hilal%20United",
         "pubdate": "Fri, 10 Jan 2025 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Visa Waiver",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Visa%20Waiver",
-        "pubdate": "Fri, 10 Jan 2025 21:00:00 +0200"
       }
     ],
     [
@@ -59,6 +45,20 @@
     ],
     [
       {
+        "title": "Hamburger SV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Hamburger%20SV",
+        "pubdate": "Fri, 10 Jan 2025 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Visa Waiver",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Visa%20Waiver",
+        "pubdate": "Fri, 10 Jan 2025 21:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Iubire cu parfum de lavanda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Iubire%20cu%20parfum%20de%20lavanda",
         "pubdate": "Fri, 10 Jan 2025 22:00:00 +0200"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Stormy Daniels",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stormy%20Daniels",
-        "pubdate": "Fri, 10 Jan 2025 19:00:00 +0200"
+        "title": "Olaru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Olaru",
+        "pubdate": "Fri, 10 Jan 2025 21:00:00 +0200"
       }
     ],
     [
@@ -76,6 +76,13 @@
         "title": "Bulgaria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Bulgaria",
         "pubdate": "Fri, 10 Jan 2025 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Stormy Daniels",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Stormy%20Daniels",
+        "pubdate": "Fri, 10 Jan 2025 19:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Dacia Bigster",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Dacia%20Bigster",
         "pubdate": "Thu, 09 Jan 2025 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Jimmy Carter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jimmy%20Carter",
-        "pubdate": "Thu, 09 Jan 2025 19:00:00 +0200"
       }
     ]
   ]
