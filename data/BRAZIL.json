@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2025 , 21:36:11",
+  "lastUpdate": "11-01-2025 , 21:45:27",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Vitoria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
+        "pubdate": "Sat, 11 Jan 2025 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Torino x Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Torino%20x%20Juventus",
         "pubdate": "Sat, 11 Jan 2025 12:00:00 -0500"
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Vitoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
-        "pubdate": "Sat, 11 Jan 2025 13:00:00 -0500"
+        "title": "Jogo do Flamengo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Flamengo",
+        "pubdate": "Sat, 11 Jan 2025 16:00:00 -0500"
       }
     ],
     [
@@ -87,16 +94,9 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#FA%20Cup",
-        "pubdate": "Sat, 11 Jan 2025 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Decisão x Santa Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Decis%C3%A3o%20x%20Santa%20Cruz",
-        "pubdate": "Sat, 11 Jan 2025 15:00:00 -0500"
+        "title": "Campeonato Paulista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Paulista",
+        "pubdate": "Sat, 11 Jan 2025 16:00:00 -0500"
       }
     ],
     [
@@ -108,30 +108,16 @@
     ],
     [
       {
-        "title": "Girona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Girona",
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#FA%20Cup",
         "pubdate": "Sat, 11 Jan 2025 10:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Sagui",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sagui",
-        "pubdate": "Sat, 11 Jan 2025 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Sao Paulo Copinha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo%20Copinha",
-        "pubdate": "Sat, 11 Jan 2025 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Reajuste aposentados INSS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Reajuste%20aposentados%20INSS",
-        "pubdate": "Sat, 11 Jan 2025 12:00:00 -0500"
+        "title": "Nautico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
+        "pubdate": "Sat, 11 Jan 2025 15:00:00 -0500"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Campeonato Pernambucano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Pernambucano",
         "pubdate": "Sat, 11 Jan 2025 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sevilla x Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sevilla%20x%20Valencia",
+        "pubdate": "Sat, 11 Jan 2025 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Sagui",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sagui",
+        "pubdate": "Sat, 11 Jan 2025 13:00:00 -0500"
       }
     ]
   ]
