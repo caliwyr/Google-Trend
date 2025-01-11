@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2025 , 22:40:17",
+  "lastUpdate": "11-01-2025 , 22:49:29",
   "data": [
     [
       {
@@ -10,16 +10,16 @@
     ],
     [
       {
-        "title": "City x Salford City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#City%20x%20Salford%20City",
-        "pubdate": "Sat, 11 Jan 2025 13:00:00 -0500"
+        "title": "Nova Iguaçu x Vasco da Gama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nova%20Igua%C3%A7u%20x%20Vasco%20da%20Gama",
+        "pubdate": "Sat, 11 Jan 2025 14:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Nova Iguaçu x Vasco da Gama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nova%20Igua%C3%A7u%20x%20Vasco%20da%20Gama",
-        "pubdate": "Sat, 11 Jan 2025 14:00:00 -0500"
+        "title": "City x Salford City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#City%20x%20Salford%20City",
+        "pubdate": "Sat, 11 Jan 2025 13:00:00 -0500"
       }
     ],
     [
@@ -33,14 +33,7 @@
       {
         "title": "Mönchengladbach x Bayern",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#M%C3%B6nchengladbach%20x%20Bayern",
-        "pubdate": "Sat, 11 Jan 2025 04:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Campeonato Carioca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Carioca",
-        "pubdate": "Sat, 11 Jan 2025 11:00:00 -0500"
+        "pubdate": "Sat, 11 Jan 2025 00:00:00 -0500"
       }
     ],
     [
@@ -52,6 +45,13 @@
     ],
     [
       {
+        "title": "Torino x Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Torino%20x%20Juventus",
+        "pubdate": "Sat, 11 Jan 2025 12:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Vitoria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitoria",
         "pubdate": "Sat, 11 Jan 2025 13:00:00 -0500"
@@ -59,9 +59,23 @@
     ],
     [
       {
-        "title": "Torino x Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Torino%20x%20Juventus",
-        "pubdate": "Sat, 11 Jan 2025 12:00:00 -0500"
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Milan",
+        "pubdate": "Sat, 11 Jan 2025 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Nautico",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
+        "pubdate": "Sat, 11 Jan 2025 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UFC",
+        "pubdate": "Sat, 11 Jan 2025 17:00:00 -0500"
       }
     ],
     [
@@ -80,8 +94,15 @@
     ],
     [
       {
-        "title": "Jogo do Flamengo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Flamengo",
+        "title": "Sport",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
+        "pubdate": "Sat, 11 Jan 2025 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Campeonato Paulista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Paulista",
         "pubdate": "Sat, 11 Jan 2025 16:00:00 -0500"
       }
     ],
@@ -94,37 +115,9 @@
     ],
     [
       {
-        "title": "Campeonato Paulista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Paulista",
-        "pubdate": "Sat, 11 Jan 2025 16:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sport",
-        "pubdate": "Sat, 11 Jan 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "FA Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#FA%20Cup",
         "pubdate": "Sat, 11 Jan 2025 10:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Nautico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
-        "pubdate": "Sat, 11 Jan 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Campeonato Pernambucano",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Pernambucano",
-        "pubdate": "Sat, 11 Jan 2025 15:00:00 -0500"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Sagui",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sagui",
-        "pubdate": "Sat, 11 Jan 2025 13:00:00 -0500"
+        "title": "Joinville x Figueirense",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Joinville%20x%20Figueirense",
+        "pubdate": "Sat, 11 Jan 2025 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Parana Clube",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Parana%20Clube",
+        "pubdate": "Sat, 11 Jan 2025 16:00:00 -0500"
       }
     ]
   ]
