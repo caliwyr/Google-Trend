@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2025 , 09:35:43",
+  "lastUpdate": "11-01-2025 , 09:45:03",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Schnee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schnee",
         "pubdate": "Thu, 09 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Biathlon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biathlon",
+        "pubdate": "Thu, 09 Jan 2025 17:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Luke Littler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Luke%20Littler",
         "pubdate": "Thu, 02 Jan 2025 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Littler",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Littler",
-        "pubdate": "Thu, 02 Jan 2025 12:00:00 +0100"
       }
     ]
   ]
