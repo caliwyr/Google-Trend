@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-01-2025 , 14:40:19",
+  "lastUpdate": "11-01-2025 , 14:49:34",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "DEI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#DEI",
+        "pubdate": "Sat, 11 Jan 2025 16:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "HMPV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#HMPV",
         "pubdate": "Fri, 10 Jan 2025 18:00:00 +0200"
@@ -59,16 +66,16 @@
     ],
     [
       {
-        "title": "American Primeval",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#American%20Primeval",
-        "pubdate": "Fri, 10 Jan 2025 11:00:00 +0200"
+        "title": "Mel Gibson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mel%20Gibson",
+        "pubdate": "Fri, 10 Jan 2025 20:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Mel Gibson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Mel%20Gibson",
-        "pubdate": "Fri, 10 Jan 2025 20:00:00 +0200"
+        "title": "American Primeval",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#American%20Primeval",
+        "pubdate": "Fri, 10 Jan 2025 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Discord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Discord",
         "pubdate": "Wed, 08 Jan 2025 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Greenland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Greenland",
-        "pubdate": "Wed, 08 Jan 2025 00:00:00 +0200"
       }
     ]
   ]
