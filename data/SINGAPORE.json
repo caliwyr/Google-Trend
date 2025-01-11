@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "11-01-2025 , 02:20:14",
+  "lastUpdate": "11-01-2025 , 02:59:48",
   "data": [
-    [
-      {
-        "title": "Flood",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Flood",
-        "pubdate": "Sat, 11 Jan 2025 04:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Temperature",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Sim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sim",
-        "pubdate": "Sat, 11 Jan 2025 09:00:00 +0800"
+        "title": "Flood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Flood",
+        "pubdate": "Sat, 11 Jan 2025 04:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Singapore weather",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Singapore%20weather",
-        "pubdate": "Fri, 10 Jan 2025 11:00:00 +0800"
+        "title": "Sim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sim",
+        "pubdate": "Sat, 11 Jan 2025 09:00:00 +0800"
       }
     ],
     [
@@ -55,13 +48,6 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
         "pubdate": "Fri, 10 Jan 2025 02:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Game Changer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Game%20Changer",
-        "pubdate": "Fri, 10 Jan 2025 09:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Micron",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Micron",
         "pubdate": "Wed, 08 Jan 2025 21:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Special Economic Zone Johor-Singapore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Special%20Economic%20Zone%20Johor-Singapore",
+        "pubdate": "Wed, 08 Jan 2025 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal",
+        "pubdate": "Tue, 07 Jan 2025 07:00:00 +0800"
       }
     ]
   ]
