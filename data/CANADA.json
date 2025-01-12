@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-01-2025 , 15:38:45",
+  "lastUpdate": "12-01-2025 , 15:47:58",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tottenham",
+        "pubdate": "Sun, 12 Jan 2025 10:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UFC",
         "pubdate": "Sat, 11 Jan 2025 19:00:00 -0500"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Australian Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australian%20Open",
-        "pubdate": "Sat, 11 Jan 2025 16:00:00 -0500"
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FA%20Cup",
+        "pubdate": "Sat, 11 Jan 2025 18:00:00 -0500"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#FA%20Cup",
-        "pubdate": "Sat, 11 Jan 2025 18:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Chargers vs Texans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chargers%20vs%20Texans",
         "pubdate": "Sat, 11 Jan 2025 17:00:00 -0500"
@@ -73,9 +73,9 @@
     ],
     [
       {
-        "title": "Man City vs Salford City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City%20vs%20Salford%20City",
-        "pubdate": "Sat, 11 Jan 2025 13:00:00 -0500"
+        "title": "Australian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australian%20Open",
+        "pubdate": "Sat, 11 Jan 2025 21:00:00 -0500"
       }
     ],
     [
@@ -87,9 +87,23 @@
     ],
     [
       {
+        "title": "Man City vs Salford City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Man%20City%20vs%20Salford%20City",
+        "pubdate": "Sat, 11 Jan 2025 13:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Canucks vs Maple Leafs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Canucks%20vs%20Maple%20Leafs",
         "pubdate": "Sat, 11 Jan 2025 20:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Australian Open 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Australian%20Open%202025",
+        "pubdate": "Sat, 11 Jan 2025 16:00:00 -0500"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Rory Sykes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Rory%20Sykes",
         "pubdate": "Sat, 11 Jan 2025 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Leylah Fernandez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Leylah%20Fernandez",
-        "pubdate": "Sat, 11 Jan 2025 23:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Matrix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Matrix",
-        "pubdate": "Sat, 11 Jan 2025 12:00:00 -0500"
       }
     ]
   ]
