@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-01-2025 , 20:42:29",
+  "lastUpdate": "12-01-2025 , 20:51:45",
   "data": [
     [
       {
@@ -24,8 +24,8 @@
     ],
     [
       {
-        "title": "NAC  Heerenveen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC%20%20Heerenveen",
+        "title": "NAC-Heerenveen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC-Heerenveen",
         "pubdate": "Sun, 12 Jan 2025 15:00:00 +0100"
       }
     ],
@@ -33,7 +33,14 @@
       {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Real%20Madrid",
-        "pubdate": "Sun, 12 Jan 2025 17:00:00 +0100"
+        "pubdate": "Sun, 12 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
+        "pubdate": "Sun, 12 Jan 2025 13:00:00 +0100"
       }
     ],
     [
@@ -45,9 +52,23 @@
     ],
     [
       {
-        "title": "FC Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
-        "pubdate": "Sun, 12 Jan 2025 13:00:00 +0100"
+        "title": "Haller",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Haller",
+        "pubdate": "Sun, 12 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Arsenal",
+        "pubdate": "Sun, 12 Jan 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Egmond Halve Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Egmond%20Halve%20Marathon",
+        "pubdate": "Sun, 12 Jan 2025 10:00:00 +0100"
       }
     ],
     [
@@ -66,13 +87,6 @@
     ],
     [
       {
-        "title": "Haller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Haller",
-        "pubdate": "Sun, 12 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Australian Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Australian%20Open",
         "pubdate": "Sun, 12 Jan 2025 11:00:00 +0100"
@@ -83,13 +97,6 @@
         "title": "Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht",
         "pubdate": "Sun, 12 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Halve marathon Egmond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Halve%20marathon%20Egmond",
-        "pubdate": "Sun, 12 Jan 2025 13:00:00 +0100"
       }
     ],
     [
@@ -108,8 +115,8 @@
     ],
     [
       {
-        "title": "Mond- en klauwzeer Duitsland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mond-%20en%20klauwzeer%20Duitsland",
+        "title": "MKZ uitbraak Duitsland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MKZ%20uitbraak%20Duitsland",
         "pubdate": "Sat, 11 Jan 2025 10:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Jutta Leerdam",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jutta%20Leerdam",
         "pubdate": "Fri, 10 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FA%20Cup",
-        "pubdate": "Fri, 10 Jan 2025 05:00:00 +0100"
       }
     ]
   ]
