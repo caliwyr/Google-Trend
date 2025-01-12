@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-01-2025 , 23:44:40",
+  "lastUpdate": "12-01-2025 , 23:53:56",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Arsenal",
         "pubdate": "Sun, 12 Jan 2025 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FC%20Barcelona",
+        "pubdate": "Sun, 12 Jan 2025 23:00:00 +0200"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Liverpool",
+        "pubdate": "Sat, 11 Jan 2025 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dortmund – Leverkusen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Dortmund%20%E2%80%93%20Leverkusen",
         "pubdate": "Sat, 11 Jan 2025 00:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "John Wick",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#John%20Wick",
         "pubdate": "Sat, 11 Jan 2025 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bundesliga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bundesliga",
-        "pubdate": "Sat, 11 Jan 2025 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nintendo Switch 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nintendo%20Switch%202",
-        "pubdate": "Sat, 11 Jan 2025 12:00:00 +0200"
       }
     ]
   ]
