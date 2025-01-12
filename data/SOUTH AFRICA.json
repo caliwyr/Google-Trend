@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-01-2025 , 16:37:04",
+  "lastUpdate": "12-01-2025 , 16:46:23",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Real Madrid vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Barcelona",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid",
         "pubdate": "Sun, 12 Jan 2025 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chiefs",
+        "pubdate": "Sun, 12 Jan 2025 17:00:00 +0200"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Australian Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Australian%20Open",
         "pubdate": "Sun, 12 Jan 2025 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Chiefs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chiefs",
-        "pubdate": "Sun, 12 Jan 2025 17:00:00 +0200"
       }
     ],
     [
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus",
-        "pubdate": "Sun, 12 Jan 2025 00:00:00 +0200"
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
+        "pubdate": "Sun, 12 Jan 2025 15:00:00 +0200"
       }
     ],
     [
@@ -80,9 +80,16 @@
     ],
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
-        "pubdate": "Sun, 12 Jan 2025 15:00:00 +0200"
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus",
+        "pubdate": "Sun, 12 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Brentford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brentford",
+        "pubdate": "Sun, 12 Jan 2025 18:00:00 +0200"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FA%20Cup",
+        "pubdate": "Sat, 11 Jan 2025 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Liverpool vs Accrington Stanley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20vs%20Accrington%20Stanley",
         "pubdate": "Sat, 11 Jan 2025 14:00:00 +0200"
@@ -115,20 +129,6 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#FA%20Cup",
-        "pubdate": "Sat, 11 Jan 2025 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Sundowns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
-        "pubdate": "Sat, 11 Jan 2025 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chelsea vs Morecambe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Morecambe",
         "pubdate": "Sat, 11 Jan 2025 17:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Stormers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Stormers",
-        "pubdate": "Sat, 11 Jan 2025 07:00:00 +0200"
+        "title": "Sundowns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns",
+        "pubdate": "Sat, 11 Jan 2025 16:00:00 +0200"
       }
     ]
   ]

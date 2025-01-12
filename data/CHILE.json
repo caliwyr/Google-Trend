@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-01-2025 , 16:36:58",
+  "lastUpdate": "12-01-2025 , 16:46:17",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Arsenal  Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal%20%20Manchester%20United",
+        "title": "Arsenal - Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arsenal%20-%20Manchester%20United",
+        "pubdate": "Sun, 12 Jan 2025 12:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Venezia - Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Venezia%20-%20Inter",
         "pubdate": "Sun, 12 Jan 2025 12:00:00 -0300"
       }
     ],
@@ -24,9 +31,16 @@
     ],
     [
       {
-        "title": "Venezia - Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Venezia%20-%20Inter",
-        "pubdate": "Sun, 12 Jan 2025 12:00:00 -0300"
+        "title": "Atlético Madrid - Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Atl%C3%A9tico%20Madrid%20-%20Osasuna",
+        "pubdate": "Sun, 12 Jan 2025 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham",
+        "pubdate": "Sun, 12 Jan 2025 13:00:00 -0300"
       }
     ],
     [
@@ -38,13 +52,6 @@
     ],
     [
       {
-        "title": "Udinese - Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Udinese%20-%20Atalanta",
-        "pubdate": "Sat, 11 Jan 2025 11:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Manchester City  Salford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20%20Salford",
         "pubdate": "Sat, 11 Jan 2025 15:00:00 -0300"
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "Liverpool  Accrington",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool%20%20Accrington",
-        "pubdate": "Sat, 11 Jan 2025 09:00:00 -0300"
+        "title": "Udinese - Atalanta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Udinese%20-%20Atalanta",
+        "pubdate": "Sat, 11 Jan 2025 11:00:00 -0300"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Liverpool",
+        "pubdate": "Sat, 11 Jan 2025 11:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UFC",
         "pubdate": "Sat, 11 Jan 2025 21:00:00 -0300"
@@ -125,20 +139,6 @@
         "title": "Puente Alto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Puente%20Alto",
         "pubdate": "Sat, 11 Jan 2025 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Williams Alarcón",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Williams%20Alarc%C3%B3n",
-        "pubdate": "Sat, 11 Jan 2025 15:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Real%20Madrid",
-        "pubdate": "Fri, 10 Jan 2025 14:00:00 -0300"
       }
     ]
   ]
