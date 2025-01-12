@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "12-01-2025 , 22:43:43",
+  "lastUpdate": "12-01-2025 , 22:53:14",
   "data": [
     [
       {
-        "title": "Real Madrid  Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid%20%20Barcelona",
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Atletico%20Madrid",
+        "pubdate": "Mon, 13 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Real Madrid,  Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid,%20%20Barcelona",
         "pubdate": "Sun, 12 Jan 2025 07:00:00 +0200"
       }
     ],
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Arsenal",
-        "pubdate": "Sun, 12 Jan 2025 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tottenham",
         "pubdate": "Sun, 12 Jan 2025 22:00:00 +0200"
@@ -69,13 +69,6 @@
         "title": "Anca Todoni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anca%20Todoni",
         "pubdate": "Sun, 12 Jan 2025 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Luna plina ianuarie 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Luna%20plina%20ianuarie%202025",
-        "pubdate": "Sun, 12 Jan 2025 09:00:00 +0200"
       }
     ],
     [
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Anthony Hopkins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anthony%20Hopkins",
-        "pubdate": "Sun, 12 Jan 2025 10:00:00 +0200"
+        "title": "Kylian Mbappé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kylian%20Mbapp%C3%A9",
+        "pubdate": "Sun, 12 Jan 2025 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Kylian Mbappé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Kylian%20Mbapp%C3%A9",
-        "pubdate": "Sun, 12 Jan 2025 22:00:00 +0200"
+        "title": "Anthony Hopkins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Anthony%20Hopkins",
+        "pubdate": "Sun, 12 Jan 2025 10:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Mures",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mures",
         "pubdate": "Sun, 12 Jan 2025 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Las Palmas,  Getafe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Las%20Palmas,%20%20Getafe",
+        "pubdate": "Sun, 12 Jan 2025 19:00:00 +0200"
       }
     ]
   ]
