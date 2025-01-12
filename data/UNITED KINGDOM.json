@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-01-2025 , 23:57:49",
+  "lastUpdate": "12-01-2025 , 01:45:32",
   "data": [
+    [
+      {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#UFC",
+        "pubdate": "Sun, 12 Jan 2025 01:00:00 +0000"
+      }
+    ],
     [
       {
         "title": "FA Cup",
@@ -13,6 +20,13 @@
         "title": "Macy Gray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Macy%20Gray",
         "pubdate": "Sat, 11 Jan 2025 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20FC",
+        "pubdate": "Sat, 11 Jan 2025 13:00:00 +0000"
       }
     ],
     [
@@ -45,9 +59,23 @@
     ],
     [
       {
+        "title": "Celtic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Celtic",
+        "pubdate": "Sat, 11 Jan 2025 15:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Katie Piper",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Katie%20Piper",
         "pubdate": "Sat, 11 Jan 2025 15:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Ivor Caplin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ivor%20Caplin",
+        "pubdate": "Sat, 11 Jan 2025 20:00:00 +0000"
       }
     ],
     [
@@ -59,8 +87,8 @@
     ],
     [
       {
-        "title": "Celtic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Celtic",
+        "title": "Chiesa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chiesa",
         "pubdate": "Sat, 11 Jan 2025 15:00:00 +0000"
       }
     ],
@@ -73,16 +101,9 @@
     ],
     [
       {
-        "title": "Ivor Caplin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Ivor%20Caplin",
-        "pubdate": "Sat, 11 Jan 2025 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Chiesa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Chiesa",
-        "pubdate": "Sat, 11 Jan 2025 15:00:00 +0000"
+        "title": "Wolves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wolves",
+        "pubdate": "Sat, 11 Jan 2025 13:00:00 +0000"
       }
     ],
     [
@@ -115,30 +136,9 @@
     ],
     [
       {
-        "title": "Liverpool Fixtures",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Liverpool%20Fixtures",
-        "pubdate": "Sat, 11 Jan 2025 13:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Plymouth Argyle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Plymouth%20Argyle",
         "pubdate": "Sat, 11 Jan 2025 21:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Celtic FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Celtic%20FC",
-        "pubdate": "Sat, 11 Jan 2025 15:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Emilia Fox",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Emilia%20Fox",
-        "pubdate": "Sat, 11 Jan 2025 11:00:00 +0000"
       }
     ]
   ]
