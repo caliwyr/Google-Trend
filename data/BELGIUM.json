@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-01-2025 , 10:40:29",
+  "lastUpdate": "12-01-2025 , 10:49:51",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "UFC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UFC",
+        "pubdate": "Sun, 12 Jan 2025 06:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
         "pubdate": "Sun, 12 Jan 2025 07:00:00 +0100"
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Brokeback Mountain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brokeback%20Mountain",
+        "title": "Charlie Winston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charlie%20Winston",
         "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Charlie Winston",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Charlie%20Winston",
-        "pubdate": "Sun, 12 Jan 2025 00:00:00 +0100"
+        "title": "Beerschot Antwerp",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Beerschot%20Antwerp",
+        "pubdate": "Sun, 12 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ajax",
         "pubdate": "Sat, 11 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Santa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Santa",
-        "pubdate": "Sat, 11 Jan 2025 20:00:00 +0100"
       }
     ]
   ]
