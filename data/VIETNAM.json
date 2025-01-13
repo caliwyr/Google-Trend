@@ -1,18 +1,25 @@
 {
-  "lastUpdate": "12-01-2025 , 23:54:03",
+  "lastUpdate": "13-01-2025 , 01:03:06",
   "data": [
-    [
-      {
-        "title": "Mc vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mc%20vs",
-        "pubdate": "Mon, 13 Jan 2025 00:00:00 +0700"
-      }
-    ],
     [
       {
         "title": "Newcastle",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Newcastle",
         "pubdate": "Mon, 13 Jan 2025 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Man city vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Man%20city%20vs",
+        "pubdate": "Mon, 13 Jan 2025 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Atletico Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Atletico%20Madrid",
+        "pubdate": "Mon, 13 Jan 2025 06:00:00 +0700"
       }
     ],
     [
@@ -33,13 +40,6 @@
       {
         "title": "Mu vs",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Mu%20vs",
-        "pubdate": "Sun, 12 Jan 2025 22:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Real vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Real%20vs",
         "pubdate": "Sun, 12 Jan 2025 22:00:00 +0700"
       }
     ],
@@ -69,6 +69,13 @@
         "title": "Ac milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ac%20milan",
         "pubdate": "Sun, 12 Jan 2025 07:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Ro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Ro",
+        "pubdate": "Sun, 12 Jan 2025 02:00:00 +0700"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool",
         "pubdate": "Sat, 11 Jan 2025 20:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Juventus",
-        "pubdate": "Sat, 11 Jan 2025 23:00:00 +0700"
       }
     ]
   ]
