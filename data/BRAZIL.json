@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-01-2025 , 04:41:42",
+  "lastUpdate": "13-01-2025 , 04:50:55",
   "data": [
     [
       {
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Napoli",
-        "pubdate": "Sun, 12 Jan 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Inter de Milão",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
         "pubdate": "Sun, 12 Jan 2025 09:00:00 -0500"
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Futebol ao vivo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Futebol%20ao%20vivo",
-        "pubdate": "Sun, 12 Jan 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Carteira do Idoso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Carteira%20do%20Idoso",
         "pubdate": "Sun, 12 Jan 2025 15:00:00 -0500"
@@ -122,9 +108,9 @@
     ],
     [
       {
-        "title": "Paulistão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paulist%C3%A3o",
-        "pubdate": "Sun, 12 Jan 2025 00:00:00 -0500"
+        "title": "Futebol ao vivo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Futebol%20ao%20vivo",
+        "pubdate": "Sun, 12 Jan 2025 15:00:00 -0500"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Resident Evil remake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Resident%20Evil%20remake",
         "pubdate": "Sun, 12 Jan 2025 11:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ipatinga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ipatinga",
+        "pubdate": "Sun, 12 Jan 2025 18:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Homem-Aranha: Longe de Casa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Homem-Aranha:%20Longe%20de%20Casa",
+        "pubdate": "Sun, 12 Jan 2025 14:00:00 -0500"
       }
     ]
   ]
