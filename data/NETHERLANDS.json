@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-01-2025 , 06:46:17",
+  "lastUpdate": "13-01-2025 , 06:55:27",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "FC Twente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
-        "pubdate": "Sun, 12 Jan 2025 12:00:00 +0100"
+        "title": "FC Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
+        "pubdate": "Sun, 12 Jan 2025 13:00:00 +0100"
       }
     ],
     [
       {
-        "title": "FC Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
-        "pubdate": "Sun, 12 Jan 2025 13:00:00 +0100"
+        "title": "FC Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
+        "pubdate": "Sun, 12 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -48,13 +48,6 @@
         "title": "MKZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MKZ",
         "pubdate": "Sun, 12 Jan 2025 05:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Australian Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Australian%20Open",
-        "pubdate": "Sun, 12 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "The Brutalist",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#The%20Brutalist",
         "pubdate": "Mon, 06 Jan 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "CBR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#CBR",
+        "pubdate": "Mon, 06 Jan 2025 22:00:00 +0100"
       }
     ]
   ]
