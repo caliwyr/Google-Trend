@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-01-2025 , 15:46:59",
+  "lastUpdate": "13-01-2025 , 15:56:20",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Mahakumbh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mahakumbh",
         "pubdate": "Mon, 13 Jan 2025 11:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Real%20Madrid",
-        "pubdate": "Mon, 13 Jan 2025 01:30:00 +0530"
       }
     ],
     [
@@ -38,8 +31,15 @@
     ],
     [
       {
-        "title": "Sensex, Nifty Stock Market fall",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sensex,%20Nifty%20Stock%20Market%20fall",
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Novak%20Djokovic",
+        "pubdate": "Mon, 13 Jan 2025 15:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Sensex, Nifty Stock market fall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sensex,%20Nifty%20Stock%20market%20fall",
         "pubdate": "Mon, 13 Jan 2025 16:30:00 +0530"
       }
     ],
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Australian Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Australian%20Open",
-        "pubdate": "Sun, 12 Jan 2025 11:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Bhogi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bhogi",
         "pubdate": "Sun, 12 Jan 2025 23:30:00 +0530"
@@ -108,16 +101,16 @@
     ],
     [
       {
-        "title": "Ajith Kumar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ajith%20Kumar",
-        "pubdate": "Sun, 12 Jan 2025 18:30:00 +0530"
+        "title": "Australian Open",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Australian%20Open",
+        "pubdate": "Sun, 12 Jan 2025 11:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Anand Mahindra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Anand%20Mahindra",
-        "pubdate": "Sun, 12 Jan 2025 12:30:00 +0530"
+        "title": "Ajith Kumar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ajith%20Kumar",
+        "pubdate": "Sun, 12 Jan 2025 18:30:00 +0530"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "PUMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#PUMA",
         "pubdate": "Sat, 11 Jan 2025 20:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Game Changer box office collection day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Game%20Changer%20box%20office%20collection%20day",
+        "pubdate": "Sat, 11 Jan 2025 22:30:00 +0530"
       }
     ]
   ]
