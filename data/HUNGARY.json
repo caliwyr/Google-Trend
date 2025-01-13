@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "13-01-2025 , 12:28:38",
+  "lastUpdate": "13-01-2025 , 13:02:04",
   "data": [
-    [
-      {
-        "title": "Dobó Kata",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dob%C3%B3%20Kata",
-        "pubdate": "Mon, 13 Jan 2025 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "David Pressman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#David%20Pressman",
         "pubdate": "Mon, 13 Jan 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lang Györgyi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Lang%20Gy%C3%B6rgyi",
+        "pubdate": "Mon, 13 Jan 2025 13:00:00 +0100"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Melon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Melon",
+        "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Shrek 5",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Shrek%205",
         "pubdate": "Sun, 12 Jan 2025 10:00:00 +0100"
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Melon App",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Melon%20App",
-        "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "M3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#M3",
         "pubdate": "Sun, 12 Jan 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Anya",
-        "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Doni katasztrófa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Doni%20katasztr%C3%B3fa",
-        "pubdate": "Sun, 12 Jan 2025 20:00:00 +0100"
+        "title": "Anya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Anya",
+        "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ac Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ac%20Milan",
+        "pubdate": "Sun, 12 Jan 2025 10:00:00 +0100"
       }
     ]
   ]
