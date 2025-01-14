@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "14-01-2025 , 13:49:59",
+  "lastUpdate": "14-01-2025 , 13:59:13",
   "data": [
     [
       {
         "title": "Frio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Frio",
+        "pubdate": "Tue, 14 Jan 2025 00:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Alexandra Leitão",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alexandra%20Leit%C3%A3o",
         "pubdate": "Tue, 14 Jan 2025 00:00:00 +0000"
       }
     ],
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Alberto Costa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alberto%20Costa",
-        "pubdate": "Mon, 13 Jan 2025 20:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Neil Gaiman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Neil%20Gaiman",
         "pubdate": "Mon, 13 Jan 2025 22:00:00 +0000"
@@ -87,16 +87,23 @@
     ],
     [
       {
-        "title": "Combustíveis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Combust%C3%ADveis",
-        "pubdate": "Mon, 13 Jan 2025 00:00:00 +0000"
+        "title": "Open Australia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Open%20Australia",
+        "pubdate": "Mon, 13 Jan 2025 10:00:00 +0000"
       }
     ],
     [
       {
-        "title": "Ilha Terceira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ilha%20Terceira",
-        "pubdate": "Mon, 13 Jan 2025 09:00:00 +0000"
+        "title": "Alberto Costa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Alberto%20Costa",
+        "pubdate": "Mon, 13 Jan 2025 20:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Combustíveis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Combust%C3%ADveis",
+        "pubdate": "Mon, 13 Jan 2025 00:00:00 +0000"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Open Australia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Open%20Australia",
-        "pubdate": "Mon, 13 Jan 2025 10:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Luis Figo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Luis%20Figo",
         "pubdate": "Mon, 13 Jan 2025 12:00:00 +0000"
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Got Talent Portugal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Got%20Talent%20Portugal",
+        "title": "Lua Cheia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lua%20Cheia",
         "pubdate": "Mon, 13 Jan 2025 00:00:00 +0000"
       }
     ]
