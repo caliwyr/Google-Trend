@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-01-2025 , 02:30:59",
+  "lastUpdate": "14-01-2025 , 02:56:12",
   "data": [
     [
       {
@@ -87,8 +87,8 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Real%20Madrid",
         "pubdate": "Sun, 12 Jan 2025 20:00:00 +0100"
       }
     ],
@@ -115,20 +115,6 @@
     ],
     [
       {
-        "title": "Australian Open",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Australian%20Open",
-        "pubdate": "Sun, 12 Jan 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Holger Rune",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Holger%20Rune",
-        "pubdate": "Sun, 12 Jan 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bitcoin",
         "pubdate": "Sun, 12 Jan 2025 22:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#UFC",
         "pubdate": "Sun, 12 Jan 2025 06:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BYD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#BYD",
+        "pubdate": "Sun, 12 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City",
+        "pubdate": "Sun, 12 Jan 2025 18:00:00 +0100"
       }
     ]
   ]
