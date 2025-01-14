@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "14-01-2025 , 07:44:36",
+  "lastUpdate": "14-01-2025 , 07:53:54",
   "data": [
-    [
-      {
-        "title": "Matteo Berrettini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Matteo%20Berrettini",
-        "pubdate": "Tue, 14 Jan 2025 02:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Franco Piperno",
@@ -20,6 +13,13 @@
         "title": "Nikita Pelizon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nikita%20Pelizon",
         "pubdate": "Tue, 14 Jan 2025 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Daniil Medvedev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Daniil%20Medvedev",
+        "pubdate": "Tue, 14 Jan 2025 08:00:00 +0100"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Maps",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Maps",
+        "pubdate": "Mon, 13 Jan 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Amiloidosi, cos'è",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Amiloidosi,%20cos'%C3%A8",
         "pubdate": "Mon, 13 Jan 2025 09:00:00 +0100"
@@ -80,8 +87,8 @@
     ],
     [
       {
-        "title": "Monza  Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Monza%20%20Fiorentina",
+        "title": "Monza-Fiorentina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Monza-Fiorentina",
         "pubdate": "Mon, 13 Jan 2025 08:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Unicredit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Unicredit",
         "pubdate": "Mon, 13 Jan 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Paolo Cognetti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paolo%20Cognetti",
-        "pubdate": "Mon, 13 Jan 2025 00:00:00 +0100"
       }
     ]
   ]
