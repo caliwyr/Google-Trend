@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-01-2025 , 05:50:25",
+  "lastUpdate": "14-01-2025 , 05:59:48",
   "data": [
     [
       {
@@ -10,9 +10,9 @@
     ],
     [
       {
-        "title": "Budget",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Budget",
-        "pubdate": "Mon, 13 Jan 2025 16:00:00 +0100"
+        "title": "Klimabonus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klimabonus",
+        "pubdate": "Mon, 13 Jan 2025 00:00:00 +0100"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Post",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Post",
+        "pubdate": "Mon, 13 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Oliviero Toscani",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Oliviero%20Toscani",
         "pubdate": "Mon, 13 Jan 2025 11:00:00 +0100"
@@ -90,6 +97,13 @@
         "title": "La Liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#La%20Liga",
         "pubdate": "Mon, 13 Jan 2025 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vollmond Wolfsmond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vollmond%20Wolfsmond",
+        "pubdate": "Mon, 13 Jan 2025 18:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Neil Gaiman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Neil%20Gaiman",
         "pubdate": "Mon, 13 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Finanzamt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Finanzamt",
-        "pubdate": "Mon, 13 Jan 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "KlimaTicket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#KlimaTicket",
-        "pubdate": "Mon, 13 Jan 2025 17:00:00 +0100"
       }
     ]
   ]
