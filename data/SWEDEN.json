@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "15-01-2025 , 19:36:33",
+  "lastUpdate": "15-01-2025 , 19:45:53",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
         "pubdate": "Wed, 15 Jan 2025 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Panten höjs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Panten%20h%C3%B6js",
-        "pubdate": "Wed, 15 Jan 2025 13:00:00 +0100"
       }
     ],
     [
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "Namnsdag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Namnsdag",
-        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Upplands Väsby",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Upplands%20V%C3%A4sby",
         "pubdate": "Wed, 15 Jan 2025 17:00:00 +0100"
@@ -52,9 +38,23 @@
     ],
     [
       {
+        "title": "Namnsdag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Namnsdag",
+        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Skidskytte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Skidskytte",
         "pubdate": "Wed, 15 Jan 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Little Jinder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Little%20Jinder",
+        "pubdate": "Wed, 15 Jan 2025 20:00:00 +0100"
       }
     ],
     [
@@ -69,13 +69,6 @@
         "title": "Eric Saade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eric%20Saade",
         "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "handbolls-VM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#handbolls-VM",
-        "pubdate": "Tue, 14 Jan 2025 09:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Guldbaggegalan 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Guldbaggegalan%202025",
         "pubdate": "Mon, 13 Jan 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Filip Hammar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Filip%20Hammar",
+        "pubdate": "Mon, 13 Jan 2025 21:00:00 +0100"
       }
     ]
   ]
