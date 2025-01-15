@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-01-2025 , 21:38:05",
+  "lastUpdate": "15-01-2025 , 21:47:26",
   "data": [
-    [
-      {
-        "title": "Arsenal vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Arsenal%20vs%20Tottenham",
-        "pubdate": "Thu, 16 Jan 2025 04:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "Severance",
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "CPI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CPI",
-        "pubdate": "Wed, 15 Jan 2025 22:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "ASEAN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#ASEAN",
         "pubdate": "Wed, 15 Jan 2025 18:00:00 +0800"
@@ -76,6 +62,13 @@
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chelsea",
         "pubdate": "Wed, 15 Jan 2025 06:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "CPI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CPI",
+        "pubdate": "Wed, 15 Jan 2025 22:00:00 +0800"
       }
     ],
     [
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "CPI data",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#CPI%20data",
+        "pubdate": "Wed, 15 Jan 2025 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Novak%20Djokovic",
         "pubdate": "Wed, 15 Jan 2025 21:00:00 +0800"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "New notes CNY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#New%20notes%20CNY",
-        "pubdate": "Wed, 15 Jan 2025 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Xiaohongshu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Xiaohongshu",
         "pubdate": "Tue, 14 Jan 2025 14:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Neil Gaiman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Neil%20Gaiman",
         "pubdate": "Tue, 14 Jan 2025 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "One Bernam",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#One%20Bernam",
+        "pubdate": "Tue, 14 Jan 2025 01:00:00 +0800"
       }
     ]
   ]

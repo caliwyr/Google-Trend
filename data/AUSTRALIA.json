@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-01-2025 , 21:37:57",
+  "lastUpdate": "15-01-2025 , 21:47:19",
   "data": [
-    [
-      {
-        "title": "Severance",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Severance",
-        "pubdate": "Thu, 16 Jan 2025 03:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "Arsenal vs Tottenham",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Severance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Severance",
+        "pubdate": "Thu, 16 Jan 2025 03:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Linda Nolan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Linda%20Nolan",
         "pubdate": "Thu, 16 Jan 2025 07:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "La fires update",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#La%20fires%20update",
+        "pubdate": "Thu, 16 Jan 2025 08:00:00 +1100"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "Weather radar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Weather%20radar",
-        "pubdate": "Wed, 15 Jan 2025 00:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "XRP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#XRP",
         "pubdate": "Wed, 15 Jan 2025 16:00:00 +1100"
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Weather radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Weather%20radar",
+        "pubdate": "Wed, 15 Jan 2025 15:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Zheng",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Zheng",
         "pubdate": "Wed, 15 Jan 2025 13:00:00 +1100"
@@ -97,6 +104,13 @@
         "title": "Sabalenka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sabalenka",
         "pubdate": "Wed, 15 Jan 2025 14:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Weather forecast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Weather%20forecast",
+        "pubdate": "Wed, 15 Jan 2025 00:00:00 +1100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Sam Kerr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sam%20Kerr",
         "pubdate": "Wed, 15 Jan 2025 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Man%20City",
-        "pubdate": "Wed, 15 Jan 2025 10:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Sydney storm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20storm",
-        "pubdate": "Wed, 15 Jan 2025 21:00:00 +1100"
       }
     ]
   ]
