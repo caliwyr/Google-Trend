@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "15-01-2025 , 07:45:22",
+  "lastUpdate": "15-01-2025 , 07:54:39",
   "data": [
     [
       {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
+        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PL",
         "pubdate": "Wed, 15 Jan 2025 00:00:00 +0200"
       }
     ],
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "News24",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#News24",
-        "pubdate": "Tue, 14 Jan 2025 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Chelsea vs Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea%20vs%20Bournemouth",
         "pubdate": "Tue, 14 Jan 2025 19:00:00 +0200"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Chelsea",
-        "pubdate": "Tue, 14 Jan 2025 21:00:00 +0200"
+        "title": "News24",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#News24",
+        "pubdate": "Tue, 14 Jan 2025 08:00:00 +0200"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Its",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Its",
+        "pubdate": "Tue, 14 Jan 2025 10:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Cut",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Cut",
         "pubdate": "Tue, 14 Jan 2025 09:00:00 +0200"
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "NMU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#NMU",
-        "pubdate": "Tue, 14 Jan 2025 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "UL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#UL",
         "pubdate": "Tue, 14 Jan 2025 14:00:00 +0200"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Fiorentina",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fiorentina",
-        "pubdate": "Tue, 14 Jan 2025 03:00:00 +0200"
+        "title": "Exam results 2024",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Exam%20results%202024",
+        "pubdate": "Tue, 14 Jan 2025 04:00:00 +0200"
       }
     ]
   ]
