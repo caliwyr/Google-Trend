@@ -1,20 +1,6 @@
 {
-  "lastUpdate": "15-01-2025 , 12:27:58",
+  "lastUpdate": "15-01-2025 , 12:58:02",
   "data": [
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20League",
-        "pubdate": "Wed, 15 Jan 2025 05:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Poezii Eminescu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Poezii%20Eminescu",
-        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Bundesliga",
@@ -38,9 +24,23 @@
     ],
     [
       {
+        "title": "Alex Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alex%20Jones",
+        "pubdate": "Wed, 15 Jan 2025 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Jude Law",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Jude%20Law",
         "pubdate": "Wed, 15 Jan 2025 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mai am un singur dor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mai%20am%20un%20singur%20dor",
+        "pubdate": "Wed, 15 Jan 2025 09:00:00 +0200"
       }
     ],
     [
@@ -52,16 +52,9 @@
     ],
     [
       {
-        "title": "Alex Jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alex%20Jones",
-        "pubdate": "Wed, 15 Jan 2025 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Liviu Guță",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liviu%20Gu%C8%9B%C4%83",
-        "pubdate": "Wed, 15 Jan 2025 09:00:00 +0200"
+        "title": "ECR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#ECR",
+        "pubdate": "Wed, 15 Jan 2025 02:00:00 +0200"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Liviu Guta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Liviu%20Guta",
+        "pubdate": "Tue, 14 Jan 2025 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Khvicha Kvaratskhelia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Khvicha%20Kvaratskhelia",
         "pubdate": "Tue, 14 Jan 2025 20:00:00 +0200"
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Pep Guardiola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Pep%20Guardiola",
-        "pubdate": "Tue, 14 Jan 2025 16:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Wolt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Wolt",
         "pubdate": "Tue, 14 Jan 2025 16:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Neil Gaiman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Neil%20Gaiman",
         "pubdate": "Tue, 14 Jan 2025 13:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ana dumbrava",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ana%20dumbrava",
+        "pubdate": "Tue, 14 Jan 2025 21:00:00 +0200"
       }
     ]
   ]
