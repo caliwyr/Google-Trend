@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "15-01-2025 , 01:39:56",
+  "lastUpdate": "15-01-2025 , 02:36:15",
   "data": [
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Liverpool",
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Premier%20League",
         "pubdate": "Wed, 15 Jan 2025 04:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Game Changer Box Office Collection Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Game%20Changer%20Box%20Office%20Collection%20Day",
+        "pubdate": "Wed, 15 Jan 2025 06:30:00 +0530"
       }
     ],
     [
@@ -13,13 +20,6 @@
         "title": "Dog",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Dog",
         "pubdate": "Tue, 14 Jan 2025 17:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Happy Sankranti 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Happy%20Sankranti%202025",
-        "pubdate": "Tue, 14 Jan 2025 07:30:00 +0530"
       }
     ],
     [
@@ -38,16 +38,23 @@
     ],
     [
       {
-        "title": "Neil Gaiman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Neil%20Gaiman",
+        "title": "Happy Sankranti Wishes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Happy%20Sankranti%20Wishes",
+        "pubdate": "Tue, 14 Jan 2025 10:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Ranji Trophy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ranji%20Trophy",
         "pubdate": "Tue, 14 Jan 2025 19:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Bihu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bihu",
-        "pubdate": "Tue, 14 Jan 2025 12:30:00 +0530"
+        "title": "Neil Gaiman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Neil%20Gaiman",
+        "pubdate": "Tue, 14 Jan 2025 19:30:00 +0530"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "Sankranti Rangoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Sankranti%20Rangoli",
-        "pubdate": "Mon, 13 Jan 2025 21:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Kho Kho World Cup 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kho%20Kho%20World%20Cup%202025",
         "pubdate": "Mon, 13 Jan 2025 22:30:00 +0530"
@@ -110,13 +110,6 @@
       {
         "title": "HCL Technologies Q3 results",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#HCL%20Technologies%20Q3%20results",
-        "pubdate": "Mon, 13 Jan 2025 23:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Game Changer movie box office collection",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Game%20Changer%20movie%20box%20office%20collection",
         "pubdate": "Mon, 13 Jan 2025 23:30:00 +0530"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Ajith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Ajith",
         "pubdate": "Sun, 12 Jan 2025 22:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "DMart Q3 results",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#DMart%20Q3%20results",
+        "pubdate": "Sun, 12 Jan 2025 07:30:00 +0530"
       }
     ]
   ]
