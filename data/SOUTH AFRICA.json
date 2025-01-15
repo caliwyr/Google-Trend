@@ -1,17 +1,24 @@
 {
-  "lastUpdate": "15-01-2025 , 20:38:48",
+  "lastUpdate": "15-01-2025 , 20:48:03",
   "data": [
     [
       {
-        "title": "AC Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
-        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0200"
+        "title": "Arsenal vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20vs%20Tottenham",
+        "pubdate": "Wed, 15 Jan 2025 18:00:00 +0200"
       }
     ],
     [
       {
-        "title": "PL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PL",
+        "title": "Barcelona vs Real Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Barcelona%20vs%20Real%20Betis",
+        "pubdate": "Wed, 15 Jan 2025 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
         "pubdate": "Wed, 15 Jan 2025 00:00:00 +0200"
       }
     ],
@@ -24,23 +31,16 @@
     ],
     [
       {
-        "title": "English Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#English%20Premier%20League",
-        "pubdate": "Wed, 15 Jan 2025 06:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20vs%20Tottenham",
-        "pubdate": "Wed, 15 Jan 2025 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
         "pubdate": "Wed, 15 Jan 2025 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "English Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#English%20Premier%20League",
+        "pubdate": "Wed, 15 Jan 2025 06:00:00 +0200"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa",
+        "pubdate": "Wed, 15 Jan 2025 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Fantasy Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Fantasy%20Premier%20League",
         "pubdate": "Wed, 15 Jan 2025 02:00:00 +0200"
@@ -69,20 +76,6 @@
         "title": "Zubimendi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Zubimendi",
         "pubdate": "Wed, 15 Jan 2025 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa",
-        "pubdate": "Wed, 15 Jan 2025 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Epl fixtures today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Epl%20fixtures%20today",
-        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund",
         "pubdate": "Tue, 14 Jan 2025 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Liverpool%20FC",
+        "pubdate": "Tue, 14 Jan 2025 23:00:00 +0200"
       }
     ]
   ]
