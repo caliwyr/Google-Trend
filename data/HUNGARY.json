@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-01-2025 , 18:41:21",
+  "lastUpdate": "15-01-2025 , 18:50:33",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Radar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Radar",
+        "pubdate": "Wed, 15 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
         "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
@@ -48,6 +55,13 @@
         "title": "Los Angeles tűzvész",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Los%20Angeles%20t%C5%B1zv%C3%A9sz",
         "pubdate": "Wed, 15 Jan 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Panenka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Panenka",
+        "pubdate": "Wed, 15 Jan 2025 19:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bundesliga",
         "pubdate": "Tue, 14 Jan 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Leverkusen–mainz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Leverkusen%E2%80%93mainz",
-        "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Chelsea",
-        "pubdate": "Tue, 14 Jan 2025 22:00:00 +0100"
       }
     ]
   ]

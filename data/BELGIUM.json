@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-01-2025 , 18:41:17",
+  "lastUpdate": "15-01-2025 , 18:50:30",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "BMI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BMI",
+        "pubdate": "Wed, 15 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bundesliga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bundesliga",
         "pubdate": "Wed, 15 Jan 2025 07:00:00 +0100"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "BMI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BMI",
-        "pubdate": "Wed, 15 Jan 2025 16:00:00 +0100"
+        "title": "Martijn krabbe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Martijn%20krabbe",
+        "pubdate": "Wed, 15 Jan 2025 18:00:00 +0100"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Martijn krabbe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Martijn%20krabbe",
-        "pubdate": "Wed, 15 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Novak%20Djokovic",
         "pubdate": "Wed, 15 Jan 2025 14:00:00 +0100"
@@ -87,23 +87,23 @@
     ],
     [
       {
-        "title": "Hepatitis A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hepatitis%20A",
-        "pubdate": "Tue, 14 Jan 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brentford Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Brentford%20Manchester%20City",
-        "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
+        "title": "Rudi Garcia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rudi%20Garcia",
+        "pubdate": "Wed, 15 Jan 2025 18:00:00 +0100"
       }
     ],
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Premier%20League",
-        "pubdate": "Tue, 14 Jan 2025 22:00:00 +0100"
+        "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hepatitis A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Hepatitis%20A",
+        "pubdate": "Tue, 14 Jan 2025 12:00:00 +0100"
       }
     ],
     [

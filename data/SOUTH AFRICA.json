@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "15-01-2025 , 18:41:25",
+  "lastUpdate": "15-01-2025 , 18:50:37",
   "data": [
     [
       {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
+        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "PL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#PL",
         "pubdate": "Wed, 15 Jan 2025 00:00:00 +0200"
       }
     ],
@@ -17,6 +24,13 @@
     ],
     [
       {
+        "title": "Inter Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
+        "pubdate": "Wed, 15 Jan 2025 18:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Bayern Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Bayern%20Munich",
         "pubdate": "Wed, 15 Jan 2025 18:00:00 +0200"
@@ -24,8 +38,8 @@
     ],
     [
       {
-        "title": "Inter Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Inter%20Milan",
+        "title": "Arsenal vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20vs%20Tottenham",
         "pubdate": "Wed, 15 Jan 2025 18:00:00 +0200"
       }
     ],
@@ -45,13 +59,6 @@
     ],
     [
       {
-        "title": "Arsenal vs Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Arsenal%20vs%20Tottenham",
-        "pubdate": "Wed, 15 Jan 2025 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Pete Hegseth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Pete%20Hegseth",
         "pubdate": "Wed, 15 Jan 2025 12:00:00 +0200"
@@ -62,6 +69,13 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Juventus",
         "pubdate": "Wed, 15 Jan 2025 07:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Aston%20Villa",
+        "pubdate": "Wed, 15 Jan 2025 20:00:00 +0200"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "University of Johannesburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#University%20of%20Johannesburg",
-        "pubdate": "Tue, 14 Jan 2025 04:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund",
         "pubdate": "Tue, 14 Jan 2025 20:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Wits",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Wits",
         "pubdate": "Tue, 14 Jan 2025 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Johann Rupert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Johann%20Rupert",
-        "pubdate": "Tue, 14 Jan 2025 19:00:00 +0200"
       }
     ]
   ]
