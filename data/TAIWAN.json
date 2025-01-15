@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-01-2025 , 04:43:18",
+  "lastUpdate": "15-01-2025 , 04:52:35",
   "data": [
-    [
-      {
-        "title": "DJI Flip",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#DJI%20Flip",
-        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "石川澪",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "英超",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8B%B1%E8%B6%85",
-        "pubdate": "Wed, 15 Jan 2025 10:00:00 +0800"
+        "title": "DJI Flip",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#DJI%20Flip",
+        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0800"
       }
     ],
     [
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "英超",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%8B%B1%E8%B6%85",
+        "pubdate": "Wed, 15 Jan 2025 10:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "陳奕",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%B3%E5%A5%95",
         "pubdate": "Wed, 15 Jan 2025 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "周興哲",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%91%A8%E8%88%88%E5%93%B2",
+        "pubdate": "Wed, 15 Jan 2025 11:00:00 +0800"
       }
     ],
     [
@@ -59,13 +66,6 @@
     ],
     [
       {
-        "title": "黑熊學院",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BB%91%E7%86%8A%E5%AD%B8%E9%99%A2",
-        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "呂坤修",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%91%82%E5%9D%A4%E4%BF%AE",
         "pubdate": "Wed, 15 Jan 2025 08:00:00 +0800"
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "蔡壁如",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%94%A1%E5%A3%81%E5%A6%82",
-        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "麥當勞美樂蒂",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%BA%A5%E7%95%B6%E5%8B%9E%E7%BE%8E%E6%A8%82%E8%92%82",
         "pubdate": "Wed, 15 Jan 2025 10:00:00 +0800"
@@ -94,9 +87,16 @@
     ],
     [
       {
-        "title": "周興哲",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%91%A8%E8%88%88%E5%93%B2",
-        "pubdate": "Wed, 15 Jan 2025 11:00:00 +0800"
+        "title": "蔡壁如",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%94%A1%E5%A3%81%E5%A6%82",
+        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "梁育誌",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%A2%81%E8%82%B2%E8%AA%8C",
+        "pubdate": "Wed, 15 Jan 2025 12:00:00 +0800"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "氫氧化鈉",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B0%AB%E6%B0%A7%E5%8C%96%E9%88%89",
-        "pubdate": "Tue, 14 Jan 2025 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "鄭淑心",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%84%AD%E6%B7%91%E5%BF%83",
         "pubdate": "Tue, 14 Jan 2025 13:00:00 +0800"
@@ -138,6 +131,13 @@
       {
         "title": "白沙屯媽祖",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%99%BD%E6%B2%99%E5%B1%AF%E5%AA%BD%E7%A5%96",
+        "pubdate": "Tue, 14 Jan 2025 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "單身即地獄4",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%96%AE%E8%BA%AB%E5%8D%B3%E5%9C%B0%E7%8D%844",
         "pubdate": "Tue, 14 Jan 2025 14:00:00 +0800"
       }
     ]
