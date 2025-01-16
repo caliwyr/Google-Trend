@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 05:39:45",
+  "lastUpdate": "16-01-2025 , 05:48:59",
   "data": [
     [
       {
@@ -17,15 +17,22 @@
     ],
     [
       {
-        "title": "Amherd Rücktritt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Amherd%20R%C3%BCcktritt",
-        "pubdate": "Wed, 15 Jan 2025 16:00:00 +0100"
+        "title": "Amherd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Amherd",
+        "pubdate": "Wed, 15 Jan 2025 15:00:00 +0100"
       }
     ],
     [
       {
         "title": "Copa del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Copa%20del%20Rey",
+        "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Inter  Bologna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20%20Bologna",
         "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
       }
     ],
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Inter  Bologna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20%20Bologna",
-        "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Arsenal",
         "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Novak%20Djokovic",
-        "pubdate": "Wed, 15 Jan 2025 13:00:00 +0100"
+        "title": "Gaza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gaza",
+        "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Gaza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gaza",
-        "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bundesrat Schweiz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bundesrat%20Schweiz",
         "pubdate": "Wed, 15 Jan 2025 19:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Papst Franziskus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Papst%20Franziskus",
         "pubdate": "Wed, 15 Jan 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marseille – Lille",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Marseille%20%E2%80%93%20Lille",
+        "pubdate": "Wed, 15 Jan 2025 00:00:00 +0100"
       }
     ]
   ]

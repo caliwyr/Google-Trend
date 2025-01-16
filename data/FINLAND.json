@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 05:39:39",
+  "lastUpdate": "16-01-2025 , 05:48:54",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "ASEAN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ASEAN",
-        "pubdate": "Wed, 15 Jan 2025 18:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "SPAR",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#SPAR",
         "pubdate": "Tue, 14 Jan 2025 12:00:00 +0200"
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Juan Bernabe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Juan%20Bernabe",
-        "pubdate": "Tue, 14 Jan 2025 14:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Carrie Underwood",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Carrie%20Underwood",
         "pubdate": "Tue, 14 Jan 2025 18:00:00 +0200"
@@ -122,6 +108,13 @@
     ],
     [
       {
+        "title": "Swank",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Swank",
+        "pubdate": "Tue, 14 Jan 2025 20:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Hermes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hermes",
         "pubdate": "Tue, 14 Jan 2025 21:00:00 +0200"
@@ -139,6 +132,13 @@
         "title": "Maps",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Maps",
         "pubdate": "Mon, 13 Jan 2025 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "LinkedIn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#LinkedIn",
+        "pubdate": "Mon, 13 Jan 2025 14:00:00 +0200"
       }
     ]
   ]
