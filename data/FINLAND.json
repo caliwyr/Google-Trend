@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 08:44:40",
+  "lastUpdate": "16-01-2025 , 08:54:02",
   "data": [
     [
       {
@@ -62,6 +62,13 @@
         "title": "Bonnie Blue",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bonnie%20Blue",
         "pubdate": "Wed, 15 Jan 2025 08:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "ASEAN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#ASEAN",
+        "pubdate": "Wed, 15 Jan 2025 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Swank",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Swank",
         "pubdate": "Tue, 14 Jan 2025 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Hermes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Hermes",
-        "pubdate": "Tue, 14 Jan 2025 21:00:00 +0200"
       }
     ]
   ]
