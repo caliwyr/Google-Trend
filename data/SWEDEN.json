@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 04:42:44",
+  "lastUpdate": "16-01-2025 , 04:52:01",
   "data": [
     [
       {
@@ -80,8 +80,8 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
         "pubdate": "Tue, 14 Jan 2025 22:00:00 +0100"
       }
     ],
@@ -90,6 +90,13 @@
         "title": "Eric Saade",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Eric%20Saade",
         "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Liverpool",
+        "pubdate": "Tue, 14 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -108,23 +115,9 @@
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chelsea",
-        "pubdate": "Tue, 14 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Kungen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Kungen",
         "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Svennis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Svennis",
-        "pubdate": "Tue, 14 Jan 2025 15:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Koh Tao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Koh%20Tao",
         "pubdate": "Tue, 14 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mattias Hävelid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mattias%20H%C3%A4velid",
+        "pubdate": "Tue, 14 Jan 2025 21:00:00 +0100"
       }
     ]
   ]
