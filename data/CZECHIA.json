@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "16-01-2025 , 16:40:33",
+  "lastUpdate": "16-01-2025 , 16:50:01",
   "data": [
     [
       {
         "title": "Jan Palach",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Palach",
-        "pubdate": "Thu, 16 Jan 2025 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jirka Vondra Co se stalo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jirka%20Vondra%20Co%20se%20stalo",
         "pubdate": "Thu, 16 Jan 2025 07:00:00 +0100"
       }
     ],
@@ -24,9 +17,23 @@
     ],
     [
       {
+        "title": "Rusko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rusko",
+        "pubdate": "Thu, 16 Jan 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Hana Seidlová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hana%20Seidlov%C3%A1",
         "pubdate": "Thu, 16 Jan 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Spišská Stará Ves",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Spi%C5%A1sk%C3%A1%20Star%C3%A1%20Ves",
+        "pubdate": "Thu, 16 Jan 2025 16:00:00 +0100"
       }
     ],
     [
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "Spišská Stará Ves",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Spi%C5%A1sk%C3%A1%20Star%C3%A1%20Ves",
+        "title": "Václav Varaďa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20Vara%C4%8Fa",
         "pubdate": "Thu, 16 Jan 2025 16:00:00 +0100"
       }
     ],
@@ -68,13 +75,6 @@
       {
         "title": "Scoot",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Scoot",
-        "pubdate": "Thu, 16 Jan 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Václav Varaďa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20Vara%C4%8Fa",
         "pubdate": "Thu, 16 Jan 2025 16:00:00 +0100"
       }
     ],
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Jirka Vondra Co se stalo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jirka%20Vondra%20Co%20se%20stalo",
+        "pubdate": "Wed, 15 Jan 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Rohony",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Rohony",
         "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Jan Kuchta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jan%20Kuchta",
         "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ivana vondrovicova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ivana%20vondrovicova",
-        "pubdate": "Wed, 15 Jan 2025 22:00:00 +0100"
       }
     ]
   ]
