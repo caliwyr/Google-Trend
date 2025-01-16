@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 02:36:01",
+  "lastUpdate": "16-01-2025 , 02:58:08",
   "data": [
     [
       {
@@ -34,6 +34,13 @@
         "title": "Atletico Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Atletico%20Madrid",
         "pubdate": "Thu, 16 Jan 2025 06:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#PSG",
+        "pubdate": "Thu, 16 Jan 2025 03:00:00 +0700"
       }
     ],
     [
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#AC%20Milan",
+        "pubdate": "Wed, 15 Jan 2025 20:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Mitchel Bakker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Mitchel%20Bakker",
         "pubdate": "Wed, 15 Jan 2025 23:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Presiden Korea Selatan Yoon Suk Yeol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Presiden%20Korea%20Selatan%20Yoon%20Suk%20Yeol",
-        "pubdate": "Wed, 15 Jan 2025 17:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "GRIB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#GRIB",
-        "pubdate": "Wed, 15 Jan 2025 05:00:00 +0700"
       }
     ]
   ]
