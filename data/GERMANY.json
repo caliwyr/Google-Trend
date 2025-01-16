@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 09:39:13",
+  "lastUpdate": "16-01-2025 , 09:48:27",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Bayern",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern",
-        "pubdate": "Wed, 15 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Glatteis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Glatteis",
         "pubdate": "Wed, 15 Jan 2025 08:00:00 +0100"
@@ -69,13 +62,6 @@
         "title": "Handball-WM 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball-WM%202025",
         "pubdate": "Tue, 14 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Handball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball",
-        "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "Schnee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schnee",
         "pubdate": "Thu, 09 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Biathlon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biathlon",
+        "pubdate": "Thu, 09 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Handball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball",
+        "pubdate": "Thu, 09 Jan 2025 20:00:00 +0100"
       }
     ]
   ]
