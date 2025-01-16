@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-01-2025 , 18:43:50",
+  "lastUpdate": "16-01-2025 , 18:53:06",
   "data": [
     [
       {
@@ -26,7 +26,7 @@
       {
         "title": "Learner Tien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Learner%20Tien",
-        "pubdate": "Thu, 16 Jan 2025 23:00:00 +1100"
+        "pubdate": "Thu, 16 Jan 2025 21:00:00 +1100"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "Ceasefire",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Ceasefire",
         "pubdate": "Thu, 16 Jan 2025 09:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Arsenal vs Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Arsenal%20vs%20Tottenham",
+        "pubdate": "Thu, 16 Jan 2025 07:00:00 +1100"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Djokovic",
-        "pubdate": "Thu, 16 Jan 2025 07:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "Raducanu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Raducanu",
         "pubdate": "Thu, 16 Jan 2025 13:00:00 +1100"
@@ -66,9 +66,9 @@
     ],
     [
       {
-        "title": "Brisbane Heat vs Hobart Hurricanes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brisbane%20Heat%20vs%20Hobart%20Hurricanes",
-        "pubdate": "Thu, 16 Jan 2025 20:00:00 +1100"
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Djokovic",
+        "pubdate": "Thu, 16 Jan 2025 07:00:00 +1100"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Sydney news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20news",
+        "pubdate": "Thu, 16 Jan 2025 00:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Wolf Man",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Wolf%20Man",
         "pubdate": "Thu, 16 Jan 2025 19:00:00 +1100"
@@ -132,13 +139,6 @@
         "title": "Taylor Fritz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Taylor%20Fritz",
         "pubdate": "Thu, 16 Jan 2025 19:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Sydney Airport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20Airport",
-        "pubdate": "Thu, 16 Jan 2025 09:00:00 +1100"
       }
     ]
   ]
