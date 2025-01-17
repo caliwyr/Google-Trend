@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-01-2025 , 22:41:24",
+  "lastUpdate": "17-01-2025 , 22:50:38",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Marmoush",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Marmoush",
         "pubdate": "Fri, 17 Jan 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Handball Deutschland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball%20Deutschland",
+        "pubdate": "Fri, 17 Jan 2025 23:00:00 +0100"
       }
     ],
     [
@@ -31,16 +38,16 @@
     ],
     [
       {
-        "title": "Polestar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polestar",
-        "pubdate": "Fri, 17 Jan 2025 11:00:00 +0100"
+        "title": "Joan Plowright",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joan%20Plowright",
+        "pubdate": "Fri, 17 Jan 2025 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Joan Plowright",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Joan%20Plowright",
-        "pubdate": "Fri, 17 Jan 2025 17:00:00 +0100"
+        "title": "Polestar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Polestar",
+        "pubdate": "Fri, 17 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -54,7 +61,14 @@
       {
         "title": "Nintendo Switch 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nintendo%20Switch%202",
-        "pubdate": "Thu, 16 Jan 2025 15:00:00 +0100"
+        "pubdate": "Thu, 16 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Handball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball",
+        "pubdate": "Thu, 16 Jan 2025 20:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Werder Bremen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Werder%20Bremen",
         "pubdate": "Sun, 12 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "RB Leipzig",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
-        "pubdate": "Sun, 12 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
-        "pubdate": "Sat, 11 Jan 2025 19:00:00 +0100"
       }
     ]
   ]
