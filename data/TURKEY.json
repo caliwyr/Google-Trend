@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-01-2025 , 12:23:11",
+  "lastUpdate": "17-01-2025 , 12:53:46",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Takdir Belgesi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Takdir%20Belgesi",
         "pubdate": "Fri, 17 Jan 2025 11:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Zaha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Zaha",
+        "pubdate": "Fri, 17 Jan 2025 02:00:00 +0300"
       }
     ],
     [
@@ -31,9 +38,16 @@
     ],
     [
       {
+        "title": "Mancini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mancini",
+        "pubdate": "Fri, 17 Jan 2025 01:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Real Madrid, Celta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Real%20Madrid,%20Celta",
-        "pubdate": "Thu, 16 Jan 2025 00:00:00 +0300"
+        "pubdate": "Thu, 16 Jan 2025 23:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "American Primeval",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#American%20Primeval",
         "pubdate": "Thu, 16 Jan 2025 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Moğolistan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Mo%C4%9Folistan",
-        "pubdate": "Thu, 16 Jan 2025 20:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "TROY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#TROY",
-        "pubdate": "Thu, 16 Jan 2025 14:00:00 +0300"
       }
     ]
   ]
