@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2025 , 02:32:05",
+  "lastUpdate": "18-01-2025 , 02:54:58",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Galatasaray",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
-        "pubdate": "Fri, 17 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pegasus Band",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pegasus%20Band",
         "pubdate": "Fri, 17 Jan 2025 09:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "WEF Davos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WEF%20Davos",
         "pubdate": "Fri, 17 Jan 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FIS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FIS",
+        "pubdate": "Fri, 17 Jan 2025 22:00:00 +0100"
       }
     ]
   ]
