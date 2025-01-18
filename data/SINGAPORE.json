@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2025 , 07:35:29",
+  "lastUpdate": "18-01-2025 , 07:44:45",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
-        "pubdate": "Fri, 17 Jan 2025 09:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "David Lynch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#David%20Lynch",
         "pubdate": "Fri, 17 Jan 2025 04:00:00 +0800"
@@ -31,9 +24,23 @@
     ],
     [
       {
+        "title": "Manchester United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Manchester%20United",
+        "pubdate": "Fri, 17 Jan 2025 10:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UFC",
         "pubdate": "Fri, 17 Jan 2025 16:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20utd",
+        "pubdate": "Fri, 17 Jan 2025 09:00:00 +0800"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Pakistan vs West Indies",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Pakistan%20vs%20West%20Indies",
         "pubdate": "Fri, 17 Jan 2025 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Denis Law",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Denis%20Law",
+        "pubdate": "Fri, 17 Jan 2025 10:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Naomi Osaka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Naomi%20Osaka",
         "pubdate": "Fri, 17 Jan 2025 20:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Saif Ali Khan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Saif%20Ali%20Khan",
-        "pubdate": "Thu, 16 Jan 2025 12:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Nintendo Switch 2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nintendo%20Switch%202",
-        "pubdate": "Thu, 16 Jan 2025 16:00:00 +0800"
       }
     ]
   ]
