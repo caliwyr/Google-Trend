@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2025 , 22:37:31",
+  "lastUpdate": "18-01-2025 , 22:46:43",
   "data": [
     [
       {
@@ -12,7 +12,7 @@
       {
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
-        "pubdate": "Sat, 18 Jan 2025 20:00:00 +0100"
+        "pubdate": "Sat, 18 Jan 2025 19:00:00 +0100"
       }
     ],
     [
@@ -20,6 +20,13 @@
         "title": "FC Utrecht",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Sat, 18 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
+        "pubdate": "Sat, 18 Jan 2025 23:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "MKZ uitbraak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MKZ%20uitbraak",
         "pubdate": "Mon, 13 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
-        "pubdate": "Sun, 12 Jan 2025 13:00:00 +0100"
       }
     ]
   ]
