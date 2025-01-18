@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2025 , 18:39:20",
+  "lastUpdate": "18-01-2025 , 18:48:43",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Brentford - Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brentford%20-%20Liverpool",
+        "pubdate": "Sat, 18 Jan 2025 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Newcastle  Bournemouth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Newcastle%20%20Bournemouth",
         "pubdate": "Sat, 18 Jan 2025 10:00:00 -0300"
@@ -24,16 +31,9 @@
     ],
     [
       {
-        "title": "Brentford  Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Brentford%20%20Liverpool",
-        "pubdate": "Sat, 18 Jan 2025 12:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Francisco Cerúndolo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Francisco%20Cer%C3%BAndolo",
-        "pubdate": "Sat, 18 Jan 2025 10:00:00 -0300"
+        "title": "Arsenal  Aston Villa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal%20%20Aston%20Villa",
+        "pubdate": "Sat, 18 Jan 2025 14:00:00 -0300"
       }
     ],
     [
@@ -45,9 +45,30 @@
     ],
     [
       {
+        "title": "Francisco Cerúndolo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Francisco%20Cer%C3%BAndolo",
+        "pubdate": "Sat, 18 Jan 2025 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Juventus  Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juventus%20%20Milan",
+        "pubdate": "Sat, 18 Jan 2025 14:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Girona  Sevilla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Girona%20%20Sevilla",
         "pubdate": "Sat, 18 Jan 2025 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Lens - PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lens%20-%20PSG",
+        "pubdate": "Sat, 18 Jan 2025 14:00:00 -0300"
       }
     ],
     [
@@ -66,30 +87,9 @@
     ],
     [
       {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#LaLiga",
+        "title": "Bolonia  Monza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bolonia%20%20Monza",
         "pubdate": "Sat, 18 Jan 2025 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal  Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal%20%20Aston%20Villa",
-        "pubdate": "Sat, 18 Jan 2025 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Lens - PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lens%20-%20PSG",
-        "pubdate": "Sat, 18 Jan 2025 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Figal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Figal",
-        "pubdate": "Sat, 18 Jan 2025 13:00:00 -0300"
       }
     ],
     [
@@ -101,16 +101,9 @@
     ],
     [
       {
-        "title": "Juventus - Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Juventus%20-%20Milan",
-        "pubdate": "Sat, 18 Jan 2025 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Bolonia  Monza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Bolonia%20%20Monza",
-        "pubdate": "Sat, 18 Jan 2025 14:00:00 -0300"
+        "title": "West Ham  Crystal Palace",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#West%20Ham%20%20Crystal%20Palace",
+        "pubdate": "Sat, 18 Jan 2025 15:00:00 -0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Mancuso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Mancuso",
         "pubdate": "Fri, 17 Jan 2025 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Roma",
+        "pubdate": "Fri, 17 Jan 2025 18:00:00 -0300"
       }
     ]
   ]
