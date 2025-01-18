@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2025 , 04:36:10",
+  "lastUpdate": "18-01-2025 , 04:45:33",
   "data": [
     [
       {
@@ -94,8 +94,15 @@
     ],
     [
       {
-        "title": "Man utd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20utd",
+        "title": "Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20Utd",
+        "pubdate": "Thu, 16 Jan 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Man%20United",
         "pubdate": "Thu, 16 Jan 2025 23:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Manu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Manu",
         "pubdate": "Thu, 16 Jan 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Saif Ali Khan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Saif%20Ali%20Khan",
-        "pubdate": "Thu, 16 Jan 2025 16:00:00 +0100"
       }
     ]
   ]
