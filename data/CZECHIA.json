@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-01-2025 , 20:44:24",
+  "lastUpdate": "18-01-2025 , 20:53:57",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Zdeněk Papoušek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Zden%C4%9Bk%20Papou%C5%A1ek",
         "pubdate": "Sat, 18 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Getafe – Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Getafe%20%E2%80%93%20Barcelona",
+        "pubdate": "Sat, 18 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -31,16 +38,23 @@
     ],
     [
       {
-        "title": "Juventus – AC Milán",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Juventus%20%E2%80%93%20AC%20Mil%C3%A1n",
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trump",
+        "pubdate": "Sat, 18 Jan 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "LEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#LEC",
         "pubdate": "Sat, 18 Jan 2025 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trump",
-        "pubdate": "Sat, 18 Jan 2025 20:00:00 +0100"
+        "title": "Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
+        "pubdate": "Sat, 18 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Starship",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Starship",
         "pubdate": "Fri, 17 Jan 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Festival chutí",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Festival%20chut%C3%AD",
-        "pubdate": "Fri, 17 Jan 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tomáš Vartecký",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Varteck%C3%BD",
-        "pubdate": "Fri, 17 Jan 2025 22:00:00 +0100"
       }
     ]
   ]
