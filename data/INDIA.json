@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "19-01-2025 , 14:39:34",
+  "lastUpdate": "19-01-2025 , 14:48:47",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Premier%20League",
         "pubdate": "Sun, 19 Jan 2025 06:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FC%20Barcelona",
-        "pubdate": "Sun, 19 Jan 2025 03:30:00 +0530"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FC%20Barcelona",
+        "pubdate": "Sun, 19 Jan 2025 07:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arsenal",
         "pubdate": "Sun, 19 Jan 2025 02:30:00 +0530"
@@ -31,9 +31,23 @@
     ],
     [
       {
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Novak%20Djokovic",
+        "pubdate": "Sun, 19 Jan 2025 19:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "TikTok banned",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#TikTok%20banned",
         "pubdate": "Sun, 19 Jan 2025 18:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Kho Kho World Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kho%20Kho%20World%20Cup",
+        "pubdate": "Sun, 19 Jan 2025 19:30:00 +0530"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bharat Mobility Global Expo 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bharat%20Mobility%20Global%20Expo%202025",
         "pubdate": "Fri, 17 Jan 2025 14:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Saif Ali Khan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Saif%20Ali%20Khan",
-        "pubdate": "Thu, 16 Jan 2025 09:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "8th Pay Commission",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#8th%20Pay%20Commission",
-        "pubdate": "Thu, 16 Jan 2025 16:30:00 +0530"
       }
     ]
   ]
