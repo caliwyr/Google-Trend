@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2025 , 12:34:36",
+  "lastUpdate": "19-01-2025 , 12:56:40",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "La Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#La%20Liga",
-        "pubdate": "Sat, 18 Jan 2025 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Juventus x Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Juventus%20x%20Milan",
         "pubdate": "Sat, 18 Jan 2025 12:00:00 -0500"
@@ -90,6 +83,13 @@
         "title": "Amistosos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Amistosos",
         "pubdate": "Sat, 18 Jan 2025 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Chiefs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Chiefs",
+        "pubdate": "Sat, 18 Jan 2025 18:00:00 -0500"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Inter de Limeira x Guarani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Limeira%20x%20Guarani",
-        "pubdate": "Sat, 18 Jan 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Campeonato Mineiro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Mineiro",
         "pubdate": "Sat, 18 Jan 2025 16:00:00 -0500"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Bayer Leverkusen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bayer%20Leverkusen",
-        "pubdate": "Sat, 18 Jan 2025 17:00:00 -0500"
+        "title": "Inter de Limeira x Guarani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Limeira%20x%20Guarani",
+        "pubdate": "Sat, 18 Jan 2025 15:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Trump coin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Trump%20coin",
+        "pubdate": "Sat, 18 Jan 2025 16:00:00 -0500"
       }
     ]
   ]
