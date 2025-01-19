@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2025 , 21:45:23",
+  "lastUpdate": "19-01-2025 , 21:54:45",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arsenal",
-        "pubdate": "Sun, 19 Jan 2025 02:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Novak%20Djokovic",
         "pubdate": "Sun, 19 Jan 2025 19:30:00 +0530"
@@ -69,6 +62,13 @@
         "title": "Kho Kho World Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Kho%20Kho%20World%20Cup",
         "pubdate": "Sun, 19 Jan 2025 19:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Bangalore",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Bangalore",
+        "pubdate": "Sun, 19 Jan 2025 23:30:00 +0530"
       }
     ],
     [
@@ -108,8 +108,8 @@
     ],
     [
       {
-        "title": "TRUMP coin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#TRUMP%20coin",
+        "title": "Trump coin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Trump%20coin",
         "pubdate": "Sat, 18 Jan 2025 21:30:00 +0530"
       }
     ],

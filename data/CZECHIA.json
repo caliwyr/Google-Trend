@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-01-2025 , 21:45:21",
+  "lastUpdate": "19-01-2025 , 21:54:43",
   "data": [
-    [
-      {
-        "title": "TikTok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#TikTok",
-        "pubdate": "Sun, 19 Jan 2025 03:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Everton – Tottenham",
@@ -20,6 +13,13 @@
         "title": "Eliška Wagnerová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eli%C5%A1ka%20Wagnerov%C3%A1",
         "pubdate": "Sun, 19 Jan 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Real – Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20%E2%80%93%20Las%20Palmas",
+        "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Forrest Gump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forrest%20Gump",
+        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Požár MNÍŠEK POD BRDY",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Po%C5%BE%C3%A1r%20MN%C3%8D%C5%A0EK%20POD%20BRDY",
         "pubdate": "Sun, 19 Jan 2025 09:00:00 +0100"
@@ -94,8 +101,8 @@
     ],
     [
       {
-        "title": "Forrest Gump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Forrest%20Gump",
+        "title": "Klára Cibulková",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kl%C3%A1ra%20Cibulkov%C3%A1",
         "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
       }
     ],
@@ -108,22 +115,22 @@
     ],
     [
       {
-        "title": "Před svatbou ne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#P%C5%99ed%20svatbou%20ne",
-        "pubdate": "Sun, 19 Jan 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Klára Cibulková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kl%C3%A1ra%20Cibulkov%C3%A1",
-        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
+        "title": "TikTok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#TikTok",
+        "pubdate": "Sat, 18 Jan 2025 20:00:00 +0100"
       }
     ],
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Premier%20League",
+        "pubdate": "Sat, 18 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trump meme coin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trump%20meme%20coin",
         "pubdate": "Sat, 18 Jan 2025 18:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Dakar 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dakar%202025",
         "pubdate": "Sat, 18 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Trump meme coin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Trump%20meme%20coin",
-        "pubdate": "Sat, 18 Jan 2025 18:00:00 +0100"
       }
     ]
   ]
