@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-01-2025 , 16:46:37",
+  "lastUpdate": "19-01-2025 , 16:55:51",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Paulista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paulista",
-        "pubdate": "Sun, 19 Jan 2025 00:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Manchester United x Brighton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United%20x%20Brighton",
         "pubdate": "Sun, 19 Jan 2025 09:00:00 -0500"
@@ -31,8 +24,8 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Novak%20Djokovic",
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Djokovic",
         "pubdate": "Sun, 19 Jan 2025 08:00:00 -0500"
       }
     ],
@@ -41,6 +34,13 @@
         "title": "Lyanco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Lyanco",
         "pubdate": "Sun, 19 Jan 2025 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Clube Atlético Mineiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Clube%20Atl%C3%A9tico%20Mineiro",
+        "pubdate": "Sun, 19 Jan 2025 09:00:00 -0500"
       }
     ],
     [
@@ -94,16 +94,16 @@
     ],
     [
       {
-        "title": "Portuguesa x Novorizontino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Portuguesa%20x%20Novorizontino",
-        "pubdate": "Sat, 18 Jan 2025 19:00:00 -0500"
+        "title": "La liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#La%20liga",
+        "pubdate": "Sat, 18 Jan 2025 16:00:00 -0500"
       }
     ],
     [
       {
-        "title": "La liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#La%20liga",
-        "pubdate": "Sat, 18 Jan 2025 16:00:00 -0500"
+        "title": "Portuguesa x Novorizontino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Portuguesa%20x%20Novorizontino",
+        "pubdate": "Sat, 18 Jan 2025 19:00:00 -0500"
       }
     ],
     [
@@ -115,9 +115,9 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Newcastle",
-        "pubdate": "Sat, 18 Jan 2025 05:00:00 -0500"
+        "title": "Trump coin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Trump%20coin",
+        "pubdate": "Sat, 18 Jan 2025 16:00:00 -0500"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Sao Paulo Copinha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo%20Copinha",
-        "pubdate": "Sat, 18 Jan 2025 20:00:00 -0500"
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Newcastle",
+        "pubdate": "Sat, 18 Jan 2025 05:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Trump coin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Trump%20coin",
-        "pubdate": "Sat, 18 Jan 2025 16:00:00 -0500"
+        "title": "Sao Paulo Copinha",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sao%20Paulo%20Copinha",
+        "pubdate": "Sat, 18 Jan 2025 20:00:00 -0500"
       }
     ]
   ]
