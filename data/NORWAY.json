@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "19-01-2025 , 01:17:34",
+  "lastUpdate": "19-01-2025 , 02:31:50",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
+        "pubdate": "Sun, 19 Jan 2025 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "PL",
@@ -27,13 +34,6 @@
         "title": "Arsenal mot Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Arsenal%20mot%20Aston%20Villa",
         "pubdate": "Sat, 18 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Getafe mot Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Getafe%20mot%20Barcelona",
-        "pubdate": "Sat, 18 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Denis Law",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Denis%20Law",
+        "title": "UFC 311",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFC%20311",
         "pubdate": "Fri, 17 Jan 2025 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "UFC 311",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#UFC%20311",
+        "title": "Denis Law",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Denis%20Law",
         "pubdate": "Fri, 17 Jan 2025 21:00:00 +0100"
       }
     ]
