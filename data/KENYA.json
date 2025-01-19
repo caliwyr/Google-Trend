@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "19-01-2025 , 07:38:22",
+  "lastUpdate": "19-01-2025 , 07:47:44",
   "data": [
-    [
-      {
-        "title": "PL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PL",
-        "pubdate": "Sun, 19 Jan 2025 00:00:00 +0300"
-      }
-    ],
     [
       {
         "title": "Inter Miami vs Club américa",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "PL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#PL",
+        "pubdate": "Sun, 19 Jan 2025 00:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli",
         "pubdate": "Sun, 19 Jan 2025 00:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Alexander Isak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Alexander%20Isak",
+        "pubdate": "Sun, 19 Jan 2025 02:00:00 +0300"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Trump coin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Trump%20coin",
         "pubdate": "Sat, 18 Jan 2025 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Pep Guardiola",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Pep%20Guardiola",
-        "pubdate": "Sat, 18 Jan 2025 18:00:00 +0300"
       }
     ]
   ]
