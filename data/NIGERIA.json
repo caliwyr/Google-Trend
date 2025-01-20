@@ -1,10 +1,24 @@
 {
-  "lastUpdate": "20-01-2025 , 13:43:07",
+  "lastUpdate": "20-01-2025 , 13:52:33",
   "data": [
+    [
+      {
+        "title": "Patrick Dorgu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Patrick%20Dorgu",
+        "pubdate": "Mon, 20 Jan 2025 13:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Marseille",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Marseille",
+        "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Valencia",
         "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
       }
     ],
@@ -20,13 +34,6 @@
         "title": "Antony",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Antony",
         "pubdate": "Mon, 20 Jan 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Patrick Dorgu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Patrick%20Dorgu",
-        "pubdate": "Mon, 20 Jan 2025 13:00:00 +0100"
       }
     ],
     [
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Inter vs Empoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20vs%20Empoli",
+        "title": "Inter Vs Empoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Inter%20Vs%20Empoli",
         "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Aston%20Villa",
         "pubdate": "Sun, 19 Jan 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lazio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lazio",
-        "pubdate": "Sun, 19 Jan 2025 20:00:00 +0100"
       }
     ]
   ]
