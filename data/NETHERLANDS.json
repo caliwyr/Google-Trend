@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 04:38:16",
+  "lastUpdate": "20-01-2025 , 04:47:36",
   "data": [
     [
       {
@@ -24,23 +24,16 @@
     ],
     [
       {
-        "title": "NEC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
-        "pubdate": "Sun, 19 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Heerenveen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heerenveen",
-        "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Almere  Heracles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere%20%20Heracles",
         "pubdate": "Sun, 19 Jan 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NEC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NEC",
+        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Quick Boys",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Quick%20Boys",
         "pubdate": "Thu, 16 Jan 2025 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Wed, 15 Jan 2025 14:00:00 +0100"
       }
     ]
   ]
