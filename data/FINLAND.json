@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "20-01-2025 , 18:40:01",
+  "lastUpdate": "20-01-2025 , 18:49:15",
   "data": [
     [
       {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bitcoin",
         "pubdate": "Mon, 20 Jan 2025 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
+        "pubdate": "Mon, 20 Jan 2025 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elon%20Musk",
+        "pubdate": "Mon, 20 Jan 2025 20:00:00 +0200"
       }
     ],
     [
@@ -17,8 +31,15 @@
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Joe%20Biden",
+        "title": "Carrie Underwood",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Carrie%20Underwood",
+        "pubdate": "Mon, 20 Jan 2025 20:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barron Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barron%20Trump",
         "pubdate": "Mon, 20 Jan 2025 19:00:00 +0200"
       }
     ],
@@ -31,6 +52,13 @@
     ],
     [
       {
+        "title": "MobilePay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#MobilePay",
+        "pubdate": "Mon, 20 Jan 2025 14:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Binance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Binance",
         "pubdate": "Mon, 20 Jan 2025 00:00:00 +0200"
@@ -38,9 +66,9 @@
     ],
     [
       {
-        "title": "MobilePay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#MobilePay",
-        "pubdate": "Mon, 20 Jan 2025 14:00:00 +0200"
+        "title": "Pelicans",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pelicans",
+        "pubdate": "Mon, 20 Jan 2025 18:00:00 +0200"
       }
     ],
     [
@@ -59,9 +87,9 @@
     ],
     [
       {
-        "title": "Pelicans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pelicans",
-        "pubdate": "Mon, 20 Jan 2025 18:00:00 +0200"
+        "title": "Queens Of The Stone Age",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Queens%20Of%20The%20Stone%20Age",
+        "pubdate": "Mon, 20 Jan 2025 19:00:00 +0200"
       }
     ],
     [
@@ -73,23 +101,9 @@
     ],
     [
       {
-        "title": "Queens Of The Stone Age",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Queens%20Of%20The%20Stone%20Age",
-        "pubdate": "Mon, 20 Jan 2025 19:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Captagon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Captagon",
         "pubdate": "Mon, 20 Jan 2025 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barron Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barron%20Trump",
-        "pubdate": "Mon, 20 Jan 2025 19:00:00 +0200"
       }
     ],
     [
@@ -101,13 +115,6 @@
     ],
     [
       {
-        "title": "TikTok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TikTok",
-        "pubdate": "Sun, 19 Jan 2025 01:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Trump coin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump%20coin",
         "pubdate": "Sun, 19 Jan 2025 12:00:00 +0200"
@@ -115,9 +122,16 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Donald%20Trump",
-        "pubdate": "Sun, 19 Jan 2025 23:00:00 +0200"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Trump",
+        "pubdate": "Sun, 19 Jan 2025 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "TikTok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#TikTok",
+        "pubdate": "Sun, 19 Jan 2025 01:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "UFC 311",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UFC%20311",
         "pubdate": "Sun, 19 Jan 2025 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Snooker Masters",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Snooker%20Masters",
-        "pubdate": "Sun, 19 Jan 2025 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid – Las Palmas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Real%20Madrid%20%E2%80%93%20Las%20Palmas",
-        "pubdate": "Sun, 19 Jan 2025 18:00:00 +0200"
       }
     ]
   ]
