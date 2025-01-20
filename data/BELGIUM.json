@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 17:47:48",
+  "lastUpdate": "20-01-2025 , 17:57:00",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bitcoin",
         "pubdate": "Mon, 20 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Champions%20League",
+        "pubdate": "Mon, 20 Jan 2025 18:00:00 +0100"
       }
     ],
     [
@@ -45,9 +52,23 @@
     ],
     [
       {
+        "title": "Bill Clinton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Bill%20Clinton",
+        "pubdate": "Mon, 20 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Chômage",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ch%C3%B4mage",
         "pubdate": "Mon, 20 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BTC",
+        "pubdate": "Mon, 20 Jan 2025 11:00:00 +0100"
       }
     ],
     [
@@ -66,9 +87,30 @@
     ],
     [
       {
+        "title": "J.D. Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#J.D.%20Vance",
+        "pubdate": "Mon, 20 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Sinner",
         "pubdate": "Mon, 20 Jan 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Shari Bossuyt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Shari%20Bossuyt",
+        "pubdate": "Mon, 20 Jan 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Elisabet Gunnarsdottir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Elisabet%20Gunnarsdottir",
+        "pubdate": "Mon, 20 Jan 2025 17:00:00 +0100"
       }
     ],
     [
@@ -87,13 +129,6 @@
     ],
     [
       {
-        "title": "Tom Cruise",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tom%20Cruise",
-        "pubdate": "Mon, 20 Jan 2025 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Blue Monday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Blue%20Monday",
         "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
@@ -104,41 +139,6 @@
         "title": "Antwerp  Westerlo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp%20%20Westerlo",
         "pubdate": "Sun, 19 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kortrijk  Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kortrijk%20%20Anderlecht",
-        "pubdate": "Sun, 19 Jan 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kristel Verbeke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Kristel%20Verbeke",
-        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Courtrai – Anderlecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Courtrai%20%E2%80%93%20Anderlecht",
-        "pubdate": "Sun, 19 Jan 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "TikTok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#TikTok",
-        "pubdate": "Sun, 19 Jan 2025 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cross Benidorm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Cross%20Benidorm",
-        "pubdate": "Sun, 19 Jan 2025 14:00:00 +0100"
       }
     ]
   ]

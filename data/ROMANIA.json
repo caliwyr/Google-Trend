@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "20-01-2025 , 17:47:57",
+  "lastUpdate": "20-01-2025 , 17:57:06",
   "data": [
-    [
-      {
-        "title": "Blue Monday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Blue%20Monday",
-        "pubdate": "Mon, 20 Jan 2025 09:00:00 +0200"
-      }
-    ],
     [
       {
         "title": "Farul Constanța - UTA Arad",
@@ -17,16 +10,16 @@
     ],
     [
       {
-        "title": "Melania Trump coin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Melania%20Trump%20coin",
+        "title": "Blue Monday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Blue%20Monday",
         "pubdate": "Mon, 20 Jan 2025 09:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Joe Biden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Joe%20Biden",
-        "pubdate": "Mon, 20 Jan 2025 12:00:00 +0200"
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Elon%20Musk",
+        "pubdate": "Mon, 20 Jan 2025 19:00:00 +0200"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Joe Biden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Joe%20Biden",
+        "pubdate": "Mon, 20 Jan 2025 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Alexandru Ioan Cuza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alexandru%20Ioan%20Cuza",
         "pubdate": "Mon, 20 Jan 2025 09:00:00 +0200"
@@ -52,16 +52,9 @@
     ],
     [
       {
-        "title": "Mirabela Dauer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mirabela%20Dauer",
-        "pubdate": "Mon, 20 Jan 2025 17:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Gheorghe udriste",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gheorghe%20udriste",
-        "pubdate": "Mon, 20 Jan 2025 16:00:00 +0200"
+        "title": "Barron Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barron%20Trump",
+        "pubdate": "Mon, 20 Jan 2025 19:00:00 +0200"
       }
     ],
     [
@@ -73,9 +66,30 @@
     ],
     [
       {
+        "title": "Gheorghe udriste",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Gheorghe%20udriste",
+        "pubdate": "Mon, 20 Jan 2025 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Mirabela Dauer",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Mirabela%20Dauer",
+        "pubdate": "Mon, 20 Jan 2025 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tania Popa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Tania%20Popa",
         "pubdate": "Mon, 20 Jan 2025 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Martin Luther King",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Martin%20Luther%20King",
+        "pubdate": "Mon, 20 Jan 2025 19:00:00 +0200"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Trump",
-        "pubdate": "Sun, 19 Jan 2025 15:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Everton - Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Everton%20-%20Tottenham",
         "pubdate": "Sun, 19 Jan 2025 16:00:00 +0200"
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Trump",
+        "pubdate": "Sun, 19 Jan 2025 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Premier%20League",
         "pubdate": "Sun, 19 Jan 2025 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Parma - Venezia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Parma%20-%20Venezia",
-        "pubdate": "Sun, 19 Jan 2025 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Osasuna  Rayo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Osasuna%20%20Rayo",
-        "pubdate": "Sun, 19 Jan 2025 20:00:00 +0200"
       }
     ]
   ]

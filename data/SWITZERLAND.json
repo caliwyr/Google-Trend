@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "20-01-2025 , 17:47:58",
+  "lastUpdate": "20-01-2025 , 17:57:07",
   "data": [
     [
       {
         "title": "ESC 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ESC%202025",
         "pubdate": "Mon, 20 Jan 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "WEF 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WEF%202025",
+        "pubdate": "Mon, 20 Jan 2025 09:00:00 +0100"
       }
     ],
     [
@@ -31,15 +38,8 @@
     ],
     [
       {
-        "title": "WEF 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WEF%202025",
-        "pubdate": "Mon, 20 Jan 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "WEF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#WEF",
+        "title": "Monfils",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Monfils",
         "pubdate": "Mon, 20 Jan 2025 11:00:00 +0100"
       }
     ],
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "BTC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#BTC",
+        "pubdate": "Mon, 20 Jan 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Village People",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Village%20People",
         "pubdate": "Mon, 20 Jan 2025 13:00:00 +0100"
@@ -101,9 +108,23 @@
     ],
     [
       {
+        "title": "Barron Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barron%20Trump",
+        "pubdate": "Mon, 20 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "LMS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#LMS",
         "pubdate": "Mon, 20 Jan 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#USA",
+        "pubdate": "Mon, 20 Jan 2025 18:00:00 +0100"
       }
     ],
     [
@@ -115,29 +136,8 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Man%20City",
-        "pubdate": "Mon, 20 Jan 2025 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Meyer Burger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Meyer%20Burger",
-        "pubdate": "Mon, 20 Jan 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "OM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#OM",
-        "pubdate": "Mon, 20 Jan 2025 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lando Norris",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lando%20Norris",
+        "title": "Ivanka Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ivanka%20Trump",
         "pubdate": "Mon, 20 Jan 2025 15:00:00 +0100"
       }
     ]
