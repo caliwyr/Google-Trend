@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 11:43:14",
+  "lastUpdate": "20-01-2025 , 11:52:34",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "TikTok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#TikTok",
-        "pubdate": "Sun, 19 Jan 2025 14:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "San Lorenzo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#San%20Lorenzo",
         "pubdate": "Sun, 19 Jan 2025 23:00:00 -0300"
@@ -69,6 +62,13 @@
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Neymar",
         "pubdate": "Sun, 19 Jan 2025 16:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "TikTok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#TikTok",
+        "pubdate": "Sun, 19 Jan 2025 19:00:00 -0300"
       }
     ],
     [
@@ -94,20 +94,6 @@
     ],
     [
       {
-        "title": "Keylor Navas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Keylor%20Navas",
-        "pubdate": "Sun, 19 Jan 2025 23:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Celta de Vigo  Athletic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Celta%20de%20Vigo%20%20Athletic",
-        "pubdate": "Sun, 19 Jan 2025 12:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Cuando asume Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Cuando%20asume%20Trump",
         "pubdate": "Sun, 19 Jan 2025 13:00:00 -0300"
@@ -115,9 +101,23 @@
     ],
     [
       {
+        "title": "Keylor Navas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Keylor%20Navas",
+        "pubdate": "Sun, 19 Jan 2025 23:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Novak%20Djokovic",
         "pubdate": "Sun, 19 Jan 2025 17:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Trump",
+        "pubdate": "Sun, 19 Jan 2025 14:00:00 -0300"
       }
     ],
     [
