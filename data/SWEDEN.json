@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 20:47:25",
+  "lastUpdate": "20-01-2025 , 20:56:47",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Bitcoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bitcoin",
+        "pubdate": "Mon, 20 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Biden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Biden",
         "pubdate": "Mon, 20 Jan 2025 18:00:00 +0100"
@@ -38,13 +45,6 @@
     ],
     [
       {
-        "title": "Sofia Vergara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sofia%20Vergara",
-        "pubdate": "Mon, 20 Jan 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Babygirl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Babygirl",
         "pubdate": "Mon, 20 Jan 2025 16:00:00 +0100"
@@ -52,9 +52,30 @@
     ],
     [
       {
+        "title": "Sofia Vergara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sofia%20Vergara",
+        "pubdate": "Mon, 20 Jan 2025 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Idrottsgalan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Idrottsgalan",
+        "pubdate": "Mon, 20 Jan 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Strandskydd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Strandskydd",
         "pubdate": "Mon, 20 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tara Babulfath",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tara%20Babulfath",
+        "pubdate": "Mon, 20 Jan 2025 09:00:00 +0100"
       }
     ],
     [
@@ -69,13 +90,6 @@
         "title": "Daniel Norberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Daniel%20Norberg",
         "pubdate": "Mon, 20 Jan 2025 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Idrottsgalan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Idrottsgalan",
-        "pubdate": "Mon, 20 Jan 2025 20:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Wayne Bridge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Wayne%20Bridge",
         "pubdate": "Sun, 19 Jan 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tiktok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tiktok",
-        "pubdate": "Sat, 18 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Premier%20League",
-        "pubdate": "Sat, 18 Jan 2025 23:00:00 +0100"
       }
     ]
   ]
