@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-01-2025 , 07:38:08",
+  "lastUpdate": "20-01-2025 , 07:47:19",
   "data": [
+    [
+      {
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Donald%20Trump",
+        "pubdate": "Mon, 20 Jan 2025 08:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Prochazka vs Hill",
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Tomáš Holý",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Hol%C3%BD",
-        "pubdate": "Sun, 19 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Klára Cibulková",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Kl%C3%A1ra%20Cibulkov%C3%A1",
         "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Celta Vigo – Bilbao",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Celta%20Vigo%20%E2%80%93%20Bilbao",
-        "pubdate": "Sun, 19 Jan 2025 18:00:00 +0100"
+        "title": "Tomáš Holý",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tom%C3%A1%C5%A1%20Hol%C3%BD",
+        "pubdate": "Sun, 19 Jan 2025 19:00:00 +0100"
       }
     ]
   ]
