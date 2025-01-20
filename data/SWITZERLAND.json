@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 03:39:16",
+  "lastUpdate": "20-01-2025 , 03:48:37",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Donald%20Trump",
-        "pubdate": "Sun, 19 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Inter – Empoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Inter%20%E2%80%93%20Empoli",
         "pubdate": "Sun, 19 Jan 2025 22:00:00 +0100"
@@ -76,20 +69,6 @@
         "title": "Gaza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Gaza",
         "pubdate": "Sun, 19 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Fcl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fcl",
-        "pubdate": "Sun, 19 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United – Brighton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20United%20%E2%80%93%20Brighton",
-        "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
       }
     ],
     [
@@ -122,6 +101,13 @@
     ],
     [
       {
+        "title": "Fcl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Fcl",
+        "pubdate": "Sun, 19 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Official Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Official%20Trump",
         "pubdate": "Sun, 19 Jan 2025 22:00:00 +0100"
@@ -139,6 +125,20 @@
         "title": "Les Rousses",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Les%20Rousses",
         "pubdate": "Sun, 19 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ramon Zenhäusern",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Ramon%20Zenh%C3%A4usern",
+        "pubdate": "Sun, 19 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vincent Lindon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vincent%20Lindon",
+        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
       }
     ]
   ]
