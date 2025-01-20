@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 12:18:16",
+  "lastUpdate": "20-01-2025 , 12:53:47",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Antony",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Antony",
+        "pubdate": "Mon, 20 Jan 2025 12:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Bitcoin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bitcoin",
         "pubdate": "Mon, 20 Jan 2025 16:00:00 +0700"
@@ -34,13 +41,6 @@
         "title": "Bang xep hang anh",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Bang%20xep%20hang%20anh",
         "pubdate": "Mon, 20 Jan 2025 00:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Antony",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Antony",
-        "pubdate": "Mon, 20 Jan 2025 12:00:00 +0700"
       }
     ],
     [
@@ -108,6 +108,20 @@
     ],
     [
       {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Liverpool",
+        "pubdate": "Sun, 19 Jan 2025 00:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Premier league",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Premier%20league",
+        "pubdate": "Sun, 19 Jan 2025 05:00:00 +0700"
+      }
+    ],
+    [
+      {
         "title": "Văn khấn ông Công ông Táo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#V%C4%83n%20kh%E1%BA%A5n%20%C3%B4ng%20C%C3%B4ng%20%C3%B4ng%20T%C3%A1o",
         "pubdate": "Sun, 19 Jan 2025 09:00:00 +0700"
@@ -125,20 +139,6 @@
         "title": "La liga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#La%20liga",
         "pubdate": "Sun, 19 Jan 2025 12:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Premier league",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Premier%20league",
-        "pubdate": "Sun, 19 Jan 2025 05:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Arsenal",
-        "pubdate": "Sun, 19 Jan 2025 02:00:00 +0700"
       }
     ]
   ]

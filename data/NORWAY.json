@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "20-01-2025 , 12:18:13",
+  "lastUpdate": "20-01-2025 , 12:53:43",
   "data": [
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Donald%20Trump",
-        "pubdate": "Mon, 20 Jan 2025 12:00:00 +0100"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
+        "pubdate": "Mon, 20 Jan 2025 09:00:00 +0100"
       }
     ],
     [
@@ -27,6 +27,13 @@
         "title": "TikTok",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#TikTok",
         "pubdate": "Sun, 19 Jan 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Everton mot Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Everton%20mot%20Tottenham",
+        "pubdate": "Sun, 19 Jan 2025 15:00:00 +0100"
       }
     ],
     [
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Donald%20Trump",
         "pubdate": "Sat, 18 Jan 2025 20:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Getafe mot Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Getafe%20mot%20Barcelona",
         "pubdate": "Sat, 18 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tarjei Bø",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Tarjei%20B%C3%B8",
-        "pubdate": "Sat, 18 Jan 2025 13:00:00 +0100"
       }
     ]
   ]
