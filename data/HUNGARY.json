@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 02:29:49",
+  "lastUpdate": "20-01-2025 , 02:59:33",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Donald%20Trump",
-        "pubdate": "Sun, 19 Jan 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
         "pubdate": "Sun, 19 Jan 2025 00:00:00 +0100"
@@ -48,6 +41,13 @@
         "title": "Kulcsár Anita",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kulcs%C3%A1r%20Anita",
         "pubdate": "Sun, 19 Jan 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trump beiktatása",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Trump%20beiktat%C3%A1sa",
+        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Trump crypto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Trump%20crypto",
-        "pubdate": "Sun, 19 Jan 2025 14:00:00 +0100"
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Djokovic",
+        "pubdate": "Sun, 19 Jan 2025 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Djokovic",
-        "pubdate": "Sun, 19 Jan 2025 19:00:00 +0100"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSG",
+        "pubdate": "Sun, 19 Jan 2025 08:00:00 +0100"
       }
     ]
   ]
