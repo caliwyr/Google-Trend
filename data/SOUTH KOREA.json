@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-01-2025 , 23:47:35",
+  "lastUpdate": "20-01-2025 , 23:57:01",
   "data": [
     [
       {
@@ -94,6 +94,13 @@
     ],
     [
       {
+        "title": "송지효",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%86%A1%EC%A7%80%ED%9A%A8",
+        "pubdate": "Mon, 20 Jan 2025 15:00:00 +0900"
+      }
+    ],
+    [
+      {
         "title": "마카체프",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%A7%88%EC%B9%B4%EC%B2%B4%ED%94%84",
         "pubdate": "Mon, 20 Jan 2025 02:00:00 +0900"
@@ -132,13 +139,6 @@
         "title": "전광훈",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%A0%84%EA%B4%91%ED%9B%88",
         "pubdate": "Sun, 19 Jan 2025 11:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "TikTok",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#TikTok",
-        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0900"
       }
     ]
   ]
