@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "20-01-2025 , 10:44:21",
+  "lastUpdate": "20-01-2025 , 10:53:31",
   "data": [
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump",
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Donald%20Trump",
         "pubdate": "Sun, 19 Jan 2025 13:00:00 +0100"
       }
     ],
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Bambu Lab",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bambu%20Lab",
+        "pubdate": "Sun, 19 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "CDU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#CDU",
         "pubdate": "Sun, 19 Jan 2025 07:00:00 +0100"
@@ -41,6 +48,13 @@
         "title": "Handball-WM",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball-WM",
         "pubdate": "Sat, 18 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trump Coin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Trump%20Coin",
+        "pubdate": "Sat, 18 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -124,20 +138,6 @@
       {
         "title": "Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Eintracht%20Frankfurt",
-        "pubdate": "Tue, 14 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Handball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Handball",
-        "pubdate": "Tue, 14 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kiel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Kiel",
         "pubdate": "Tue, 14 Jan 2025 22:00:00 +0100"
       }
     ]
