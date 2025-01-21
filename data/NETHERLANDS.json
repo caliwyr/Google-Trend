@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-01-2025 , 11:45:47",
+  "lastUpdate": "21-01-2025 , 11:55:11",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "Usha Vance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Usha%20Vance",
+        "pubdate": "Mon, 20 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Henry Cavill",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Henry%20Cavill",
         "pubdate": "Mon, 20 Jan 2025 07:00:00 +0100"
@@ -48,20 +55,6 @@
         "title": "Sparta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta",
         "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Heracles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Heracles",
-        "pubdate": "Sun, 19 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sparta Rotterdam",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Rotterdam",
-        "pubdate": "Sun, 19 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Gaza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gaza",
         "pubdate": "Wed, 15 Jan 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "KNVB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB",
+        "pubdate": "Wed, 15 Jan 2025 01:00:00 +0100"
       }
     ]
   ]

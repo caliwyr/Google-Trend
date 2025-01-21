@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-01-2025 , 11:45:49",
+  "lastUpdate": "21-01-2025 , 11:55:13",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Panama Canal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Panama%20Canal",
         "pubdate": "Tue, 21 Jan 2025 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Paris climate agreement",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Paris%20climate%20agreement",
+        "pubdate": "Tue, 21 Jan 2025 18:00:00 +0800"
       }
     ],
     [
@@ -94,6 +101,13 @@
     ],
     [
       {
+        "title": "Who",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Who",
+        "pubdate": "Tue, 21 Jan 2025 17:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Martin Luther King",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Martin%20Luther%20King",
         "pubdate": "Tue, 21 Jan 2025 02:00:00 +0800"
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Who",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Who",
-        "pubdate": "Tue, 21 Jan 2025 17:00:00 +0800"
+        "title": "Str",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Str",
+        "pubdate": "Tue, 21 Jan 2025 19:00:00 +0800"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Trump inauguration",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump%20inauguration",
         "pubdate": "Mon, 20 Jan 2025 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Trump coin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Trump%20coin",
-        "pubdate": "Mon, 20 Jan 2025 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
-        "pubdate": "Mon, 20 Jan 2025 17:00:00 +0800"
       }
     ]
   ]
