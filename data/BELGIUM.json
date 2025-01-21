@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-01-2025 , 02:27:44",
+  "lastUpdate": "21-01-2025 , 02:57:14",
   "data": [
     [
       {
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "Ekster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ekster",
-        "pubdate": "Mon, 20 Jan 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jeff Bezos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Jeff%20Bezos",
         "pubdate": "Mon, 20 Jan 2025 18:00:00 +0100"
@@ -125,6 +118,13 @@
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#BTC",
         "pubdate": "Mon, 20 Jan 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chômage",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Ch%C3%B4mage",
+        "pubdate": "Mon, 20 Jan 2025 14:00:00 +0100"
       }
     ],
     [
