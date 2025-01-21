@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-01-2025 , 06:44:38",
+  "lastUpdate": "21-01-2025 , 06:53:57",
   "data": [
     [
       {
@@ -19,6 +19,13 @@
       {
         "title": "Tom Roes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tom%20Roes",
+        "pubdate": "Mon, 20 Jan 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Laure Manaudou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Laure%20Manaudou",
         "pubdate": "Mon, 20 Jan 2025 22:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Wed, 15 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Schiphol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schiphol",
-        "pubdate": "Wed, 15 Jan 2025 17:00:00 +0100"
       }
     ]
   ]
