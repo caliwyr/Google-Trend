@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-01-2025 , 04:42:31",
+  "lastUpdate": "21-01-2025 , 04:51:42",
   "data": [
     [
       {
@@ -12,13 +12,6 @@
       {
         "title": "HírTV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#H%C3%ADrTV",
-        "pubdate": "Tue, 21 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Panama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Panama",
         "pubdate": "Tue, 21 Jan 2025 00:00:00 +0100"
       }
     ],
@@ -52,16 +45,16 @@
     ],
     [
       {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elon%20Musk",
-        "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
+        "title": "Ónos eső Riasztás",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nos%20es%C5%91%20Riaszt%C3%A1s",
+        "pubdate": "Mon, 20 Jan 2025 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Ónos eső Riasztás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#%C3%93nos%20es%C5%91%20Riaszt%C3%A1s",
-        "pubdate": "Mon, 20 Jan 2025 15:00:00 +0100"
+        "title": "Elon Musk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Elon%20Musk",
+        "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
       }
     ],
     [
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
-        "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Como–Udinese",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Como%E2%80%93Udinese",
         "pubdate": "Mon, 20 Jan 2025 21:00:00 +0100"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Manchester%20City",
+        "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "BTC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BTC",
         "pubdate": "Mon, 20 Jan 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "BL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#BL",
+        "pubdate": "Mon, 20 Jan 2025 23:00:00 +0100"
       }
     ]
   ]
