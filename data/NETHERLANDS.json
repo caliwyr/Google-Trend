@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-01-2025 , 08:46:18",
+  "lastUpdate": "21-01-2025 , 08:55:36",
   "data": [
     [
       {
@@ -33,13 +33,6 @@
       {
         "title": "Cambuur",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Cambuur",
-        "pubdate": "Mon, 20 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Roda JC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roda%20JC",
         "pubdate": "Mon, 20 Jan 2025 22:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Schiphol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Schiphol",
         "pubdate": "Wed, 15 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gaza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gaza",
+        "pubdate": "Wed, 15 Jan 2025 23:00:00 +0100"
       }
     ]
   ]
