@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-01-2025 , 21:43:08",
+  "lastUpdate": "22-01-2025 , 21:52:25",
   "data": [
     [
       {
@@ -24,9 +24,23 @@
     ],
     [
       {
+        "title": "Samsung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Samsung",
+        "pubdate": "Thu, 23 Jan 2025 10:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Blake Lively",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Blake%20Lively",
         "pubdate": "Thu, 23 Jan 2025 07:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "PSG vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#PSG%20vs%20Man%20City",
+        "pubdate": "Thu, 23 Jan 2025 10:00:00 +1300"
       }
     ],
     [
@@ -59,16 +73,16 @@
     ],
     [
       {
-        "title": "Benfica vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Benfica%20vs%20Barcelona",
-        "pubdate": "Wed, 22 Jan 2025 11:00:00 +1300"
+        "title": "Ross Ulbricht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ross%20Ulbricht",
+        "pubdate": "Wed, 22 Jan 2025 16:00:00 +1300"
       }
     ],
     [
       {
-        "title": "Ross Ulbricht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ross%20Ulbricht",
-        "pubdate": "Wed, 22 Jan 2025 16:00:00 +1300"
+        "title": "Benfica vs Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Benfica%20vs%20Barcelona",
+        "pubdate": "Wed, 22 Jan 2025 11:00:00 +1300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Champions%20League",
         "pubdate": "Tue, 21 Jan 2025 15:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Ben Shelton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ben%20Shelton",
-        "pubdate": "Tue, 21 Jan 2025 13:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Monfils",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Monfils",
-        "pubdate": "Tue, 21 Jan 2025 10:00:00 +1300"
       }
     ]
   ]
