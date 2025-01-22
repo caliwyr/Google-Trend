@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-01-2025 , 03:40:21",
+  "lastUpdate": "22-01-2025 , 03:49:30",
   "data": [
     [
       {
         "title": "Novak Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Novak%20Djokovic",
         "pubdate": "Wed, 22 Jan 2025 01:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "The Body Shop",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Body%20Shop",
+        "pubdate": "Wed, 22 Jan 2025 15:00:00 +1300"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "The Body Shop",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#The%20Body%20Shop",
-        "pubdate": "Wed, 22 Jan 2025 15:00:00 +1300"
+        "title": "Ross Ulbricht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Ross%20Ulbricht",
+        "pubdate": "Wed, 22 Jan 2025 16:00:00 +1300"
       }
     ],
     [
@@ -41,6 +48,13 @@
         "title": "John Sykes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#John%20Sykes",
         "pubdate": "Wed, 22 Jan 2025 10:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Tesla%20stock",
+        "pubdate": "Wed, 22 Jan 2025 16:00:00 +1300"
       }
     ],
     [
@@ -73,8 +87,8 @@
     ],
     [
       {
-        "title": "Trump inauguration",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump%20inauguration",
+        "title": "TRUMP-INAUGURATION",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#TRUMP-INAUGURATION",
         "pubdate": "Tue, 21 Jan 2025 21:00:00 +1300"
       }
     ],
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "Wellington Phoenix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Phoenix",
-        "pubdate": "Tue, 21 Jan 2025 17:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Fox News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fox%20News",
-        "pubdate": "Tue, 21 Jan 2025 22:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Gulf of Mexico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Gulf%20of%20Mexico",
+        "title": "Trump news",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Trump%20news",
         "pubdate": "Tue, 21 Jan 2025 15:00:00 +1300"
       }
     ]
