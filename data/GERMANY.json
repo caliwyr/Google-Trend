@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "23-01-2025 , 07:37:34",
+  "lastUpdate": "23-01-2025 , 07:46:49",
   "data": [
-    [
-      {
-        "title": "Champions League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
-        "pubdate": "Wed, 22 Jan 2025 20:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Aschaffenburg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Aschaffenburg",
         "pubdate": "Wed, 22 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Champions League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Champions%20League",
+        "pubdate": "Wed, 22 Jan 2025 20:00:00 +0100"
       }
     ],
     [
@@ -34,13 +34,6 @@
         "title": "RB Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#RB%20Leipzig",
         "pubdate": "Wed, 22 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stargate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Stargate",
-        "pubdate": "Wed, 22 Jan 2025 09:00:00 +0100"
       }
     ],
     [
@@ -73,8 +66,8 @@
     ],
     [
       {
-        "title": "Melania Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Melania%20Trump",
+        "title": "Melania",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Melania",
         "pubdate": "Sun, 19 Jan 2025 16:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Alexander Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Alexander%20Zverev",
         "pubdate": "Fri, 17 Jan 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Zverev",
+        "pubdate": "Fri, 17 Jan 2025 22:00:00 +0100"
       }
     ]
   ]
