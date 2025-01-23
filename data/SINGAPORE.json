@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2025 , 06:45:19",
+  "lastUpdate": "23-01-2025 , 06:54:32",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cricket",
-        "pubdate": "Wed, 22 Jan 2025 22:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Fentanyl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Fentanyl",
         "pubdate": "Wed, 22 Jan 2025 13:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "UEFA Champions League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#UEFA%20Champions%20League",
         "pubdate": "Tue, 21 Jan 2025 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Djokovic",
+        "pubdate": "Tue, 21 Jan 2025 20:00:00 +0800"
       }
     ]
   ]

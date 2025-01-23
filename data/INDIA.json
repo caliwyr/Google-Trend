@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2025 , 06:45:15",
+  "lastUpdate": "23-01-2025 , 06:54:28",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "HUL Share Price",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#HUL%20Share%20Price",
+        "pubdate": "Thu, 23 Jan 2025 11:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Samsung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Samsung",
         "pubdate": "Wed, 22 Jan 2025 13:30:00 +0530"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
-        "pubdate": "Wed, 22 Jan 2025 19:30:00 +0530"
+        "title": "PSG vs Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#PSG%20vs%20Man%20City",
+        "pubdate": "Wed, 22 Jan 2025 00:30:00 +0530"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "ICC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICC",
         "pubdate": "Wed, 22 Jan 2025 19:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "PSG vs Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#PSG%20vs%20Man%20City",
-        "pubdate": "Wed, 22 Jan 2025 00:30:00 +0530"
       }
     ],
     [
@@ -66,16 +66,16 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
-        "pubdate": "Wed, 22 Jan 2025 08:30:00 +0530"
+        "title": "Subhash Chandra Bose",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Subhash%20Chandra%20Bose",
+        "pubdate": "Wed, 22 Jan 2025 20:30:00 +0530"
       }
     ],
     [
       {
-        "title": "Subhash Chandra Bose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Subhash%20Chandra%20Bose",
-        "pubdate": "Wed, 22 Jan 2025 20:30:00 +0530"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
+        "pubdate": "Wed, 22 Jan 2025 08:30:00 +0530"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Pushpak Express",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Pushpak%20Express",
-        "pubdate": "Wed, 22 Jan 2025 23:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Chhaava",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Chhaava",
         "pubdate": "Wed, 22 Jan 2025 18:30:00 +0530"
@@ -139,6 +132,13 @@
         "title": "Minimalist",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Minimalist",
         "pubdate": "Wed, 22 Jan 2025 23:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Disney",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Disney",
+        "pubdate": "Wed, 22 Jan 2025 21:30:00 +0530"
       }
     ]
   ]
