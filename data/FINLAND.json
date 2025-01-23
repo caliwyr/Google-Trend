@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-01-2025 , 23:59:25",
+  "lastUpdate": "23-01-2025 , 01:46:36",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "Samsung",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Samsung",
         "pubdate": "Wed, 22 Jan 2025 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSG – Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSG%20%E2%80%93%20Manchester%20City",
-        "pubdate": "Wed, 22 Jan 2025 06:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Bluesky",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bluesky",
         "pubdate": "Tue, 21 Jan 2025 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Tesla stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla%20stock",
+        "pubdate": "Tue, 21 Jan 2025 13:00:00 +0200"
       }
     ]
   ]
