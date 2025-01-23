@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-01-2025 , 13:41:36",
+  "lastUpdate": "23-01-2025 , 13:50:49",
   "data": [
     [
       {
@@ -26,6 +26,13 @@
       {
         "title": "PSG vs Man City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#PSG%20vs%20Man%20City",
+        "pubdate": "Wed, 22 Jan 2025 13:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "School shooting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#School%20shooting",
         "pubdate": "Wed, 22 Jan 2025 13:00:00 -0800"
       }
     ],
@@ -59,23 +66,9 @@
     ],
     [
       {
-        "title": "Nashville",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nashville",
-        "pubdate": "Wed, 22 Jan 2025 13:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "U.S. presidents",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#U.S.%20presidents",
         "pubdate": "Wed, 22 Jan 2025 23:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Ben Shelton",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ben%20Shelton",
-        "pubdate": "Wed, 22 Jan 2025 07:00:00 -0800"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Florida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Florida",
-        "pubdate": "Wed, 22 Jan 2025 07:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Trent Baalke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Trent%20Baalke",
         "pubdate": "Wed, 22 Jan 2025 18:00:00 -0800"
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Post Malone oreos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Post%20Malone%20oreos",
+        "pubdate": "Wed, 22 Jan 2025 21:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Prime Target",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Prime%20Target",
         "pubdate": "Wed, 22 Jan 2025 19:00:00 -0800"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Shai Gilgeous-Alexander",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Shai%20Gilgeous-Alexander",
-        "pubdate": "Wed, 22 Jan 2025 22:00:00 -0800"
+        "title": "Suns",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Suns",
+        "pubdate": "Wed, 22 Jan 2025 20:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "DEI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#DEI",
+        "pubdate": "Tue, 21 Jan 2025 23:00:00 -0800"
       }
     ]
   ]
