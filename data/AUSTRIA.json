@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2025 , 11:45:18",
+  "lastUpdate": "24-01-2025 , 11:54:37",
   "data": [
     [
       {
@@ -17,9 +17,23 @@
     ],
     [
       {
+        "title": "Australian Open Live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Australian%20Open%20Live",
+        "pubdate": "Fri, 24 Jan 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Amanda Knox",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Amanda%20Knox",
         "pubdate": "Fri, 24 Jan 2025 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Hahnenkammrennen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hahnenkammrennen",
+        "pubdate": "Fri, 24 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -38,8 +52,8 @@
     ],
     [
       {
-        "title": "Holocaust-Gedenktag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Holocaust-Gedenktag",
+        "title": "The substance",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#The%20substance",
         "pubdate": "Fri, 24 Jan 2025 11:00:00 +0100"
       }
     ],
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Wetter Orkan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wetter%20Orkan",
-        "pubdate": "Thu, 23 Jan 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Night Agent",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Night%20Agent",
         "pubdate": "Thu, 23 Jan 2025 20:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "David Lynch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#David%20Lynch",
         "pubdate": "Thu, 23 Jan 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "OpenAI",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#OpenAI",
-        "pubdate": "Thu, 23 Jan 2025 16:00:00 +0100"
       }
     ]
   ]

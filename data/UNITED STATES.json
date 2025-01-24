@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-01-2025 , 11:45:17",
+  "lastUpdate": "24-01-2025 , 11:54:36",
   "data": [
     [
       {
         "title": "Pagan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Pagan",
         "pubdate": "Thu, 23 Jan 2025 05:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Spurs vs Pacers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spurs%20vs%20Pacers",
+        "pubdate": "Thu, 23 Jan 2025 13:00:00 -0800"
       }
     ],
     [
@@ -20,6 +27,13 @@
         "title": "Aaron Glenn",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Aaron%20Glenn",
         "pubdate": "Thu, 23 Jan 2025 05:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Barack Obama and Jennifer Aniston",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Barack%20Obama%20and%20Jennifer%20Aniston",
+        "pubdate": "Thu, 23 Jan 2025 15:00:00 -0800"
       }
     ],
     [
@@ -45,20 +59,6 @@
     ],
     [
       {
-        "title": "Spurs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Spurs",
-        "pubdate": "Thu, 23 Jan 2025 15:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Wordle hint",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Wordle%20hint",
-        "pubdate": "Thu, 23 Jan 2025 19:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Davos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Davos",
         "pubdate": "Thu, 23 Jan 2025 10:00:00 -0800"
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Mariano Rivera",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mariano%20Rivera",
-        "pubdate": "Thu, 23 Jan 2025 06:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Ninja Gaiden 2: Black",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Ninja%20Gaiden%202:%20Black",
         "pubdate": "Thu, 23 Jan 2025 17:00:00 -0800"
@@ -87,15 +80,22 @@
     ],
     [
       {
-        "title": "Nuggets",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
-        "pubdate": "Thu, 23 Jan 2025 19:00:00 -0800"
+        "title": "Mariano Rivera",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Mariano%20Rivera",
+        "pubdate": "Thu, 23 Jan 2025 06:00:00 -0800"
       }
     ],
     [
       {
         "title": "Liam Coen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Liam%20Coen",
+        "pubdate": "Thu, 23 Jan 2025 19:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Nuggets",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Nuggets",
         "pubdate": "Thu, 23 Jan 2025 19:00:00 -0800"
       }
     ],
