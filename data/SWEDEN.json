@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2025 , 09:40:01",
+  "lastUpdate": "24-01-2025 , 09:49:29",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Malmö FF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
-        "pubdate": "Thu, 23 Jan 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Axel Rudakubana",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Axel%20Rudakubana",
         "pubdate": "Thu, 23 Jan 2025 14:00:00 +0100"
@@ -66,9 +59,23 @@
     ],
     [
       {
+        "title": "Malmö FF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Malm%C3%B6%20FF",
+        "pubdate": "Thu, 23 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Chat",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Chat",
         "pubdate": "Thu, 23 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "OpenAI",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#OpenAI",
+        "pubdate": "Thu, 23 Jan 2025 15:00:00 +0100"
       }
     ],
     [
@@ -83,6 +90,20 @@
         "title": "Pantera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Pantera",
         "pubdate": "Thu, 23 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "The Night Agent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20Night%20Agent",
+        "pubdate": "Thu, 23 Jan 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gemini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gemini",
+        "pubdate": "Thu, 23 Jan 2025 16:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Benjamin Ingrosso",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Benjamin%20Ingrosso",
         "pubdate": "Thu, 23 Jan 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20City",
-        "pubdate": "Thu, 23 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ludvika",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Ludvika",
-        "pubdate": "Thu, 23 Jan 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "A real pain",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#A%20real%20pain",
-        "pubdate": "Thu, 23 Jan 2025 16:00:00 +0100"
       }
     ]
   ]

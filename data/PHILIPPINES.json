@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2025 , 09:39:59",
+  "lastUpdate": "24-01-2025 , 09:49:27",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Squamous cell carcinoma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Squamous%20cell%20carcinoma",
+        "pubdate": "Fri, 24 Jan 2025 13:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Hawks vs Raptors",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Hawks%20vs%20Raptors",
         "pubdate": "Fri, 24 Jan 2025 11:00:00 +0800"
@@ -69,13 +76,6 @@
         "title": "Anora",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Anora",
         "pubdate": "Fri, 24 Jan 2025 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Squamous cell carcinoma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Squamous%20cell%20carcinoma",
-        "pubdate": "Fri, 24 Jan 2025 13:00:00 +0800"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Earthquake today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Earthquake%20today",
-        "pubdate": "Thu, 23 Jan 2025 08:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Clippers vs Celtics",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Clippers%20vs%20Celtics",
         "pubdate": "Thu, 23 Jan 2025 13:00:00 +0800"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Nets vs Suns",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Nets%20vs%20Suns",
-        "pubdate": "Thu, 23 Jan 2025 10:00:00 +0800"
+        "title": "Earthquake",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Earthquake",
+        "pubdate": "Thu, 23 Jan 2025 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "PVL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#PVL",
+        "pubdate": "Thu, 23 Jan 2025 21:00:00 +0800"
       }
     ]
   ]

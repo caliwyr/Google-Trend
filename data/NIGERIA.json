@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2025 , 09:39:59",
+  "lastUpdate": "24-01-2025 , 09:49:26",
   "data": [
     [
       {
@@ -87,13 +87,6 @@
     ],
     [
       {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Milan",
-        "pubdate": "Thu, 23 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Lazio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Lazio",
         "pubdate": "Thu, 23 Jan 2025 22:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Prime Target",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Prime%20Target",
         "pubdate": "Thu, 23 Jan 2025 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea Women",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20Women",
+        "pubdate": "Thu, 23 Jan 2025 10:00:00 +0100"
       }
     ]
   ]
