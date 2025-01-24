@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "24-01-2025 , 18:41:30",
+  "lastUpdate": "24-01-2025 , 18:50:46",
   "data": [
-    [
-      {
-        "title": "Ibama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ibama",
-        "pubdate": "Fri, 24 Jan 2025 08:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Djokovic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Djokovic",
         "pubdate": "Fri, 24 Jan 2025 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ibama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ibama",
+        "pubdate": "Fri, 24 Jan 2025 08:00:00 -0500"
       }
     ],
     [
@@ -27,13 +27,6 @@
         "title": "Prouni inscrição",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Prouni%20inscri%C3%A7%C3%A3o",
         "pubdate": "Fri, 24 Jan 2025 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Zverev",
-        "pubdate": "Fri, 24 Jan 2025 07:00:00 -0500"
       }
     ],
     [
@@ -66,9 +59,23 @@
     ],
     [
       {
+        "title": "Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sinner",
+        "pubdate": "Fri, 24 Jan 2025 08:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Cedric Soares",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cedric%20Soares",
         "pubdate": "Fri, 24 Jan 2025 06:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Wolfsburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Wolfsburg",
+        "pubdate": "Fri, 24 Jan 2025 11:00:00 -0500"
       }
     ],
     [
@@ -94,6 +101,20 @@
     ],
     [
       {
+        "title": "Cristiano araujo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Cristiano%20araujo",
+        "pubdate": "Fri, 24 Jan 2025 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "São Paulo x Guarani",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20x%20Guarani",
+        "pubdate": "Thu, 23 Jan 2025 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Vasco da Gama x Madureira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco%20da%20Gama%20x%20Madureira",
         "pubdate": "Thu, 23 Jan 2025 15:00:00 -0500"
@@ -108,20 +129,6 @@
     ],
     [
       {
-        "title": "Fortaleza x Moto Club",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fortaleza%20x%20Moto%20Club",
-        "pubdate": "Thu, 23 Jan 2025 17:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Hoffenheim x Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Hoffenheim%20x%20Tottenham",
-        "pubdate": "Thu, 23 Jan 2025 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Planilha influenciadores",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Planilha%20influenciadores",
         "pubdate": "Thu, 23 Jan 2025 18:00:00 -0500"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Manchester United x Rangers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Manchester%20United%20x%20Rangers",
-        "pubdate": "Thu, 23 Jan 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Liga Europa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Liga%20Europa",
-        "pubdate": "Thu, 23 Jan 2025 13:00:00 -0500"
+        "title": "Hoffenheim x Tottenham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Hoffenheim%20x%20Tottenham",
+        "pubdate": "Thu, 23 Jan 2025 12:00:00 -0500"
       }
     ]
   ]
