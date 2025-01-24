@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-01-2025 , 03:37:45",
+  "lastUpdate": "24-01-2025 , 03:47:08",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Dei",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dei",
-        "pubdate": "Thu, 23 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Lynn Ban",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lynn%20Ban",
         "pubdate": "Thu, 23 Jan 2025 00:00:00 +0100"
@@ -73,9 +66,9 @@
     ],
     [
       {
-        "title": "Eowyn",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Eowyn",
-        "pubdate": "Thu, 23 Jan 2025 21:00:00 +0100"
+        "title": "Dei",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dei",
+        "pubdate": "Thu, 23 Jan 2025 00:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
         "pubdate": "Wed, 22 Jan 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Samsung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Samsung",
+        "pubdate": "Wed, 22 Jan 2025 21:00:00 +0100"
       }
     ]
   ]
