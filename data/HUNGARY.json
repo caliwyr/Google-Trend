@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-01-2025 , 14:35:54",
+  "lastUpdate": "25-01-2025 , 14:45:05",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zverev",
-        "pubdate": "Fri, 24 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "OpenAI",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#OpenAI",
         "pubdate": "Fri, 24 Jan 2025 10:00:00 +0100"
@@ -132,6 +125,13 @@
         "title": "Kemma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kemma",
         "pubdate": "Fri, 24 Jan 2025 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Zverev",
+        "pubdate": "Fri, 24 Jan 2025 18:00:00 +0100"
       }
     ],
     [
