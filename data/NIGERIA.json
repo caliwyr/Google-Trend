@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "25-01-2025 , 09:37:24",
+  "lastUpdate": "25-01-2025 , 09:46:41",
   "data": [
-    [
-      {
-        "title": "Osasuna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Osasuna",
-        "pubdate": "Sat, 25 Jan 2025 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Sepsis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Sepsis",
         "pubdate": "Sat, 25 Jan 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Osasuna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Osasuna",
+        "pubdate": "Sat, 25 Jan 2025 00:00:00 +0100"
       }
     ],
     [
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Mukaila Senwele",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Mukaila%20Senwele",
-        "pubdate": "Fri, 24 Jan 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Brad Pitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Brad%20Pitt",
         "pubdate": "Fri, 24 Jan 2025 23:00:00 +0100"
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Novak Djokovic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Novak%20Djokovic",
-        "pubdate": "Fri, 24 Jan 2025 08:00:00 +0100"
+        "title": "Central Cee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Central%20Cee",
+        "pubdate": "Fri, 24 Jan 2025 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Central Cee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Central%20Cee",
-        "pubdate": "Fri, 24 Jan 2025 18:00:00 +0100"
+        "title": "Novak Djokovic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Novak%20Djokovic",
+        "pubdate": "Fri, 24 Jan 2025 08:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Omar Marmoush",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Omar%20Marmoush",
         "pubdate": "Thu, 23 Jan 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Roma",
+        "pubdate": "Thu, 23 Jan 2025 20:00:00 +0100"
       }
     ]
   ]
