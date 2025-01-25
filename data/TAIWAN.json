@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "25-01-2025 , 04:39:16",
+  "lastUpdate": "25-01-2025 , 04:48:41",
   "data": [
     [
       {
         "title": "氣象局",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B0%A3%E8%B1%A1%E5%B1%80",
+        "pubdate": "Sat, 25 Jan 2025 11:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "發票開獎",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%99%BC%E7%A5%A8%E9%96%8B%E7%8D%8E",
         "pubdate": "Sat, 25 Jan 2025 11:00:00 +0800"
       }
     ],
@@ -20,6 +27,13 @@
         "title": "徐懷鈺",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BE%90%E6%87%B7%E9%88%BA",
         "pubdate": "Sat, 25 Jan 2025 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "高雄火災",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AB%98%E9%9B%84%E7%81%AB%E7%81%BD",
+        "pubdate": "Sat, 25 Jan 2025 12:00:00 +0800"
       }
     ],
     [
@@ -73,15 +87,15 @@
     ],
     [
       {
-        "title": "江坤宇",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B1%9F%E5%9D%A4%E5%AE%87",
+        "title": "高雄吉伊卡哇",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AB%98%E9%9B%84%E5%90%89%E4%BC%8A%E5%8D%A1%E5%93%87",
         "pubdate": "Fri, 24 Jan 2025 13:00:00 +0800"
       }
     ],
     [
       {
-        "title": "高雄吉伊卡哇",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%AB%98%E9%9B%84%E5%90%89%E4%BC%8A%E5%8D%A1%E5%93%87",
+        "title": "江坤宇",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B1%9F%E5%9D%A4%E5%AE%87",
         "pubdate": "Fri, 24 Jan 2025 13:00:00 +0800"
       }
     ],
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "義大醫院",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%BE%A9%E5%A4%A7%E9%86%AB%E9%99%A2",
-        "pubdate": "Fri, 24 Jan 2025 15:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "鴻海尾牙",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%B4%BB%E6%B5%B7%E5%B0%BE%E7%89%99",
-        "pubdate": "Fri, 24 Jan 2025 17:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "湖人",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%B9%96%E4%BA%BA",
-        "pubdate": "Fri, 24 Jan 2025 23:00:00 +0800"
+        "title": "國道路況",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%9C%8B%E9%81%93%E8%B7%AF%E6%B3%81",
+        "pubdate": "Fri, 24 Jan 2025 18:00:00 +0800"
       }
     ]
   ]
