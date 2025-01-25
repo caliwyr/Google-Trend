@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-01-2025 , 02:30:39",
+  "lastUpdate": "25-01-2025 , 02:54:31",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Darts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Darts",
-        "pubdate": "Fri, 24 Jan 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Thu, 23 Jan 2025 19:00:00 +0100"
@@ -59,13 +52,6 @@
     ],
     [
       {
-        "title": "Storm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
-        "pubdate": "Thu, 23 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Thu, 23 Jan 2025 21:00:00 +0100"
@@ -73,9 +59,23 @@
     ],
     [
       {
+        "title": "Storm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Storm",
+        "pubdate": "Thu, 23 Jan 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Esther Jansma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Esther%20Jansma",
         "pubdate": "Thu, 23 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gemini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gemini",
+        "pubdate": "Thu, 23 Jan 2025 15:00:00 +0100"
       }
     ],
     [
@@ -97,13 +97,6 @@
         "title": "Caprera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Caprera",
         "pubdate": "Thu, 23 Jan 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wiersma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wiersma",
-        "pubdate": "Thu, 23 Jan 2025 04:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Trump",
         "pubdate": "Mon, 20 Jan 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Carice van Houten",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Carice%20van%20Houten",
+        "pubdate": "Mon, 20 Jan 2025 23:00:00 +0100"
       }
     ]
   ]
