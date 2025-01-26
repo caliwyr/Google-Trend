@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "26-01-2025 , 21:47:13",
+  "lastUpdate": "26-01-2025 , 21:56:24",
   "data": [
+    [
+      {
+        "title": "DeepSeek",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#DeepSeek",
+        "pubdate": "Sun, 26 Jan 2025 23:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Monte Carlo",
@@ -13,6 +20,13 @@
         "title": "Woke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Woke",
         "pubdate": "Sun, 26 Jan 2025 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona – Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona%20%E2%80%93%20Valencia",
+        "pubdate": "Sun, 26 Jan 2025 23:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "FEMA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#FEMA",
         "pubdate": "Sat, 25 Jan 2025 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Colorado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Colorado",
-        "pubdate": "Sat, 25 Jan 2025 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Henry Patten",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Henry%20Patten",
-        "pubdate": "Sat, 25 Jan 2025 22:00:00 +0200"
       }
     ]
   ]

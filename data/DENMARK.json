@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-01-2025 , 21:47:13",
+  "lastUpdate": "26-01-2025 , 21:56:24",
   "data": [
-    [
-      {
-        "title": "Zverev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zverev",
-        "pubdate": "Sun, 26 Jan 2025 12:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Fulham  Man Utd",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Zverev",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Zverev",
+        "pubdate": "Sun, 26 Jan 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Crystal Palace  Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Crystal%20Palace%20%20Brentford",
         "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona  Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Valencia",
+        "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Barcelona  Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Valencia",
-        "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
+        "title": "Aston Villa  West Ham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aston%20Villa%20%20West%20Ham",
+        "pubdate": "Sun, 26 Jan 2025 19:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Aston Villa  West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aston%20Villa%20%20West%20Ham",
-        "pubdate": "Sun, 26 Jan 2025 19:00:00 +0100"
+        "title": "Panama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Panama",
+        "pubdate": "Sun, 26 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Kevin Magnussen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Kevin%20Magnussen",
+        "pubdate": "Sat, 25 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pete Hegseth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Pete%20Hegseth",
         "pubdate": "Sat, 25 Jan 2025 09:00:00 +0100"
@@ -124,20 +138,6 @@
       {
         "title": "Simone Biles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Simone%20Biles",
-        "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wolves  Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Wolves%20%20Arsenal",
-        "pubdate": "Sat, 25 Jan 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man City vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Man%20City%20vs%20Chelsea",
         "pubdate": "Sat, 25 Jan 2025 21:00:00 +0100"
       }
     ]
