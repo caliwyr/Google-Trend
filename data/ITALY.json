@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "26-01-2025 , 09:40:10",
+  "lastUpdate": "26-01-2025 , 09:49:39",
   "data": [
+    [
+      {
+        "title": "Nove",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Nove",
+        "pubdate": "Sun, 26 Jan 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Udinese-Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Udinese-Roma",
+        "pubdate": "Sun, 26 Jan 2025 10:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Como-Atalanta",
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Serie A Femminile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20A%20Femminile",
-        "pubdate": "Sat, 25 Jan 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Paola Di Benedetto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Paola%20Di%20Benedetto",
         "pubdate": "Sat, 25 Jan 2025 17:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Fatima Trotta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fatima%20Trotta",
-        "pubdate": "Sat, 25 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Juve Stabia-Carrarese",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Juve%20Stabia-Carrarese",
-        "pubdate": "Sat, 25 Jan 2025 16:00:00 +0100"
+        "title": "Serie A Femminile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Serie%20A%20Femminile",
+        "pubdate": "Sat, 25 Jan 2025 15:00:00 +0100"
       }
     ]
   ]
