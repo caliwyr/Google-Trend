@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "26-01-2025 , 23:46:21",
+  "lastUpdate": "26-01-2025 , 23:55:42",
   "data": [
-    [
-      {
-        "title": "Standard – Dender",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20%E2%80%93%20Dender",
-        "pubdate": "Sun, 26 Jan 2025 13:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Anderlecht  Mechelen",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Standard – Dender",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Standard%20%E2%80%93%20Dender",
+        "pubdate": "Sun, 26 Jan 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Barcelone – Valence",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelone%20%E2%80%93%20Valence",
         "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
+        "pubdate": "Sun, 26 Jan 2025 23:00:00 +0100"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "KAA Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
-        "pubdate": "Sun, 26 Jan 2025 22:00:00 +0100"
+        "title": "PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
+        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
-        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0100"
+        "title": "KAA Gent",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#KAA%20Gent",
+        "pubdate": "Sun, 26 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -115,6 +122,13 @@
     ],
     [
       {
+        "title": "OHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#OHL",
+        "pubdate": "Sun, 26 Jan 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Conner Rousseau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Conner%20Rousseau",
         "pubdate": "Sun, 26 Jan 2025 02:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Nicole de Moor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Nicole%20de%20Moor",
         "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Matt Pokora",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Matt%20Pokora",
-        "pubdate": "Sun, 26 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Angelina Jolie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Angelina%20Jolie",
-        "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
       }
     ]
   ]
