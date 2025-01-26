@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "26-01-2025 , 12:32:02",
+  "lastUpdate": "26-01-2025 , 12:55:07",
   "data": [
     [
       {
         "title": "Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Dortmund",
         "pubdate": "Sun, 26 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Milan vs Parma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Milan%20vs%20Parma",
+        "pubdate": "Sun, 26 Jan 2025 14:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Benfica",
+        "pubdate": "Sat, 25 Jan 2025 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Everton",
         "pubdate": "Sat, 25 Jan 2025 19:00:00 +0200"
@@ -125,20 +139,6 @@
         "title": "Real Betis",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Betis",
         "pubdate": "Sat, 25 Jan 2025 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Kyle Walker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Kyle%20Walker",
-        "pubdate": "Sat, 25 Jan 2025 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Brighton FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Brighton%20FC",
-        "pubdate": "Sat, 25 Jan 2025 20:00:00 +0200"
       }
     ]
   ]
