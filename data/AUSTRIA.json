@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "27-01-2025 , 11:43:06",
+  "lastUpdate": "27-01-2025 , 11:52:22",
   "data": [
     [
       {
-        "title": "DeepSeek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DeepSeek",
+        "title": "Nvidia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nvidia",
         "pubdate": "Mon, 27 Jan 2025 09:00:00 +0100"
       }
     ],
@@ -45,9 +45,23 @@
     ],
     [
       {
-        "title": "KLOSTERNEUBURG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#KLOSTERNEUBURG",
+        "title": "Travel Europe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Travel%20Europe",
+        "pubdate": "Mon, 27 Jan 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Klosterneuburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Klosterneuburg",
         "pubdate": "Mon, 27 Jan 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Purkersdorf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Purkersdorf",
+        "pubdate": "Mon, 27 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -62,13 +76,6 @@
         "title": "Zverev",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zverev",
         "pubdate": "Sun, 26 Jan 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wahlergebnisse NÖ Gemeinden",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wahlergebnisse%20N%C3%96%20Gemeinden",
-        "pubdate": "Sun, 26 Jan 2025 14:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Schladming Nightrace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Schladming%20Nightrace",
         "pubdate": "Sun, 26 Jan 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tatort Saarbrücken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tatort%20Saarbr%C3%BCcken",
-        "pubdate": "Sun, 26 Jan 2025 22:00:00 +0100"
       }
     ]
   ]
