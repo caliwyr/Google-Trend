@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-01-2025 , 06:47:26",
+  "lastUpdate": "27-01-2025 , 06:56:52",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Psg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Psg",
-        "pubdate": "Sun, 26 Jan 2025 22:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Al-Nassr",
         "pubdate": "Sun, 26 Jan 2025 22:00:00 +0300"
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City",
-        "pubdate": "Sat, 25 Jan 2025 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea",
         "pubdate": "Sat, 25 Jan 2025 21:00:00 +0300"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Manchester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Manchester%20City",
+        "pubdate": "Sat, 25 Jan 2025 20:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Chelsea FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Chelsea%20FC",
         "pubdate": "Sat, 25 Jan 2025 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Omar Marmoush",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Omar%20Marmoush",
+        "pubdate": "Sat, 25 Jan 2025 22:00:00 +0300"
       }
     ]
   ]
