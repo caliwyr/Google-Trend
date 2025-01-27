@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "27-01-2025 , 02:28:30",
+  "lastUpdate": "27-01-2025 , 02:59:16",
   "data": [
     [
       {
@@ -10,9 +10,30 @@
     ],
     [
       {
-        "title": "Porto  Santa Clara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto%20%20Santa%20Clara",
+        "title": "Colombia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Colombia",
+        "pubdate": "Mon, 27 Jan 2025 02:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Hipocrita",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Hipocrita",
+        "pubdate": "Mon, 27 Jan 2025 02:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Porto",
         "pubdate": "Sun, 26 Jan 2025 13:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Sporting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sporting",
+        "pubdate": "Sun, 26 Jan 2025 19:00:00 +0000"
       }
     ],
     [
@@ -38,8 +59,8 @@
     ],
     [
       {
-        "title": "Braga-Boavista",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga-Boavista",
+        "title": "Braga Boavista",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Braga%20Boavista",
         "pubdate": "Sun, 26 Jan 2025 20:00:00 +0000"
       }
     ],
@@ -118,27 +139,6 @@
         "title": "SPORTING CP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SPORTING%20CP",
         "pubdate": "Sun, 26 Jan 2025 19:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Campeonato português",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Campeonato%20portugu%C3%AAs",
-        "pubdate": "Sun, 26 Jan 2025 04:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Titanic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Titanic",
-        "pubdate": "Sun, 26 Jan 2025 20:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Miguel Vicente",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Miguel%20Vicente",
-        "pubdate": "Sun, 26 Jan 2025 22:00:00 +0000"
       }
     ]
   ]
