@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "28-01-2025 , 13:41:45",
+  "lastUpdate": "28-01-2025 , 13:51:03",
   "data": [
+    [
+      {
+        "title": "Landerholm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Landerholm",
+        "pubdate": "Tue, 28 Jan 2025 13:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Neymar",
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Gröna Lund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Gr%C3%B6na%20Lund",
+        "pubdate": "Mon, 27 Jan 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lena Philipsson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Lena%20Philipsson",
         "pubdate": "Sun, 26 Jan 2025 22:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Marcialonga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Marcialonga",
         "pubdate": "Sun, 26 Jan 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mona Brorsson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Mona%20Brorsson",
-        "pubdate": "Sun, 26 Jan 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dorothea Wierer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dorothea%20Wierer",
-        "pubdate": "Sun, 26 Jan 2025 22:00:00 +0100"
       }
     ]
   ]

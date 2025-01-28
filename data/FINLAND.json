@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "28-01-2025 , 13:41:39",
+  "lastUpdate": "28-01-2025 , 13:50:57",
   "data": [
     [
       {
         "title": "Fifth Element",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Fifth%20Element",
         "pubdate": "Tue, 28 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Apple stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Apple%20stock",
+        "pubdate": "Tue, 28 Jan 2025 11:00:00 +0200"
       }
     ],
     [
@@ -38,16 +45,9 @@
     ],
     [
       {
-        "title": "AMD) stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AMD)%20stock",
+        "title": "AMD stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AMD%20stock",
         "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Barcelona",
-        "pubdate": "Mon, 27 Jan 2025 10:00:00 +0200"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Monte Carlo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Monte%20Carlo",
-        "pubdate": "Sun, 26 Jan 2025 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Woke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Woke",
         "pubdate": "Sun, 26 Jan 2025 11:00:00 +0200"
@@ -138,6 +131,13 @@
       {
         "title": "Tottenham – Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Leicester%20City",
+        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AfD",
         "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
       }
     ]
