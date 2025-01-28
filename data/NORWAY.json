@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2025 , 19:37:17",
+  "lastUpdate": "28-01-2025 , 19:46:33",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "MLD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#MLD",
+        "pubdate": "Tue, 28 Jan 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Selena Gomez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Selena%20Gomez",
         "pubdate": "Tue, 28 Jan 2025 08:00:00 +0100"
@@ -31,9 +38,9 @@
     ],
     [
       {
-        "title": "MLD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#MLD",
-        "pubdate": "Tue, 28 Jan 2025 12:00:00 +0100"
+        "title": "Frank Løke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Frank%20L%C3%B8ke",
+        "pubdate": "Tue, 28 Jan 2025 10:00:00 +0100"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Starlink",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Starlink",
         "pubdate": "Tue, 28 Jan 2025 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Ulsrud",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ulsrud",
+        "pubdate": "Tue, 28 Jan 2025 19:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Colombia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Colombia",
         "pubdate": "Mon, 27 Jan 2025 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kai Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kai%20Trump",
-        "pubdate": "Mon, 27 Jan 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Auschwitz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Auschwitz",
-        "pubdate": "Mon, 27 Jan 2025 15:00:00 +0100"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2025 , 19:37:09",
+  "lastUpdate": "28-01-2025 , 19:46:26",
   "data": [
     [
       {
@@ -41,6 +41,13 @@
         "title": "Semana do Cinema",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Semana%20do%20Cinema",
         "pubdate": "Tue, 28 Jan 2025 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "BK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BK",
+        "pubdate": "Tue, 28 Jan 2025 14:00:00 -0500"
       }
     ],
     [
@@ -87,8 +94,15 @@
     ],
     [
       {
-        "title": "Alavés x Celta de Vigo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Alav%C3%A9s%20x%20Celta%20de%20Vigo",
+        "title": "Enquete Paredão BBB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Enquete%20Pared%C3%A3o%20BBB",
+        "pubdate": "Mon, 27 Jan 2025 13:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Celta de Vigo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Celta%20de%20Vigo",
         "pubdate": "Mon, 27 Jan 2025 15:00:00 -0500"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Bolsa de colostomia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bolsa%20de%20colostomia",
         "pubdate": "Mon, 27 Jan 2025 00:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selena%20Gomez",
-        "pubdate": "Mon, 27 Jan 2025 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Hornets x Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Hornets%20x%20Lakers",
-        "pubdate": "Mon, 27 Jan 2025 20:00:00 -0500"
       }
     ]
   ]
