@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2025 , 12:22:04",
+  "lastUpdate": "28-01-2025 , 12:53:44",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "Osvětim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Osv%C4%9Btim",
         "pubdate": "Mon, 27 Jan 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DR Automobiles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#DR%20Automobiles",
+        "pubdate": "Mon, 27 Jan 2025 14:00:00 +0100"
       }
     ],
     [
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "Nová strana GEN",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nov%C3%A1%20strana%20GEN",
-        "pubdate": "Mon, 27 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Tottenham – Leicester",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tottenham%20%E2%80%93%20Leicester",
         "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa – West Ham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Aston%20Villa%20%E2%80%93%20West%20Ham",
-        "pubdate": "Sun, 26 Jan 2025 17:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Robert Fico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Robert%20Fico",
         "pubdate": "Sun, 26 Jan 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ODM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#ODM",
+        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0100"
       }
     ]
   ]
