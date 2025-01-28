@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2025 , 03:43:59",
+  "lastUpdate": "28-01-2025 , 03:53:25",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Amd stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Amd%20stock",
+        "title": "AMD stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AMD%20stock",
         "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
       }
     ],
@@ -55,6 +55,13 @@
         "title": "Top Gun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Top%20Gun",
         "pubdate": "Mon, 27 Jan 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Malta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Malta",
+        "pubdate": "Mon, 27 Jan 2025 21:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Pete Hegseth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pete%20Hegseth",
         "pubdate": "Sun, 26 Jan 2025 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Man%20City",
-        "pubdate": "Sun, 26 Jan 2025 10:00:00 +0200"
       }
     ]
   ]
