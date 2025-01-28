@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "28-01-2025 , 15:41:05",
+  "lastUpdate": "28-01-2025 , 15:50:20",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "Nasdaq",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nasdaq",
-        "pubdate": "Mon, 27 Jan 2025 20:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Vezhen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Vezhen",
         "pubdate": "Mon, 27 Jan 2025 08:00:00 +0200"
@@ -62,6 +55,13 @@
         "title": "Microsoft stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Microsoft%20stock",
         "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Meta stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Meta%20stock",
+        "pubdate": "Mon, 27 Jan 2025 23:00:00 +0200"
       }
     ],
     [
