@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "29-01-2025 , 00:43:13",
+  "lastUpdate": "29-01-2025 , 02:03:48",
   "data": [
+    [
+      {
+        "title": "Lunar New Year",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Lunar%20New%20Year",
+        "pubdate": "Wed, 29 Jan 2025 03:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Kafka",
@@ -40,6 +47,13 @@
       {
         "title": "AMD stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AMD%20stock",
+        "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Microsoft stock",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Microsoft%20stock",
         "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Tottenham – Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Leicester%20City",
         "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AfD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AfD",
-        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eva Longoria",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eva%20Longoria",
-        "pubdate": "Sun, 26 Jan 2025 20:00:00 +0200"
       }
     ]
   ]
