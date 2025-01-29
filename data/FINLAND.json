@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-01-2025 , 02:03:48",
+  "lastUpdate": "29-01-2025 , 02:49:10",
   "data": [
     [
       {
@@ -55,13 +55,6 @@
         "title": "Microsoft stock",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Microsoft%20stock",
         "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "META stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#META%20stock",
-        "pubdate": "Mon, 27 Jan 2025 23:00:00 +0200"
       }
     ],
     [
@@ -138,6 +131,13 @@
       {
         "title": "Tottenham – Leicester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tottenham%20%E2%80%93%20Leicester%20City",
+        "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AfD",
         "pubdate": "Sun, 26 Jan 2025 18:00:00 +0200"
       }
     ]
