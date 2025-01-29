@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-01-2025 , 07:45:09",
+  "lastUpdate": "29-01-2025 , 07:54:36",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Toto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Toto",
-        "pubdate": "Wed, 29 Jan 2025 08:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Chinese New Year 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Chinese%20New%20Year%202025",
         "pubdate": "Tue, 28 Jan 2025 16:00:00 +1300"
@@ -59,8 +52,8 @@
     ],
     [
       {
-        "title": "Sydney Thunder vs Hobart Hurricanes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Sydney%20Thunder%20vs%20Hobart%20Hurricanes",
+        "title": "Big Bash",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Big%20Bash",
         "pubdate": "Tue, 28 Jan 2025 06:00:00 +1300"
       }
     ],
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "Big Bash",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Big%20Bash",
-        "pubdate": "Tue, 28 Jan 2025 08:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Pakaitore Turia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Pakaitore%20Turia",
         "pubdate": "Tue, 28 Jan 2025 15:00:00 +1300"
@@ -139,6 +125,20 @@
         "title": "Fulham vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Fulham%20vs%20Man%20United",
         "pubdate": "Mon, 27 Jan 2025 09:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Eagles vs Commanders",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Eagles%20vs%20Commanders",
+        "pubdate": "Mon, 27 Jan 2025 11:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Barcelona vs Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Barcelona%20vs%20Valencia",
+        "pubdate": "Mon, 27 Jan 2025 11:00:00 +1300"
       }
     ]
   ]
