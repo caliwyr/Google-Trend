@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-01-2025 , 19:44:30",
+  "lastUpdate": "30-01-2025 , 19:53:44",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barcelona",
         "pubdate": "Thu, 30 Jan 2025 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#FC%20Barcelona",
+        "pubdate": "Thu, 30 Jan 2025 08:00:00 +0100"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "MOME",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MOME",
-        "pubdate": "Thu, 30 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Magyari Alda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Magyari%20Alda",
         "pubdate": "Thu, 30 Jan 2025 19:00:00 +0100"
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "MOME",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MOME",
+        "pubdate": "Thu, 30 Jan 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter",
         "pubdate": "Thu, 30 Jan 2025 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Az Alkmaar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Az%20Alkmaar",
+        "pubdate": "Thu, 30 Jan 2025 20:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Barca",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Barca",
         "pubdate": "Wed, 29 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nikitscher Tamás",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Nikitscher%20Tam%C3%A1s",
-        "pubdate": "Wed, 29 Jan 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Szász Júlia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C3%A1sz%20J%C3%BAlia",
-        "pubdate": "Wed, 29 Jan 2025 14:00:00 +0100"
       }
     ]
   ]
