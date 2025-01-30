@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-01-2025 , 17:46:15",
+  "lastUpdate": "30-01-2025 , 17:55:28",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Arvind Kejriwal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Arvind%20Kejriwal",
-        "pubdate": "Thu, 30 Jan 2025 15:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Salwan Momika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Salwan%20Momika",
         "pubdate": "Thu, 30 Jan 2025 19:30:00 +0530"
@@ -73,13 +66,6 @@
     ],
     [
       {
-        "title": "Steve Smith",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Steve%20Smith",
-        "pubdate": "Wed, 29 Jan 2025 13:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "Maha Kumbh Mela stampede",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Maha%20Kumbh%20Mela%20stampede",
         "pubdate": "Wed, 29 Jan 2025 10:30:00 +0530"
@@ -87,8 +73,15 @@
     ],
     [
       {
-        "title": "Mahakumbh news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Mahakumbh%20news",
+        "title": "Steve Smith",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Steve%20Smith",
+        "pubdate": "Wed, 29 Jan 2025 13:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Stampede",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Stampede",
         "pubdate": "Wed, 29 Jan 2025 10:30:00 +0530"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "ISRO",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ISRO",
         "pubdate": "Wed, 29 Jan 2025 14:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Cricket",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
+        "pubdate": "Tue, 28 Jan 2025 22:30:00 +0530"
       }
     ]
   ]
