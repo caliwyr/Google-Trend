@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "29-01-2025 , 23:53:14",
+  "lastUpdate": "30-01-2025 , 00:50:32",
   "data": [
     [
       {
@@ -45,9 +45,23 @@
     ],
     [
       {
+        "title": "Bayern vs Slovan Bratislava",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bayern%20vs%20Slovan%20Bratislava",
+        "pubdate": "Thu, 30 Jan 2025 07:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Australia vs Sri Lanka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Australia%20vs%20Sri%20Lanka",
         "pubdate": "Wed, 29 Jan 2025 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "CNY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CNY",
+        "pubdate": "Wed, 29 Jan 2025 09:00:00 +0800"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "CNY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CNY",
-        "pubdate": "Tue, 28 Jan 2025 22:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Neymar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Neymar",
         "pubdate": "Tue, 28 Jan 2025 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "NVDA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#NVDA",
-        "pubdate": "Tue, 28 Jan 2025 04:00:00 +0800"
       }
     ]
   ]
