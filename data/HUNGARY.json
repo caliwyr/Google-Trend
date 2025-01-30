@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "30-01-2025 , 21:38:02",
+  "lastUpdate": "30-01-2025 , 21:47:20",
   "data": [
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
-        "pubdate": "Thu, 30 Jan 2025 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Washington repülő baleset",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Washington%20rep%C3%BCl%C5%91%20baleset",
         "pubdate": "Thu, 30 Jan 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
+        "pubdate": "Thu, 30 Jan 2025 01:00:00 +0100"
       }
     ],
     [
@@ -38,6 +38,20 @@
     ],
     [
       {
+        "title": "AZ Alkmaar",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AZ%20Alkmaar",
+        "pubdate": "Thu, 30 Jan 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Roma–eintracht FRANKFURT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Roma%E2%80%93eintracht%20FRANKFURT",
+        "pubdate": "Thu, 30 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Yaakobishvili Antal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Yaakobishvili%20Antal",
         "pubdate": "Thu, 30 Jan 2025 13:00:00 +0100"
@@ -52,9 +66,9 @@
     ],
     [
       {
-        "title": "AZ Alkmaar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#AZ%20Alkmaar",
-        "pubdate": "Thu, 30 Jan 2025 20:00:00 +0100"
+        "title": "Marianne Faithfull",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Marianne%20Faithfull",
+        "pubdate": "Thu, 30 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -66,9 +80,9 @@
     ],
     [
       {
-        "title": "Roma–eintracht FRANKFURT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Roma%E2%80%93eintracht%20FRANKFURT",
-        "pubdate": "Thu, 30 Jan 2025 21:00:00 +0100"
+        "title": "Tápai Szabina",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#T%C3%A1pai%20Szabina",
+        "pubdate": "Thu, 30 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -80,16 +94,23 @@
     ],
     [
       {
-        "title": "Inter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter",
-        "pubdate": "Thu, 30 Jan 2025 08:00:00 +0100"
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#PSV",
+        "pubdate": "Thu, 30 Jan 2025 00:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Psv–liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Psv%E2%80%93liverpool",
-        "pubdate": "Wed, 29 Jan 2025 21:00:00 +0100"
+        "title": "Szemerey Zsófi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szemerey%20Zs%C3%B3fi",
+        "pubdate": "Thu, 30 Jan 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Inter",
+        "pubdate": "Thu, 30 Jan 2025 08:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Kínai horoszkóp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#K%C3%ADnai%20horoszk%C3%B3p",
         "pubdate": "Wed, 29 Jan 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Duna Plaza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Duna%20Plaza",
-        "pubdate": "Wed, 29 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Taylor Swift",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Taylor%20Swift",
-        "pubdate": "Wed, 29 Jan 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Huawei Watch D2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Huawei%20Watch%20D2",
-        "pubdate": "Wed, 29 Jan 2025 13:00:00 +0100"
       }
     ]
   ]

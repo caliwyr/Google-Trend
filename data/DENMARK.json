@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "30-01-2025 , 21:38:01",
+  "lastUpdate": "30-01-2025 , 21:47:18",
   "data": [
-    [
-      {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
-        "pubdate": "Thu, 30 Jan 2025 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "FCSB  Man Utd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FCSB%20%20Man%20Utd",
+        "pubdate": "Thu, 30 Jan 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Marianne Faithfull",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Marianne%20Faithfull",
         "pubdate": "Thu, 30 Jan 2025 20:00:00 +0100"
       }
     ],
@@ -31,23 +31,16 @@
     ],
     [
       {
-        "title": "MrBeast",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#MrBeast",
-        "pubdate": "Thu, 30 Jan 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Marianne Faithfull",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Marianne%20Faithfull",
-        "pubdate": "Thu, 30 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "RTX 5080",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#RTX%205080",
         "pubdate": "Thu, 30 Jan 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "MrBeast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#MrBeast",
+        "pubdate": "Thu, 30 Jan 2025 08:00:00 +0100"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "FCM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FCM",
+        "pubdate": "Thu, 30 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Laken Riley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Laken%20Riley",
         "pubdate": "Thu, 30 Jan 2025 16:00:00 +0100"
@@ -90,6 +90,13 @@
         "title": "Jennifer Love Hewitt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jennifer%20Love%20Hewitt",
         "pubdate": "Thu, 30 Jan 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Galatasaray",
+        "pubdate": "Thu, 30 Jan 2025 21:00:00 +0100"
       }
     ],
     [
@@ -108,13 +115,6 @@
     ],
     [
       {
-        "title": "Jhon Duran",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jhon%20Duran",
-        "pubdate": "Thu, 30 Jan 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dexter: Original Sin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dexter:%20Original%20Sin",
         "pubdate": "Thu, 30 Jan 2025 19:00:00 +0100"
@@ -122,16 +122,9 @@
     ],
     [
       {
-        "title": "RS virus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#RS%20virus",
-        "pubdate": "Wed, 29 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona  Atalanta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Barcelona%20%20Atalanta",
-        "pubdate": "Wed, 29 Jan 2025 21:00:00 +0100"
+        "title": "Jhon Duran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jhon%20Duran",
+        "pubdate": "Thu, 30 Jan 2025 12:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "PSV  Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#PSV%20%20Liverpool",
         "pubdate": "Wed, 29 Jan 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bet365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Bet365",
+        "pubdate": "Wed, 29 Jan 2025 23:00:00 +0100"
       }
     ]
   ]
