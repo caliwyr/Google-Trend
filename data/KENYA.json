@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-01-2025 , 11:43:35",
+  "lastUpdate": "30-01-2025 , 11:52:53",
   "data": [
     [
       {
         "title": "Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool",
         "pubdate": "Thu, 30 Jan 2025 06:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "HELB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#HELB",
+        "pubdate": "Thu, 30 Jan 2025 13:00:00 +0300"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "VfB Stuttgart vs PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#VfB%20Stuttgart%20vs%20PSG",
-        "pubdate": "Wed, 29 Jan 2025 19:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Juventus vs Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Juventus%20vs%20Benfica",
         "pubdate": "Wed, 29 Jan 2025 17:00:00 +0300"
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Betway",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Betway",
-        "pubdate": "Wed, 29 Jan 2025 20:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Mathys Tel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Mathys%20Tel",
         "pubdate": "Wed, 29 Jan 2025 14:00:00 +0300"
@@ -139,6 +132,13 @@
         "title": "Ollie Watkins",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Ollie%20Watkins",
         "pubdate": "Wed, 29 Jan 2025 23:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Stuttgart vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Stuttgart%20vs%20PSG",
+        "pubdate": "Wed, 29 Jan 2025 19:00:00 +0300"
       }
     ]
   ]

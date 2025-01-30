@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-01-2025 , 11:43:31",
+  "lastUpdate": "30-01-2025 , 11:52:49",
   "data": [
     [
       {
@@ -10,9 +10,23 @@
     ],
     [
       {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
+        "pubdate": "Thu, 30 Jan 2025 06:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "RTX 5080",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#RTX%205080",
         "pubdate": "Thu, 30 Jan 2025 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Ponte Preta x Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ponte%20Preta%20x%20Corinthians",
+        "pubdate": "Wed, 29 Jan 2025 13:00:00 -0500"
       }
     ],
     [
@@ -52,20 +66,6 @@
     ],
     [
       {
-        "title": "PSV x Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSV%20x%20Liverpool",
-        "pubdate": "Wed, 29 Jan 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Monsoon FC x Grêmio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Monsoon%20FC%20x%20Gr%C3%AAmio",
-        "pubdate": "Wed, 29 Jan 2025 12:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Atlético-MG x América-MG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Atl%C3%A9tico-MG%20x%20Am%C3%A9rica-MG",
         "pubdate": "Wed, 29 Jan 2025 20:00:00 -0500"
@@ -90,6 +90,13 @@
         "title": "Selic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Selic",
         "pubdate": "Wed, 29 Jan 2025 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "PSV x Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#PSV%20x%20Liverpool",
+        "pubdate": "Wed, 29 Jan 2025 15:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Campeonato Baiano",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Campeonato%20Baiano",
         "pubdate": "Wed, 29 Jan 2025 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Botafogo-SP x Água Santa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP%20x%20%C3%81gua%20Santa",
-        "pubdate": "Wed, 29 Jan 2025 20:00:00 -0500"
       }
     ]
   ]

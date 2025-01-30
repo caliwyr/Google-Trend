@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "30-01-2025 , 11:43:32",
+  "lastUpdate": "30-01-2025 , 11:52:50",
   "data": [
     [
       {
         "title": "MrBeast",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#MrBeast",
         "pubdate": "Thu, 30 Jan 2025 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Maria Callas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Maria%20Callas",
+        "pubdate": "Thu, 30 Jan 2025 09:00:00 +0100"
       }
     ],
     [
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Maria Callas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Maria%20Callas",
+        "title": "Gnocchi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gnocchi",
         "pubdate": "Thu, 30 Jan 2025 09:00:00 +0100"
       }
     ],
@@ -31,8 +38,15 @@
     ],
     [
       {
-        "title": "Gnocchi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Gnocchi",
+        "title": "Evgenia Shishkova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Evgenia%20Shishkova",
+        "pubdate": "Thu, 30 Jan 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Guantanamo Bay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Guantanamo%20Bay",
         "pubdate": "Thu, 30 Jan 2025 09:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Central Cee",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Central%20Cee",
         "pubdate": "Wed, 29 Jan 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Patrick Dorgu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Patrick%20Dorgu",
-        "pubdate": "Tue, 28 Jan 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Selena Gomez",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Selena%20Gomez",
-        "pubdate": "Tue, 28 Jan 2025 05:00:00 +0100"
       }
     ]
   ]
