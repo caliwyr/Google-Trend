@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "30-01-2025 , 05:42:30",
+  "lastUpdate": "30-01-2025 , 05:51:50",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "PSV – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSV%20%E2%80%93%20Liverpool",
+        "pubdate": "Wed, 29 Jan 2025 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Tobias Eder",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tobias%20Eder",
         "pubdate": "Wed, 29 Jan 2025 18:00:00 +0200"
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "PSV – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#PSV%20%E2%80%93%20Liverpool",
-        "pubdate": "Wed, 29 Jan 2025 23:00:00 +0200"
+        "title": "Bet365",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bet365",
+        "pubdate": "Wed, 29 Jan 2025 22:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nasdaq",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nasdaq",
         "pubdate": "Mon, 27 Jan 2025 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "AMD stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AMD%20stock",
-        "pubdate": "Mon, 27 Jan 2025 22:00:00 +0200"
       }
     ]
   ]
