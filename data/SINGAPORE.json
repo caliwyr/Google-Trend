@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "31-01-2025 , 05:49:23",
+  "lastUpdate": "31-01-2025 , 05:58:35",
   "data": [
-    [
-      {
-        "title": "TSLA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#TSLA",
-        "pubdate": "Fri, 31 Jan 2025 00:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "FCSB",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Al-Nassr",
-        "pubdate": "Fri, 31 Jan 2025 07:00:00 +0800"
+        "title": "TSLA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#TSLA",
+        "pubdate": "Fri, 31 Jan 2025 00:00:00 +0800"
       }
     ],
     [
@@ -41,6 +34,13 @@
         "title": "Salwan Momika",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Salwan%20Momika",
         "pubdate": "Thu, 30 Jan 2025 23:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Jhon Duran",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Jhon%20Duran",
+        "pubdate": "Thu, 30 Jan 2025 14:00:00 +0800"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Tesla earnings",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Tesla%20earnings",
+        "pubdate": "Thu, 30 Jan 2025 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Parish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Parish",
         "pubdate": "Thu, 30 Jan 2025 21:00:00 +0800"
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Mathys Tel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mathys%20Tel",
-        "pubdate": "Wed, 29 Jan 2025 21:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Japan sinkhole",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Japan%20sinkhole",
         "pubdate": "Wed, 29 Jan 2025 19:00:00 +0800"
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Zoe Tay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zoe%20Tay",
-        "pubdate": "Wed, 29 Jan 2025 15:00:00 +0800"
+        "title": "Mathys Tel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mathys%20Tel",
+        "pubdate": "Wed, 29 Jan 2025 21:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Chinese New Year 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Chinese%20New%20Year%202025",
-        "pubdate": "Tue, 28 Jan 2025 01:00:00 +0800"
+        "title": "Zoe Tay",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zoe%20Tay",
+        "pubdate": "Wed, 29 Jan 2025 15:00:00 +0800"
       }
     ]
   ]
