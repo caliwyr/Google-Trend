@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "31-01-2025 , 22:40:22",
+  "lastUpdate": "31-01-2025 , 22:49:36",
   "data": [
+    [
+      {
+        "title": "東京 雪",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E6%9D%B1%E4%BA%AC%20%E9%9B%AA",
+        "pubdate": "Sat, 01 Feb 2025 07:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "川口春奈",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E5%B7%9D%E5%8F%A3%E6%98%A5%E5%A5%88",
+        "pubdate": "Fri, 31 Jan 2025 20:00:00 +0900"
+      }
+    ],
     [
       {
         "title": "ジムニーノマド",
@@ -125,20 +139,6 @@
         "title": "PFAS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#PFAS",
         "pubdate": "Tue, 28 Jan 2025 23:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "フジテレビ 会見",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#%E3%83%95%E3%82%B8%E3%83%86%E3%83%AC%E3%83%93%20%E4%BC%9A%E8%A6%8B",
-        "pubdate": "Mon, 27 Jan 2025 13:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "DeepSeek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=JP#DeepSeek",
-        "pubdate": "Mon, 27 Jan 2025 09:00:00 +0900"
       }
     ]
   ]
