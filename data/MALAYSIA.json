@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "31-01-2025 , 11:43:08",
+  "lastUpdate": "31-01-2025 , 11:52:21",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Al Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al%20Nassr",
         "pubdate": "Fri, 31 Jan 2025 03:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Wizards vs Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Wizards%20vs%20Lakers",
+        "pubdate": "Fri, 31 Jan 2025 12:00:00 +0800"
       }
     ],
     [
@@ -45,8 +52,8 @@
     ],
     [
       {
-        "title": "Washington DC plane crashes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Washington%20DC%20plane%20crashes",
+        "title": "American Airlines",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#American%20Airlines",
         "pubdate": "Thu, 30 Jan 2025 16:00:00 +0800"
       }
     ],
@@ -61,7 +68,7 @@
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Barcelona",
-        "pubdate": "Thu, 30 Jan 2025 13:00:00 +0800"
+        "pubdate": "Thu, 30 Jan 2025 10:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Bintulu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bintulu",
         "pubdate": "Wed, 29 Jan 2025 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "CNY",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CNY",
-        "pubdate": "Wed, 29 Jan 2025 09:00:00 +0800"
       }
     ]
   ]
