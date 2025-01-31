@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "31-01-2025 , 17:36:15",
+  "lastUpdate": "31-01-2025 , 17:45:44",
   "data": [
     [
       {
         "title": "FCSB vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#FCSB%20vs%20Man%20United",
         "pubdate": "Fri, 31 Jan 2025 00:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Tottenham vs IF Elfsborg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tottenham%20vs%20IF%20Elfsborg",
-        "pubdate": "Fri, 31 Jan 2025 05:00:00 +0800"
       }
     ],
     [
@@ -24,8 +17,15 @@
     ],
     [
       {
-        "title": "Al Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al%20Nassr",
+        "title": "Tottenham vs IF Elfsborg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Tottenham%20vs%20IF%20Elfsborg",
+        "pubdate": "Fri, 31 Jan 2025 05:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Al-Nassr",
         "pubdate": "Fri, 31 Jan 2025 03:00:00 +0800"
       }
     ],
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "American Airlines",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#American%20Airlines",
+        "pubdate": "Thu, 30 Jan 2025 16:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Man City vs Club Brugge",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Man%20City%20vs%20Club%20Brugge",
         "pubdate": "Thu, 30 Jan 2025 04:00:00 +0800"
@@ -62,13 +69,6 @@
         "title": "Girona vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Girona%20vs%20Arsenal",
         "pubdate": "Thu, 30 Jan 2025 04:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "American Airlines",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#American%20Airlines",
-        "pubdate": "Thu, 30 Jan 2025 16:00:00 +0800"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Inter Miami",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Inter%20Miami",
-        "pubdate": "Thu, 30 Jan 2025 11:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Google Block Breaker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Google%20Block%20Breaker",
         "pubdate": "Wed, 29 Jan 2025 04:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Bintulu",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Bintulu",
         "pubdate": "Wed, 29 Jan 2025 13:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "CNY",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#CNY",
+        "pubdate": "Wed, 29 Jan 2025 09:00:00 +0800"
       }
     ]
   ]
