@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-02-2025 , 16:36:38",
+  "lastUpdate": "01-02-2025 , 16:46:00",
   "data": [
+    [
+      {
+        "title": "Bayern – Holstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20%E2%80%93%20Holstein",
+        "pubdate": "Sat, 01 Feb 2025 15:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Horst Köhler",
@@ -10,8 +17,8 @@
     ],
     [
       {
-        "title": "Bayern – Holstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20%E2%80%93%20Holstein",
+        "title": "Heidenheim – Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heidenheim%20%E2%80%93%20Dortmund",
         "pubdate": "Sat, 01 Feb 2025 15:00:00 +0100"
       }
     ],
@@ -24,8 +31,15 @@
     ],
     [
       {
-        "title": "Heidenheim – Dortmund",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Heidenheim%20%E2%80%93%20Dortmund",
+        "title": "Minoritenstüberl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Minoritenst%C3%BCberl",
+        "pubdate": "Sat, 01 Feb 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nottingham – Brighton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nottingham%20%E2%80%93%20Brighton",
         "pubdate": "Sat, 01 Feb 2025 15:00:00 +0100"
       }
     ],
@@ -34,13 +48,6 @@
         "title": "Philadelphia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Philadelphia",
         "pubdate": "Sat, 01 Feb 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Minoritenstüberl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Minoritenst%C3%BCberl",
-        "pubdate": "Sat, 01 Feb 2025 10:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Wolf of Wall Street",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolf%20of%20Wall%20Street",
         "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Willingen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Willingen",
-        "pubdate": "Fri, 31 Jan 2025 18:00:00 +0100"
       }
     ]
   ]
