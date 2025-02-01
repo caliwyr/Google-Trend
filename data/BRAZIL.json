@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2025 , 10:44:33",
+  "lastUpdate": "01-02-2025 , 10:53:58",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "BBB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BBB",
         "pubdate": "Fri, 31 Jan 2025 06:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Al Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al%20Hilal",
-        "pubdate": "Fri, 31 Jan 2025 09:00:00 -0500"
       }
     ],
     [
@@ -129,6 +122,13 @@
     ],
     [
       {
+        "title": "Mano Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mano%20Brown",
+        "pubdate": "Fri, 31 Jan 2025 19:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Sefaz RJ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Sefaz%20RJ",
         "pubdate": "Fri, 31 Jan 2025 10:00:00 -0500"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Mano Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Mano%20Brown",
-        "pubdate": "Fri, 31 Jan 2025 19:00:00 -0500"
+        "title": "Bruma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bruma",
+        "pubdate": "Fri, 31 Jan 2025 20:00:00 -0500"
       }
     ]
   ]
