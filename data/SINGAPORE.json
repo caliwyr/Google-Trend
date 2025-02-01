@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-02-2025 , 02:39:42",
+  "lastUpdate": "01-02-2025 , 03:02:38",
   "data": [
-    [
-      {
-        "title": "Cricket",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cricket",
-        "pubdate": "Sat, 01 Feb 2025 09:00:00 +0800"
-      }
-    ],
     [
       {
         "title": "ICC",
@@ -20,6 +13,13 @@
         "title": "Sora Ma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Sora%20Ma",
         "pubdate": "Sat, 01 Feb 2025 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "February",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#February",
+        "pubdate": "Sat, 01 Feb 2025 10:00:00 +0800"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "The Recruit",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#The%20Recruit",
+        "pubdate": "Fri, 31 Jan 2025 15:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "American Airlines",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#American%20Airlines",
         "pubdate": "Thu, 30 Jan 2025 13:00:00 +0800"
@@ -132,13 +139,6 @@
         "title": "Japan sinkhole",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Japan%20sinkhole",
         "pubdate": "Wed, 29 Jan 2025 19:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Mathys Tel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Mathys%20Tel",
-        "pubdate": "Wed, 29 Jan 2025 21:00:00 +0800"
       }
     ]
   ]
