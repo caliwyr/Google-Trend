@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2025 , 23:38:24",
+  "lastUpdate": "01-02-2025 , 23:47:54",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Karviná – Teplice",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Karvin%C3%A1%20%E2%80%93%20Teplice",
         "pubdate": "Sat, 01 Feb 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hradec Králové – Pardubice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hradec%20Kr%C3%A1lov%C3%A9%20%E2%80%93%20Pardubice",
-        "pubdate": "Sat, 01 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -52,15 +45,22 @@
     ],
     [
       {
-        "title": "OKTAGON 66",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OKTAGON%2066",
-        "pubdate": "Sat, 01 Feb 2025 19:00:00 +0100"
+        "title": "Soros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Soros",
+        "pubdate": "Sat, 01 Feb 2025 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Brest – PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Brest%20%E2%80%93%20PSG",
+        "title": "Adesanya",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Adesanya",
+        "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Everton – Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Everton%20%E2%80%93%20Leicester",
         "pubdate": "Sat, 01 Feb 2025 19:00:00 +0100"
       }
     ],
@@ -73,13 +73,6 @@
     ],
     [
       {
-        "title": "Soros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Soros",
-        "pubdate": "Sat, 01 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ústí nad Labem",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C3%9Ast%C3%AD%20nad%20Labem",
         "pubdate": "Sat, 01 Feb 2025 22:00:00 +0100"
@@ -87,8 +80,15 @@
     ],
     [
       {
-        "title": "Oktagon MMA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oktagon%20MMA",
+        "title": "Newcastle – Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Newcastle%20%E2%80%93%20Fulham",
+        "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "OKTAGON MMA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#OKTAGON%20MMA",
         "pubdate": "Sat, 01 Feb 2025 23:00:00 +0100"
       }
     ],
