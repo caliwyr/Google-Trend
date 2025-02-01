@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2025 , 14:38:17",
+  "lastUpdate": "01-02-2025 , 14:47:38",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "Gimenez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Gimenez",
         "pubdate": "Fri, 31 Jan 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Beatrix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Beatrix",
-        "pubdate": "Fri, 31 Jan 2025 10:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "ASML",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ASML",
         "pubdate": "Mon, 27 Jan 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AZ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AZ",
+        "pubdate": "Sun, 26 Jan 2025 21:00:00 +0100"
       }
     ]
   ]
