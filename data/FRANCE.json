@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "01-02-2025 , 11:40:39",
+  "lastUpdate": "01-02-2025 , 11:49:54",
   "data": [
-    [
-      {
-        "title": "Basic Instinct",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Basic%20Instinct",
-        "pubdate": "Sat, 01 Feb 2025 00:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "France pays de Galles",
@@ -38,13 +31,6 @@
     ],
     [
       {
-        "title": "Handball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Handball",
-        "pubdate": "Fri, 31 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gouiri",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Gouiri",
         "pubdate": "Fri, 31 Jan 2025 13:00:00 +0100"
@@ -55,6 +41,13 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#UFC",
         "pubdate": "Fri, 31 Jan 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Handball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Handball",
+        "pubdate": "Fri, 31 Jan 2025 02:00:00 +0100"
       }
     ],
     [
@@ -80,6 +73,13 @@
     ],
     [
       {
+        "title": "Aurore Bergé",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aurore%20Berg%C3%A9",
+        "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "N'oubliez pas les paroles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#N'oubliez%20pas%20les%20paroles",
         "pubdate": "Fri, 31 Jan 2025 20:00:00 +0100"
@@ -90,13 +90,6 @@
         "title": "Brexit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Brexit",
         "pubdate": "Fri, 31 Jan 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aurore Bergé",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Aurore%20Berg%C3%A9",
-        "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Tirage Ligue des champions",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tirage%20Ligue%20des%20champions",
         "pubdate": "Thu, 30 Jan 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "LOSC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#LOSC",
+        "pubdate": "Thu, 30 Jan 2025 00:00:00 +0100"
       }
     ]
   ]
