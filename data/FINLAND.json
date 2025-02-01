@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-02-2025 , 19:37:44",
+  "lastUpdate": "01-02-2025 , 19:47:06",
   "data": [
     [
       {
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UFC",
         "pubdate": "Sat, 01 Feb 2025 02:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Prince",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Prince",
+        "pubdate": "Sat, 01 Feb 2025 21:00:00 +0200"
       }
     ],
     [
@@ -48,6 +55,13 @@
         "title": "Davis Cup",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Davis%20Cup",
         "pubdate": "Sat, 01 Feb 2025 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Sauna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Sauna",
+        "pubdate": "Sat, 01 Feb 2025 21:00:00 +0200"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "CNN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CNN",
         "pubdate": "Thu, 30 Jan 2025 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tesla stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Tesla%20stock",
-        "pubdate": "Thu, 30 Jan 2025 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Nokia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Nokia",
-        "pubdate": "Thu, 30 Jan 2025 15:00:00 +0200"
       }
     ]
   ]
