@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "01-02-2025 , 17:36:12",
+  "lastUpdate": "01-02-2025 , 17:45:35",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Kestrel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kestrel",
+        "pubdate": "Sat, 01 Feb 2025 09:00:00 -0800"
+      }
+    ],
+    [
+      {
         "title": "Costco strike",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Costco%20strike",
         "pubdate": "Sat, 01 Feb 2025 07:00:00 -0800"
@@ -24,8 +31,15 @@
     ],
     [
       {
-        "title": "Plane crash today",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Plane%20crash%20today",
+        "title": "Benavidez vs Morrell",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Benavidez%20vs%20Morrell",
+        "pubdate": "Sat, 01 Feb 2025 09:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "Philadelphia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Philadelphia",
         "pubdate": "Fri, 31 Jan 2025 17:00:00 -0800"
       }
     ],
@@ -80,16 +94,16 @@
     ],
     [
       {
-        "title": "CDC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CDC",
-        "pubdate": "Fri, 31 Jan 2025 16:00:00 -0800"
+        "title": "Black History Month",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Black%20History%20Month",
+        "pubdate": "Fri, 31 Jan 2025 20:00:00 -0800"
       }
     ],
     [
       {
-        "title": "Black History Month",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Black%20History%20Month",
-        "pubdate": "Fri, 31 Jan 2025 20:00:00 -0800"
+        "title": "CDC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#CDC",
+        "pubdate": "Fri, 31 Jan 2025 16:00:00 -0800"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "J.T. Miller",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#J.T.%20Miller",
-        "pubdate": "Fri, 31 Jan 2025 18:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "Stock market",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Stock%20market",
         "pubdate": "Fri, 31 Jan 2025 19:00:00 -0800"
@@ -132,13 +139,6 @@
         "title": "Chuck Todd",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Chuck%20Todd",
         "pubdate": "Fri, 31 Jan 2025 14:00:00 -0800"
-      }
-    ],
-    [
-      {
-        "title": "Kiah Duggins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Kiah%20Duggins",
-        "pubdate": "Fri, 31 Jan 2025 06:00:00 -0800"
       }
     ]
   ]
