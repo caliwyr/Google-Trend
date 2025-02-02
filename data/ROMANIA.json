@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "02-02-2025 , 23:47:42",
+  "lastUpdate": "02-02-2025 , 23:56:54",
   "data": [
     [
       {
         "title": "NBA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#NBA",
         "pubdate": "Mon, 03 Feb 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Ianis Hagi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Ianis%20Hagi",
+        "pubdate": "Mon, 03 Feb 2025 01:00:00 +0200"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Luka Doncic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Luka%20Doncic",
-        "pubdate": "Sun, 02 Feb 2025 11:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Milan - Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Milan%20-%20Inter",
         "pubdate": "Sun, 02 Feb 2025 19:00:00 +0200"
@@ -66,8 +66,15 @@
     ],
     [
       {
-        "title": "Fiorentina - Genoa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fiorentina%20-%20Genoa",
+        "title": "Luka Doncic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Luka%20Doncic",
+        "pubdate": "Sun, 02 Feb 2025 11:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Fiorentina  Genoa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fiorentina%20%20Genoa",
         "pubdate": "Sun, 02 Feb 2025 16:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Transnistria",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Transnistria",
         "pubdate": "Sun, 02 Feb 2025 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Congo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Congo",
-        "pubdate": "Sun, 02 Feb 2025 15:00:00 +0200"
       }
     ]
   ]
