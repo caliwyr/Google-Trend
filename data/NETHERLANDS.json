@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2025 , 03:38:55",
+  "lastUpdate": "02-02-2025 , 03:48:19",
   "data": [
     [
       {
@@ -17,9 +17,9 @@
     ],
     [
       {
-        "title": "MVV-Roda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MVV-Roda",
-        "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
+        "title": "MVV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#MVV",
+        "pubdate": "Sat, 01 Feb 2025 20:00:00 +0100"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "RTV Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RTV%20Utrecht",
+        "pubdate": "Sat, 01 Feb 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fem van Empel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Fem%20van%20Empel",
         "pubdate": "Sat, 01 Feb 2025 21:00:00 +0100"
@@ -59,16 +66,23 @@
     ],
     [
       {
-        "title": "Frank Heinen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Frank%20Heinen",
+        "title": "Wilfred Genee",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wilfred%20Genee",
+        "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "De slimste mens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20slimste%20mens",
         "pubdate": "Fri, 31 Jan 2025 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Wilfred Genee",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wilfred%20Genee",
-        "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
+        "title": "NAC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Fri, 31 Jan 2025 17:00:00 +0100"
       }
     ],
     [
@@ -90,13 +104,6 @@
         "title": "ADO Den Haag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
         "pubdate": "Fri, 31 Jan 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Emmen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Emmen",
-        "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Wed, 29 Jan 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Politie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Politie",
-        "pubdate": "Wed, 29 Jan 2025 19:00:00 +0100"
       }
     ]
   ]
