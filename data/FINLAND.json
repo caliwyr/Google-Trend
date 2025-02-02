@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "02-02-2025 , 21:44:31",
+  "lastUpdate": "02-02-2025 , 21:53:50",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "Munster",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Munster",
+        "pubdate": "Sun, 02 Feb 2025 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Käärijä",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#K%C3%A4%C3%A4rij%C3%A4",
         "pubdate": "Sun, 02 Feb 2025 18:00:00 +0200"
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Santorini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Santorini",
-        "pubdate": "Sun, 02 Feb 2025 21:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Groundhog Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Groundhog%20Day",
         "pubdate": "Sun, 02 Feb 2025 21:00:00 +0200"
@@ -87,9 +87,9 @@
     ],
     [
       {
-        "title": "UFC 312",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#UFC%20312",
-        "pubdate": "Sun, 02 Feb 2025 10:00:00 +0200"
+        "title": "Santorini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Santorini",
+        "pubdate": "Sun, 02 Feb 2025 21:00:00 +0200"
       }
     ],
     [
@@ -136,8 +136,8 @@
     ],
     [
       {
-        "title": "Chicago",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Chicago",
+        "title": "CHICAGO",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#CHICAGO",
         "pubdate": "Sat, 01 Feb 2025 22:00:00 +0200"
       }
     ]
