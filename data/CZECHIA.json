@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-02-2025 , 23:43:56",
+  "lastUpdate": "03-02-2025 , 23:53:17",
   "data": [
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Chelsea",
+        "pubdate": "Tue, 04 Feb 2025 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Olomouc – Plzeň",
@@ -38,9 +45,23 @@
     ],
     [
       {
+        "title": "Šikana Hodonín",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0ikana%20Hodon%C3%ADn",
+        "pubdate": "Mon, 03 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "USAID",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#USAID",
         "pubdate": "Mon, 03 Feb 2025 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Martin Glaser",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Glaser",
+        "pubdate": "Mon, 03 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -55,20 +76,6 @@
         "title": "Tenerife",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tenerife",
         "pubdate": "Mon, 03 Feb 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Martin Glaser",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Martin%20Glaser",
-        "pubdate": "Mon, 03 Feb 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Šikana Hodonín",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C5%A0ikana%20Hodon%C3%ADn",
-        "pubdate": "Mon, 03 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Leverkusen – Hoffenheim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen%20%E2%80%93%20Hoffenheim",
         "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Amerikánka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Amerik%C3%A1nka",
-        "pubdate": "Sun, 02 Feb 2025 03:00:00 +0100"
       }
     ]
   ]
