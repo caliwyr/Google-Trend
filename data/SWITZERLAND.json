@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 15:00:22",
+  "lastUpdate": "03-02-2025 , 15:24:43",
   "data": [
     [
       {
@@ -10,22 +10,15 @@
     ],
     [
       {
-        "title": "Grammys",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grammys",
-        "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Martin Pfister",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Martin%20Pfister",
-        "pubdate": "Mon, 03 Feb 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Bitcoin Crash",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bitcoin%20Crash",
+        "pubdate": "Mon, 03 Feb 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Julius Bär",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Julius%20B%C3%A4r",
         "pubdate": "Mon, 03 Feb 2025 10:00:00 +0100"
       }
     ],
@@ -45,13 +38,6 @@
     ],
     [
       {
-        "title": "Julius Bär",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Julius%20B%C3%A4r",
-        "pubdate": "Mon, 03 Feb 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
         "pubdate": "Mon, 03 Feb 2025 02:00:00 +0100"
@@ -66,23 +52,9 @@
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Napoli",
-        "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sabrina Carpenter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sabrina%20Carpenter",
         "pubdate": "Mon, 03 Feb 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Panama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Panama",
-        "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
       }
     ],
     [
@@ -94,9 +66,23 @@
     ],
     [
       {
+        "title": "Panama",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Panama",
+        "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Luca Jaquez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Luca%20Jaquez",
         "pubdate": "Mon, 03 Feb 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lady Gaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Lady%20Gaga",
+        "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
       }
     ],
     [
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Barbie Hsu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barbie%20Hsu",
+        "pubdate": "Mon, 03 Feb 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Handball",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Handball",
         "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Barbie Hsu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barbie%20Hsu",
+        "title": "Euro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Euro",
         "pubdate": "Mon, 03 Feb 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Star Wars",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Star%20Wars",
+        "pubdate": "Mon, 03 Feb 2025 10:00:00 +0100"
       }
     ]
   ]
