@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 16:49:16",
+  "lastUpdate": "03-02-2025 , 16:58:26",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Dow Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dow%20Jones",
+        "pubdate": "Mon, 03 Feb 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Manchester%20City",
         "pubdate": "Mon, 03 Feb 2025 02:00:00 +0100"
@@ -73,9 +80,16 @@
     ],
     [
       {
-        "title": "Dow jones",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Dow%20jones",
-        "pubdate": "Mon, 03 Feb 2025 13:00:00 +0100"
+        "title": "Christophe Ruggia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Christophe%20Ruggia",
+        "pubdate": "Mon, 03 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Grammy Awards",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grammy%20Awards",
+        "pubdate": "Mon, 03 Feb 2025 14:00:00 +0100"
       }
     ],
     [
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "EUR/USD",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#EUR/USD",
-        "pubdate": "Mon, 03 Feb 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barbie Hsu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barbie%20Hsu",
-        "pubdate": "Mon, 03 Feb 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Louis Boyard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Louis%20Boyard",
-        "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
+        "title": "Joao Felix",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Joao%20Felix",
+        "pubdate": "Mon, 03 Feb 2025 17:00:00 +0100"
       }
     ]
   ]

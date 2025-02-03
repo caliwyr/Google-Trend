@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 16:49:16",
+  "lastUpdate": "03-02-2025 , 16:58:25",
   "data": [
     [
       {
@@ -26,13 +26,6 @@
       {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#AC%20Milan",
-        "pubdate": "Mon, 03 Feb 2025 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Donald%20Trump",
         "pubdate": "Mon, 03 Feb 2025 16:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Sundowns FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Sundowns%20FC",
         "pubdate": "Sun, 02 Feb 2025 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Luka Doncic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Luka%20Doncic",
+        "pubdate": "Sun, 02 Feb 2025 11:00:00 +0200"
       }
     ]
   ]
