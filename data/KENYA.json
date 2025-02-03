@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 15:45:45",
+  "lastUpdate": "03-02-2025 , 15:55:06",
   "data": [
     [
       {
@@ -38,6 +38,13 @@
     ],
     [
       {
+        "title": "AC Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#AC%20Milan",
+        "pubdate": "Mon, 03 Feb 2025 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Liverpool fixtures",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Liverpool%20fixtures",
         "pubdate": "Mon, 03 Feb 2025 15:00:00 +0300"
@@ -45,16 +52,9 @@
     ],
     [
       {
-        "title": "Haaland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Haaland",
+        "title": "FA Cup",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FA%20Cup",
         "pubdate": "Mon, 03 Feb 2025 01:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Henry desagu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Henry%20desagu",
-        "pubdate": "Mon, 03 Feb 2025 12:00:00 +0300"
       }
     ],
     [
@@ -66,9 +66,16 @@
     ],
     [
       {
-        "title": "FA Cup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FA%20Cup",
+        "title": "Napoli FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli%20FC",
         "pubdate": "Mon, 03 Feb 2025 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Nico Gonzalez",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nico%20Gonzalez",
+        "pubdate": "Mon, 03 Feb 2025 18:00:00 +0300"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Haaland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Haaland",
+        "pubdate": "Sun, 02 Feb 2025 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Luka Doncic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Luka%20Doncic",
         "pubdate": "Sun, 02 Feb 2025 13:00:00 +0300"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Dorgu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dorgu",
-        "pubdate": "Sun, 02 Feb 2025 17:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Arsenal vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20vs%20Man%20United",
         "pubdate": "Sun, 02 Feb 2025 21:00:00 +0300"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Arsenal Women",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20Women",
-        "pubdate": "Sun, 02 Feb 2025 22:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Barcelona%20FC",
-        "pubdate": "Sun, 02 Feb 2025 18:00:00 +0300"
+        "title": "Dorgu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Dorgu",
+        "pubdate": "Sun, 02 Feb 2025 17:00:00 +0300"
       }
     ]
   ]
