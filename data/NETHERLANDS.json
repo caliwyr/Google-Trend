@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "03-02-2025 , 13:51:49",
+  "lastUpdate": "03-02-2025 , 14:08:11",
   "data": [
     [
       {
         "title": "AC Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#AC%20Milan",
         "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "USAID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#USAID",
-        "pubdate": "Mon, 03 Feb 2025 10:00:00 +0100"
       }
     ],
     [
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "pubdate": "Sun, 02 Feb 2025 01:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Willem II  AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Willem%20II%20%20AZ",
         "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
@@ -47,7 +47,7 @@
       {
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
-        "pubdate": "Sun, 02 Feb 2025 21:00:00 +0100"
+        "pubdate": "Sun, 02 Feb 2025 18:00:00 +0100"
       }
     ],
     [
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "RKC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
-        "pubdate": "Sun, 02 Feb 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mathieu van der Poel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mathieu%20van%20der%20Poel",
         "pubdate": "Sun, 02 Feb 2025 19:00:00 +0100"
@@ -80,15 +73,15 @@
     ],
     [
       {
-        "title": "Go Ahead Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
-        "pubdate": "Sun, 02 Feb 2025 16:00:00 +0100"
+        "title": "RKC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#RKC",
+        "pubdate": "Sun, 02 Feb 2025 14:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Radio 1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
+        "title": "Go Ahead Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
         "pubdate": "Sun, 02 Feb 2025 16:00:00 +0100"
       }
     ],
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Salah-Eddine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Salah-Eddine",
-        "pubdate": "Sun, 02 Feb 2025 18:00:00 +0100"
+        "title": "Radio 1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
+        "pubdate": "Sun, 02 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -115,9 +108,9 @@
     ],
     [
       {
-        "title": "Ajax Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Feyenoord",
-        "pubdate": "Sat, 01 Feb 2025 17:00:00 +0100"
+        "title": "Lady Gaga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lady%20Gaga",
+        "pubdate": "Sun, 02 Feb 2025 20:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
         "pubdate": "Fri, 31 Jan 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "WK veldrijden 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#WK%20veldrijden%202025",
+        "pubdate": "Fri, 31 Jan 2025 22:00:00 +0100"
       }
     ]
   ]
