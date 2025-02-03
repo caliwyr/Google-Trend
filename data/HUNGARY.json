@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 18:42:23",
+  "lastUpdate": "03-02-2025 , 18:51:37",
   "data": [
     [
       {
@@ -17,16 +17,16 @@
     ],
     [
       {
-        "title": "Ferencváros",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
-        "pubdate": "Mon, 03 Feb 2025 12:00:00 +0100"
+        "title": "Pósfai Gábor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%B3sfai%20G%C3%A1bor",
+        "pubdate": "Mon, 03 Feb 2025 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Influenza",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Influenza",
-        "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
+        "title": "Ferencváros",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferencv%C3%A1ros",
+        "pubdate": "Mon, 03 Feb 2025 12:00:00 +0100"
       }
     ],
     [
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Pósfai Gábor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#P%C3%B3sfai%20G%C3%A1bor",
-        "pubdate": "Mon, 03 Feb 2025 17:00:00 +0100"
+        "title": "Influenza",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Influenza",
+        "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
       }
     ],
     [
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "USAID",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#USAID",
+        "pubdate": "Mon, 03 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "KTE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#KTE",
         "pubdate": "Mon, 03 Feb 2025 06:00:00 +0100"
@@ -69,20 +76,6 @@
         "title": "Rakonczay Gábor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Rakonczay%20G%C3%A1bor",
         "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "USAID",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#USAID",
-        "pubdate": "Mon, 03 Feb 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Malév",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Mal%C3%A9v",
-        "pubdate": "Mon, 03 Feb 2025 17:00:00 +0100"
       }
     ],
     [
@@ -101,9 +94,9 @@
     ],
     [
       {
-        "title": "Panama",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Panama",
-        "pubdate": "Mon, 03 Feb 2025 17:00:00 +0100"
+        "title": "MOME",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#MOME",
+        "pubdate": "Mon, 03 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "Davis-kupa magyarország Kanada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Davis-kupa%20magyarorsz%C3%A1g%20Kanada",
-        "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
+        "title": "Szent Balázs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szent%20Bal%C3%A1zs",
+        "pubdate": "Mon, 03 Feb 2025 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Szent Balázs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Szent%20Bal%C3%A1zs",
-        "pubdate": "Mon, 03 Feb 2025 18:00:00 +0100"
+        "title": "Davis-kupa magyarország Kanada",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Davis-kupa%20magyarorsz%C3%A1g%20Kanada",
+        "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Arsenal–manchester City",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal%E2%80%93manchester%20City",
         "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Grammy 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Grammy%202025",
+        "pubdate": "Sun, 02 Feb 2025 11:00:00 +0100"
       }
     ]
   ]
