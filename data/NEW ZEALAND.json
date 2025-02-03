@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-02-2025 , 17:49:35",
+  "lastUpdate": "03-02-2025 , 17:58:48",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Docs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Docs",
+        "pubdate": "Mon, 03 Feb 2025 12:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Snake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Snake",
         "pubdate": "Mon, 03 Feb 2025 11:00:00 +1300"
@@ -87,8 +94,8 @@
     ],
     [
       {
-        "title": "Epic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Epic",
+        "title": "EPIC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EPIC",
         "pubdate": "Mon, 03 Feb 2025 12:00:00 +1300"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "Beyonce",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Beyonce",
+        "pubdate": "Mon, 03 Feb 2025 19:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "EP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#EP",
         "pubdate": "Mon, 03 Feb 2025 13:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Highland Park",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Highland%20Park",
-        "pubdate": "Mon, 03 Feb 2025 13:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Santorini earthquakes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Santorini%20earthquakes",
-        "pubdate": "Mon, 03 Feb 2025 20:00:00 +1300"
       }
     ]
   ]
