@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "03-02-2025 , 04:40:51",
+  "lastUpdate": "03-02-2025 , 04:50:05",
   "data": [
     [
       {
         "title": "Almere  RKC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere%20%20RKC",
         "pubdate": "Sun, 02 Feb 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sparta Rotterdam  Groningen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Rotterdam%20%20Groningen",
-        "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
       }
     ],
     [
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Sparta Rotterdam  Groningen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sparta%20Rotterdam%20%20Groningen",
+        "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "FC Twente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Twente",
         "pubdate": "Sun, 02 Feb 2025 18:00:00 +0100"
@@ -31,9 +31,16 @@
     ],
     [
       {
-        "title": "Go Ahead Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
+        "title": "Twente",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Twente",
         "pubdate": "Sun, 02 Feb 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mathieu van der Poel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mathieu%20van%20der%20Poel",
+        "pubdate": "Sun, 02 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -52,16 +59,16 @@
     ],
     [
       {
-        "title": "Ajax Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Feyenoord",
-        "pubdate": "Sat, 01 Feb 2025 17:00:00 +0100"
+        "title": "Santorini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Santorini",
+        "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Mathieu van der Poel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Mathieu%20van%20der%20Poel",
-        "pubdate": "Sat, 01 Feb 2025 16:00:00 +0100"
+        "title": "Ajax Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20Feyenoord",
+        "pubdate": "Sat, 01 Feb 2025 17:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Oliver Edvardsen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Oliver%20Edvardsen",
         "pubdate": "Thu, 30 Jan 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Btw-verhoging",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Btw-verhoging",
-        "pubdate": "Wed, 29 Jan 2025 12:00:00 +0100"
       }
     ]
   ]
