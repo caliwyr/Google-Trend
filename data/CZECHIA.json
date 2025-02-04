@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2025 , 04:49:04",
+  "lastUpdate": "04-02-2025 , 04:58:29",
   "data": [
     [
       {
@@ -48,6 +48,13 @@
         "title": "USAID",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#USAID",
         "pubdate": "Mon, 03 Feb 2025 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Girona – Las Palmas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Girona%20%E2%80%93%20Las%20Palmas",
+        "pubdate": "Mon, 03 Feb 2025 21:00:00 +0100"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Radovan Krejčíř",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Radovan%20Krej%C4%8D%C3%AD%C5%99",
+        "pubdate": "Mon, 03 Feb 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Betis – Bilbao",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Betis%20%E2%80%93%20Bilbao",
         "pubdate": "Mon, 03 Feb 2025 00:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Slovácko – Sparta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slov%C3%A1cko%20%E2%80%93%20Sparta",
         "pubdate": "Sun, 02 Feb 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Slavia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Slavia",
-        "pubdate": "Sun, 02 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Leverkusen – Hoffenheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Leverkusen%20%E2%80%93%20Hoffenheim",
-        "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
       }
     ]
   ]
