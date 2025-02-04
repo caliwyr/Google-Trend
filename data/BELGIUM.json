@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2025 , 03:41:44",
+  "lastUpdate": "04-02-2025 , 03:51:03",
   "data": [
     [
       {
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Marie Arena",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Marie%20Arena",
-        "pubdate": "Mon, 03 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Crypto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Crypto",
         "pubdate": "Mon, 03 Feb 2025 03:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Santorini aardbevingen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Santorini%20aardbevingen",
         "pubdate": "Mon, 03 Feb 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rashford",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rashford",
+        "pubdate": "Mon, 03 Feb 2025 10:00:00 +0100"
       }
     ]
   ]
