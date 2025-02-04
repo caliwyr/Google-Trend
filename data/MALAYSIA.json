@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-02-2025 , 21:45:27",
+  "lastUpdate": "04-02-2025 , 21:54:43",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Billie Eilish",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Billie%20Eilish",
         "pubdate": "Tue, 04 Feb 2025 02:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Copa del Rey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Copa%20del%20Rey",
+        "pubdate": "Tue, 04 Feb 2025 21:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Influenza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Influenza",
         "pubdate": "Mon, 03 Feb 2025 13:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Jaecoo J7 PHEV Malaysia launch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jaecoo%20J7%20PHEV%20Malaysia%20launch",
-        "pubdate": "Mon, 03 Feb 2025 23:00:00 +0800"
       }
     ]
   ]
