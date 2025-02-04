@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "04-02-2025 , 12:23:22",
+  "lastUpdate": "04-02-2025 , 12:55:39",
   "data": [
     [
       {
         "title": "BBB",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BBB",
         "pubdate": "Tue, 04 Feb 2025 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Droste",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Droste",
+        "pubdate": "Tue, 04 Feb 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Badr Hari",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Badr%20Hari",
+        "pubdate": "Mon, 03 Feb 2025 13:00:00 +0100"
       }
     ],
     [
@@ -17,23 +31,9 @@
     ],
     [
       {
-        "title": "Marouane Meftah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Marouane%20Meftah",
-        "pubdate": "Mon, 03 Feb 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "FC Groningen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Groningen",
         "pubdate": "Mon, 03 Feb 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Graafschap",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
-        "pubdate": "Mon, 03 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -48,6 +48,13 @@
         "title": "Malacia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Malacia",
         "pubdate": "Mon, 03 Feb 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Graafschap",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Graafschap",
+        "pubdate": "Mon, 03 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Chappell Roan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Chappell%20Roan",
+        "pubdate": "Mon, 03 Feb 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jong Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Jong%20Ajax",
         "pubdate": "Mon, 03 Feb 2025 23:00:00 +0100"
@@ -87,15 +101,15 @@
     ],
     [
       {
-        "title": "Ajax",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
-        "pubdate": "Sun, 02 Feb 2025 16:00:00 +0100"
+        "title": "ADO Den Haag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ADO%20Den%20Haag",
+        "pubdate": "Mon, 03 Feb 2025 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
+        "title": "Ajax",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 02 Feb 2025 16:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "Radio 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Radio%201",
         "pubdate": "Sun, 02 Feb 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Almere City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere%20City",
-        "pubdate": "Sun, 02 Feb 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Canada",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Canada",
-        "pubdate": "Sun, 02 Feb 2025 22:00:00 +0100"
       }
     ]
   ]
