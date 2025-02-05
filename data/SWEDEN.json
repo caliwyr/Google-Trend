@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-02-2025 , 12:28:49",
+  "lastUpdate": "05-02-2025 , 12:59:24",
   "data": [
     [
       {
@@ -17,23 +17,9 @@
     ],
     [
       {
-        "title": "Roslagsbanan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Roslagsbanan",
-        "pubdate": "Wed, 05 Feb 2025 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Copa del Rey",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Copa%20del%20Rey",
         "pubdate": "Wed, 05 Feb 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Dn.se",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Dn.se",
-        "pubdate": "Wed, 05 Feb 2025 10:00:00 +0100"
       }
     ],
     [
@@ -52,9 +38,9 @@
     ],
     [
       {
-        "title": "SVT Nyheter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT%20Nyheter",
-        "pubdate": "Tue, 04 Feb 2025 17:00:00 +0100"
+        "title": "Expressen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Expressen",
+        "pubdate": "Tue, 04 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -66,9 +52,23 @@
     ],
     [
       {
+        "title": "SVT Nyheter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT%20Nyheter",
+        "pubdate": "Tue, 04 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "DN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DN",
         "pubdate": "Tue, 04 Feb 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nyheter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nyheter",
+        "pubdate": "Tue, 04 Feb 2025 17:00:00 +0100"
       }
     ],
     [
@@ -83,6 +83,13 @@
         "title": "New York Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#New%20York%20Times",
         "pubdate": "Tue, 04 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "SR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SR",
+        "pubdate": "Tue, 04 Feb 2025 23:00:00 +0100"
       }
     ],
     [
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Sveriges Radio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sveriges%20Radio",
-        "pubdate": "Tue, 04 Feb 2025 23:00:00 +0100"
+        "title": "TT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#TT",
+        "pubdate": "Tue, 04 Feb 2025 17:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Sam Kerr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sam%20Kerr",
         "pubdate": "Tue, 04 Feb 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Senaste nytt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Senaste%20nytt",
-        "pubdate": "Tue, 04 Feb 2025 21:00:00 +0100"
       }
     ]
   ]
