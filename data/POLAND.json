@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "05-02-2025 , 15:37:39",
+  "lastUpdate": "05-02-2025 , 15:46:59",
   "data": [
+    [
+      {
+        "title": "Pożar Gdańsk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Po%C5%BCar%20Gda%C5%84sk",
+        "pubdate": "Wed, 05 Feb 2025 15:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Ronaldo",
@@ -45,9 +52,9 @@
     ],
     [
       {
-        "title": "Pożar Gdańsk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Po%C5%BCar%20Gda%C5%84sk",
-        "pubdate": "Wed, 05 Feb 2025 15:00:00 +0100"
+        "title": "Palestyna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Palestyna",
+        "pubdate": "Wed, 05 Feb 2025 13:00:00 +0100"
       }
     ],
     [
@@ -55,13 +62,6 @@
         "title": "Opera Air",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Opera%20Air",
         "pubdate": "Wed, 05 Feb 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Palestyna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Palestyna",
-        "pubdate": "Wed, 05 Feb 2025 13:00:00 +0100"
       }
     ],
     [
@@ -76,13 +76,6 @@
         "title": "Santorini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Santorini",
         "pubdate": "Tue, 04 Feb 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Puchar Króla",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Puchar%20Kr%C3%B3la",
-        "pubdate": "Tue, 04 Feb 2025 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Jacek Borkowski",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jacek%20Borkowski",
         "pubdate": "Tue, 04 Feb 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Paulina Smaszcz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Paulina%20Smaszcz",
+        "pubdate": "Tue, 04 Feb 2025 18:00:00 +0100"
       }
     ]
   ]
