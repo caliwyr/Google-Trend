@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-02-2025 , 08:47:04",
+  "lastUpdate": "05-02-2025 , 08:56:22",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Google stock",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Google%20stock",
-        "pubdate": "Tue, 04 Feb 2025 16:00:00 -0800"
-      }
-    ],
-    [
-      {
         "title": "El Salvador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#El%20Salvador",
         "pubdate": "Tue, 04 Feb 2025 03:00:00 -0800"
@@ -139,6 +132,13 @@
         "title": "Sweden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#Sweden",
         "pubdate": "Tue, 04 Feb 2025 16:00:00 -0800"
+      }
+    ],
+    [
+      {
+        "title": "U.S. Navy HELIOS laser weapon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=US#U.S.%20Navy%20HELIOS%20laser%20weapon",
+        "pubdate": "Tue, 04 Feb 2025 18:00:00 -0800"
       }
     ]
   ]
