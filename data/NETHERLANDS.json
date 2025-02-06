@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "06-02-2025 , 05:39:23",
+  "lastUpdate": "06-02-2025 , 05:48:32",
   "data": [
-    [
-      {
-        "title": "Go Ahead Eagles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
-        "pubdate": "Wed, 05 Feb 2025 21:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Trump Gaza",
@@ -20,6 +13,13 @@
         "title": "Sywert van Lienden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Sywert%20van%20Lienden",
         "pubdate": "Wed, 05 Feb 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Go Ahead Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Go%20Ahead%20Eagles",
+        "pubdate": "Wed, 05 Feb 2025 21:00:00 +0100"
       }
     ],
     [
@@ -73,16 +73,9 @@
     ],
     [
       {
-        "title": "PSV  Feyenoord",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20%20Feyenoord",
+        "title": "PSV - Feyenoord",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20-%20Feyenoord",
         "pubdate": "Tue, 04 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "KNVB-beker",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#KNVB-beker",
-        "pubdate": "Tue, 04 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Santorini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Santorini",
         "pubdate": "Sun, 02 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ESPN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#ESPN",
+        "pubdate": "Sun, 02 Feb 2025 11:00:00 +0100"
       }
     ]
   ]
