@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "06-02-2025 , 09:38:30",
+  "lastUpdate": "06-02-2025 , 09:47:49",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "SvD",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SvD",
         "pubdate": "Wed, 05 Feb 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "SR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SR",
+        "pubdate": "Wed, 05 Feb 2025 01:00:00 +0100"
       }
     ],
     [
@@ -59,6 +66,13 @@
     ],
     [
       {
+        "title": "Runebergstårta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Runebergst%C3%A5rta",
+        "pubdate": "Wed, 05 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Novo Nordisk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Novo%20Nordisk",
         "pubdate": "Wed, 05 Feb 2025 19:00:00 +0100"
@@ -73,9 +87,9 @@
     ],
     [
       {
-        "title": "FLASH",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FLASH",
-        "pubdate": "Wed, 05 Feb 2025 00:00:00 +0100"
+        "title": "Roslagsbanan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Roslagsbanan",
+        "pubdate": "Wed, 05 Feb 2025 07:00:00 +0100"
       }
     ],
     [
@@ -108,15 +122,15 @@
     ],
     [
       {
-        "title": "SVT",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT",
+        "title": "SVT nyheter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT%20nyheter",
         "pubdate": "Tue, 04 Feb 2025 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "SVT Nyheter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT%20Nyheter",
+        "title": "SVT",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT",
         "pubdate": "Tue, 04 Feb 2025 17:00:00 +0100"
       }
     ],
@@ -125,20 +139,6 @@
         "title": "DN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#DN",
         "pubdate": "Tue, 04 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nyheter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Nyheter",
-        "pubdate": "Tue, 04 Feb 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Polisen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Polisen",
-        "pubdate": "Tue, 04 Feb 2025 16:00:00 +0100"
       }
     ]
   ]
