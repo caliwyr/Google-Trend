@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "05-02-2025 , 23:55:37",
+  "lastUpdate": "06-02-2025 , 01:12:06",
   "data": [
     [
       {
@@ -38,13 +38,6 @@
     ],
     [
       {
-        "title": "AR-15",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#AR-15",
-        "pubdate": "Wed, 05 Feb 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jurassic World Rebirth",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jurassic%20World%20Rebirth",
         "pubdate": "Wed, 05 Feb 2025 18:00:00 +0100"
@@ -59,16 +52,16 @@
     ],
     [
       {
-        "title": "Novo Nordisk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Novo%20Nordisk",
-        "pubdate": "Wed, 05 Feb 2025 19:00:00 +0100"
+        "title": "Alexander Isak",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alexander%20Isak",
+        "pubdate": "Wed, 05 Feb 2025 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Alexander Isak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Alexander%20Isak",
-        "pubdate": "Wed, 05 Feb 2025 23:00:00 +0100"
+        "title": "Novo Nordisk",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Novo%20Nordisk",
+        "pubdate": "Wed, 05 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "SVT nyheter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT%20nyheter",
+        "title": "SVT Nyheter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SVT%20Nyheter",
         "pubdate": "Tue, 04 Feb 2025 17:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "New York Times",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#New%20York%20Times",
         "pubdate": "Tue, 04 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sweden",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sweden",
+        "pubdate": "Tue, 04 Feb 2025 18:00:00 +0100"
       }
     ]
   ]
