@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "07-02-2025 , 10:39:31",
+  "lastUpdate": "07-02-2025 , 10:48:59",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
+        "pubdate": "Fri, 07 Feb 2025 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Serie A",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Serie%20A",
         "pubdate": "Fri, 07 Feb 2025 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#FC%20Barcelona",
-        "pubdate": "Fri, 07 Feb 2025 00:00:00 +0100"
       }
     ],
     [
@@ -41,13 +41,6 @@
         "title": "Liverpool – Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Liverpool%20%E2%80%93%20Tottenham",
         "pubdate": "Thu, 06 Feb 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Barcelona",
-        "pubdate": "Thu, 06 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -94,6 +87,13 @@
     ],
     [
       {
+        "title": "Carlos Cuesta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Carlos%20Cuesta",
+        "pubdate": "Thu, 06 Feb 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Fort Boyard",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Fort%20Boyard",
         "pubdate": "Thu, 06 Feb 2025 20:00:00 +0100"
@@ -104,13 +104,6 @@
         "title": "Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Santos",
         "pubdate": "Thu, 06 Feb 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Cuesta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Carlos%20Cuesta",
-        "pubdate": "Thu, 06 Feb 2025 14:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Lotus Bakeries",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lotus%20Bakeries",
         "pubdate": "Thu, 06 Feb 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Antwerp FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Antwerp%20FC",
+        "pubdate": "Thu, 06 Feb 2025 23:00:00 +0100"
       }
     ]
   ]
