@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "07-02-2025 , 20:35:30",
+  "lastUpdate": "07-02-2025 , 20:44:54",
   "data": [
+    [
+      {
+        "title": "HSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#HSV",
+        "pubdate": "Fri, 07 Feb 2025 20:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "ZDF Schlagabtausch",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ZDF%20Schlagabtausch",
         "pubdate": "Fri, 07 Feb 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wahlumfragen Bundestagswahl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Wahlumfragen%20Bundestagswahl",
-        "pubdate": "Fri, 07 Feb 2025 13:00:00 +0100"
       }
     ],
     [
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Rheinmetall",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Rheinmetall",
+        "pubdate": "Thu, 06 Feb 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Gaza",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Gaza",
         "pubdate": "Wed, 05 Feb 2025 11:00:00 +0100"
@@ -66,8 +73,8 @@
     ],
     [
       {
-        "title": "Santorini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Santorini",
+        "title": "Santorini Erdbeben",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Santorini%20Erdbeben",
         "pubdate": "Mon, 03 Feb 2025 14:00:00 +0100"
       }
     ],
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Merz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Merz",
+        "title": "Bundestag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestag",
         "pubdate": "Wed, 29 Jan 2025 15:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Nvidia-Aktie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Nvidia-Aktie",
         "pubdate": "Mon, 27 Jan 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "NASDAQ-100",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NASDAQ-100",
-        "pubdate": "Mon, 27 Jan 2025 16:00:00 +0100"
       }
     ]
   ]
