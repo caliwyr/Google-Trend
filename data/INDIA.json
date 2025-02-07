@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-02-2025 , 12:29:23",
+  "lastUpdate": "07-02-2025 , 12:58:27",
   "data": [
     [
       {
@@ -26,7 +26,7 @@
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Barcelona",
-        "pubdate": "Fri, 07 Feb 2025 08:30:00 +0530"
+        "pubdate": "Fri, 07 Feb 2025 07:30:00 +0530"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "FC Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#FC%20Barcelona",
         "pubdate": "Fri, 07 Feb 2025 09:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "Valentine Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Valentine%20Day",
+        "pubdate": "Fri, 07 Feb 2025 13:30:00 +0530"
       }
     ],
     [
@@ -66,13 +73,6 @@
     ],
     [
       {
-        "title": "England vs India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#England%20vs%20India",
-        "pubdate": "Thu, 06 Feb 2025 13:30:00 +0530"
-      }
-    ],
-    [
-      {
         "title": "IND vs ENG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20vs%20ENG",
         "pubdate": "Thu, 06 Feb 2025 13:30:00 +0530"
@@ -94,8 +94,22 @@
     ],
     [
       {
+        "title": "India vs England",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#India%20vs%20England",
+        "pubdate": "Thu, 06 Feb 2025 13:30:00 +0530"
+      }
+    ],
+    [
+      {
         "title": "Cricket",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Cricket",
+        "pubdate": "Thu, 06 Feb 2025 17:30:00 +0530"
+      }
+    ],
+    [
+      {
+        "title": "ICC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICC",
         "pubdate": "Thu, 06 Feb 2025 17:30:00 +0530"
       }
     ],
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "ICC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#ICC",
-        "pubdate": "Thu, 06 Feb 2025 17:30:00 +0530"
+        "title": "IND vs ENG Live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#IND%20vs%20ENG%20Live",
+        "pubdate": "Thu, 06 Feb 2025 13:30:00 +0530"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Shreyas Iyer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Shreyas%20Iyer",
         "pubdate": "Thu, 06 Feb 2025 14:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Rohit Sharma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Rohit%20Sharma",
-        "pubdate": "Thu, 06 Feb 2025 20:30:00 +0530"
-      }
-    ],
-    [
-      {
-        "title": "Vidaamuyarchi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IN#Vidaamuyarchi",
-        "pubdate": "Thu, 06 Feb 2025 10:30:00 +0530"
       }
     ]
   ]
