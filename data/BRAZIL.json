@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "07-02-2025 , 02:30:37",
+  "lastUpdate": "07-02-2025 , 03:01:18",
   "data": [
     [
       {
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Barcelona",
         "pubdate": "Thu, 06 Feb 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "São Bernardo x Novorizontino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Bernardo%20x%20Novorizontino",
-        "pubdate": "Thu, 06 Feb 2025 17:00:00 -0500"
       }
     ],
     [
@@ -24,16 +17,23 @@
     ],
     [
       {
-        "title": "Guarani x Água Santa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani%20x%20%C3%81gua%20Santa",
+        "title": "São Bernardo x Novorizontino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Bernardo%20x%20Novorizontino",
         "pubdate": "Thu, 06 Feb 2025 17:00:00 -0500"
       }
     ],
     [
       {
-        "title": "Santos Futebol Clube",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santos%20Futebol%20Clube",
+        "title": "Fiorentina x Inter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fiorentina%20x%20Inter",
         "pubdate": "Thu, 06 Feb 2025 05:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Guarani x Água Santa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guarani%20x%20%C3%81gua%20Santa",
+        "pubdate": "Thu, 06 Feb 2025 17:00:00 -0500"
       }
     ],
     [
@@ -45,23 +45,9 @@
     ],
     [
       {
-        "title": "Inter de Milão",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Mil%C3%A3o",
-        "pubdate": "Thu, 06 Feb 2025 05:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Jogo do Vasco",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Jogo%20do%20Vasco",
-        "pubdate": "Thu, 06 Feb 2025 18:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Marcelo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marcelo",
-        "pubdate": "Thu, 06 Feb 2025 09:00:00 -0500"
+        "pubdate": "Thu, 06 Feb 2025 07:00:00 -0500"
       }
     ],
     [
@@ -69,6 +55,13 @@
         "title": "Remo x São Raimundo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo%20x%20S%C3%A3o%20Raimundo",
         "pubdate": "Thu, 06 Feb 2025 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Marcelo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marcelo",
+        "pubdate": "Thu, 06 Feb 2025 09:00:00 -0500"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Yuri Alberto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Yuri%20Alberto",
+        "pubdate": "Thu, 06 Feb 2025 20:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Galatasaray",
         "pubdate": "Thu, 06 Feb 2025 09:00:00 -0500"
@@ -97,20 +97,6 @@
         "title": "TNT",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#TNT",
         "pubdate": "Thu, 06 Feb 2025 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Athletico",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Athletico",
-        "pubdate": "Thu, 06 Feb 2025 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Garro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Garro",
-        "pubdate": "Thu, 06 Feb 2025 00:00:00 -0500"
       }
     ],
     [
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Guilherme",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Guilherme",
+        "pubdate": "Thu, 06 Feb 2025 01:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Bob Marley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Bob%20Marley",
         "pubdate": "Thu, 06 Feb 2025 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "TNT Sports",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#TNT%20Sports",
+        "pubdate": "Thu, 06 Feb 2025 19:00:00 -0500"
       }
     ]
   ]
