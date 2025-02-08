@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "08-02-2025 , 13:35:57",
+  "lastUpdate": "08-02-2025 , 13:45:18",
   "data": [
     [
       {
         "title": "Hurkacz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Hurkacz",
         "pubdate": "Sat, 08 Feb 2025 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kanye West",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kanye%20West",
+        "pubdate": "Sat, 08 Feb 2025 11:00:00 +0100"
       }
     ],
     [
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Pola Bełtowska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pola%20Be%C5%82towska",
+        "title": "FAME",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FAME",
         "pubdate": "Sat, 08 Feb 2025 13:00:00 +0100"
       }
     ],
@@ -52,9 +59,9 @@
     ],
     [
       {
-        "title": "FAME",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#FAME",
-        "pubdate": "Sat, 08 Feb 2025 13:00:00 +0100"
+        "title": "Mery Spolsky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Mery%20Spolsky",
+        "pubdate": "Sat, 08 Feb 2025 11:00:00 +0100"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Serie a",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Serie%20a",
-        "pubdate": "Fri, 07 Feb 2025 01:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Główny Inspektorat Sanitarny",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#G%C5%82%C3%B3wny%20Inspektorat%20Sanitarny",
         "pubdate": "Fri, 07 Feb 2025 22:00:00 +0100"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Łukasz Wnuk disco polo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#%C5%81ukasz%20Wnuk%20disco%20polo",
-        "pubdate": "Fri, 07 Feb 2025 17:00:00 +0100"
+        "title": "Serie a",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Serie%20a",
+        "pubdate": "Fri, 07 Feb 2025 01:00:00 +0100"
       }
     ]
   ]
