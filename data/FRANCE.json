@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2025 , 12:22:39",
+  "lastUpdate": "08-02-2025 , 12:50:45",
   "data": [
     [
       {
@@ -24,23 +24,16 @@
     ],
     [
       {
-        "title": "Danseur Danse avec les stars",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Danseur%20Danse%20avec%20les%20stars",
-        "pubdate": "Sat, 08 Feb 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Munich",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Bayern%20Munich",
-        "pubdate": "Sat, 08 Feb 2025 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Etoile de Bessèges",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Etoile%20de%20Bess%C3%A8ges",
         "pubdate": "Sat, 08 Feb 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Michou",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Michou",
+        "pubdate": "Sat, 08 Feb 2025 13:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Serpents",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Serpents",
         "pubdate": "Fri, 07 Feb 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Super Bowl 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Super%20Bowl%202025",
+        "pubdate": "Fri, 07 Feb 2025 17:00:00 +0100"
       }
     ]
   ]
