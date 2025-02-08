@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2025 , 07:45:43",
+  "lastUpdate": "08-02-2025 , 07:55:03",
   "data": [
     [
       {
@@ -55,6 +55,13 @@
         "title": "Ona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ona",
         "pubdate": "Fri, 07 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Gullfisken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Gullfisken",
+        "pubdate": "Fri, 07 Feb 2025 23:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Liverpool FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Liverpool%20FC",
         "pubdate": "Thu, 06 Feb 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Xpeng X9",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Xpeng%20X9",
-        "pubdate": "Thu, 06 Feb 2025 22:00:00 +0100"
       }
     ]
   ]
