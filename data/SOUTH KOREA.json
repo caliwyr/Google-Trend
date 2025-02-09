@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-02-2025 , 19:39:32",
+  "lastUpdate": "09-02-2025 , 19:48:53",
   "data": [
     [
       {
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "XRP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#XRP",
-        "pubdate": "Sat, 08 Feb 2025 05:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "허은아",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%97%88%EC%9D%80%EC%95%84",
         "pubdate": "Sat, 08 Feb 2025 13:00:00 +0900"
@@ -139,6 +132,13 @@
         "title": "NJZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#NJZ",
         "pubdate": "Fri, 07 Feb 2025 11:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "서희원",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%84%9C%ED%9D%AC%EC%9B%90",
+        "pubdate": "Fri, 07 Feb 2025 07:00:00 +0900"
       }
     ]
   ]
