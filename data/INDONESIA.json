@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-02-2025 , 07:43:58",
+  "lastUpdate": "09-02-2025 , 07:53:17",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Tim Geypens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tim%20Geypens",
-        "pubdate": "Sun, 09 Feb 2025 10:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Joel Veltman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Joel%20Veltman",
         "pubdate": "Sun, 09 Feb 2025 12:00:00 +0700"
@@ -62,6 +55,13 @@
         "title": "Kebakaran Gedung Kementerian ATR/BPN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Kebakaran%20Gedung%20Kementerian%20ATR/BPN",
         "pubdate": "Sun, 09 Feb 2025 13:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "Tim Geypens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Tim%20Geypens",
+        "pubdate": "Sun, 09 Feb 2025 10:00:00 +0700"
       }
     ],
     [
@@ -96,7 +96,7 @@
       {
         "title": "Dewa United vs Persija Jakarta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ID#Dewa%20United%20vs%20Persija%20Jakarta",
-        "pubdate": "Sat, 08 Feb 2025 19:00:00 +0700"
+        "pubdate": "Sat, 08 Feb 2025 13:00:00 +0700"
       }
     ],
     [
