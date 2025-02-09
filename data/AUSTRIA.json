@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-02-2025 , 23:57:40",
+  "lastUpdate": "09-02-2025 , 01:40:30",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Rapid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
-        "pubdate": "Sat, 08 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Dortmund – VfB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Dortmund%20%E2%80%93%20VfB%20Stuttgart",
         "pubdate": "Sat, 08 Feb 2025 15:00:00 +0100"
@@ -45,9 +38,23 @@
     ],
     [
       {
+        "title": "Rapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid",
+        "pubdate": "Sat, 08 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tony Roberts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tony%20Roberts",
         "pubdate": "Sat, 08 Feb 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Rapid Wien",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Rapid%20Wien",
+        "pubdate": "Sat, 08 Feb 2025 18:00:00 +0100"
       }
     ],
     [
@@ -80,16 +87,16 @@
     ],
     [
       {
-        "title": "Mönchengladbach – Eintracht Frankfurt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#M%C3%B6nchengladbach%20%E2%80%93%20Eintracht%20Frankfurt",
-        "pubdate": "Sat, 08 Feb 2025 19:00:00 +0100"
+        "title": "Lake Placid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lake%20Placid",
+        "pubdate": "Sat, 08 Feb 2025 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Lake Placid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lake%20Placid",
-        "pubdate": "Sat, 08 Feb 2025 17:00:00 +0100"
+        "title": "Mönchengladbach – Eintracht Frankfurt",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#M%C3%B6nchengladbach%20%E2%80%93%20Eintracht%20Frankfurt",
+        "pubdate": "Sat, 08 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Ledecka",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Ledecka",
         "pubdate": "Sat, 08 Feb 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Juventus",
-        "pubdate": "Sat, 08 Feb 2025 01:00:00 +0100"
       }
     ]
   ]
