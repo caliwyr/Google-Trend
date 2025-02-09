@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "09-02-2025 , 08:41:54",
+  "lastUpdate": "09-02-2025 , 08:51:19",
   "data": [
+    [
+      {
+        "title": "El tiempo Santiago",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#El%20tiempo%20Santiago",
+        "pubdate": "Sun, 09 Feb 2025 05:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Gala del Pueblo",
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Nicolás Guerra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nicol%C3%A1s%20Guerra",
-        "pubdate": "Sat, 08 Feb 2025 21:00:00 -0300"
-      }
-    ],
-    [
-      {
         "title": "Terremoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Terremoto",
         "pubdate": "Sat, 08 Feb 2025 22:00:00 -0300"
@@ -59,16 +59,16 @@
     ],
     [
       {
-        "title": "Toque de queda",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Toque%20de%20queda",
-        "pubdate": "Sat, 08 Feb 2025 12:00:00 -0300"
+        "title": "Nicolás Guerra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Nicol%C3%A1s%20Guerra",
+        "pubdate": "Sat, 08 Feb 2025 21:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Celta de Vigo  Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Celta%20de%20Vigo%20%20Betis",
-        "pubdate": "Sat, 08 Feb 2025 11:00:00 -0300"
+        "title": "Toque de queda",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Toque%20de%20queda",
+        "pubdate": "Sat, 08 Feb 2025 12:00:00 -0300"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Amistosos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Amistosos",
-        "pubdate": "Sat, 08 Feb 2025 21:00:00 -0300"
+        "title": "Betis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis",
+        "pubdate": "Sat, 08 Feb 2025 12:00:00 -0300"
       }
     ]
   ]
