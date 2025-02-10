@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-02-2025 , 08:44:13",
+  "lastUpdate": "10-02-2025 , 08:53:30",
   "data": [
     [
       {
         "title": "Pete Davidson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Pete%20Davidson",
         "pubdate": "Mon, 10 Feb 2025 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Chris Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Chris%20Jones",
+        "pubdate": "Mon, 10 Feb 2025 03:00:00 -0500"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "UFC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#UFC",
         "pubdate": "Sun, 09 Feb 2025 14:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Tubi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tubi",
-        "pubdate": "Sun, 09 Feb 2025 16:00:00 -0500"
       }
     ],
     [
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Sevilla vs Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Sevilla%20vs%20Barcelona",
-        "pubdate": "Sun, 09 Feb 2025 15:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "DAZN",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#DAZN",
         "pubdate": "Sun, 09 Feb 2025 09:00:00 -0500"
@@ -139,6 +132,13 @@
         "title": "Mark Williams",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mark%20Williams",
         "pubdate": "Sun, 09 Feb 2025 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tron",
+        "pubdate": "Sun, 09 Feb 2025 08:00:00 -0500"
       }
     ]
   ]
