@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2025 , 18:42:07",
+  "lastUpdate": "10-02-2025 , 18:51:17",
   "data": [
     [
       {
@@ -13,13 +13,6 @@
         "title": "Raila Odinga",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Raila%20Odinga",
         "pubdate": "Mon, 10 Feb 2025 09:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Jalen Hurts",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jalen%20Hurts",
-        "pubdate": "Mon, 10 Feb 2025 16:00:00 +0300"
       }
     ],
     [
@@ -45,6 +38,13 @@
     ],
     [
       {
+        "title": "Man City vs Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Real%20Madrid",
+        "pubdate": "Mon, 10 Feb 2025 17:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Wolves",
         "pubdate": "Mon, 10 Feb 2025 01:00:00 +0300"
@@ -52,8 +52,15 @@
     ],
     [
       {
-        "title": "Man City vs Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Real%20Madrid",
+        "title": "Jalen Hurts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Jalen%20Hurts",
+        "pubdate": "Mon, 10 Feb 2025 16:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Philadelphia Eagles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Philadelphia%20Eagles",
         "pubdate": "Mon, 10 Feb 2025 17:00:00 +0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "FA Cup draw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#FA%20Cup%20draw",
         "pubdate": "Sun, 09 Feb 2025 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "NFL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#NFL",
-        "pubdate": "Sun, 09 Feb 2025 22:00:00 +0300"
       }
     ]
   ]

@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2025 , 18:42:10",
+  "lastUpdate": "10-02-2025 , 18:51:20",
   "data": [
     [
       {
@@ -24,13 +24,6 @@
     ],
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelona",
-        "pubdate": "Mon, 10 Feb 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jalen Hurts",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Jalen%20Hurts",
         "pubdate": "Mon, 10 Feb 2025 05:00:00 +0100"
@@ -38,9 +31,23 @@
     ],
     [
       {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Barcelona",
+        "pubdate": "Mon, 10 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "SZA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#SZA",
         "pubdate": "Mon, 10 Feb 2025 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Vollmond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Vollmond",
+        "pubdate": "Mon, 10 Feb 2025 09:00:00 +0100"
       }
     ],
     [
@@ -87,13 +94,6 @@
     ],
     [
       {
-        "title": "Liechtenstein",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liechtenstein",
-        "pubdate": "Mon, 10 Feb 2025 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Valentinstag Geschenke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Valentinstag%20Geschenke",
         "pubdate": "Mon, 10 Feb 2025 15:00:00 +0100"
@@ -101,9 +101,16 @@
     ],
     [
       {
-        "title": "Swiss-Ski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss-Ski",
-        "pubdate": "Mon, 10 Feb 2025 09:00:00 +0100"
+        "title": "Liechtenstein",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Liechtenstein",
+        "pubdate": "Mon, 10 Feb 2025 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bundestagswahl 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bundestagswahl%202025",
+        "pubdate": "Mon, 10 Feb 2025 10:00:00 +0100"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Tubi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Tubi",
-        "pubdate": "Mon, 10 Feb 2025 01:00:00 +0100"
+        "title": "Swiss-Ski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Swiss-Ski",
+        "pubdate": "Mon, 10 Feb 2025 09:00:00 +0100"
       }
     ],
     [
@@ -129,15 +136,8 @@
     ],
     [
       {
-        "title": "Blackout-Challenge",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blackout-Challenge",
-        "pubdate": "Mon, 10 Feb 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Biathlon-WM Lenzerheide",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Biathlon-WM%20Lenzerheide",
+        "title": "Le chat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Le%20chat",
         "pubdate": "Mon, 10 Feb 2025 17:00:00 +0100"
       }
     ]
