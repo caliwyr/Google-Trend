@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2025 , 19:46:36",
+  "lastUpdate": "10-02-2025 , 19:55:54",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Malangen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Malangen",
+        "pubdate": "Mon, 10 Feb 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ørebro",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#%C3%98rebro",
         "pubdate": "Mon, 10 Feb 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "OCD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#OCD",
+        "pubdate": "Mon, 10 Feb 2025 20:00:00 +0100"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Ski vm 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ski%20vm%202025",
-        "pubdate": "Sun, 09 Feb 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Vamp",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Vamp",
         "pubdate": "Sun, 09 Feb 2025 16:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Ullern VGS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Ullern%20VGS",
         "pubdate": "Sun, 09 Feb 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Rjukan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Rjukan",
-        "pubdate": "Sun, 09 Feb 2025 13:00:00 +0100"
       }
     ]
   ]
