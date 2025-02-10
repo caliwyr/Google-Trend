@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "10-02-2025 , 13:41:16",
+  "lastUpdate": "10-02-2025 , 13:50:37",
   "data": [
     [
       {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Napoli",
         "pubdate": "Mon, 10 Feb 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FA Cup draw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#FA%20Cup%20draw",
+        "pubdate": "Mon, 10 Feb 2025 08:00:00 +0100"
       }
     ],
     [
@@ -17,9 +24,30 @@
     ],
     [
       {
+        "title": "Jalen Hurts",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Jalen%20Hurts",
+        "pubdate": "Mon, 10 Feb 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Leipzig",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Leipzig",
         "pubdate": "Mon, 10 Feb 2025 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zicsaloma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Zicsaloma",
+        "pubdate": "Mon, 10 Feb 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nnamdi Kanu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Nnamdi%20Kanu",
+        "pubdate": "Mon, 10 Feb 2025 14:00:00 +0100"
       }
     ],
     [
@@ -66,6 +94,13 @@
     ],
     [
       {
+        "title": "Super Bowl 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Super%20Bowl%202025",
+        "pubdate": "Sun, 09 Feb 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Chelsea vs Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20vs%20Everton",
         "pubdate": "Sun, 09 Feb 2025 16:00:00 +0100"
@@ -87,13 +122,6 @@
     ],
     [
       {
-        "title": "Superbowl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Superbowl",
-        "pubdate": "Sun, 09 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Roma",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Roma",
         "pubdate": "Sun, 09 Feb 2025 13:00:00 +0100"
@@ -111,34 +139,6 @@
         "title": "Bologna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bologna",
         "pubdate": "Sun, 09 Feb 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Herbert Wigwe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Herbert%20Wigwe",
-        "pubdate": "Sun, 09 Feb 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Sociedad",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Sociedad",
-        "pubdate": "Sun, 09 Feb 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Brighton vs Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Brighton%20vs%20Chelsea",
-        "pubdate": "Sat, 08 Feb 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Plymouth Argyle vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Plymouth%20Argyle%20vs%20Liverpool",
-        "pubdate": "Sat, 08 Feb 2025 21:00:00 +0100"
       }
     ]
   ]
