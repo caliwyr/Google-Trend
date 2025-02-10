@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2025 , 04:47:02",
+  "lastUpdate": "10-02-2025 , 04:56:22",
   "data": [
     [
       {
@@ -73,8 +73,8 @@
     ],
     [
       {
-        "title": "SuperBowl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#SuperBowl",
+        "title": "Superbowl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Superbowl",
         "pubdate": "Sun, 09 Feb 2025 09:00:00 +0100"
       }
     ],
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Selena",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Selena",
+        "pubdate": "Sun, 09 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ewa Swoboda",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Ewa%20Swoboda",
         "pubdate": "Sun, 09 Feb 2025 02:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Aston%20Villa",
         "pubdate": "Sun, 09 Feb 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jack Nicholson",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jack%20Nicholson",
-        "pubdate": "Sun, 09 Feb 2025 00:00:00 +0100"
       }
     ]
   ]
