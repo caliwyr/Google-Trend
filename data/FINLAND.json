@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2025 , 07:40:30",
+  "lastUpdate": "10-02-2025 , 07:49:45",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "NFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NFL",
         "pubdate": "Mon, 10 Feb 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Justin Hotard",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Justin%20Hotard",
+        "pubdate": "Mon, 10 Feb 2025 09:00:00 +0200"
       }
     ],
     [
@@ -108,6 +115,13 @@
     ],
     [
       {
+        "title": "Super Bowl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Super%20Bowl",
+        "pubdate": "Sat, 08 Feb 2025 17:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Goldilocks",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Goldilocks",
         "pubdate": "Sat, 08 Feb 2025 22:00:00 +0200"
@@ -122,23 +136,9 @@
     ],
     [
       {
-        "title": "Kendrick Lamar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Kendrick%20Lamar",
-        "pubdate": "Sat, 08 Feb 2025 17:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Shakira",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Shakira",
         "pubdate": "Sat, 08 Feb 2025 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Eurovision 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Eurovision%202025",
-        "pubdate": "Sat, 08 Feb 2025 23:00:00 +0200"
       }
     ]
   ]
