@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "10-02-2025 , 09:40:42",
+  "lastUpdate": "10-02-2025 , 09:50:10",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "OL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OL",
-        "pubdate": "Sun, 09 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "OM Angers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OM%20Angers",
         "pubdate": "Sun, 09 Feb 2025 22:00:00 +0100"
@@ -73,9 +66,23 @@
     ],
     [
       {
+        "title": "OL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OL",
+        "pubdate": "Sun, 09 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Elon Musk",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Elon%20Musk",
         "pubdate": "Sun, 09 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jean-Louis Aubert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Jean-Louis%20Aubert",
+        "pubdate": "Sun, 09 Feb 2025 20:00:00 +0100"
       }
     ],
     [
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Le chat",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20chat",
+        "pubdate": "Sun, 09 Feb 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Avant toi Film",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Avant%20toi%20Film",
         "pubdate": "Sun, 09 Feb 2025 22:00:00 +0100"
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Le chat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Le%20chat",
-        "pubdate": "Sun, 09 Feb 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ahmed Sylla",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Ahmed%20Sylla",
         "pubdate": "Sun, 09 Feb 2025 12:00:00 +0100"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "La Femme de ménage",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#La%20Femme%20de%20m%C3%A9nage",
-        "pubdate": "Sun, 09 Feb 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maladie de Charcot",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Maladie%20de%20Charcot",
-        "pubdate": "Sun, 09 Feb 2025 01:00:00 +0100"
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Galatasaray",
+        "pubdate": "Sun, 09 Feb 2025 18:00:00 +0100"
       }
     ]
   ]
