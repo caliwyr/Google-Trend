@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "10-02-2025 , 15:42:26",
+  "lastUpdate": "10-02-2025 , 15:51:44",
   "data": [
+    [
+      {
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Barcelona",
+        "pubdate": "Mon, 10 Feb 2025 12:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Elecciones Ecuador",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Elecciones%20Ecuador",
         "pubdate": "Mon, 10 Feb 2025 00:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Antonio Campos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Antonio%20Campos",
+        "pubdate": "Mon, 10 Feb 2025 02:00:00 -0300"
       }
     ],
     [
@@ -24,15 +38,8 @@
     ],
     [
       {
-        "title": "Antonio Campos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Antonio%20Campos",
-        "pubdate": "Mon, 10 Feb 2025 02:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Drake",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Drake",
+        "title": "Luna llena febrero 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Luna%20llena%20febrero%202025",
         "pubdate": "Mon, 10 Feb 2025 11:00:00 -0300"
       }
     ],
@@ -122,23 +129,16 @@
     ],
     [
       {
+        "title": "O'Higgins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#O'Higgins",
+        "pubdate": "Sun, 09 Feb 2025 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Santos",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Santos",
         "pubdate": "Sun, 09 Feb 2025 23:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Coihueco",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coihueco",
-        "pubdate": "Sun, 09 Feb 2025 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Carlos Palacios",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Carlos%20Palacios",
-        "pubdate": "Sun, 09 Feb 2025 14:00:00 -0300"
       }
     ]
   ]
