@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-02-2025 , 04:49:44",
+  "lastUpdate": "11-02-2025 , 04:59:02",
   "data": [
     [
       {
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "Barcelona vs",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Barcelona%20vs",
-        "pubdate": "Mon, 10 Feb 2025 09:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Drive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Drive",
         "pubdate": "Mon, 10 Feb 2025 13:00:00 -0600"
@@ -80,9 +73,23 @@
     ],
     [
       {
+        "title": "Barcelona vs",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Barcelona%20vs",
+        "pubdate": "Mon, 10 Feb 2025 09:00:00 -0600"
+      }
+    ],
+    [
+      {
         "title": "VIX",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#VIX",
         "pubdate": "Mon, 10 Feb 2025 10:00:00 -0600"
+      }
+    ],
+    [
+      {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers",
+        "pubdate": "Mon, 10 Feb 2025 20:00:00 -0600"
       }
     ],
     [
@@ -122,13 +129,6 @@
     ],
     [
       {
-        "title": "Numero de seguro social",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Numero%20de%20seguro%20social",
-        "pubdate": "Mon, 10 Feb 2025 12:00:00 -0600"
-      }
-    ],
-    [
-      {
         "title": "Yeezy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Yeezy",
         "pubdate": "Mon, 10 Feb 2025 09:00:00 -0600"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Lakers",
-        "pubdate": "Mon, 10 Feb 2025 20:00:00 -0600"
+        "title": "Numero de seguro social",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MX#Numero%20de%20seguro%20social",
+        "pubdate": "Mon, 10 Feb 2025 12:00:00 -0600"
       }
     ]
   ]

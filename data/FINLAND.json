@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-02-2025 , 04:49:41",
+  "lastUpdate": "11-02-2025 , 04:58:59",
   "data": [
     [
       {
@@ -27,6 +27,13 @@
         "title": "Yeezy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yeezy",
         "pubdate": "Mon, 10 Feb 2025 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#NFL",
+        "pubdate": "Mon, 10 Feb 2025 00:00:00 +0200"
       }
     ],
     [
@@ -122,8 +129,8 @@
     ],
     [
       {
-        "title": "Miika Elomo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Miika%20Elomo",
+        "title": "Elomo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elomo",
         "pubdate": "Sun, 09 Feb 2025 23:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Super Bowl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Super%20Bowl",
         "pubdate": "Sun, 09 Feb 2025 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Yrjö Kukkapuro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Yrj%C3%B6%20Kukkapuro",
-        "pubdate": "Sun, 09 Feb 2025 12:00:00 +0200"
       }
     ]
   ]
