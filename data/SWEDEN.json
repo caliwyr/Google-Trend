@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-02-2025 , 09:45:39",
+  "lastUpdate": "11-02-2025 , 09:55:02",
   "data": [
     [
       {
@@ -10,8 +10,8 @@
     ],
     [
       {
-        "title": "Inse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inse",
+        "title": "Inse namn",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Inse%20namn",
         "pubdate": "Mon, 10 Feb 2025 12:00:00 +0100"
       }
     ],
@@ -27,6 +27,13 @@
         "title": "Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Barcelona",
         "pubdate": "Mon, 10 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "NFL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#NFL",
+        "pubdate": "Mon, 10 Feb 2025 00:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Christina Schollin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Christina%20Schollin",
         "pubdate": "Sun, 09 Feb 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jizerska",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jizerska",
-        "pubdate": "Sun, 09 Feb 2025 11:00:00 +0100"
       }
     ]
   ]
