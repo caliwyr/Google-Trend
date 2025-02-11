@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "11-02-2025 , 23:37:34",
+  "lastUpdate": "11-02-2025 , 23:46:47",
   "data": [
+    [
+      {
+        "title": "MC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MC",
+        "pubdate": "Wed, 12 Feb 2025 01:00:00 +0700"
+      }
+    ],
     [
       {
         "title": "Juventus",
@@ -10,9 +17,9 @@
     ],
     [
       {
-        "title": "MC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#MC",
-        "pubdate": "Wed, 12 Feb 2025 01:00:00 +0700"
+        "title": "Nottingham Forest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Nottingham%20Forest",
+        "pubdate": "Wed, 12 Feb 2025 06:00:00 +0700"
       }
     ],
     [
@@ -52,13 +59,6 @@
     ],
     [
       {
-        "title": "Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Crystal%20Palace",
-        "pubdate": "Tue, 11 Feb 2025 07:00:00 +0700"
-      }
-    ],
-    [
-      {
         "title": "Lakers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Lakers",
         "pubdate": "Tue, 11 Feb 2025 14:00:00 +0700"
@@ -75,6 +75,13 @@
       {
         "title": "Đức Phúc",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#%C4%90%E1%BB%A9c%20Ph%C3%BAc",
+        "pubdate": "Tue, 11 Feb 2025 20:00:00 +0700"
+      }
+    ],
+    [
+      {
+        "title": "iOS 18.3.1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#iOS%2018.3.1",
         "pubdate": "Tue, 11 Feb 2025 20:00:00 +0700"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Aston Villa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#Aston%20Villa",
         "pubdate": "Mon, 10 Feb 2025 10:00:00 +0700"
-      }
-    ],
-    [
-      {
-        "title": "Dịch cúm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=VN#D%E1%BB%8Bch%20c%C3%BAm",
-        "pubdate": "Mon, 10 Feb 2025 11:00:00 +0700"
       }
     ]
   ]
