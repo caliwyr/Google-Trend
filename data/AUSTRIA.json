@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "11-02-2025 , 05:46:00",
+  "lastUpdate": "11-02-2025 , 05:55:36",
   "data": [
     [
       {
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Vollmond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vollmond",
+        "pubdate": "Mon, 10 Feb 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Verhandlungspapier övp FPÖ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Verhandlungspapier%20%C3%B6vp%20FP%C3%96",
         "pubdate": "Mon, 10 Feb 2025 20:00:00 +0100"
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Vollmond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vollmond",
-        "pubdate": "Mon, 10 Feb 2025 00:00:00 +0100"
+        "title": "Koalitionsverhandlungen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Koalitionsverhandlungen",
+        "pubdate": "Mon, 10 Feb 2025 20:00:00 +0100"
       }
     ],
     [
@@ -94,9 +101,16 @@
     ],
     [
       {
-        "title": "Koalitionsverhandlungen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Koalitionsverhandlungen",
-        "pubdate": "Mon, 10 Feb 2025 20:00:00 +0100"
+        "title": "Super Bowl live",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Super%20Bowl%20live",
+        "pubdate": "Mon, 10 Feb 2025 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Franz fischler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Franz%20fischler",
+        "pubdate": "Mon, 10 Feb 2025 23:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Abtenau",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Abtenau",
         "pubdate": "Mon, 10 Feb 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stefan Weber",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stefan%20Weber",
-        "pubdate": "Mon, 10 Feb 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bradley Cooper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bradley%20Cooper",
-        "pubdate": "Mon, 10 Feb 2025 16:00:00 +0100"
       }
     ]
   ]
