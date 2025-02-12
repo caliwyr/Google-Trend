@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2025 , 12:26:12",
+  "lastUpdate": "12-02-2025 , 12:58:00",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "ICC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#ICC",
+        "pubdate": "Wed, 12 Feb 2025 23:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Rex Airlines",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Rex%20Airlines",
         "pubdate": "Wed, 12 Feb 2025 12:00:00 +1100"
@@ -101,6 +108,13 @@
     ],
     [
       {
+        "title": "Marc Fogel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marc%20Fogel",
+        "pubdate": "Wed, 12 Feb 2025 16:00:00 +1100"
+      }
+    ],
+    [
+      {
         "title": "Sydney FC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Sydney%20FC",
         "pubdate": "Wed, 12 Feb 2025 19:00:00 +1100"
@@ -108,9 +122,9 @@
     ],
     [
       {
-        "title": "Marc Fogel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Marc%20Fogel",
-        "pubdate": "Wed, 12 Feb 2025 16:00:00 +1100"
+        "title": "DOGE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#DOGE",
+        "pubdate": "Wed, 12 Feb 2025 23:00:00 +1100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "CFS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#CFS",
         "pubdate": "Wed, 12 Feb 2025 17:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Perth Wildcats",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Perth%20Wildcats",
-        "pubdate": "Wed, 12 Feb 2025 00:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "Atlassian",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Atlassian",
-        "pubdate": "Wed, 12 Feb 2025 13:00:00 +1100"
       }
     ]
   ]
