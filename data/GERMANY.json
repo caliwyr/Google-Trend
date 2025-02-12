@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-02-2025 , 17:40:59",
+  "lastUpdate": "12-02-2025 , 17:50:11",
   "data": [
+    [
+      {
+        "title": "NetCologne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#NetCologne",
+        "pubdate": "Wed, 12 Feb 2025 11:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Schlechte Luftqualität",
@@ -17,23 +24,9 @@
     ],
     [
       {
-        "title": "Shirin David",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Shirin%20David",
-        "pubdate": "Wed, 12 Feb 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Biathlon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Biathlon",
         "pubdate": "Wed, 12 Feb 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "BVB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#BVB",
-        "pubdate": "Tue, 11 Feb 2025 23:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Horst Köhler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Horst%20K%C3%B6hler",
         "pubdate": "Sat, 01 Feb 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Sat, 01 Feb 2025 23:00:00 +0100"
       }
     ]
   ]
