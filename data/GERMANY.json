@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "12-02-2025 , 11:45:12",
+  "lastUpdate": "12-02-2025 , 11:54:23",
   "data": [
+    [
+      {
+        "title": "Offenburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Offenburg",
+        "pubdate": "Wed, 12 Feb 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Shirin David",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Shirin%20David",
+        "pubdate": "Wed, 12 Feb 2025 09:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "BVB",
@@ -125,20 +139,6 @@
         "title": "Bundestag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestag",
         "pubdate": "Thu, 30 Jan 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bundestag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestag",
-        "pubdate": "Wed, 29 Jan 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Merz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Merz",
-        "pubdate": "Wed, 29 Jan 2025 21:00:00 +0100"
       }
     ]
   ]
