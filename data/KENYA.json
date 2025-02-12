@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2025 , 13:38:24",
+  "lastUpdate": "12-02-2025 , 13:47:41",
   "data": [
     [
       {
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "Nakuru",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Nakuru",
+        "pubdate": "Tue, 11 Feb 2025 22:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Man City vs Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Man%20City%20vs%20Real%20Madrid",
         "pubdate": "Mon, 10 Feb 2025 17:00:00 +0300"
@@ -131,13 +138,6 @@
       {
         "title": "Doncaster vs Crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Doncaster%20vs%20Crystal%20Palace",
-        "pubdate": "Mon, 10 Feb 2025 23:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "UCL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#UCL",
         "pubdate": "Mon, 10 Feb 2025 23:00:00 +0300"
       }
     ]

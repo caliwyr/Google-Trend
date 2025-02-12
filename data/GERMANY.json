@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "12-02-2025 , 13:38:21",
+  "lastUpdate": "12-02-2025 , 13:47:39",
   "data": [
+    [
+      {
+        "title": "Schlechte Luftqualität",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schlechte%20Luftqualit%C3%A4t",
+        "pubdate": "Wed, 12 Feb 2025 10:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Offenburg",
@@ -132,13 +139,6 @@
         "title": "DFB-Pokal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
         "pubdate": "Sat, 01 Feb 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bundestag",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bundestag",
-        "pubdate": "Thu, 30 Jan 2025 14:00:00 +0100"
       }
     ]
   ]
