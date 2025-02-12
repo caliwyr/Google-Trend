@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-02-2025 , 06:39:32",
+  "lastUpdate": "12-02-2025 , 06:49:36",
   "data": [
     [
       {
@@ -27,13 +27,6 @@
         "title": "Primera",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera",
         "pubdate": "Wed, 12 Feb 2025 01:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Emanero",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Emanero",
-        "pubdate": "Wed, 12 Feb 2025 00:00:00 -0300"
       }
     ],
     [
@@ -122,6 +115,13 @@
     ],
     [
       {
+        "title": "Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lakers",
+        "pubdate": "Tue, 11 Feb 2025 03:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Primera División",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Primera%20Divisi%C3%B3n",
         "pubdate": "Tue, 11 Feb 2025 23:00:00 -0300"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Lakers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Lakers",
-        "pubdate": "Tue, 11 Feb 2025 11:00:00 -0300"
+        "title": "Virgen de Lourdes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Virgen%20de%20Lourdes",
+        "pubdate": "Tue, 11 Feb 2025 08:00:00 -0300"
       }
     ]
   ]
