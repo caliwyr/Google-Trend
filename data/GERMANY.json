@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "12-02-2025 , 03:58:21",
+  "lastUpdate": "12-02-2025 , 04:25:12",
   "data": [
     [
       {
-        "title": "ICE Unfall Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ICE%20Unfall%20Hamburg",
+        "title": "ICE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ICE",
         "pubdate": "Tue, 11 Feb 2025 19:00:00 +0100"
       }
     ],
@@ -20,13 +20,6 @@
         "title": "Max Uthoff",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Max%20Uthoff",
         "pubdate": "Tue, 11 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ölheizung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#%C3%96lheizung",
-        "pubdate": "Tue, 11 Feb 2025 11:00:00 +0100"
       }
     ],
     [
@@ -108,8 +101,8 @@
     ],
     [
       {
-        "title": "Santorini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Santorini",
+        "title": "Santorini Erdbeben",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Santorini%20Erdbeben",
         "pubdate": "Mon, 03 Feb 2025 14:00:00 +0100"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Horst Köhler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Horst%20K%C3%B6hler",
         "pubdate": "Sat, 01 Feb 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DFB-Pokal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#DFB-Pokal",
+        "pubdate": "Sat, 01 Feb 2025 23:00:00 +0100"
       }
     ]
   ]
