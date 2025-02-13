@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2025 , 10:44:06",
+  "lastUpdate": "13-02-2025 , 10:53:37",
   "data": [
     [
       {
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Schlechte Luftqualität",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Schlechte%20Luftqualit%C3%A4t",
+        "pubdate": "Wed, 12 Feb 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Shirin David",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Shirin%20David",
         "pubdate": "Wed, 12 Feb 2025 09:00:00 +0100"
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "ICE-Unfall Hamburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#ICE-Unfall%20Hamburg",
+        "title": "Thomas Großbölting",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Thomas%20Gro%C3%9Fb%C3%B6lting",
         "pubdate": "Tue, 11 Feb 2025 19:00:00 +0100"
       }
     ],
@@ -115,8 +122,8 @@
     ],
     [
       {
-        "title": "Santorini Erdbeben",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Santorini%20Erdbeben",
+        "title": "Santorini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Santorini",
         "pubdate": "Mon, 03 Feb 2025 14:00:00 +0100"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Santorini",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Santorini",
         "pubdate": "Sun, 02 Feb 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Merz CDU",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Merz%20CDU",
-        "pubdate": "Sun, 02 Feb 2025 11:00:00 +0100"
       }
     ]
   ]
