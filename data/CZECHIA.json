@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "13-02-2025 , 00:52:17",
+  "lastUpdate": "13-02-2025 , 02:10:15",
   "data": [
     [
       {
         "title": "State of Play",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#State%20of%20Play",
         "pubdate": "Thu, 13 Feb 2025 01:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Biatlon MS 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Biatlon%20MS%202025",
-        "pubdate": "Wed, 12 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -27,6 +20,13 @@
         "title": "ČT sport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#%C4%8CT%20sport",
         "pubdate": "Wed, 12 Feb 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lenzerheide",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lenzerheide",
+        "pubdate": "Wed, 12 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Extraliga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Extraliga",
+        "pubdate": "Wed, 12 Feb 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Věra Martinová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C4%9Bra%20Martinov%C3%A1",
         "pubdate": "Tue, 11 Feb 2025 22:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Dada patrasova",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Dada%20patrasova",
         "pubdate": "Tue, 11 Feb 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Ledovka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ledovka",
-        "pubdate": "Tue, 11 Feb 2025 18:00:00 +0100"
       }
     ]
   ]
