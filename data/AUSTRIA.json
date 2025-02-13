@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2025 , 18:42:03",
+  "lastUpdate": "13-02-2025 , 18:51:22",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "ICE Hockey",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ICE%20Hockey",
+        "pubdate": "Thu, 13 Feb 2025 05:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Bridget Jones",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bridget%20Jones",
         "pubdate": "Thu, 13 Feb 2025 00:00:00 +0100"
@@ -59,8 +66,8 @@
     ],
     [
       {
-        "title": "ORF zib",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF%20zib",
+        "title": "ORF ZiB",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ORF%20ZiB",
         "pubdate": "Thu, 13 Feb 2025 09:00:00 +0100"
       }
     ],
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Conference League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Conference%20League",
+        "pubdate": "Thu, 13 Feb 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Avowed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Avowed",
         "pubdate": "Thu, 13 Feb 2025 16:00:00 +0100"
@@ -80,9 +94,9 @@
     ],
     [
       {
-        "title": "Conference League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Conference%20League",
-        "pubdate": "Thu, 13 Feb 2025 12:00:00 +0100"
+        "title": "GNTM",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GNTM",
+        "pubdate": "Thu, 13 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -97,13 +111,6 @@
         "title": "Mahrer",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mahrer",
         "pubdate": "Thu, 13 Feb 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "GNTM",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#GNTM",
-        "pubdate": "Thu, 13 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Michael Schumacher",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Michael%20Schumacher",
         "pubdate": "Thu, 13 Feb 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lars Eidinger",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Lars%20Eidinger",
-        "pubdate": "Thu, 13 Feb 2025 13:00:00 +0100"
       }
     ]
   ]
