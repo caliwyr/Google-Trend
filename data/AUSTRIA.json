@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "13-02-2025 , 05:40:40",
+  "lastUpdate": "13-02-2025 , 05:49:56",
   "data": [
+    [
+      {
+        "title": "Bridget Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bridget%20Jones",
+        "pubdate": "Thu, 13 Feb 2025 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Alexander Zverev",
@@ -80,6 +87,20 @@
     ],
     [
       {
+        "title": "Regierung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Regierung",
+        "pubdate": "Wed, 12 Feb 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "DAZN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#DAZN",
+        "pubdate": "Wed, 12 Feb 2025 03:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Alexander Pröll",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alexander%20Pr%C3%B6ll",
         "pubdate": "Wed, 12 Feb 2025 16:00:00 +0100"
@@ -118,27 +139,6 @@
         "title": "Bernhard Hoëcker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bernhard%20Ho%C3%ABcker",
         "pubdate": "Wed, 12 Feb 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "OTS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#OTS",
-        "pubdate": "Wed, 12 Feb 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vienna Capitals",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Vienna%20Capitals",
-        "pubdate": "Wed, 12 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sanremo 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sanremo%202025",
-        "pubdate": "Wed, 12 Feb 2025 08:00:00 +0100"
       }
     ]
   ]
