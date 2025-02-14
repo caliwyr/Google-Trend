@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "14-02-2025 , 03:40:18",
+  "lastUpdate": "14-02-2025 , 03:49:33",
   "data": [
-    [
-      {
-        "title": "Inter de Limeira x Palmeiras",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Limeira%20x%20Palmeiras",
-        "pubdate": "Thu, 13 Feb 2025 10:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "São Paulo x Velo Clube",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo%20x%20Velo%20Clube",
         "pubdate": "Thu, 13 Feb 2025 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Inter de Limeira x Palmeiras",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Limeira%20x%20Palmeiras",
+        "pubdate": "Thu, 13 Feb 2025 10:00:00 -0500"
       }
     ],
     [
@@ -24,6 +24,13 @@
     ],
     [
       {
+        "title": "Brasil Sub-20 x Argentina Sub-20",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20Sub-20%20x%20Argentina%20Sub-20",
+        "pubdate": "Thu, 13 Feb 2025 18:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Pix",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Pix",
         "pubdate": "Thu, 13 Feb 2025 08:00:00 -0500"
@@ -31,8 +38,8 @@
     ],
     [
       {
-        "title": "Brasil Sub-20 x Argentina Sub-20",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Brasil%20Sub-20%20x%20Argentina%20Sub-20",
+        "title": "Dia dos Namorados",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20dos%20Namorados",
         "pubdate": "Thu, 13 Feb 2025 18:00:00 -0500"
       }
     ],
@@ -41,13 +48,6 @@
         "title": "Al-Nassr",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Nassr",
         "pubdate": "Thu, 13 Feb 2025 12:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Dia dos Namorados",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Dia%20dos%20Namorados",
-        "pubdate": "Thu, 13 Feb 2025 18:00:00 -0500"
       }
     ],
     [
@@ -66,16 +66,9 @@
     ],
     [
       {
-        "title": "Fenerbahçe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fenerbah%C3%A7e",
-        "pubdate": "Thu, 13 Feb 2025 13:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Vitor Medrado",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitor%20Medrado",
-        "pubdate": "Thu, 13 Feb 2025 15:00:00 -0500"
+        "title": "São Paulo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#S%C3%A3o%20Paulo",
+        "pubdate": "Thu, 13 Feb 2025 18:00:00 -0500"
       }
     ],
     [
@@ -83,6 +76,13 @@
         "title": "FIGUEIRENSE x CHAPECOENSE",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#FIGUEIRENSE%20x%20CHAPECOENSE",
         "pubdate": "Thu, 13 Feb 2025 19:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vitor Medrado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vitor%20Medrado",
+        "pubdate": "Thu, 13 Feb 2025 15:00:00 -0500"
       }
     ],
     [
@@ -101,6 +101,13 @@
     ],
     [
       {
+        "title": "Avowed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avowed",
+        "pubdate": "Thu, 13 Feb 2025 11:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Ajax",
         "pubdate": "Thu, 13 Feb 2025 12:00:00 -0500"
@@ -108,9 +115,9 @@
     ],
     [
       {
-        "title": "Avowed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avowed",
-        "pubdate": "Thu, 13 Feb 2025 11:00:00 -0500"
+        "title": "Fenerbahçe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Fenerbah%C3%A7e",
+        "pubdate": "Thu, 13 Feb 2025 13:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Nautico",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nautico",
         "pubdate": "Thu, 13 Feb 2025 19:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Band",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Band",
-        "pubdate": "Thu, 13 Feb 2025 18:00:00 -0500"
       }
     ]
   ]
