@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "13-02-2025 , 23:56:06",
+  "lastUpdate": "14-02-2025 , 01:16:36",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "TVN",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#TVN",
+        "pubdate": "Thu, 13 Feb 2025 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Aporte Familiar Permanente",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Aporte%20Familiar%20Permanente",
         "pubdate": "Thu, 13 Feb 2025 10:00:00 -0300"
@@ -76,6 +83,13 @@
         "title": "Cobra Kai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobra%20Kai",
         "pubdate": "Thu, 13 Feb 2025 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Capitan America",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Capitan%20America",
+        "pubdate": "Thu, 13 Feb 2025 21:00:00 -0300"
       }
     ],
     [
@@ -108,6 +122,13 @@
     ],
     [
       {
+        "title": "Bridget Jones",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bridget%20Jones",
+        "pubdate": "Thu, 13 Feb 2025 21:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Colo-colo  Unión San Felipe",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo-colo%20%20Uni%C3%B3n%20San%20Felipe",
         "pubdate": "Wed, 12 Feb 2025 18:00:00 -0300"
@@ -118,27 +139,6 @@
         "title": "Colo Colo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo",
         "pubdate": "Wed, 12 Feb 2025 21:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Everton  Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Everton%20%20Liverpool",
-        "pubdate": "Wed, 12 Feb 2025 16:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Godoy Cruz  River Plate",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Godoy%20Cruz%20%20River%20Plate",
-        "pubdate": "Wed, 12 Feb 2025 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Colo Colo hoy",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20hoy",
-        "pubdate": "Wed, 12 Feb 2025 13:00:00 -0300"
       }
     ]
   ]
