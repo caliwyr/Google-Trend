@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-02-2025 , 04:40:41",
+  "lastUpdate": "14-02-2025 , 04:50:05",
   "data": [
     [
       {
@@ -17,13 +17,6 @@
     ],
     [
       {
-        "title": "Cobra Kai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cobra%20Kai",
-        "pubdate": "Fri, 14 Feb 2025 10:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Munich",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Munich",
         "pubdate": "Fri, 14 Feb 2025 10:00:00 +0800"
@@ -31,9 +24,16 @@
     ],
     [
       {
-        "title": "AppLovin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AppLovin",
-        "pubdate": "Fri, 14 Feb 2025 00:00:00 +0800"
+        "title": "Cobra Kai",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Cobra%20Kai",
+        "pubdate": "Fri, 14 Feb 2025 10:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Avowed",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Avowed",
+        "pubdate": "Fri, 14 Feb 2025 11:00:00 +0800"
       }
     ],
     [
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Avowed",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Avowed",
-        "pubdate": "Fri, 14 Feb 2025 11:00:00 +0800"
+        "title": "AppLovin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#AppLovin",
+        "pubdate": "Fri, 14 Feb 2025 00:00:00 +0800"
       }
     ],
     [
@@ -108,13 +108,6 @@
     ],
     [
       {
-        "title": "North Korea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#North%20Korea",
-        "pubdate": "Thu, 13 Feb 2025 23:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Taiwan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Taiwan",
         "pubdate": "Thu, 13 Feb 2025 20:00:00 +0800"
@@ -139,6 +132,13 @@
         "title": "Rainforest Wild Asia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rainforest%20Wild%20Asia",
         "pubdate": "Wed, 12 Feb 2025 17:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Europa League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Europa%20League",
+        "pubdate": "Wed, 12 Feb 2025 10:00:00 +0800"
       }
     ]
   ]
