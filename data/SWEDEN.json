@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "14-02-2025 , 10:42:37",
+  "lastUpdate": "14-02-2025 , 10:52:01",
   "data": [
     [
       {
@@ -52,8 +52,15 @@
     ],
     [
       {
-        "title": "4 Nations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#4%20Nations",
+        "title": "Valentine's day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Valentine's%20day",
+        "pubdate": "Thu, 13 Feb 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "4-nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#4-nations",
         "pubdate": "Thu, 13 Feb 2025 08:00:00 +0100"
       }
     ],
@@ -66,9 +73,9 @@
     ],
     [
       {
-        "title": "Valentine's day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Valentine's%20day",
-        "pubdate": "Thu, 13 Feb 2025 16:00:00 +0100"
+        "title": "Glad alla hjärtans dag",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Glad%20alla%20hj%C3%A4rtans%20dag",
+        "pubdate": "Thu, 13 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "V75",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#V75",
         "pubdate": "Thu, 13 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Cobra Kai",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Cobra%20Kai",
-        "pubdate": "Thu, 13 Feb 2025 19:00:00 +0100"
       }
     ]
   ]
