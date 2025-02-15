@@ -1,10 +1,17 @@
 {
-  "lastUpdate": "15-02-2025 , 21:36:37",
+  "lastUpdate": "15-02-2025 , 21:46:00",
   "data": [
     [
       {
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Premier%20League",
+        "pubdate": "Sat, 15 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Leicester  Arsenal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leicester%20%20Arsenal",
         "pubdate": "Sat, 15 Feb 2025 13:00:00 +0100"
       }
     ],
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Timothée Chalamet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Timoth%C3%A9e%20Chalamet",
-        "pubdate": "Sat, 15 Feb 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "West Ham  Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#West%20Ham%20%20Brentford",
         "pubdate": "Sat, 15 Feb 2025 17:00:00 +0100"
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Clostebol",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Clostebol",
-        "pubdate": "Sat, 15 Feb 2025 15:00:00 +0100"
+        "title": "Timothée Chalamet",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Timoth%C3%A9e%20Chalamet",
+        "pubdate": "Sat, 15 Feb 2025 11:00:00 +0100"
       }
     ],
     [
@@ -66,8 +66,22 @@
     ],
     [
       {
+        "title": "LALIGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#LALIGA",
+        "pubdate": "Sat, 15 Feb 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Ashley St. Clair",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Ashley%20St.%20Clair",
+        "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jannik Sinner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jannik%20Sinner",
         "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
       }
     ],
@@ -108,23 +122,9 @@
     ],
     [
       {
-        "title": "Jack the Ripper",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jack%20the%20Ripper",
-        "pubdate": "Fri, 14 Feb 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Sushi",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Sushi",
         "pubdate": "Fri, 14 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Valentine",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Valentine",
-        "pubdate": "Fri, 14 Feb 2025 08:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Premier%20League",
-        "pubdate": "Thu, 13 Feb 2025 19:00:00 +0100"
+        "title": "Jack the Ripper",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jack%20the%20Ripper",
+        "pubdate": "Fri, 14 Feb 2025 23:00:00 +0100"
       }
     ]
   ]
