@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "15-02-2025 , 22:41:16",
+  "lastUpdate": "15-02-2025 , 22:50:26",
   "data": [
     [
       {
@@ -20,6 +20,13 @@
         "title": "Western Force",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Western%20Force",
         "pubdate": "Sun, 16 Feb 2025 00:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Crystal Palace vs Everton",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Crystal%20Palace%20vs%20Everton",
+        "pubdate": "Sun, 16 Feb 2025 09:00:00 +1100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "AFL",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#AFL",
         "pubdate": "Fri, 14 Feb 2025 23:00:00 +1100"
-      }
-    ],
-    [
-      {
-        "title": "LIV Golf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#LIV%20Golf",
-        "pubdate": "Fri, 14 Feb 2025 12:00:00 +1100"
       }
     ]
   ]
