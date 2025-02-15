@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "15-02-2025 , 09:44:30",
+  "lastUpdate": "15-02-2025 , 09:53:52",
   "data": [
-    [
-      {
-        "title": "FDJ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#FDJ",
-        "pubdate": "Sat, 15 Feb 2025 01:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Loto",
@@ -27,6 +20,13 @@
         "title": "JD Vance",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#JD%20Vance",
         "pubdate": "Sat, 15 Feb 2025 01:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "All-Star Game 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#All-Star%20Game%202025",
+        "pubdate": "Sat, 15 Feb 2025 02:00:00 +0100"
       }
     ],
     [
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "St Valentin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#St%20Valentin",
+        "pubdate": "Fri, 14 Feb 2025 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Carla Bruni",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Carla%20Bruni",
         "pubdate": "Fri, 14 Feb 2025 23:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Tchernobyl",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Tchernobyl",
         "pubdate": "Fri, 14 Feb 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Clara Luciani",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Clara%20Luciani",
-        "pubdate": "Fri, 14 Feb 2025 23:00:00 +0100"
       }
     ]
   ]
