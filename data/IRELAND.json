@@ -1,17 +1,17 @@
 {
-  "lastUpdate": "15-02-2025 , 15:39:49",
+  "lastUpdate": "15-02-2025 , 15:49:10",
   "data": [
-    [
-      {
-        "title": "Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Premier%20League",
-        "pubdate": "Sat, 15 Feb 2025 12:00:00 +0000"
-      }
-    ],
     [
       {
         "title": "Leicester City vs Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leicester%20City%20vs%20Arsenal",
+        "pubdate": "Sat, 15 Feb 2025 11:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Premier League",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Premier%20League",
         "pubdate": "Sat, 15 Feb 2025 12:00:00 +0000"
       }
     ],
@@ -24,23 +24,16 @@
     ],
     [
       {
+        "title": "Man City vs Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Man%20City%20vs%20Newcastle",
+        "pubdate": "Sat, 15 Feb 2025 15:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "South Anne Street",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#South%20Anne%20Street",
         "pubdate": "Sat, 15 Feb 2025 12:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Premier league GAMES",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Premier%20league%20GAMES",
-        "pubdate": "Sat, 15 Feb 2025 11:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Epl",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Epl",
-        "pubdate": "Sat, 15 Feb 2025 14:00:00 +0000"
       }
     ],
     [
@@ -87,6 +80,13 @@
     ],
     [
       {
+        "title": "Rachel Gorry",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Rachel%20Gorry",
+        "pubdate": "Sat, 15 Feb 2025 15:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Valentine's Day",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Valentine's%20Day",
         "pubdate": "Fri, 14 Feb 2025 01:00:00 +0000"
@@ -115,8 +115,8 @@
     ],
     [
       {
-        "title": "Ospreys vs Leinster",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ospreys%20vs%20Leinster",
+        "title": "Leinster Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Leinster%20Rugby",
         "pubdate": "Fri, 14 Feb 2025 20:00:00 +0000"
       }
     ],
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Steve Coogan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Steve%20Coogan",
-        "pubdate": "Fri, 14 Feb 2025 12:00:00 +0000"
+        "title": "IFTAs 2025",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#IFTAs%202025",
+        "pubdate": "Fri, 14 Feb 2025 23:00:00 +0000"
       }
     ]
   ]
