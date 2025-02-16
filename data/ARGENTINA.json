@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "16-02-2025 , 13:38:51",
+  "lastUpdate": "16-02-2025 , 13:48:12",
   "data": [
+    [
+      {
+        "title": "Premier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Premier",
+        "pubdate": "Sun, 16 Feb 2025 09:00:00 -0300"
+      }
+    ],
     [
       {
         "title": "Kevin Castaño",
@@ -101,8 +108,8 @@
     ],
     [
       {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#LaLiga",
+        "title": "LALIGA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#LALIGA",
         "pubdate": "Sat, 15 Feb 2025 16:00:00 -0300"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Sinner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Sinner",
         "pubdate": "Sat, 15 Feb 2025 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AR#Arsenal",
-        "pubdate": "Sat, 15 Feb 2025 11:00:00 -0300"
       }
     ]
   ]
