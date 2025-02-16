@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "16-02-2025 , 22:39:55",
+  "lastUpdate": "16-02-2025 , 22:49:07",
   "data": [
-    [
-      {
-        "title": "Tottenham vs Man United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tottenham%20vs%20Man%20United",
-        "pubdate": "Sun, 16 Feb 2025 11:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Daytona 500",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Daytona%20500",
         "pubdate": "Sun, 16 Feb 2025 12:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Tottenham vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Tottenham%20vs%20Man%20United",
+        "pubdate": "Sun, 16 Feb 2025 11:00:00 -0500"
       }
     ],
     [
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Child",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Child",
+        "pubdate": "Sun, 16 Feb 2025 17:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Poilievre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Poilievre",
         "pubdate": "Sun, 16 Feb 2025 02:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Parayko",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Parayko",
+        "pubdate": "Sun, 16 Feb 2025 00:00:00 -0500"
       }
     ],
     [
@@ -87,9 +101,9 @@
     ],
     [
       {
-        "title": "4 nations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#4%20nations",
-        "pubdate": "Sat, 15 Feb 2025 12:00:00 -0500"
+        "title": "4 Nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#4%20Nations",
+        "pubdate": "Sat, 15 Feb 2025 02:00:00 -0500"
       }
     ],
     [
@@ -115,13 +129,6 @@
     ],
     [
       {
-        "title": "Mac McClung",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mac%20McClung",
-        "pubdate": "Sat, 15 Feb 2025 22:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Connor McDavid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Connor%20McDavid",
         "pubdate": "Sat, 15 Feb 2025 21:00:00 -0500"
@@ -129,16 +136,9 @@
     ],
     [
       {
-        "title": "Carey Price",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Carey%20Price",
-        "pubdate": "Sat, 15 Feb 2025 23:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Cale Makar",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Cale%20Makar",
-        "pubdate": "Sat, 15 Feb 2025 19:00:00 -0500"
+        "title": "Mac McClung",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CA#Mac%20McClung",
+        "pubdate": "Sat, 15 Feb 2025 22:00:00 -0500"
       }
     ]
   ]

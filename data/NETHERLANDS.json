@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "16-02-2025 , 22:39:59",
+  "lastUpdate": "16-02-2025 , 22:49:11",
   "data": [
     [
       {
         "title": "Ajax  Heracles",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax%20%20Heracles",
-        "pubdate": "Sun, 16 Feb 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vitesse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
         "pubdate": "Sun, 16 Feb 2025 13:00:00 +0100"
       }
     ],
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Vitesse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vitesse",
+        "pubdate": "Sun, 16 Feb 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tuberculose",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tuberculose",
         "pubdate": "Sun, 16 Feb 2025 19:00:00 +0100"
@@ -38,9 +38,9 @@
     ],
     [
       {
-        "title": "Excelsior  Helmond Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior%20%20Helmond%20Sport",
-        "pubdate": "Sun, 16 Feb 2025 18:00:00 +0100"
+        "title": "Bounida",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Bounida",
+        "pubdate": "Sun, 16 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -59,16 +59,9 @@
     ],
     [
       {
-        "title": "Tottenham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Tottenham",
+        "title": "Excelsior",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Excelsior",
         "pubdate": "Sun, 16 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
-        "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
       }
     ],
     [
@@ -82,6 +75,13 @@
       {
         "title": "NAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#NAC",
+        "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
         "pubdate": "Sat, 15 Feb 2025 18:00:00 +0100"
       }
     ],
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Rick Brandsteder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rick%20Brandsteder",
-        "pubdate": "Mon, 10 Feb 2025 12:00:00 +0100"
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV",
+        "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "PSV Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#PSV%20Juventus",
-        "pubdate": "Mon, 10 Feb 2025 22:00:00 +0100"
+        "title": "Rick Brandsteder",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Rick%20Brandsteder",
+        "pubdate": "Mon, 10 Feb 2025 12:00:00 +0100"
       }
     ]
   ]
