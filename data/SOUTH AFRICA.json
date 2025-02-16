@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-02-2025 , 08:42:15",
+  "lastUpdate": "16-02-2025 , 08:51:40",
   "data": [
     [
       {
@@ -62,6 +62,13 @@
         "title": "Premier League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Premier%20League",
         "pubdate": "Sat, 15 Feb 2025 12:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Epl",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Epl",
+        "pubdate": "Sat, 15 Feb 2025 11:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Milan vs Verona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Milan%20vs%20Verona",
         "pubdate": "Sat, 15 Feb 2025 23:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "English Premier League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#English%20Premier%20League",
-        "pubdate": "Sat, 15 Feb 2025 16:00:00 +0200"
       }
     ]
   ]
