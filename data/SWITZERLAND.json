@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "18-02-2025 , 16:35:50",
+  "lastUpdate": "18-02-2025 , 16:49:16",
   "data": [
-    [
-      {
-        "title": "Flugzeugabsturz Toronto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Flugzeugabsturz%20Toronto",
-        "pubdate": "Tue, 18 Feb 2025 08:00:00 +0100"
-      }
-    ],
     [
       {
         "title": "Toronto",
@@ -17,9 +10,16 @@
     ],
     [
       {
-        "title": "Justin Baldoni",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Justin%20Baldoni",
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
         "pubdate": "Tue, 18 Feb 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Flugzeugabsturz Toronto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Flugzeugabsturz%20Toronto",
+        "pubdate": "Tue, 18 Feb 2025 08:00:00 +0100"
       }
     ],
     [
@@ -38,16 +38,16 @@
     ],
     [
       {
-        "title": "Eliane Leiser SRF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eliane%20Leiser%20SRF",
-        "pubdate": "Tue, 18 Feb 2025 07:00:00 +0100"
+        "title": "Blake Lively",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Blake%20Lively",
+        "pubdate": "Tue, 18 Feb 2025 01:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Eigenmietwert",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eigenmietwert",
-        "pubdate": "Tue, 18 Feb 2025 13:00:00 +0100"
+        "title": "Eliane Leiser SRF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eliane%20Leiser%20SRF",
+        "pubdate": "Tue, 18 Feb 2025 07:00:00 +0100"
       }
     ],
     [
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "Eigenmietwert",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Eigenmietwert",
+        "pubdate": "Tue, 18 Feb 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Kägi fret",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#K%C3%A4gi%20fret",
         "pubdate": "Tue, 18 Feb 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Bergdoktor",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bergdoktor",
+        "pubdate": "Tue, 18 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -80,23 +94,9 @@
     ],
     [
       {
-        "title": "Renzo Blumenthal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Renzo%20Blumenthal",
-        "pubdate": "Tue, 18 Feb 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Paquita la del Barrio",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paquita%20la%20del%20Barrio",
         "pubdate": "Tue, 18 Feb 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Bergdoktor",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Bergdoktor",
-        "pubdate": "Tue, 18 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -111,13 +111,6 @@
         "title": "El Tony Mate",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#El%20Tony%20Mate",
         "pubdate": "Tue, 18 Feb 2025 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "FC Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#FC%20Barcelona",
-        "pubdate": "Mon, 17 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Grok 3",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Grok%203",
         "pubdate": "Mon, 17 Feb 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Galatasaray",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Galatasaray",
+        "pubdate": "Mon, 17 Feb 2025 22:00:00 +0100"
       }
     ]
   ]
