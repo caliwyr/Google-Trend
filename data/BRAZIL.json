@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-02-2025 , 15:42:38",
+  "lastUpdate": "18-02-2025 , 15:52:04",
   "data": [
     [
       {
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Al-Hilal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Hilal",
+        "title": "Al Hilal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al%20Hilal",
         "pubdate": "Tue, 18 Feb 2025 06:00:00 -0500"
       }
     ],
@@ -41,6 +41,13 @@
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Benfica",
         "pubdate": "Tue, 18 Feb 2025 08:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Vasco Matos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vasco%20Matos",
+        "pubdate": "Tue, 18 Feb 2025 10:00:00 -0500"
       }
     ],
     [
@@ -73,13 +80,6 @@
     ],
     [
       {
-        "title": "Al-Nassr",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Nassr",
-        "pubdate": "Mon, 17 Feb 2025 09:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Rio Open",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Rio%20Open",
         "pubdate": "Mon, 17 Feb 2025 06:00:00 -0500"
@@ -90,6 +90,13 @@
         "title": "Copa do Brasil",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Copa%20do%20Brasil",
         "pubdate": "Mon, 17 Feb 2025 17:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Al-Nassr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Al-Nassr",
+        "pubdate": "Mon, 17 Feb 2025 09:00:00 -0500"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Papa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Papa",
         "pubdate": "Mon, 17 Feb 2025 11:00:00 -0500"
-      }
-    ],
-    [
-      {
-        "title": "Nimesulida",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nimesulida",
-        "pubdate": "Mon, 17 Feb 2025 09:00:00 -0500"
       }
     ]
   ]

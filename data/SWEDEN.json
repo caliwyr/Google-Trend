@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-02-2025 , 15:42:45",
+  "lastUpdate": "18-02-2025 , 15:52:12",
   "data": [
     [
       {
@@ -38,9 +38,23 @@
     ],
     [
       {
+        "title": "Knutby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Knutby",
+        "pubdate": "Tue, 18 Feb 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Toronto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Toronto",
         "pubdate": "Tue, 18 Feb 2025 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "White Lotus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#White%20Lotus",
+        "pubdate": "Mon, 17 Feb 2025 09:00:00 +0100"
       }
     ],
     [
@@ -54,13 +68,6 @@
       {
         "title": "Saab",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Saab",
-        "pubdate": "Mon, 17 Feb 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Maria Malmer Stenergard",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Maria%20Malmer%20Stenergard",
         "pubdate": "Mon, 17 Feb 2025 22:00:00 +0100"
       }
     ],
@@ -83,13 +90,6 @@
         "title": "Waldor & Co",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Waldor%20%26%20Co",
         "pubdate": "Mon, 17 Feb 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "White Lotus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#White%20Lotus",
-        "pubdate": "Sun, 16 Feb 2025 21:00:00 +0100"
       }
     ],
     [
@@ -122,6 +122,13 @@
     ],
     [
       {
+        "title": "The White Lotus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#The%20White%20Lotus",
+        "pubdate": "Sun, 16 Feb 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Manchester United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Manchester%20United",
         "pubdate": "Sun, 16 Feb 2025 19:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "IFK Göteborg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#IFK%20G%C3%B6teborg",
         "pubdate": "Sun, 16 Feb 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Djurgården",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Djurg%C3%A5rden",
-        "pubdate": "Sun, 16 Feb 2025 19:00:00 +0100"
       }
     ]
   ]
