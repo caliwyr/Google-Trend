@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-02-2025 , 13:43:30",
+  "lastUpdate": "18-02-2025 , 13:52:55",
   "data": [
     [
       {
@@ -115,6 +115,13 @@
     ],
     [
       {
+        "title": "Slides",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Slides",
+        "pubdate": "Mon, 17 Feb 2025 11:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Galatasaray",
         "pubdate": "Mon, 17 Feb 2025 21:00:00 +0100"
@@ -132,13 +139,6 @@
         "title": "Rheinmetall",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Rheinmetall",
         "pubdate": "Mon, 17 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "SNAP",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#SNAP",
-        "pubdate": "Mon, 17 Feb 2025 11:00:00 +0100"
       }
     ]
   ]
