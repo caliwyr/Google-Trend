@@ -1,10 +1,10 @@
 {
-  "lastUpdate": "17-02-2025 , 23:58:56",
+  "lastUpdate": "18-02-2025 , 01:46:03",
   "data": [
     [
       {
-        "title": "Barcelona",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barcelona",
+        "title": "FC Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Barcelona",
         "pubdate": "Tue, 18 Feb 2025 00:00:00 +0100"
       }
     ],
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "Ongeluk A2",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ongeluk%20A2",
+        "title": "A2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#A2",
         "pubdate": "Mon, 17 Feb 2025 10:00:00 +0100"
       }
     ],
@@ -55,6 +55,13 @@
         "title": "Lieke marsman",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lieke%20marsman",
         "pubdate": "Sun, 16 Feb 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Davy Klaassen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Davy%20Klaassen",
+        "pubdate": "Sun, 16 Feb 2025 20:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kendrick Lamar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Kendrick%20Lamar",
         "pubdate": "Mon, 10 Feb 2025 03:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Utrecht",
-        "pubdate": "Mon, 10 Feb 2025 01:00:00 +0100"
       }
     ]
   ]
