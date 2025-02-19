@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "19-02-2025 , 15:33:04",
+  "lastUpdate": "19-02-2025 , 15:42:22",
   "data": [
     [
       {
         "title": "Falcon 9",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Falcon%209",
         "pubdate": "Wed, 19 Feb 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Trump",
+        "pubdate": "Wed, 19 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Roxie Węgiel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Roxie%20W%C4%99giel",
-        "pubdate": "Wed, 19 Feb 2025 09:00:00 +0100"
+        "title": "Real Madryt – Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Real%20Madryt%20%E2%80%93%20Man%20City",
+        "pubdate": "Wed, 19 Feb 2025 13:00:00 +0100"
       }
     ],
     [
@@ -38,20 +45,6 @@
     ],
     [
       {
-        "title": "Real Madryt – Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Real%20Madryt%20%E2%80%93%20Man%20City",
-        "pubdate": "Wed, 19 Feb 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kamil Stoch",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kamil%20Stoch",
-        "pubdate": "Wed, 19 Feb 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rafał Tkacz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Rafa%C5%82%20Tkacz",
         "pubdate": "Wed, 19 Feb 2025 01:00:00 +0100"
@@ -59,9 +52,9 @@
     ],
     [
       {
-        "title": "Dławisz okrągłolistny",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#D%C5%82awisz%20okr%C4%85g%C5%82olistny",
-        "pubdate": "Wed, 19 Feb 2025 00:00:00 +0100"
+        "title": "Binkowski",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Binkowski",
+        "pubdate": "Wed, 19 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -115,16 +108,16 @@
     ],
     [
       {
-        "title": "LaLiga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#LaLiga",
-        "pubdate": "Tue, 18 Feb 2025 11:00:00 +0100"
+        "title": "Sanah",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sanah",
+        "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sanah",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sanah",
-        "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
+        "title": "LaLiga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#LaLiga",
+        "pubdate": "Tue, 18 Feb 2025 11:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Damiano David",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Damiano%20David",
         "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Grok 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Grok%203",
+        "pubdate": "Tue, 18 Feb 2025 12:00:00 +0100"
       }
     ]
   ]
