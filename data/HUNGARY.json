@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2025 , 16:33:36",
+  "lastUpdate": "19-02-2025 , 16:47:36",
   "data": [
     [
       {
@@ -34,13 +34,6 @@
         "title": "Lázár János",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#L%C3%A1z%C3%A1r%20J%C3%A1nos",
         "pubdate": "Wed, 19 Feb 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "IGN Hungary",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#IGN%20Hungary",
-        "pubdate": "Wed, 19 Feb 2025 09:00:00 +0100"
       }
     ],
     [
@@ -101,13 +94,6 @@
     ],
     [
       {
-        "title": "F1",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1",
-        "pubdate": "Tue, 18 Feb 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Jackl Vivien",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Jackl%20Vivien",
         "pubdate": "Tue, 18 Feb 2025 13:00:00 +0100"
@@ -136,8 +122,22 @@
     ],
     [
       {
-        "title": "GTA 6",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#GTA%206",
+        "title": "F1",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#F1",
+        "pubdate": "Tue, 18 Feb 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Milan",
+        "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Farm VIP",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Farm%20VIP",
         "pubdate": "Tue, 18 Feb 2025 18:00:00 +0100"
       }
     ]
