@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2025 , 11:37:51",
+  "lastUpdate": "19-02-2025 , 11:47:08",
   "data": [
     [
       {
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Sport Lisboa e Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
+        "pubdate": "Tue, 18 Feb 2025 22:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "F1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#F1",
         "pubdate": "Tue, 18 Feb 2025 21:00:00 +0000"
@@ -132,13 +139,6 @@
         "title": "Etna",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Etna",
         "pubdate": "Tue, 18 Feb 2025 00:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Miguel Moura",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Miguel%20Moura",
-        "pubdate": "Tue, 18 Feb 2025 17:00:00 +0000"
       }
     ]
   ]
