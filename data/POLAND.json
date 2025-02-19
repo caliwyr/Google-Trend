@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "19-02-2025 , 06:39:41",
+  "lastUpdate": "19-02-2025 , 06:50:04",
   "data": [
     [
       {
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Toronto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Toronto",
+        "pubdate": "Tue, 18 Feb 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Damiano David",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Damiano%20David",
         "pubdate": "Tue, 18 Feb 2025 21:00:00 +0100"
@@ -90,13 +97,6 @@
         "title": "Agnieszka Kwiatkowska-Gurdak",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Agnieszka%20Kwiatkowska-Gurdak",
         "pubdate": "Tue, 18 Feb 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Toronto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Toronto",
-        "pubdate": "Tue, 18 Feb 2025 00:00:00 +0100"
       }
     ],
     [
