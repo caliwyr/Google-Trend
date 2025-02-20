@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2025 , 16:41:56",
+  "lastUpdate": "20-02-2025 , 16:53:10",
   "data": [
     [
       {
@@ -59,13 +59,6 @@
     ],
     [
       {
-        "title": "Energie",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Energie",
-        "pubdate": "Thu, 20 Feb 2025 08:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Inter Miami",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Inter%20Miami",
         "pubdate": "Thu, 20 Feb 2025 13:00:00 +0200"
@@ -73,9 +66,23 @@
     ],
     [
       {
+        "title": "Energie",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Energie",
+        "pubdate": "Thu, 20 Feb 2025 08:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Vladimir Putin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Vladimir%20Putin",
         "pubdate": "Thu, 20 Feb 2025 16:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Borussia Dortmund",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Borussia%20Dortmund",
+        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0200"
       }
     ],
     [
@@ -90,6 +97,13 @@
         "title": "Haaland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Haaland",
         "pubdate": "Thu, 20 Feb 2025 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Rihanna",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rihanna",
+        "pubdate": "Thu, 20 Feb 2025 03:00:00 +0200"
       }
     ],
     [
@@ -115,8 +129,8 @@
     ],
     [
       {
-        "title": "Aston Villa - Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aston%20Villa%20-%20Liverpool",
+        "title": "Aston Villa,  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Aston%20Villa,%20%20Liverpool",
         "pubdate": "Wed, 19 Feb 2025 21:00:00 +0200"
       }
     ],
@@ -124,20 +138,6 @@
       {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSG",
-        "pubdate": "Wed, 19 Feb 2025 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "PSV - Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSV%20-%20Juventus",
-        "pubdate": "Wed, 19 Feb 2025 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Yalta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Yalta",
         "pubdate": "Wed, 19 Feb 2025 22:00:00 +0200"
       }
     ]
