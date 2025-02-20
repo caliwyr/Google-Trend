@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2025 , 18:43:42",
+  "lastUpdate": "20-02-2025 , 18:52:59",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Gntm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gntm",
+        "pubdate": "Thu, 20 Feb 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Pi Network",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Pi%20Network",
         "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
@@ -24,9 +31,23 @@
     ],
     [
       {
+        "title": "Tereza Nova",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tereza%20Nova",
+        "pubdate": "Thu, 20 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "ÖVP SPÖ Koalition",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96VP%20SP%C3%96%20Koalition",
         "pubdate": "Thu, 20 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Palantir",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Palantir",
+        "pubdate": "Thu, 20 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -52,9 +73,9 @@
     ],
     [
       {
-        "title": "Tereza Nova",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tereza%20Nova",
-        "pubdate": "Thu, 20 Feb 2025 17:00:00 +0100"
+        "title": "RTX 5070 Ti",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#RTX%205070%20Ti",
+        "pubdate": "Thu, 20 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -62,6 +83,13 @@
         "title": "Leoben",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Leoben",
         "pubdate": "Thu, 20 Feb 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zero Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Zero%20Day",
+        "pubdate": "Thu, 20 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -111,34 +139,6 @@
         "title": "PSV Eindhoven – Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#PSV%20Eindhoven%20%E2%80%93%20Juventus",
         "pubdate": "Wed, 19 Feb 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Aston Villa – Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Aston%20Villa%20%E2%80%93%20Liverpool",
-        "pubdate": "Wed, 19 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stefan Kratochwill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stefan%20Kratochwill",
-        "pubdate": "Wed, 19 Feb 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Raducanu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Raducanu",
-        "pubdate": "Wed, 19 Feb 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Asteroid 2024 YR4 Nasa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Asteroid%202024%20YR4%20Nasa",
-        "pubdate": "Wed, 19 Feb 2025 19:00:00 +0100"
       }
     ]
   ]
