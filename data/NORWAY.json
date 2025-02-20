@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2025 , 21:38:14",
+  "lastUpdate": "20-02-2025 , 21:47:30",
   "data": [
     [
       {
@@ -45,6 +45,13 @@
     ],
     [
       {
+        "title": "Zero Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zero%20Day",
+        "pubdate": "Thu, 20 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Donald Trump",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Donald%20Trump",
         "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
@@ -52,16 +59,9 @@
     ],
     [
       {
-        "title": "Geirr Lystrup",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Geirr%20Lystrup",
+        "title": "ALS",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#ALS",
         "pubdate": "Thu, 20 Feb 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Zero Day",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Zero%20Day",
-        "pubdate": "Thu, 20 Feb 2025 18:00:00 +0100"
       }
     ],
     [
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#City",
-        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Otta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Otta",
         "pubdate": "Thu, 20 Feb 2025 15:00:00 +0100"
@@ -97,6 +90,13 @@
         "title": "Regjeringen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Regjeringen",
         "pubdate": "Thu, 20 Feb 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Kash Patel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kash%20Patel",
+        "pubdate": "Thu, 20 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -115,16 +115,16 @@
     ],
     [
       {
-        "title": "Lily Phillips",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lily%20Phillips",
-        "pubdate": "Thu, 20 Feb 2025 16:00:00 +0100"
+        "title": "Bodø",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bod%C3%B8",
+        "pubdate": "Thu, 20 Feb 2025 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Omega-3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Omega-3",
-        "pubdate": "Thu, 20 Feb 2025 18:00:00 +0100"
+        "title": "Lily Phillips",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Lily%20Phillips",
+        "pubdate": "Thu, 20 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "iPhone 16e",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#iPhone%2016e",
-        "pubdate": "Wed, 19 Feb 2025 19:00:00 +0100"
+        "title": "Real Madrid mot Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid%20mot%20Man%20City",
+        "pubdate": "Wed, 19 Feb 2025 21:00:00 +0100"
       }
     ]
   ]
