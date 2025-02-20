@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2025 , 07:37:51",
+  "lastUpdate": "20-02-2025 , 07:47:15",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "PSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
-        "pubdate": "Wed, 19 Feb 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSG",
         "pubdate": "Wed, 19 Feb 2025 21:00:00 +0100"
@@ -48,6 +41,20 @@
         "title": "Aston Villa – Liverpool",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Aston%20Villa%20%E2%80%93%20Liverpool",
         "pubdate": "Wed, 19 Feb 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Juventus",
+        "pubdate": "Wed, 19 Feb 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "PSV",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#PSV",
+        "pubdate": "Wed, 19 Feb 2025 23:00:00 +0100"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Vakantiegeld",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vakantiegeld",
-        "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
+        "title": "ASAP Rocky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ASAP%20Rocky",
+        "pubdate": "Wed, 19 Feb 2025 10:00:00 +0100"
       }
     ],
     [
       {
-        "title": "ASAP Rocky",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#ASAP%20Rocky",
-        "pubdate": "Wed, 19 Feb 2025 10:00:00 +0100"
+        "title": "Vakantiegeld",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Vakantiegeld",
+        "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Rock Werchter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Rock%20Werchter",
         "pubdate": "Wed, 19 Feb 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lille",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Lille",
-        "pubdate": "Wed, 19 Feb 2025 09:00:00 +0100"
       }
     ]
   ]

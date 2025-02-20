@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2025 , 07:38:04",
+  "lastUpdate": "20-02-2025 , 07:47:27",
   "data": [
     [
       {
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "Apple",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Apple",
+        "title": "iPhone 16e",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#iPhone%2016e",
         "pubdate": "Wed, 19 Feb 2025 20:00:00 +0300"
       }
     ],
@@ -66,13 +66,6 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSG",
-        "pubdate": "Wed, 19 Feb 2025 23:00:00 +0300"
-      }
-    ],
-    [
-      {
         "title": "Slavko Vincic",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Slavko%20Vincic",
         "pubdate": "Wed, 19 Feb 2025 01:00:00 +0300"
@@ -80,9 +73,23 @@
     ],
     [
       {
+        "title": "PSG Brest",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#PSG%20Brest",
+        "pubdate": "Wed, 19 Feb 2025 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Gs AZ Alkmaar",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Gs%20AZ%20Alkmaar",
         "pubdate": "Wed, 19 Feb 2025 20:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "İstanbul Havalimanı",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0stanbul%20Havaliman%C4%B1",
+        "pubdate": "Wed, 19 Feb 2025 18:00:00 +0300"
       }
     ],
     [
@@ -97,20 +104,6 @@
         "title": "Jaecoo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Jaecoo",
         "pubdate": "Wed, 19 Feb 2025 14:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "İstanbul Havalimanı",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C4%B0stanbul%20Havaliman%C4%B1",
-        "pubdate": "Wed, 19 Feb 2025 18:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "ALES başvuru",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#ALES%20ba%C5%9Fvuru",
-        "pubdate": "Wed, 19 Feb 2025 10:00:00 +0300"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Özlem Gürses",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#%C3%96zlem%20G%C3%BCrses",
         "pubdate": "Wed, 19 Feb 2025 02:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "Grok 3",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TR#Grok%203",
+        "pubdate": "Wed, 19 Feb 2025 01:00:00 +0300"
       }
     ]
   ]
