@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-02-2025 , 15:36:50",
+  "lastUpdate": "20-02-2025 , 15:46:06",
   "data": [
+    [
+      {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid",
+        "pubdate": "Thu, 20 Feb 2025 04:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "FCSB - PAOK",
@@ -17,9 +24,9 @@
     ],
     [
       {
-        "title": "Real City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20City",
-        "pubdate": "Thu, 20 Feb 2025 01:00:00 +0200"
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Trump",
+        "pubdate": "Thu, 20 Feb 2025 07:00:00 +0200"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Real Madrid C.F",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid%20C.F",
         "pubdate": "Thu, 20 Feb 2025 02:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Camille Claudel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Camille%20Claudel",
-        "pubdate": "Thu, 20 Feb 2025 09:00:00 +0200"
       }
     ],
     [
@@ -94,15 +94,8 @@
     ],
     [
       {
-        "title": "Rihanna",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Rihanna",
-        "pubdate": "Thu, 20 Feb 2025 03:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid - Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid%20-%20Man%20City",
+        "title": "Real Madrid  Man City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Real%20Madrid%20%20Man%20City",
         "pubdate": "Wed, 19 Feb 2025 22:00:00 +0200"
       }
     ],
@@ -138,6 +131,13 @@
       {
         "title": "PSV - Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSV%20-%20Juventus",
+        "pubdate": "Wed, 19 Feb 2025 22:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Yalta",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Yalta",
         "pubdate": "Wed, 19 Feb 2025 22:00:00 +0200"
       }
     ]
