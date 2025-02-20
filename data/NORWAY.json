@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-02-2025 , 09:36:47",
+  "lastUpdate": "20-02-2025 , 09:46:15",
   "data": [
+    [
+      {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
+        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Man City",
@@ -38,8 +45,8 @@
     ],
     [
       {
-        "title": "Washington post",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Washington%20post",
+        "title": "Washington Post",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Washington%20Post",
         "pubdate": "Wed, 19 Feb 2025 14:00:00 +0100"
       }
     ],
@@ -55,6 +62,13 @@
         "title": "Sonia Bompastor",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Sonia%20Bompastor",
         "pubdate": "Wed, 19 Feb 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dag Hol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Dag%20Hol",
+        "pubdate": "Wed, 19 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -80,13 +94,6 @@
     ],
     [
       {
-        "title": "Aston Villa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Aston%20Villa",
-        "pubdate": "Wed, 19 Feb 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "PSG",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#PSG",
         "pubdate": "Wed, 19 Feb 2025 23:00:00 +0100"
@@ -97,13 +104,6 @@
         "title": "AF Gruppen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#AF%20Gruppen",
         "pubdate": "Wed, 19 Feb 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wall Street Journal",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Wall%20Street%20Journal",
-        "pubdate": "Wed, 19 Feb 2025 23:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Trump",
-        "pubdate": "Tue, 18 Feb 2025 10:00:00 +0100"
+        "title": "Bahare Viken",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bahare%20Viken",
+        "pubdate": "Tue, 18 Feb 2025 18:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Bahare Viken",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Bahare%20Viken",
-        "pubdate": "Tue, 18 Feb 2025 18:00:00 +0100"
+        "title": "Barcelona",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Barcelona",
+        "pubdate": "Tue, 18 Feb 2025 00:00:00 +0100"
       }
     ]
   ]

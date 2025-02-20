@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-02-2025 , 09:36:49",
+  "lastUpdate": "20-02-2025 , 09:46:17",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Juventus",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Juventus",
         "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Filippa Toremo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Filippa%20Toremo",
+        "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Bayern munchen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bayern%20munchen",
-        "pubdate": "Wed, 19 Feb 2025 08:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Rick Buckler",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Rick%20Buckler",
         "pubdate": "Wed, 19 Feb 2025 18:00:00 +0100"
@@ -104,13 +104,6 @@
         "title": "Uppsala.kommun",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Uppsala.kommun",
         "pubdate": "Wed, 19 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Tjörnbron",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tj%C3%B6rnbron",
-        "pubdate": "Wed, 19 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Max hamburgare",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Max%20hamburgare",
         "pubdate": "Tue, 18 Feb 2025 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sverige USA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Sverige%20USA",
+        "pubdate": "Tue, 18 Feb 2025 02:00:00 +0100"
       }
     ]
   ]
