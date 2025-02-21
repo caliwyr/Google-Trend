@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2025 , 17:38:29",
+  "lastUpdate": "21-02-2025 , 17:48:02",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "The Pebbles",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Pebbles",
-        "pubdate": "Fri, 21 Feb 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Steve Bannon",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Steve%20Bannon",
         "pubdate": "Fri, 21 Feb 2025 15:00:00 +0100"
@@ -59,9 +52,16 @@
     ],
     [
       {
-        "title": "UEFA Europa League",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#UEFA%20Europa%20League",
-        "pubdate": "Fri, 21 Feb 2025 14:00:00 +0100"
+        "title": "The Pebbles",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#The%20Pebbles",
+        "pubdate": "Fri, 21 Feb 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Victor Reinier",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Victor%20Reinier",
+        "pubdate": "Fri, 21 Feb 2025 17:00:00 +0100"
       }
     ],
     [
@@ -80,16 +80,16 @@
     ],
     [
       {
-        "title": "Victor Reinier",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Victor%20Reinier",
+        "title": "Shiri Bibas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Shiri%20Bibas",
         "pubdate": "Fri, 21 Feb 2025 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Shiri Bibas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Shiri%20Bibas",
-        "pubdate": "Fri, 21 Feb 2025 17:00:00 +0100"
+        "title": "Tate McRae",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Tate%20McRae",
+        "pubdate": "Fri, 21 Feb 2025 18:00:00 +0100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Real Betis.  Gent",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Real%20Betis.%20%20Gent",
-        "pubdate": "Thu, 20 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Betis – La Gantoise",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Betis%20%E2%80%93%20La%20Gantoise",
         "pubdate": "Thu, 20 Feb 2025 19:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Galatasaray  AZ",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Galatasaray%20%20AZ",
         "pubdate": "Thu, 20 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zero Day",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BE#Zero%20Day",
+        "pubdate": "Thu, 20 Feb 2025 21:00:00 +0100"
       }
     ]
   ]
