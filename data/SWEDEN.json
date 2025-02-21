@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2025 , 18:43:22",
+  "lastUpdate": "21-02-2025 , 18:52:38",
   "data": [
     [
       {
@@ -41,13 +41,6 @@
         "title": "Bob Dylan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Bob%20Dylan",
         "pubdate": "Thu, 20 Feb 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Donald%20Trump",
-        "pubdate": "Thu, 20 Feb 2025 07:00:00 +0100"
       }
     ],
     [
@@ -108,13 +101,6 @@
     ],
     [
       {
-        "title": "Filippa Toremo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Filippa%20Toremo",
-        "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid mot man city",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid%20mot%20man%20city",
         "pubdate": "Wed, 19 Feb 2025 21:00:00 +0100"
@@ -129,6 +115,13 @@
     ],
     [
       {
+        "title": "Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Trump",
+        "pubdate": "Wed, 19 Feb 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jordbävning",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Jordb%C3%A4vning",
         "pubdate": "Wed, 19 Feb 2025 17:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "PwC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#PwC",
         "pubdate": "Wed, 19 Feb 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Zelensky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Zelensky",
+        "pubdate": "Wed, 19 Feb 2025 19:00:00 +0100"
       }
     ]
   ]
