@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2025 , 05:41:48",
+  "lastUpdate": "21-02-2025 , 05:51:19",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Puzsér",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Puzs%C3%A9r",
         "pubdate": "Thu, 20 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Plzen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Plzen",
+        "pubdate": "Thu, 20 Feb 2025 23:00:00 +0100"
       }
     ],
     [
@@ -31,13 +38,6 @@
     ],
     [
       {
-        "title": "Plzen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Plzen",
-        "pubdate": "Thu, 20 Feb 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Alföldi Róbert",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Alf%C3%B6ldi%20R%C3%B3bert",
         "pubdate": "Thu, 20 Feb 2025 09:00:00 +0100"
@@ -48,6 +48,13 @@
         "title": "Bl sorsolás",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bl%20sorsol%C3%A1s",
         "pubdate": "Thu, 20 Feb 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Real",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real",
+        "pubdate": "Thu, 20 Feb 2025 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Madeleine McCann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Madeleine%20McCann",
         "pubdate": "Wed, 19 Feb 2025 12:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "RTL",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#RTL",
-        "pubdate": "Wed, 19 Feb 2025 22:00:00 +0100"
       }
     ]
   ]
