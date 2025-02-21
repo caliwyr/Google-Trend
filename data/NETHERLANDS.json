@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "21-02-2025 , 23:38:59",
+  "lastUpdate": "21-02-2025 , 23:48:11",
   "data": [
+    [
+      {
+        "title": "Faber",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Faber",
+        "pubdate": "Sat, 22 Feb 2025 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Victor Reinier",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Victor%20Reinier",
         "pubdate": "Fri, 21 Feb 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Eva Simons",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Eva%20Simons",
-        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Antoon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Antoon",
-        "pubdate": "Thu, 20 Feb 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Van Persie",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Van%20Persie",
         "pubdate": "Wed, 19 Feb 2025 20:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "N.E.C",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#N.E.C",
         "pubdate": "Sun, 16 Feb 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lieke marsman",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Lieke%20marsman",
+        "pubdate": "Sun, 16 Feb 2025 14:00:00 +0100"
       }
     ]
   ]
