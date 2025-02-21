@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2025 , 22:36:09",
+  "lastUpdate": "21-02-2025 , 22:45:30",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Los Ligy mistrů",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Los%20Ligy%20mistr%C5%AF",
         "pubdate": "Fri, 21 Feb 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Steve Bannon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Steve%20Bannon",
+        "pubdate": "Fri, 21 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -31,23 +38,9 @@
     ],
     [
       {
-        "title": "Ethereum",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ethereum",
-        "pubdate": "Fri, 21 Feb 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Děcko seriál",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#D%C4%9Bcko%20seri%C3%A1l",
         "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "James Bond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#James%20Bond",
-        "pubdate": "Fri, 21 Feb 2025 14:00:00 +0100"
       }
     ],
     [
@@ -59,8 +52,15 @@
     ],
     [
       {
-        "title": "Jiří Lehečka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Lehe%C4%8Dka",
+        "title": "Ethereum",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ethereum",
+        "pubdate": "Fri, 21 Feb 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "James Bond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#James%20Bond",
         "pubdate": "Fri, 21 Feb 2025 14:00:00 +0100"
       }
     ],
@@ -69,6 +69,20 @@
         "title": "Tereza Kerndlová",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Kerndlov%C3%A1",
         "pubdate": "Fri, 21 Feb 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Eva Burešová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eva%20Bure%C5%A1ov%C3%A1",
+        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Jiří Lehečka",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Lehe%C4%8Dka",
+        "pubdate": "Fri, 21 Feb 2025 14:00:00 +0100"
       }
     ],
     [
@@ -87,8 +101,8 @@
     ],
     [
       {
-        "title": "Eva Burešová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Eva%20Bure%C5%A1ov%C3%A1",
+        "title": "Labe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Labe",
         "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
       }
     ],
@@ -104,13 +118,6 @@
         "title": "Big Time Rush",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Big%20Time%20Rush",
         "pubdate": "Fri, 21 Feb 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Labe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Labe",
-        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Hradec Králové",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hradec%20Kr%C3%A1lov%C3%A9",
         "pubdate": "Thu, 20 Feb 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Real%20Madrid",
-        "pubdate": "Thu, 20 Feb 2025 00:00:00 +0100"
       }
     ]
   ]

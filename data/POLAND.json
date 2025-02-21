@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2025 , 22:36:16",
+  "lastUpdate": "21-02-2025 , 22:45:35",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "KSW",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KSW",
+        "pubdate": "Fri, 21 Feb 2025 08:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jarosław Kaczyński",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Jaros%C5%82aw%20Kaczy%C5%84ski",
         "pubdate": "Fri, 21 Feb 2025 11:00:00 +0100"
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "KSW",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#KSW",
-        "pubdate": "Fri, 21 Feb 2025 08:00:00 +0100"
+        "title": "Cercle Brugge",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Cercle%20Brugge",
+        "pubdate": "Fri, 21 Feb 2025 15:00:00 +0100"
       }
     ],
     [
@@ -94,13 +101,6 @@
     ],
     [
       {
-        "title": "James Bond",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#James%20Bond",
-        "pubdate": "Fri, 21 Feb 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Pierwsza miłość",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Pierwsza%20mi%C5%82o%C5%9B%C4%87",
         "pubdate": "Fri, 21 Feb 2025 21:00:00 +0100"
@@ -108,16 +108,23 @@
     ],
     [
       {
-        "title": "Grimes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Grimes",
-        "pubdate": "Fri, 21 Feb 2025 16:00:00 +0100"
+        "title": "Stal – Kotwica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stal%20%E2%80%93%20Kotwica",
+        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Stal – Kotwica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stal%20%E2%80%93%20Kotwica",
-        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
+        "title": "James Bond",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#James%20Bond",
+        "pubdate": "Fri, 21 Feb 2025 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Grimes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Grimes",
+        "pubdate": "Fri, 21 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Big Time Rush",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Big%20Time%20Rush",
         "pubdate": "Fri, 21 Feb 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "UBS",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#UBS",
-        "pubdate": "Fri, 21 Feb 2025 00:00:00 +0100"
       }
     ]
   ]
