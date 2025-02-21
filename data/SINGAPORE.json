@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-02-2025 , 12:22:43",
+  "lastUpdate": "21-02-2025 , 12:55:40",
   "data": [
     [
       {
@@ -52,13 +52,6 @@
     ],
     [
       {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20City",
-        "pubdate": "Thu, 20 Feb 2025 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Real%20Madrid",
         "pubdate": "Thu, 20 Feb 2025 10:00:00 +0800"
@@ -101,6 +94,13 @@
     ],
     [
       {
+        "title": "Champions League draw",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League%20draw",
+        "pubdate": "Thu, 20 Feb 2025 22:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Rekha Gupta",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Rekha%20Gupta",
         "pubdate": "Thu, 20 Feb 2025 02:00:00 +0800"
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Champions League draw",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Champions%20League%20draw",
-        "pubdate": "Thu, 20 Feb 2025 22:00:00 +0800"
+        "title": "Zelensky",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Zelensky",
+        "pubdate": "Thu, 20 Feb 2025 18:00:00 +0800"
       }
     ]
   ]
