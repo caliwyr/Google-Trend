@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-02-2025 , 16:38:05",
+  "lastUpdate": "22-02-2025 , 16:47:22",
   "data": [
     [
       {
@@ -17,6 +17,20 @@
     ],
     [
       {
+        "title": "Starlink",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Starlink",
+        "pubdate": "Sat, 22 Feb 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Volby Německo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Volby%20N%C4%9Bmecko",
+        "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "KSW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#KSW",
         "pubdate": "Fri, 21 Feb 2025 08:00:00 +0100"
@@ -24,16 +38,16 @@
     ],
     [
       {
-        "title": "Lily Phillips",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lily%20Phillips",
-        "pubdate": "Fri, 21 Feb 2025 00:00:00 +0100"
+        "title": "Oktagon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oktagon",
+        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Oktagon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Oktagon",
-        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0100"
+        "title": "Lily Phillips",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Lily%20Phillips",
+        "pubdate": "Fri, 21 Feb 2025 00:00:00 +0100"
       }
     ],
     [
@@ -66,8 +80,8 @@
     ],
     [
       {
-        "title": "Jana Paulová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20Paulov%C3%A1",
+        "title": "Jana paulová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jana%20paulov%C3%A1",
         "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
       }
     ],
@@ -76,6 +90,13 @@
         "title": "Děcko seriál",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#D%C4%9Bcko%20seri%C3%A1l",
         "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tereza Kerndlová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Kerndlov%C3%A1",
+        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0100"
       }
     ],
     [
@@ -94,9 +115,9 @@
     ],
     [
       {
-        "title": "Tereza Kerndlová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Kerndlov%C3%A1",
-        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0100"
+        "title": "Phil Collins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Phil%20Collins",
+        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -104,13 +125,6 @@
         "title": "CPAC",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#CPAC",
         "pubdate": "Fri, 21 Feb 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Phil Collins",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Phil%20Collins",
-        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Wobenzym",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Wobenzym",
         "pubdate": "Fri, 21 Feb 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Jiří Lehečka",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ji%C5%99%C3%AD%20Lehe%C4%8Dka",
-        "pubdate": "Fri, 21 Feb 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Filip Turek",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Filip%20Turek",
-        "pubdate": "Fri, 21 Feb 2025 18:00:00 +0100"
       }
     ]
   ]
