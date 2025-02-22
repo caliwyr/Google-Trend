@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "22-02-2025 , 14:40:19",
+  "lastUpdate": "22-02-2025 , 14:49:36",
   "data": [
     [
       {
@@ -31,13 +31,6 @@
     ],
     [
       {
-        "title": "Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Rugby",
-        "pubdate": "Sat, 22 Feb 2025 11:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "Luigi Mangione",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Luigi%20Mangione",
         "pubdate": "Sat, 22 Feb 2025 08:00:00 +0000"
@@ -55,6 +48,13 @@
         "title": "Bivol vs Beterbiev 2",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Bivol%20vs%20Beterbiev%202",
         "pubdate": "Sat, 22 Feb 2025 12:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Wales Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Wales%20Rugby",
+        "pubdate": "Sat, 22 Feb 2025 14:00:00 +0000"
       }
     ],
     [
@@ -80,6 +80,13 @@
     ],
     [
       {
+        "title": "Six Nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Six%20Nations",
+        "pubdate": "Fri, 21 Feb 2025 18:00:00 +0000"
+      }
+    ],
+    [
+      {
         "title": "Europa League",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Europa%20League",
         "pubdate": "Fri, 21 Feb 2025 10:00:00 +0000"
@@ -90,13 +97,6 @@
         "title": "Champions League draw",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Champions%20League%20draw",
         "pubdate": "Fri, 21 Feb 2025 23:00:00 +0000"
-      }
-    ],
-    [
-      {
-        "title": "Six Nations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Six%20Nations",
-        "pubdate": "Fri, 21 Feb 2025 19:00:00 +0000"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "6 Nations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#6%20Nations",
-        "pubdate": "Fri, 21 Feb 2025 18:00:00 +0000"
-      }
-    ],
-    [
-      {
         "title": "A Thousand Blows",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#A%20Thousand%20Blows",
         "pubdate": "Fri, 21 Feb 2025 13:00:00 +0000"
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "The Monkey",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#The%20Monkey",
-        "pubdate": "Fri, 21 Feb 2025 20:00:00 +0000"
+        "title": "England Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#England%20Rugby",
+        "pubdate": "Fri, 21 Feb 2025 23:00:00 +0000"
+      }
+    ],
+    [
+      {
+        "title": "Steve Bannon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=GB#Steve%20Bannon",
+        "pubdate": "Fri, 21 Feb 2025 13:00:00 +0000"
       }
     ]
   ]
