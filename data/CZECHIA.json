@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "22-02-2025 , 05:41:04",
+  "lastUpdate": "22-02-2025 , 05:50:18",
   "data": [
     [
       {
         "title": "KSW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#KSW",
         "pubdate": "Fri, 21 Feb 2025 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Svatek Petr",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Svatek%20Petr",
+        "pubdate": "Fri, 21 Feb 2025 23:00:00 +0100"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Tereza Kerndlová",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Kerndlov%C3%A1",
-        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0100"
+        "title": "Labe",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Labe",
+        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Labe",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Labe",
-        "pubdate": "Fri, 21 Feb 2025 22:00:00 +0100"
+        "title": "Tereza Kerndlová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Tereza%20Kerndlov%C3%A1",
+        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0100"
       }
     ],
     [
@@ -115,13 +122,6 @@
     ],
     [
       {
-        "title": "Ozzy osbourne",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ozzy%20osbourne",
-        "pubdate": "Fri, 21 Feb 2025 11:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Filip Turek",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Filip%20Turek",
         "pubdate": "Fri, 21 Feb 2025 18:00:00 +0100"
@@ -129,15 +129,15 @@
     ],
     [
       {
-        "title": "Big Time Rush",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Big%20Time%20Rush",
-        "pubdate": "Fri, 21 Feb 2025 17:00:00 +0100"
+        "title": "Ozzy osbourne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Ozzy%20osbourne",
+        "pubdate": "Fri, 21 Feb 2025 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Days Gone",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Days%20Gone",
+        "title": "Big Time Rush",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Big%20Time%20Rush",
         "pubdate": "Fri, 21 Feb 2025 17:00:00 +0100"
       }
     ]
