@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "23-02-2025 , 06:43:28",
+  "lastUpdate": "23-02-2025 , 06:52:53",
   "data": [
+    [
+      {
+        "title": "NHL",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#NHL",
+        "pubdate": "Sun, 23 Feb 2025 07:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Nadine Beiler",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Nadine%20Beiler",
+        "pubdate": "Sun, 23 Feb 2025 07:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Chelsea",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chelsea",
         "pubdate": "Sun, 23 Feb 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mulhouse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mulhouse",
+        "pubdate": "Sun, 23 Feb 2025 01:00:00 +0100"
       }
     ],
     [
@@ -31,8 +52,8 @@
     ],
     [
       {
-        "title": "ÖVP, SPÖ Neos Koalition",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96VP,%20SP%C3%96%20Neos%20Koalition",
+        "title": "ÖVP, SPÖ NEOS Koalition",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#%C3%96VP,%20SP%C3%96%20NEOS%20Koalition",
         "pubdate": "Sat, 22 Feb 2025 08:00:00 +0100"
       }
     ],
@@ -55,6 +76,13 @@
         "title": "Agit Kabayel",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Agit%20Kabayel",
         "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wahl Deutschland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wahl%20Deutschland",
+        "pubdate": "Sat, 22 Feb 2025 07:00:00 +0100"
       }
     ],
     [
@@ -87,13 +115,6 @@
     ],
     [
       {
-        "title": "Wahl Deutschland",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wahl%20Deutschland",
-        "pubdate": "Sat, 22 Feb 2025 07:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Friedrich Merz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Friedrich%20Merz",
         "pubdate": "Sat, 22 Feb 2025 20:00:00 +0100"
@@ -108,13 +129,6 @@
     ],
     [
       {
-        "title": "Mulhouse",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mulhouse",
-        "pubdate": "Sat, 22 Feb 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Wolfsburg – Bochum",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wolfsburg%20%E2%80%93%20Bochum",
         "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
@@ -125,20 +139,6 @@
         "title": "Stocker",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Stocker",
         "pubdate": "Sat, 22 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Mainz – St. Pauli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Mainz%20%E2%80%93%20St.%20Pauli",
-        "pubdate": "Sat, 22 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "HSV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HSV",
-        "pubdate": "Sat, 22 Feb 2025 00:00:00 +0100"
       }
     ]
   ]
