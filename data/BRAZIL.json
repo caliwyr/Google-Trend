@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "23-02-2025 , 05:40:39",
+  "lastUpdate": "23-02-2025 , 05:49:51",
   "data": [
-    [
-      {
-        "title": "América-MG x Cruzeiro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-MG%20x%20Cruzeiro",
-        "pubdate": "Sat, 22 Feb 2025 14:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Flamengo x Maricá",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Flamengo%20x%20Maric%C3%A1",
         "pubdate": "Sat, 22 Feb 2025 10:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "América-MG x Cruzeiro",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Am%C3%A9rica-MG%20x%20Cruzeiro",
+        "pubdate": "Sat, 22 Feb 2025 14:00:00 -0500"
       }
     ],
     [
@@ -94,13 +94,6 @@
     ],
     [
       {
-        "title": "Santa Cruz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Santa%20Cruz",
-        "pubdate": "Sat, 22 Feb 2025 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Avai",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Avai",
         "pubdate": "Sat, 22 Feb 2025 16:00:00 -0500"
@@ -139,6 +132,13 @@
         "title": "CSA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#CSA",
         "pubdate": "Sat, 22 Feb 2025 14:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "Nuggets x Lakers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Nuggets%20x%20Lakers",
+        "pubdate": "Sat, 22 Feb 2025 21:00:00 -0500"
       }
     ]
   ]

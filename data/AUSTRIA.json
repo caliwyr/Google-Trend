@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2025 , 05:40:38",
+  "lastUpdate": "23-02-2025 , 05:49:50",
   "data": [
     [
       {
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Wahl Deutschland",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Wahl%20Deutschland",
+        "pubdate": "Sat, 22 Feb 2025 07:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Friedrich Merz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Friedrich%20Merz",
         "pubdate": "Sat, 22 Feb 2025 20:00:00 +0100"
@@ -131,13 +138,6 @@
       {
         "title": "HSV",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#HSV",
-        "pubdate": "Sat, 22 Feb 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Anne Frank",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Anne%20Frank",
         "pubdate": "Sat, 22 Feb 2025 00:00:00 +0100"
       }
     ]
