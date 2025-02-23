@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-02-2025 , 10:45:53",
+  "lastUpdate": "23-02-2025 , 10:55:13",
   "data": [
-    [
-      {
-        "title": "Pope Francis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pope%20Francis",
-        "pubdate": "Sun, 23 Feb 2025 10:00:00 +1100"
-      }
-    ],
     [
       {
         "title": "IND vs PAK",
@@ -17,9 +10,9 @@
     ],
     [
       {
-        "title": "Six Nations",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Six%20Nations",
-        "pubdate": "Sun, 23 Feb 2025 05:00:00 +1100"
+        "title": "Pope Francis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Pope%20Francis",
+        "pubdate": "Sun, 23 Feb 2025 10:00:00 +1100"
       }
     ],
     [
@@ -62,6 +55,13 @@
         "title": "Jagga Smith",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Jagga%20Smith",
         "pubdate": "Sun, 23 Feb 2025 14:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Six Nations",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Six%20Nations",
+        "pubdate": "Sun, 23 Feb 2025 06:00:00 +1100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Brisbane Broncos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Brisbane%20Broncos",
-        "pubdate": "Sun, 23 Feb 2025 09:00:00 +1100"
-      }
-    ],
-    [
-      {
         "title": "MLS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#MLS",
         "pubdate": "Sun, 23 Feb 2025 18:00:00 +1100"
@@ -139,6 +132,13 @@
         "title": "England vs Australia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#England%20vs%20Australia",
         "pubdate": "Sat, 22 Feb 2025 20:00:00 +1100"
+      }
+    ],
+    [
+      {
+        "title": "Everton vs Man United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AU#Everton%20vs%20Man%20United",
+        "pubdate": "Sat, 22 Feb 2025 23:00:00 +1100"
       }
     ]
   ]
