@@ -1,13 +1,6 @@
 {
-  "lastUpdate": "23-02-2025 , 21:48:42",
+  "lastUpdate": "23-02-2025 , 21:57:55",
   "data": [
-    [
-      {
-        "title": "Man City vs Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City%20vs%20Liverpool",
-        "pubdate": "Mon, 24 Feb 2025 07:00:00 +1300"
-      }
-    ],
     [
       {
         "title": "German election",
@@ -17,9 +10,23 @@
     ],
     [
       {
+        "title": "Man City vs Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Man%20City%20vs%20Liverpool",
+        "pubdate": "Mon, 24 Feb 2025 07:00:00 +1300"
+      }
+    ],
+    [
+      {
         "title": "Newcastle vs nottm Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Newcastle%20vs%20nottm%20Forest",
         "pubdate": "Mon, 24 Feb 2025 07:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Te Matatini",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Te%20Matatini",
+        "pubdate": "Mon, 24 Feb 2025 09:00:00 +1300"
       }
     ],
     [
@@ -34,13 +41,6 @@
         "title": "Six Nations 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Six%20Nations%202025",
         "pubdate": "Mon, 24 Feb 2025 01:00:00 +1300"
-      }
-    ],
-    [
-      {
-        "title": "Te Matatini",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Te%20Matatini",
-        "pubdate": "Mon, 24 Feb 2025 09:00:00 +1300"
       }
     ],
     [
@@ -115,13 +115,6 @@
     ],
     [
       {
-        "title": "Canada Women's Sevens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Canada%20Women's%20Sevens",
-        "pubdate": "Sun, 23 Feb 2025 10:00:00 +1300"
-      }
-    ],
-    [
-      {
         "title": "Daylight savings 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Daylight%20savings%202025",
         "pubdate": "Sun, 23 Feb 2025 17:00:00 +1300"
@@ -139,6 +132,13 @@
         "title": "Katie Bradford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Katie%20Bradford",
         "pubdate": "Sun, 23 Feb 2025 17:00:00 +1300"
+      }
+    ],
+    [
+      {
+        "title": "Electric Avenue Christchurch",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Electric%20Avenue%20Christchurch",
+        "pubdate": "Sun, 23 Feb 2025 21:00:00 +1300"
       }
     ]
   ]
