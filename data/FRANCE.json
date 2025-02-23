@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2025 , 18:42:02",
+  "lastUpdate": "23-02-2025 , 18:51:24",
   "data": [
     [
       {
@@ -10,8 +10,15 @@
     ],
     [
       {
-        "title": "Antoine Dupont",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Antoine%20Dupont",
+        "title": "Real",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Real",
+        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mass-start biathlon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mass-start%20biathlon",
         "pubdate": "Sun, 23 Feb 2025 17:00:00 +0100"
       }
     ],
@@ -24,9 +31,9 @@
     ],
     [
       {
-        "title": "Mass-start biathlon",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Mass-start%20biathlon",
-        "pubdate": "Sun, 23 Feb 2025 17:00:00 +0100"
+        "title": "Alice Weidel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Alice%20Weidel",
+        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -66,23 +73,16 @@
     ],
     [
       {
+        "title": "Lille – Monaco",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Lille%20%E2%80%93%20Monaco",
+        "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "OM Auxerre",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#OM%20Auxerre",
         "pubdate": "Sat, 22 Feb 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Saint-Étienne – Angers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Saint-%C3%89tienne%20%E2%80%93%20Angers",
-        "pubdate": "Sat, 22 Feb 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Amra",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Amra",
-        "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
       }
     ],
     [
@@ -101,9 +101,9 @@
     ],
     [
       {
-        "title": "Rugby",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Rugby",
-        "pubdate": "Sat, 22 Feb 2025 20:00:00 +0100"
+        "title": "Amra",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Amra",
+        "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
       }
     ],
     [
@@ -122,13 +122,6 @@
     ],
     [
       {
-        "title": "Cassandre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Cassandre",
-        "pubdate": "Sat, 22 Feb 2025 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Franz Ferdinand",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#Franz%20Ferdinand",
         "pubdate": "Sat, 22 Feb 2025 00:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "SM Caen",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#SM%20Caen",
         "pubdate": "Sat, 22 Feb 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "France Italie Rugby",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FR#France%20Italie%20Rugby",
+        "pubdate": "Fri, 21 Feb 2025 20:00:00 +0100"
       }
     ]
   ]

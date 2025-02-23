@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "23-02-2025 , 18:41:59",
+  "lastUpdate": "23-02-2025 , 18:51:21",
   "data": [
     [
       {
         "title": "Sturm Graz – Blau-Weiß Linz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sturm%20Graz%20%E2%80%93%20Blau-Wei%C3%9F%20Linz",
-        "pubdate": "Sun, 23 Feb 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sestriere",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sestriere",
         "pubdate": "Sun, 23 Feb 2025 14:00:00 +0100"
       }
     ],
@@ -24,9 +17,9 @@
     ],
     [
       {
-        "title": "Alice Weidel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alice%20Weidel",
-        "pubdate": "Sun, 23 Feb 2025 12:00:00 +0100"
+        "title": "Sestriere",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sestriere",
+        "pubdate": "Sun, 23 Feb 2025 14:00:00 +0100"
       }
     ],
     [
@@ -34,6 +27,27 @@
         "title": "Bayern – Eintracht Frankfurt",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Bayern%20%E2%80%93%20Eintracht%20Frankfurt",
         "pubdate": "Sun, 23 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Alice Weidel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Alice%20Weidel",
+        "pubdate": "Sun, 23 Feb 2025 12:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "ZDF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF",
+        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Die Linke",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Linke",
+        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
       }
     ],
     [
@@ -59,8 +73,29 @@
     ],
     [
       {
-        "title": "ZDF",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF",
+        "title": "Olaf Scholz",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Olaf%20Scholz",
+        "pubdate": "Sun, 23 Feb 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tagesschau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Tagesschau",
+        "pubdate": "Sun, 23 Feb 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "LASK Rapid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK%20Rapid",
+        "pubdate": "Sun, 23 Feb 2025 16:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sahra Wagenknecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sahra%20Wagenknecht",
         "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
       }
     ],
@@ -80,44 +115,9 @@
     ],
     [
       {
-        "title": "Olaf Scholz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Olaf%20Scholz",
-        "pubdate": "Sun, 23 Feb 2025 13:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "LASK Rapid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#LASK%20Rapid",
-        "pubdate": "Sun, 23 Feb 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sahra Wagenknecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sahra%20Wagenknecht",
-        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Die Linke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Linke",
-        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Köln – Düsseldorf",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#K%C3%B6ln%20%E2%80%93%20D%C3%BCsseldorf",
-        "pubdate": "Sun, 23 Feb 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Darmstadt 98 – Schalke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Darmstadt%2098%20%E2%80%93%20Schalke",
-        "pubdate": "Sun, 23 Feb 2025 15:00:00 +0100"
+        "title": "Grüne",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Gr%C3%BCne",
+        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -129,16 +129,16 @@
     ],
     [
       {
-        "title": "Judith Pühringer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Judith%20P%C3%BChringer",
-        "pubdate": "Sun, 23 Feb 2025 09:00:00 +0100"
+        "title": "Köln – Düsseldorf",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#K%C3%B6ln%20%E2%80%93%20D%C3%BCsseldorf",
+        "pubdate": "Sun, 23 Feb 2025 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Chelsea",
-        "pubdate": "Sun, 23 Feb 2025 00:00:00 +0100"
+        "title": "Angela Merkel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Angela%20Merkel",
+        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
       }
     ]
   ]
