@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "23-02-2025 , 17:40:32",
+  "lastUpdate": "23-02-2025 , 17:49:57",
   "data": [
     [
       {
         "title": "Las Palmas – Barcelona",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Las%20Palmas%20%E2%80%93%20Barcelona",
         "pubdate": "Sun, 23 Feb 2025 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Manchester City – Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Manchester%20City%20%E2%80%93%20Liverpool",
+        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0200"
       }
     ],
     [
@@ -17,8 +24,22 @@
     ],
     [
       {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#AfD",
+        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Newcastle United – Nottingham Forest",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Newcastle%20United%20%E2%80%93%20Nottingham%20Forest",
+        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pakistan vs India",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pakistan%20vs%20India",
         "pubdate": "Sun, 23 Feb 2025 18:00:00 +0200"
       }
     ],
@@ -31,9 +52,9 @@
     ],
     [
       {
-        "title": "Pakistan vs India",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Pakistan%20vs%20India",
-        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0200"
+        "title": "Janet Mills",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Janet%20Mills",
+        "pubdate": "Sun, 23 Feb 2025 13:00:00 +0200"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Leicester City – Brentford",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Leicester%20City%20%E2%80%93%20Brentford",
         "pubdate": "Sat, 22 Feb 2025 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bybit",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Bybit",
-        "pubdate": "Sat, 22 Feb 2025 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Melodifestivalen 2025",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Melodifestivalen%202025",
-        "pubdate": "Fri, 21 Feb 2025 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Elon Musk",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=FI#Elon%20Musk",
-        "pubdate": "Fri, 21 Feb 2025 15:00:00 +0200"
       }
     ]
   ]
