@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "23-02-2025 , 20:40:44",
+  "lastUpdate": "23-02-2025 , 20:49:54",
   "data": [
     [
       {
@@ -73,9 +73,23 @@
     ],
     [
       {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Napoli",
+        "pubdate": "Sun, 23 Feb 2025 23:00:00 +0300"
+      }
+    ],
+    [
+      {
         "title": "Inter Milan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Inter%20Milan",
         "pubdate": "Sun, 23 Feb 2025 01:00:00 +0300"
+      }
+    ],
+    [
+      {
+        "title": "German elections",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#German%20elections",
+        "pubdate": "Sun, 23 Feb 2025 23:00:00 +0300"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Bournemouth vs Wolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Bournemouth%20vs%20Wolves",
         "pubdate": "Sat, 22 Feb 2025 13:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Fulham vs Crystal Palace",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Fulham%20vs%20Crystal%20Palace",
-        "pubdate": "Sat, 22 Feb 2025 00:00:00 +0300"
-      }
-    ],
-    [
-      {
-        "title": "Arsenal FC",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KE#Arsenal%20FC",
-        "pubdate": "Sat, 22 Feb 2025 21:00:00 +0300"
       }
     ]
   ]
