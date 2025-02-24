@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-02-2025 , 19:43:31",
+  "lastUpdate": "24-02-2025 , 19:52:39",
   "data": [
+    [
+      {
+        "title": "나스닥",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%98%EC%8A%A4%EB%8B%A5",
+        "pubdate": "Tue, 25 Feb 2025 01:00:00 +0900"
+      }
+    ],
     [
       {
         "title": "그록3",
@@ -132,13 +139,6 @@
         "title": "대구마라톤",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%8C%80%EA%B5%AC%EB%A7%88%EB%9D%BC%ED%86%A4",
         "pubdate": "Sun, 23 Feb 2025 14:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "코로나",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%BD%94%EB%A1%9C%EB%82%98",
-        "pubdate": "Sun, 23 Feb 2025 02:00:00 +0900"
       }
     ]
   ]
