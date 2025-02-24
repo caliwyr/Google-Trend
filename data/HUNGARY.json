@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "24-02-2025 , 21:50:08",
+  "lastUpdate": "24-02-2025 , 21:59:21",
   "data": [
+    [
+      {
+        "title": "Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
+        "pubdate": "Mon, 24 Feb 2025 16:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Nyugdíjasok áfa-visszatérítése",
@@ -24,16 +31,16 @@
     ],
     [
       {
-        "title": "NKE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NKE",
-        "pubdate": "Mon, 24 Feb 2025 20:00:00 +0100"
+        "title": "Dunaharaszti baleset",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dunaharaszti%20baleset",
+        "pubdate": "Mon, 24 Feb 2025 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Dunaharaszti baleset",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Dunaharaszti%20baleset",
-        "pubdate": "Mon, 24 Feb 2025 17:00:00 +0100"
+        "title": "NKE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#NKE",
+        "pubdate": "Mon, 24 Feb 2025 20:00:00 +0100"
       }
     ],
     [
@@ -66,9 +73,23 @@
     ],
     [
       {
+        "title": "Roberta Flack",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Roberta%20Flack",
+        "pubdate": "Mon, 24 Feb 2025 22:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Szőke Gábor Miklós",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Sz%C5%91ke%20G%C3%A1bor%20Mikl%C3%B3s",
         "pubdate": "Mon, 24 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "USAID",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#USAID",
+        "pubdate": "Mon, 24 Feb 2025 22:00:00 +0100"
       }
     ],
     [
@@ -94,13 +115,6 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Liverpool",
-        "pubdate": "Sun, 23 Feb 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Ferenc pápa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Ferenc%20p%C3%A1pa",
         "pubdate": "Sun, 23 Feb 2025 16:00:00 +0100"
@@ -122,22 +136,8 @@
     ],
     [
       {
-        "title": "Orbán Ráhel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Orb%C3%A1n%20R%C3%A1hel",
-        "pubdate": "Sun, 23 Feb 2025 15:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Wáberer György",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#W%C3%A1berer%20Gy%C3%B6rgy",
-        "pubdate": "Sun, 23 Feb 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kovács Kati",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kov%C3%A1cs%20Kati",
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Real%20Madrid",
         "pubdate": "Sun, 23 Feb 2025 21:00:00 +0100"
       }
     ]
