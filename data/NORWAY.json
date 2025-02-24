@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2025 , 17:47:23",
+  "lastUpdate": "24-02-2025 , 17:56:38",
   "data": [
     [
       {
@@ -17,9 +17,16 @@
     ],
     [
       {
-        "title": "Klæbo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Kl%C3%A6bo",
-        "pubdate": "Mon, 24 Feb 2025 14:00:00 +0100"
+        "title": "Neil Young",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Neil%20Young",
+        "pubdate": "Mon, 24 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Roberta Flack",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Roberta%20Flack",
+        "pubdate": "Mon, 24 Feb 2025 18:00:00 +0100"
       }
     ],
     [
@@ -55,6 +62,20 @@
         "title": "Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Real%20Madrid",
         "pubdate": "Sun, 23 Feb 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Johannes Høsflot Klæbo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Johannes%20H%C3%B8sflot%20Kl%C3%A6bo",
+        "pubdate": "Sun, 23 Feb 2025 20:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Mikaela Shiffrin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Mikaela%20Shiffrin",
+        "pubdate": "Sun, 23 Feb 2025 17:00:00 +0100"
       }
     ],
     [
@@ -118,27 +139,6 @@
         "title": "Pave Frans",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Pave%20Frans",
         "pubdate": "Sat, 22 Feb 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Manchester United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Manchester%20United",
-        "pubdate": "Sat, 22 Feb 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Staysman",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Staysman",
-        "pubdate": "Sat, 22 Feb 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Hunter Schafer",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Hunter%20Schafer",
-        "pubdate": "Sat, 22 Feb 2025 00:00:00 +0100"
       }
     ]
   ]
