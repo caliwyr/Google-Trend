@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "24-02-2025 , 22:46:04",
+  "lastUpdate": "24-02-2025 , 22:55:20",
   "data": [
     [
       {
         "title": "Galatasaray",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Galatasaray",
         "pubdate": "Mon, 24 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Lucille Ball",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lucille%20Ball",
+        "pubdate": "Mon, 24 Feb 2025 21:00:00 +0100"
       }
     ],
     [
@@ -20,13 +27,6 @@
         "title": "Butte",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Butte",
         "pubdate": "Mon, 24 Feb 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Lucille Ball",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Lucille%20Ball",
-        "pubdate": "Mon, 24 Feb 2025 21:00:00 +0100"
       }
     ],
     [
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "Grok",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Grok",
+        "pubdate": "Mon, 24 Feb 2025 23:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "GTA 6",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#GTA%206",
         "pubdate": "Mon, 24 Feb 2025 17:00:00 +0100"
@@ -76,6 +83,13 @@
         "title": "CSU",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#CSU",
         "pubdate": "Mon, 24 Feb 2025 09:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Dan Bongino",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Dan%20Bongino",
+        "pubdate": "Mon, 24 Feb 2025 19:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "FDP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#FDP",
         "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Die Linke",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Die%20Linke",
-        "pubdate": "Sun, 23 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Alice Weidel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Alice%20Weidel",
-        "pubdate": "Sun, 23 Feb 2025 15:00:00 +0100"
       }
     ]
   ]
