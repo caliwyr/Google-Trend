@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2025 , 07:46:37",
+  "lastUpdate": "24-02-2025 , 07:56:02",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "SPD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#SPD",
+        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "FDP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#FDP",
         "pubdate": "Sun, 23 Feb 2025 20:00:00 +0100"
@@ -94,16 +101,16 @@
     ],
     [
       {
-        "title": "Timrå ik",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Timr%C3%A5%20ik",
-        "pubdate": "Sun, 23 Feb 2025 08:00:00 +0100"
+        "title": "Längdskidor vm",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#L%C3%A4ngdskidor%20vm",
+        "pubdate": "Sun, 23 Feb 2025 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Längdskidor vm",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#L%C3%A4ngdskidor%20vm",
-        "pubdate": "Sun, 23 Feb 2025 23:00:00 +0100"
+        "title": "Timrå ik",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Timr%C3%A5%20ik",
+        "pubdate": "Sun, 23 Feb 2025 08:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Tennessee Tears",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tennessee%20Tears",
         "pubdate": "Sat, 22 Feb 2025 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Vasaloppet",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Vasaloppet",
-        "pubdate": "Sat, 22 Feb 2025 12:00:00 +0100"
       }
     ]
   ]
