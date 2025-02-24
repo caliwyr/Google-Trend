@@ -1,18 +1,18 @@
 {
-  "lastUpdate": "24-02-2025 , 11:41:21",
+  "lastUpdate": "24-02-2025 , 11:50:55",
   "data": [
-    [
-      {
-        "title": "Aline Bianca",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Aline%20Bianca",
-        "pubdate": "Mon, 24 Feb 2025 00:00:00 -0500"
-      }
-    ],
     [
       {
         "title": "Vale tudo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Vale%20tudo",
         "pubdate": "Mon, 24 Feb 2025 00:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "BBB votação",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#BBB%20vota%C3%A7%C3%A3o",
+        "pubdate": "Mon, 24 Feb 2025 06:00:00 -0500"
       }
     ],
     [
@@ -38,8 +38,8 @@
     ],
     [
       {
-        "title": "Inter de Limeira X Santos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Limeira%20X%20Santos",
+        "title": "Inter de Limeira x Santos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Inter%20de%20Limeira%20x%20Santos",
         "pubdate": "Sun, 23 Feb 2025 15:00:00 -0500"
       }
     ],
@@ -80,13 +80,6 @@
     ],
     [
       {
-        "title": "Paysandu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Paysandu",
-        "pubdate": "Sun, 23 Feb 2025 16:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Botafogo-SP x Novorizontino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Botafogo-SP%20x%20Novorizontino",
         "pubdate": "Sun, 23 Feb 2025 17:00:00 -0500"
@@ -122,13 +115,6 @@
     ],
     [
       {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Newcastle",
-        "pubdate": "Sun, 23 Feb 2025 10:00:00 -0500"
-      }
-    ],
-    [
-      {
         "title": "Velo Clube x Água Santa",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Velo%20Clube%20x%20%C3%81gua%20Santa",
         "pubdate": "Sun, 23 Feb 2025 17:00:00 -0500"
@@ -136,9 +122,23 @@
     ],
     [
       {
+        "title": "Remo x Paysandu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Remo%20x%20Paysandu",
+        "pubdate": "Sun, 23 Feb 2025 16:00:00 -0500"
+      }
+    ],
+    [
+      {
         "title": "Marcelo Rubens Paiva",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#Marcelo%20Rubens%20Paiva",
         "pubdate": "Sun, 23 Feb 2025 16:00:00 -0500"
+      }
+    ],
+    [
+      {
+        "title": "UOL Play",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=BR#UOL%20Play",
+        "pubdate": "Sun, 23 Feb 2025 17:00:00 -0500"
       }
     ]
   ]
