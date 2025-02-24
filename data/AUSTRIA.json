@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2025 , 03:38:27",
+  "lastUpdate": "24-02-2025 , 03:49:50",
   "data": [
     [
       {
@@ -52,6 +52,13 @@
     ],
     [
       {
+        "title": "ZDF",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#ZDF",
+        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Die Linke",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Die%20Linke",
         "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
@@ -66,23 +73,9 @@
     ],
     [
       {
-        "title": "Paulina Swarovski",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Paulina%20Swarovski",
-        "pubdate": "Sun, 23 Feb 2025 09:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Silvia Schneider",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Silvia%20Schneider",
         "pubdate": "Sun, 23 Feb 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sahra Wagenknecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sahra%20Wagenknecht",
-        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
       }
     ],
     [
@@ -97,6 +90,13 @@
         "title": "Hoffenheim – VfB Stuttgart",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Hoffenheim%20%E2%80%93%20VfB%20Stuttgart",
         "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Sahra Wagenknecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=AT#Sahra%20Wagenknecht",
+        "pubdate": "Sun, 23 Feb 2025 18:00:00 +0100"
       }
     ],
     [
