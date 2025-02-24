@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "24-02-2025 , 05:46:49",
+  "lastUpdate": "24-02-2025 , 05:56:04",
   "data": [
     [
       {
@@ -31,6 +31,13 @@
     ],
     [
       {
+        "title": "Jablonec – Karviná",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Jablonec%20%E2%80%93%20Karvin%C3%A1",
+        "pubdate": "Sun, 23 Feb 2025 15:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "BSW",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#BSW",
         "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
@@ -45,16 +52,16 @@
     ],
     [
       {
-        "title": "Newcastle – Nottingham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Newcastle%20%E2%80%93%20Nottingham",
-        "pubdate": "Sun, 23 Feb 2025 16:00:00 +0100"
+        "title": "Hoffenheim – Stuttgart",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hoffenheim%20%E2%80%93%20Stuttgart",
+        "pubdate": "Sun, 23 Feb 2025 20:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Hoffenheim – Stuttgart",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Hoffenheim%20%E2%80%93%20Stuttgart",
-        "pubdate": "Sun, 23 Feb 2025 20:00:00 +0100"
+        "title": "Newcastle – Nottingham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Newcastle%20%E2%80%93%20Nottingham",
+        "pubdate": "Sun, 23 Feb 2025 16:00:00 +0100"
       }
     ],
     [
@@ -101,23 +108,9 @@
     ],
     [
       {
-        "title": "Mdz",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mdz",
-        "pubdate": "Sun, 23 Feb 2025 22:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Arsenal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Arsenal",
         "pubdate": "Sun, 23 Feb 2025 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Nela Slováková",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Nela%20Slov%C3%A1kov%C3%A1",
-        "pubdate": "Sun, 23 Feb 2025 20:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Václav Neckář",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#V%C3%A1clav%20Neck%C3%A1%C5%99",
         "pubdate": "Sun, 23 Feb 2025 17:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "AfD",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#AfD",
+        "pubdate": "Sat, 22 Feb 2025 17:00:00 +0100"
       }
     ]
   ]
