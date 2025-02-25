@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "25-02-2025 , 01:27:06",
+  "lastUpdate": "25-02-2025 , 02:39:32",
   "data": [
     [
       {
@@ -80,9 +80,23 @@
     ],
     [
       {
+        "title": "Real Madrid",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Real%20Madrid",
+        "pubdate": "Sun, 23 Feb 2025 19:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Tommy Körberg",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Tommy%20K%C3%B6rberg",
         "pubdate": "Sun, 23 Feb 2025 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Newcastle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
+        "pubdate": "Sun, 23 Feb 2025 17:00:00 +0100"
       }
     ],
     [
@@ -110,20 +124,6 @@
       {
         "title": "Linda Heed",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Linda%20Heed",
-        "pubdate": "Sun, 23 Feb 2025 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Man City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Man%20City",
-        "pubdate": "Sun, 23 Feb 2025 20:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Newcastle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SE#Newcastle",
         "pubdate": "Sun, 23 Feb 2025 17:00:00 +0100"
       }
     ],

@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "25-02-2025 , 01:27:04",
+  "lastUpdate": "25-02-2025 , 02:39:31",
   "data": [
     [
       {
         "title": "Psy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Psy",
-        "pubdate": "Tue, 25 Feb 2025 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Roma",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Roma",
         "pubdate": "Tue, 25 Feb 2025 00:00:00 +0100"
       }
     ],
@@ -38,6 +31,13 @@
     ],
     [
       {
+        "title": "Roma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Roma",
+        "pubdate": "Mon, 24 Feb 2025 21:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Gothic Remake",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gothic%20Remake",
         "pubdate": "Mon, 24 Feb 2025 17:00:00 +0100"
@@ -55,13 +55,6 @@
         "title": "Oscary 2025",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Oscary%202025",
         "pubdate": "Mon, 24 Feb 2025 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Stal – Warta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Stal%20%E2%80%93%20Warta",
-        "pubdate": "Mon, 24 Feb 2025 20:00:00 +0100"
       }
     ],
     [
@@ -87,13 +80,6 @@
     ],
     [
       {
-        "title": "Twin Peaks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Twin%20Peaks",
-        "pubdate": "Mon, 24 Feb 2025 14:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Gran Torino",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Gran%20Torino",
         "pubdate": "Mon, 24 Feb 2025 23:00:00 +0100"
@@ -104,6 +90,13 @@
         "title": "Sondaz prezydencki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Sondaz%20prezydencki",
         "pubdate": "Mon, 24 Feb 2025 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "mObywatel aktualizacja",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#mObywatel%20aktualizacja",
+        "pubdate": "Mon, 24 Feb 2025 18:00:00 +0100"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Kamil Grosicki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kamil%20Grosicki",
         "pubdate": "Mon, 24 Feb 2025 18:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Millie Bobby Brown",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Millie%20Bobby%20Brown",
+        "pubdate": "Mon, 24 Feb 2025 23:00:00 +0100"
       }
     ]
   ]
