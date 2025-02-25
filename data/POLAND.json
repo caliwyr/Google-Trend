@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "25-02-2025 , 02:39:31",
+  "lastUpdate": "25-02-2025 , 03:13:20",
   "data": [
     [
       {
         "title": "Psy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Psy",
         "pubdate": "Tue, 25 Feb 2025 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Macron",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Macron",
+        "pubdate": "Tue, 25 Feb 2025 03:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Kamil Grosicki",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Kamil%20Grosicki",
         "pubdate": "Mon, 24 Feb 2025 18:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Millie Bobby Brown",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Millie%20Bobby%20Brown",
-        "pubdate": "Mon, 24 Feb 2025 23:00:00 +0100"
       }
     ]
   ]
